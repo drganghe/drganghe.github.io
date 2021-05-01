@@ -1,22 +1,21 @@
 # jemdoc: menu{MENU}{members.html}
 # jemdoc: addcss{../../jemdoc.css}
-# = Member Name
-\n
+= Dr. Gang He
+
 ~~~
 {}{img_left}{gang-he.jpg}{Gang He}
-Gang He \n
 Assistant Professor \n
 Department of Technology and Society \n
+College of Engineering and Applied Sciences \n
 Stony Brook University \n
-[http://www.ganghe.net/ Dr. Gang He's Research Group] \n\n
-
+\n
 Room: 1420\n
 Old Computer Science Building \n
 Stony Brook, NY 11794 \n
 Tel: +1-631-632-7689 \n
 E-Mail: [mailto:Gang.He@stonybrook.edu Gang.He(at)stonybrook.edu]\n
 \n
-[http://www.ganghe.net *Personal website*] | [https://scholar.google.com/citations?user=vf90AuEAAAAJ *Google Scholar*] | [https://www.researchgate.net/profile/Gang_He *ResearchGate*] | [https://www.twitter.com/DrGangHe *Twitter*]
+[http://www.ganghe.net/ *Research Group*] | [https://scholar.google.com/citations?user=vf90AuEAAAAJ *Google Scholar*] | [https://www.researchgate.net/profile/Gang_He *ResearchGate*] | [https://www.twitter.com/DrGangHe *Twitter*]
 ~~~
 
 == Bio and Research
