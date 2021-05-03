@@ -25,7 +25,7 @@ I use jemdoc-ready as the template, and replace the jemdoc.py file with that of 
 4. If you just want to a page, then use the members.jemdoc as the index.jemdoc.
 5. Run $make in the command line
 6. The html files are compiled from jemdoc files.
-7. I only have one page so I copy the index.html to the root foler, but you can [Deploying a subfolder to GitHub Pages](https://gist.github.com/cobyism/4730490)
+7. I only have one page so I copy the index.html to the root folder, but you can [Deploying a subfolder to GitHub Pages](https://gist.github.com/cobyism/4730490)
 7. Check in local browser and commit the changes to the username.github.io repository.
 
 Your Github page should be active once your commit is completed.
