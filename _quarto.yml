@@ -1,0 +1,80 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Gang He"
+  image: "/files/gang-he-profile.jpeg"
+  description: "Energy systems analysis, energy and climate policy, clean energy transition, decarbonization and carbon neutrality"
+ 
+  navbar:
+    background: light
+    left:
+#      - text: Home
+#        href: index.qmd
+      - text: News&Events
+        menu:
+          - text: News
+            href: posts.qmd#category=news
+          - text: Events
+            href: posts.qmd#category=event
+      - text: Publications
+        menu:
+          - text: Selected Papers
+            href: posts.qmd#category=paper
+          - text: Commentary
+            href: posts.qmd#category=commentary
+          - text: Testimony
+            href: posts.qmd#category=testimony
+          - text: List of Publication
+            href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Posts
+        href: posts.qmd       
+      - text: Contact
+        href: contact.qmd   
+    right: 
+      - text: CV
+        href: files/Gang-He-CV.pdf 
+      - icon: github
+        href: https://github.com/drganghe
+      - icon: twitter 
+        href: https://twitter.com/DrGangHe
+      - icon: rss
+        href: posts.xml 
+  page-navigation: true
+  page-footer: 
+    left: "&copy; 2022 [Gang He](http://drganghe.github.io)." 
+    right:  
+      - icon: github
+        href: https://github.com/drganghe/drganghe.github.io
+      - icon: twitter 
+        href: https://twitter.com/DrGangHe
+      - icon: rss
+        href: posts.xml  
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  repo-url: https://github.com/drganghe/drganghe.github.io
+  repo-actions: [edit, issue, source]
+  open-graph: true
+  twitter-card: true 
+#  card-style: summary      
+  site-url: "https://drganghe.github.io"
+  google-analytics:
+    tracking-id: "G-G4DYZHP5J7"
+    anonymize-ip: true 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+    #link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+
+
+

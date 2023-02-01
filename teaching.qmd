@@ -1,0 +1,20 @@
+---
+title: "Teaching"
+subtitle: "I teach classes on energy systems, energy transition, and energy innovations. Here I list classes which I start to open source teaching material."
+title-block-banner: false
+---
+
+## Energy Systems Analysis
+
+[Fall 2022](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
+
+“All models are wrong, but some are useful”. This class offers a systems approach and introduces useful modeling tools and skillsets to capture and reveal the grand challenges and opportunites of energy systems. The scope of this class includes energy systems overview, make sense of energy numbers, energy project economics, energy sources and technologies, energy demand, energy, environment, and human health, energy and climate change, power system analysis, energy transition, energy efficiency, behavior, and sustainable consumption, energy poverty, access, and justice, big data and AI for clean energy, limitations of models, and other emerging topics for the energy systems to achieve carbon neutrality.
+
+
+##  Advanced Science, Technology, and Innovation Policy
+
+[Spring 2022](https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy)
+
+This PhD seminar evaluates ideas and applications of science, technology, policy and innovation systems by drawing from a wide range of early and current literature and case studies. Emphasis is placed on deconstructing seminal ideas and practices in the context of policy and technology change. Students will refine analytical and communication skills that are relevant for working in positions at the interface of technology, policy, and innovation.
+
+

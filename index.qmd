@@ -1,0 +1,88 @@
+---
+title: "Dr. Gang He"
+image: files/gang-he-profile.jpeg
+#page-layout: full
+
+listing:
+  - id: recent-posts
+    contents: /posts
+    type: grid
+    max-items: 3
+    page-size: 0 #set as 0 will remove the page setting
+    sort: 
+      - "date desc"
+      - "title asc"
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 90%
+  links:
+    - icon: sun
+      text: Mainpage
+      href: https://www.ganghe.net
+    - icon: globe
+      text: SBUpage
+      href: https://www.stonybrook.edu/commcms/est/people/core_faculty/ghe.php
+    - icon: envelope
+      text: E-mail
+      href: mailto:gang.he@stonybrook.edu
+    - icon: github
+      text: Github
+      href: https://github.com/drganghe
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/DrGangHe
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@hegang      
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/hegang
+    - icon: lightbulb
+      text: ORCID
+      href: https://orcid.org/0000-0002-8416-1965  
+    - icon: archive
+      text: Scopus
+      href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=vf90AuEAAAAJ
+    - icon: file-earmark-pdf
+      text: Research Gate
+      href: https://www.researchgate.net/profile/Gang-He-19
+---
+
+<link rel="me" href="https://mastodon.social/@hegang">
+
+
+:::{#hero-heading}
+
+Welcome to my personal website!
+
+I'm an energy scholar, researcher, and teacher. I'm an assistant professor in the Department of Technology and Society at Stony Brook University. I study energy systems modeling, energy and climate policy, and clean energy transition.
+
+
+### Experience
+
+Assistant Professor, Department of Technology and Society, Stony Brook University, 2015 - present
+
+Research Associate, Program on Energy and Sustainable Development, Stanford University, 2008 - 2010
+
+### Education
+
+Ph.D., Energy and Resources, University of California at Berkeley, 2015
+
+M.A., Climate and Society, Columbia University, 2008 
+
+B.S., M.S., Geography, Peking University, 2006
+
+:::
+
+
+## Recent Posts
+Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+
+:::{#recent-posts}
+:::
+

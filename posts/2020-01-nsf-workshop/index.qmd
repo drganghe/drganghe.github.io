@@ -1,0 +1,42 @@
+---
+title: "Stony Brook University Hosts NSF Funded Data Science Workshop"
+description: "On January 9-10, 2020, the Department of Technology and Society, Stony Brook University, hosted an NSF funded workshop."
+author: "SBU News"
+date: "2020-01-17"
+categories: [news, event]
+image: "featured.jpeg"
+---
+
+## Summary
+
+On January 9-10, 2020, the Department of Technology and Society, Stony Brook University, hosted an NSF funded workshop entitled “[Data Science Across the Undergraduate Curriculum University-Industry Online Case Studies on Applications of Data Science](https://sites.google.com/view/nsf-data-science-workshop/).” This workshop is supported by the National Science Foundation. 
+
+## Links
+
+Check Stony Brook University’s [news page](https://news.stonybrook.edu/research/stony-brook-university-hosts-nsf-funded-data-science-workshop/) for more information.
+
+## SBU News
+
+>On January 9-10, 2020, the [Department of Technology and Society](https://www.stonybrook.edu/est/), Stony Brook University, hosted an NSF funded workshop entitled “Data Science Across the Undergraduate Curriculum: University-Industry Online Case Studies on Applications of Data Science.” This workshop is supported by the National Science Foundation under Grant No. [1912159](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1912159). 
+>
+>Three keynote speakers, sixteen panelists addressed participants who included industry representatives, faculty and students discussing how data science undergraduate programs can best meet the nation’s increasing demand for the STEM workforce. With the goal of creating initial plans for curriculum design and assessment frameworks, this workshop illuminated the need to improve undergraduate data science education through university and industry partnerships.
+>
+>The workshop was kicked off by Fotis Sotiropoulos, Dean of the College of Engineering and Applied Sciences (CEAS), in which he highlighted the exciting STEM science education programs within CEAS and the contribution of the late Dr. David Ferguson, a national leader in STEM education who passed in 2019. Dean Sotiropoulos invited the participants to “envision the future of education and research in the era of intelligent machines.”
+>
+>Keynote speaker Jay Labov, former Senior Advisor for the National Academies of Sciences, Engineering, and Medicine, criticized current education practice in data science. He argued that too many students leave STEM majors because they do not find math formulas taught in class relevant to them. He said, “Most students would say ‘I left STEM because it doesn’t speak to me. I thought I was going to be here, trying to help solve the world’s problems. What I find myself was in the classroom with five hundred undergraduates with a talking head in front putting up all kinds of equations that make no sense.”
+>
+>In response, a panel, including Anand Rao (Data \& Analytics PwC), Bonita London (Psychology SBU), Wei Zhu (Applied Math and Statistics SBU), and Nikki Evans (Director of Workforce Partnerships, CUNY), moderated by Marianna Savoca (Career Center SBU), presented their ideas to plug the leaky STEM pipeline through innovations in classroom teaching and industry-university partnerships.
+>
+>Minghua Zhang, Interim Provost of Stony Brook University, joined the workshop for lunch to welcome all participants and highlighted the challenges and uncertainties both in data collecting and data analyzing.
+>
+>In the second keynote, Carrie Cullen Hitt, Executive Director of the National Offshore Wind Research and Development Consortium, illustrated how data science can improve efficiency in energy sectors by collecting and monitoring information generated, for instance, by wind turbines. Built on that premise, two panels further reviewed data science applications for clean energy and urban sustainability respectively. Panelists included: Vijay Modi (Columbia University), Vincent Guastamacchia (PSEG Long Island) led by Gang He (Technology and Society SBU), and Mark Rodgers (Rutgers Business School), Jeremy Schneider (The Alliance for Downtown NY), Omkar Aphale (Cascadia), Daniel Cisek (National Geospatial-Intelligence Agency), Katrina Sutton and Vaishnavi Karanam (UC Davis) moderated by Elizabeth Hewitt (Tech and Society SBU). 
+>
+>Addressing data science misuse in the third keynote, Suresh Venkatasubramanian, Professor in the School of Computing at the University of Utah, unearthed hidden decisions involving ethical dilemmas that data scientists must make throughout their work pipeline, from data collection through insights generation. “We do make many implicit choices in every stage of the pipeline when we do the analysis. We don’t often think about whether these have any long-term consequences,” he said.
+>
+>The final session, moderated by Wolf Schäfer (Technology and Society SBU), highlighted the need for ethics training in data science majors. In the panel, Derek Leben (University of Pittsburgh), Carl Hobert (author and conflict resolution expert), Robert Crease (Philosophy SBU), and Daniene Byrne (Technology and Society SBU) shared their work examining ethical decision process in data science and technology applications.
+>
+>— Firman Firmansyah
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
