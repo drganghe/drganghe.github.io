@@ -45,7 +45,7 @@ website:
         href: posts.xml 
   page-navigation: true
   page-footer: 
-    left: "&copy; 2022 [Gang He](http://drganghe.github.io)." 
+    left: "&copy; 2023 [Gang He](http://drganghe.github.io)." 
     right:  
       - icon: github
         href: https://github.com/drganghe/drganghe.github.io

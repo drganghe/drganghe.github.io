@@ -49,7 +49,7 @@ Self-archiving [pdf](/files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf)
 
 ## Poster
 
-![](poster.jpeg){fig-align="left" width=95%}
+![](/files/posters/electricity-carbon-water-poster.jpeg){fig-align="left" width=95%}
 
 
 ## Twitter Thread

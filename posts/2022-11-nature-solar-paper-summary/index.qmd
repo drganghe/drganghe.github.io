@@ -15,7 +15,7 @@ include-in-header: <link rel="canonical" href="https://drganghe.github.io/posts/
 
 ## Summary
 
-In a new [study](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd) @helveston_he_davidson_2022 published in [_Nature_](https://www.nature.com/articles/s41586-022-05316-6), we quantify the cost savings from globalized solar module supply chains. We found globalized supply chain has saved installers in the U.S., Germany, and China 67 billion USD from 2008 to 2020. Unit solar module prices would be approximately 20-25% higher in 2030 if countries move to manufacture domestically compared with a future with globalized supply chains.
+In a new [study](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd) @helveston_he_davidson_2022 published in [_Nature_](https://www.nature.com/articles/s41586-022-05316-6), we quantify the cost savings from globalized solar module supply chains. We found globalized supply chain has saved installers in the U.S., Germany, and China 67 billion USD from 2008 to 2020. Unit solar module prices would be approximately 20-30% higher in 2030 if countries move to manufacture domestically compared with a future with globalized supply chains.
 
 ## Background
 
@@ -36,7 +36,7 @@ Our results show a total of $67 billion was saved in solar deployment from 2008 
 ![Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).](fig-2-prices-in-national-global-markets.png){#fig-prices-national-vs-global fig-align="left" width="95%"}
 
 
-We also compare how these two scenarios might play out going forward. Assuming that capacity grows at a constant annual growth rate (CAGR), we estimate that solar module prices could be 20%-25% higher in 2030 than they otherwise would be if countries move to complete domestic manufacturing over a ten-year time frame.
+We also compare how these two scenarios might play out going forward. Assuming that capacity grows at a constant annual growth rate (CAGR), we estimate that solar module prices could be 20%-30% higher in 2030 than they otherwise would be if countries move to complete domestic manufacturing over a ten-year time frame.
 
 ## What About Jobs?
 

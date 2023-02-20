@@ -53,7 +53,7 @@ Self-archiving [pdf](/files/papers/2016-EST-SWITCH-China.pdf)
 
 ## Poster
 
-![](poster.jpg){fig-align="left" width=95%}
+![](/files/posters/switch-china-poster.jpeg){fig-align="left" width=95%}
 
 
 ## Video

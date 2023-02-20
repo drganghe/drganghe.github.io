@@ -1,6 +1,6 @@
 ---
 title: "Quantifying the cost savings of global solar photovoltaic supply chains"
-description: "Unit solar module prices would be approximately 20-25% higher in 2030 if countries move to manufacture domestically compared with a future with globalized supply chains."
+description: "Unit solar module prices would be approximately 20-30% higher in 2030 if countries move to manufacture domestically compared with a future with globalized supply chains."
 author: 
   - name: John Paul Helveston
   - name: Gang He
@@ -40,7 +40,7 @@ DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)
 
 ## Abstract
 
-Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, yet countries sometimes implement policies that increase costs by restricting the free flow of capital, talent and innovation in favour of localizing benefits such as economic growth, employment and trade surpluses. Here we assess the cost savings from a globalized solar photovoltaic (PV) module supply chain. We develop a two-factor learning model using historical capacity, component and input material price data of solar PV deployment in the United States, Germany and China. We estimate that the globalized PV module market has saved PV installers US\$24 (19–31) billion in the United States, US\$7 (5–9) billion in Germany and US\$36 (26–45) billion in China from 2008 to 2020 compared with a counterfactual scenario where domestic manufacturers supply an increasing proportion of installed capacities over a ten-year period. Projecting the same scenario forwards from 2020 results in estimated solar module prices that are approximately 20–25 per cent higher in 2030 compared with a future with globalized supply chains. International climate policy benefits from a globalized low-carbon value chain, and these results point to the need for complementary policies to mitigate welfare distribution effects and potential impacts on technological crowding out.
+Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, yet countries sometimes implement policies that increase costs by restricting the free flow of capital, talent and innovation in favour of localizing benefits such as economic growth, employment and trade surpluses. Here we assess the cost savings from a globalized solar photovoltaic (PV) module supply chain. We develop a two-factor learning model using historical capacity, component and input material price data of solar PV deployment in the United States, Germany and China. We estimate that the globalized PV module market has saved PV installers US\$24 (19–31) billion in the United States, US\$7 (5–9) billion in Germany and US\$36 (26–45) billion in China from 2008 to 2020 compared with a counterfactual scenario where domestic manufacturers supply an increasing proportion of installed capacities over a ten-year period. Projecting the same scenario forwards from 2020 results in estimated solar module prices that are approximately 20–30 per cent higher in 2030 compared with a future with globalized supply chains. International climate policy benefits from a globalized low-carbon value chain, and these results point to the need for complementary policies to mitigate welfare distribution effects and potential impacts on technological crowding out.
 
 
 ## Links
@@ -85,19 +85,19 @@ Coverage: [E&E News](https://www.eenews.net/articles/how-bidens-made-in-america-
 
 ## Poster
 
-Here is the poster for [IAMC2022](https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/) which won the [Best Poster Award](/posts/2022-12-iamc-2022-best-poster-award/index.qmd). The [pdf](poster.pdf) is also available.
+Here is the poster for [IAMC2022](https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/) which won the [Best Poster Award](/posts/2022-12-iamc-2022-best-poster-award/index.qmd). The [pdf](/files/posters/nature-solar-supply-chains-poster.pdf) is also available.
 
-![](poster.png){fig-align="left" width=95%}
+![](/files/posters/nature-solar-supply-chains-poster.png){fig-align="left" width=95%}
 
 
 
 ## Slides
 
 <div class="container"> 
-<iframe src="slides.html" class="responsive-iframe" width="100%" title="slides"></iframe>
+<iframe src="/files/slides/solar-supply-chains-slides.html" class="responsive-iframe" width="100%" title="slides"></iframe>
 </div>
 
-Above is my presentation at [Tsinghua University](https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g). Check the [slides](slides.html) in a new tab.
+Above is the general slides of our paper, I presented it at [Tsinghua University](https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g). Check the [slides](/files/slides/solar-supply-chains-slides.html) in a new tab.
 
 <!--Include social share buttons-->
 

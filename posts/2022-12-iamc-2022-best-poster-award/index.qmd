@@ -3,7 +3,7 @@ title: "Best poster award in IAMC 2022"
 description: "Our solar global supply chain paper won the best poster award."
 author: "IAMC2022"
 date: "2022-12-01"
-categories: [news, poster]
+categories: [news, poster, video]
 image: "featured.jpeg"
 css: /custom.css
 ---
@@ -18,16 +18,27 @@ During the Fifteenth IAMC Annual Meeting held from 29 November to 1 December 202
 
 ## The Poster
 
-![](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/poster.png){fig-align="left" width=95%}
+![](/files/posters/nature-solar-supply-chains-poster.png){fig-align="left" width=95%}
+
+
+## Video
+
+{{< video https://youtu.be/KBqg3F9rnUQ >}}
+
+**Transcript**:
+
+>Hello everyone, my name is Gang He, and I’m an assistant professor in the Department of Technology and Society at Stony Brook University. I’m grateful for the Integrated Assessment Modeling Consortium 2022 Best Poster Award for online poster presentation. 
+>
+>I’d like to take the opportunity to share the main messages of the paper. To achieve carbon neutrality, the world must embark on a rapid and massive deployment of renewable energy. However, certain decoupling policies that restrict the free flow of capital, talent, and innovation may delay the continuous reduction in costs of renewable energy. The international climate policy now faces a crossroads - to continue relying on global supply chains or to shift towards domestic technology development and production.
+>
+>Our research captures this policy dilemma and assesses the cost savings associated with a globalized solar PV module supply chain. We created a two-factor hybrid learning model that considers historical capacity, component, and input material prices of solar PV deployment from the United States, Germany, and China. The results show that the globalized PV module market has saved PV installers $24 billion in the US, $7 billion in Germany and $36 billion in China from 2008 to 2020, compared to a scenario where domestic manufacturers increasingly supplied installed capacities over a ten-year period. Projecting the same scenario forward to 2030, we estimate that solar module prices will be about 20-30% higher than with a globalized supply chain. Our findings emphasize the importance of international cooperation in the pursuit of a low-carbon future.
 
 
 ## Acknowledgment
 
-While I'm the lucky presenter of our collaborative paper, this award should also goes to my wonderful coauthors Dr. [John Helveston](https://www.jhelvy.com/) and Dr. [Michael Davidson](https://www.mdavidson.org), its truly a collaborative effort. Please check their websites and follow them on Twitter/Mastodon to learn more about their amazing work:
+While I'm the lucky presenter of our collaborative paper, this award should also goes to my wonderful coauthors Dr. [John Helveston](https://www.jhelvy.com/) and Dr. [Michael Davidson](https://www.mdavidson.org), its truly a collaborative effort. Please check their websites and follow them to learn more about their amazing work:
 
 <a href="https://twitter.com/JohnHelveston?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JohnHelveston</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://mastodon.social/@jhelvy@fediscience.org/" class="mstdn">jhelvy<span>fediscience.org</span></a>
 
 <a href="https://twitter.com/east_winds?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @east_winds</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
