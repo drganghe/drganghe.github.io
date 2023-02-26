@@ -23,7 +23,23 @@ During the Fifteenth IAMC Annual Meeting held from 29 November to 1 December 202
 
 ## Video
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
 {{< video https://youtu.be/KBqg3F9rnUQ >}}
+:::
+
+::: {.g-col-12 .g-col-md-2}
+
+:::
+
+:::
+
+
 
 **Transcript**:
 

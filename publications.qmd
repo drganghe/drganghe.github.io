@@ -62,7 +62,7 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 
 ## Peer-reviewed Journal Paper
 
-Luo, Qian, Fernando Garcia-Menendez, Haozhe Yang, Ranjit Deshmukh, **Gang He**, Jiang Lin\*, and Jeremiah X. Johnson. 2023. [The Health and Climate Benefits of Economic Dispatch in China’s Power System](https://pubs.acs.org/doi/10.1021/acs.est.2c05663). *Environmental Science & Technology*. doi: [10.1021/acs.est.2c05663](https://doi.org/10.1021/acs.est.2c05663). \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.est.2c05663)]
+Luo, Qian, Fernando Garcia-Menendez, Haozhe Yang, Ranjit Deshmukh, **Gang He**, Jiang Lin\*, and Jeremiah X. Johnson. 2023. [The Health and Climate Benefits of Economic Dispatch in China’s Power System](https://pubs.acs.org/doi/10.1021/acs.est.2c05663). *Environmental Science & Technology* 57(7): 2898–2906. doi: [10.1021/acs.est.2c05663](https://doi.org/10.1021/acs.est.2c05663). \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.est.2c05663)]
 
 John Helveston, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains](https://www.nature.com/articles/s41586-022-05316-6). *Nature* 612: 83–87. doi: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6). \[[pdf](/files/papers/2022-nature-solar-supply-chains-preprint.pdf)\]
 
