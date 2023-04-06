@@ -4,7 +4,7 @@ description: "My research group is recruiting a post-doc."
 author: "Gang He"
 date: "2023-04-20"
 categories: [news, job]
-image: "featured.png"
+image: "/files/images/we-need-you.png"
 css: /custom.css
 draft: true
 ---

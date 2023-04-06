@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://drganghe.github.io/teaching.html</loc>
-    <lastmod>2023-02-22T16:55:28.772Z</lastmod>
+    <lastmod>2023-04-06T13:12:17.515Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/contact.html</loc>
-    <lastmod>2023-02-19T20:12:43.104Z</lastmod>
+    <lastmod>2023-04-06T11:15:17.507Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2016-re-china-provincial-solar-resource-assessment/index.html</loc>
@@ -118,15 +118,15 @@
   </url>
   <url>
     <loc>https://drganghe.github.io/index.html</loc>
-    <lastmod>2023-04-05T22:04:22.618Z</lastmod>
+    <lastmod>2023-04-06T13:11:31.618Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/publications.html</loc>
-    <lastmod>2023-04-05T21:56:58.377Z</lastmod>
+    <lastmod>2023-04-06T13:12:22.701Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts.html</loc>
-    <lastmod>2023-04-05T22:07:12.984Z</lastmod>
+    <lastmod>2023-04-06T13:11:32.655Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2023-03-post-doc-supply-chain-power-system-environment-human-health/index.html</loc>
@@ -135,5 +135,9 @@
   <url>
     <loc>https://drganghe.github.io/posts/2023-04-mit-energy-conference-us-china-energy-transition/index.html</loc>
     <lastmod>2023-04-05T21:53:02.742Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/index.html</loc>
+    <lastmod>2023-04-06T11:07:13.861Z</lastmod>
   </url>
 </urlset>
