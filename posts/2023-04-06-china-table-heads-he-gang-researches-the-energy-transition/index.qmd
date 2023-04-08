@@ -4,7 +4,7 @@ description: "China.Table features Gang's adventure in energy and climate resear
 author: 
   - name: Clemens Ruben
 date: "2023-04-06"
-categories: [commentary]
+categories: [news]
 image: "featured.jpeg"
 draft: true
 ---
