@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+#description-meta: "{{< meta description-meta >}}"
 #page-layout: full
 title-block-banner: false
 css: /custom.css

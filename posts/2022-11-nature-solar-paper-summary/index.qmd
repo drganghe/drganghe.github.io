@@ -10,7 +10,6 @@ categories: [commentary]
 image: "featured.jpeg"
 bibliography: cite.bib
 fig-cap-location: bottom
-include-in-header: <link rel="canonical" href="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/index.html" />
 ---
 
 ## Summary

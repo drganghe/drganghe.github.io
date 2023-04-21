@@ -2,10 +2,14 @@ project:
   type: website
   output-dir: docs
 
+# Meta
+description-meta: "Dr. Gang He is an energy scholar, researcher, and teacher. He studies energy systems modeling, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization and carbon neutrality"
+author-meta: "Gang He"
+
 website:
   title: "Dr. Gang He"
   image: "/files/gang-he-profile.jpeg"
-  description: "Energy systems analysis, energy and climate policy, clean energy transition, decarbonization and carbon neutrality"
+  description: "Dr. Gang He is an energy scholar, researcher, and teacher. He studies energy systems modeling, energy and climate policy, and clean energy transition."
  
   navbar:
     background: light

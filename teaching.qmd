@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 subtitle: "I teach classes on energy systems, energy transition, and energy innovations. Here I list classes which I start to open source teaching material."
+#description-meta: "{{< meta description-meta >}}"
 title-block-banner: false
 ---
 
