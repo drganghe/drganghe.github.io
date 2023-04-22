@@ -62,7 +62,7 @@ website:
     type: textbox
   reader-mode: true
   repo-url: https://github.com/drganghe/drganghe.github.io
-  repo-actions: [edit, issue, source]
+#  repo-actions: [edit, issue, source]
   open-graph: true
   twitter-card: true 
 #  card-style: summary      
