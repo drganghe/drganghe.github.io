@@ -13,6 +13,7 @@ website:
  
   navbar:
     background: light
+
     left:
 #      - text: Home
 #        href: index.qmd
@@ -38,6 +39,7 @@ website:
         href: posts.qmd       
       - text: Contact
         href: contact.qmd   
+    
     right: 
       - text: CV
         href: files/Gang-He-CV.pdf 
@@ -47,7 +49,9 @@ website:
         href: https://twitter.com/DrGangHe
       - icon: rss
         href: posts.xml 
+  
   page-navigation: true
+  
   page-footer: 
     left: "&copy; 2023 [Gang He](http://drganghe.github.io)." 
     right:  
@@ -57,16 +61,23 @@ website:
         href: https://twitter.com/DrGangHe
       - icon: rss
         href: posts.xml  
+  
   search:
     location: navbar
     type: textbox
+  
   reader-mode: true
+  
   repo-url: https://github.com/drganghe/drganghe.github.io
 #  repo-actions: [edit, issue, source]
+  
   open-graph: true
+  
   twitter-card: true 
 #  card-style: summary      
+  
   site-url: "https://drganghe.github.io"
+  
   google-analytics:
     tracking-id: "G-G4DYZHP5J7"
     anonymize-ip: true 
@@ -76,6 +87,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    footnotes-hover: true
     link-external-icon: false
     link-external-newwindow: true
     #link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
