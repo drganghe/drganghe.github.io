@@ -10,7 +10,7 @@ author:
   - name: Jianwei Tian
   - name: Daniel M. Kammen
 date: "2016-05-08"
-categories: [paper, video, poster]
+categories: [paper, poster]
 image: "featured.png"
 citation:
   type: article-journal
@@ -55,13 +55,13 @@ Self-archiving [pdf](/files/papers/2016-EST-SWITCH-China.pdf)
 
 ![](/files/posters/switch-china-poster.jpeg){fig-align="left" width=95%}
 
-
+<!--
 ## Video
 
 {{< video https://vimeo.com/136259655 >}}
 
 <p><a href="https://vimeo.com/136259655">Decarbonizing China&rsquo;s Power Sector: Potential, Prospects, and Policy</a> from <a href="https://vimeo.com/etaberkeleylab">Berkeley Lab ETA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+-->
 
 <!--Include social share buttons-->
 

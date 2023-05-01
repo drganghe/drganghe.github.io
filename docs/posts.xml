@@ -14,7 +14,7 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.3.313</generator>
+<generator>quarto-1.4.6</generator>
 <lastBuildDate>Wed, 12 Apr 2023 04:00:00 GMT</lastBuildDate>
 <item>
   <title>MIT Energy Conference U.S. China Energy Transition</title>
@@ -180,7 +180,7 @@ https://quarto.org/docs/authoring/includes.html
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2022-12-iamc-2022-best-poster-award/featured.jpeg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Our solar global supply chain paper won the best poster award</figcaption><p></p>
+<figcaption class="figure-caption">Our solar global supply chain paper won the best poster award</figcaption>
 </figure>
 </div>
 <section id="summary" class="level2">
@@ -297,7 +297,7 @@ https://quarto.org/docs/authoring/includes.html
 <div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left anchored">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-1-solar-production-by-origin.png" class="img-fluid figure-img" style="width:90.0%"></p>
-<p></p><figcaption class="figure-caption">Figure&nbsp;1: Annual solar PV cell production by origin, 2010–2021.</figcaption><p></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Annual solar PV cell production by origin, 2010–2021.</figcaption>
 </figure>
 </div>
 <p>We have been studying this phenomenon for years, trying to understand the cost of erecting barriers to international cooperation when it comes to the development and deployment of low carbon energy technologies (LCETs) like solar PV. In our recent paper published in <a href="https://www.nature.com/articles/s41586-022-05316-6"><em>Nature</em></a>, we model the cost of moving away from global supply chains for solar PV modules, concluding that tens of billions of dollars have been saved in solar deployment over the past decade thanks to global supply chains.</p>
@@ -309,7 +309,7 @@ https://quarto.org/docs/authoring/includes.html
 <div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left anchored">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-2-prices-in-national-global-markets.png" class="img-fluid figure-img" style="width:95.0%"></p>
-<p></p><figcaption class="figure-caption">Figure&nbsp;2: Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).</figcaption><p></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).</figcaption>
 </figure>
 </div>
 <p>We also compare how these two scenarios might play out going forward. Assuming that capacity grows at a constant annual growth rate (CAGR), we estimate that solar module prices could be 20%-30% higher in 2030 than they otherwise would be if countries move to complete domestic manufacturing over a ten-year time frame.</p>
@@ -1437,7 +1437,7 @@ China.”</span> <em>One Earth</em> 3 (2): 187–94. <a href="https://doi.org/10
 <div id="fig-electricity-generation-by-fuel" class="quarto-figure quarto-figure-left anchored">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/electricity-generation-by-fuel.jpeg" class="img-fluid figure-img" style="width:95.0%"></p>
-<p></p><figcaption class="figure-caption">Figure&nbsp;1: Electricity generation by fuel, terawatt hours, in 2020 (left), 2025 (centre) and 2030 (right), under each of the four modelled scenarios. Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption><p></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Electricity generation by fuel, terawatt hours, in 2020 (left), 2025 (centre) and 2030 (right), under each of the four modelled scenarios. Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption>
 </figure>
 </div>
 <!---
@@ -1451,7 +1451,7 @@ China.”</span> <em>One Earth</em> 3 (2): 187–94. <a href="https://doi.org/10
 <div id="fig-mix-of-installed-power-capacity" class="quarto-figure quarto-figure-left anchored">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/mix-of-installed-power-capacity.jpeg" class="img-fluid figure-img" style="width:95.0%"></p>
-<p></p><figcaption class="figure-caption">Figure&nbsp;2: Mix of installed power capacity, gigawatts, in each of the four scenarios in 2020 (left), 2025 (centre), and 2030 (right). Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption><p></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Mix of installed power capacity, gigawatts, in each of the four scenarios in 2020 (left), 2025 (centre), and 2030 (right). Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption>
 </figure>
 </div>
 <!--
@@ -1469,7 +1469,7 @@ China.”</span> <em>One Earth</em> 3 (2): 187–94. <a href="https://doi.org/10
 <div id="fig-co2-and-power-costs" class="quarto-figure quarto-figure-left anchored">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/co2-and-power-costs.jpeg" class="img-fluid figure-img" style="width:95.0%"></p>
-<p></p><figcaption class="figure-caption">Figure&nbsp;3: Power-sector CO2 emissions 2015-2030 (a, left, millions of tonnes) and electricity generation costs, including the cost of storage and other grid infrastructure (b, right, dollars per megawatt hour) under the four scenarios. Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption><p></p>
+<figcaption class="figure-caption">Figure&nbsp;3: Power-sector CO2 emissions 2015-2030 (a, left, millions of tonnes) and electricity generation costs, including the cost of storage and other grid infrastructure (b, right, dollars per megawatt hour) under the four scenarios. Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption>
 </figure>
 </div>
 <!--
@@ -1486,7 +1486,7 @@ China.”</span> <em>One Earth</em> 3 (2): 187–94. <a href="https://doi.org/10
 <div id="fig-regional-transmission" class="quarto-figure quarto-figure-left anchored">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/regional-transmission.jpeg" class="img-fluid figure-img" style="width:95.0%"></p>
-<p></p><figcaption class="figure-caption">Figure&nbsp;4: Regional generation, demand and interregional transmission map for the R scenario in 2030, in terawatt hours. Each region shows a graph, with bars representing generation from each fuel for the four different scenarios, in order of increased carbon reduction (from left to right: BAU, RE, C50 and C80). The dotted line across all bars in each set of generation graphs represents the yearly demand in 2030 in each region, which stays constant across the four scenarios. The magenta arrows point in the direction of the transmission flow between two regions. Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption><p></p>
+<figcaption class="figure-caption">Figure&nbsp;4: Regional generation, demand and interregional transmission map for the R scenario in 2030, in terawatt hours. Each region shows a graph, with bars representing generation from each fuel for the four different scenarios, in order of increased carbon reduction (from left to right: BAU, RE, C50 and C80). The dotted line across all bars in each set of generation graphs represents the yearly demand in 2030 in each region, which stays constant across the four scenarios. The magenta arrows point in the direction of the transmission flow between two regions. Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption>
 </figure>
 </div>
 <!--

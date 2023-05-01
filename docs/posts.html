@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.313">
+<meta name="generator" content="quarto-1.4.6">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -221,7 +221,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(28)</span></div><div class="category" data-category="commentary">commentary <span class="quarto-category-count">(3)</span></div><div class="category" data-category="event">event <span class="quarto-category-count">(4)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(10)</span></div><div class="category" data-category="paper">paper <span class="quarto-category-count">(14)</span></div><div class="category" data-category="poster">poster <span class="quarto-category-count">(4)</span></div><div class="category" data-category="slides">slides <span class="quarto-category-count">(1)</span></div><div class="category" data-category="testimony">testimony <span class="quarto-category-count">(1)</span></div><div class="category" data-category="video">video <span class="quarto-category-count">(5)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(28)</span></div><div class="category" data-category="commentary">commentary <span class="quarto-category-count">(3)</span></div><div class="category" data-category="event">event <span class="quarto-category-count">(4)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(10)</span></div><div class="category" data-category="paper">paper <span class="quarto-category-count">(14)</span></div><div class="category" data-category="poster">poster <span class="quarto-category-count">(4)</span></div><div class="category" data-category="slides">slides <span class="quarto-category-count">(1)</span></div><div class="category" data-category="testimony">testimony <span class="quarto-category-count">(1)</span></div><div class="category" data-category="video">video <span class="quarto-category-count">(4)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -1115,7 +1115,7 @@ Gang He
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="23" data-categories="paper,video,poster" data-listing-date-sort="1462680000000" data-listing-file-modified-sort="1676819197242" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="23" data-categories="paper,poster" data-listing-date-sort="1462680000000" data-listing-file-modified-sort="1682704453811" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
 <p><a href="./posts/2016-est-switch-china/index.html"> <img src="./posts/2016-est-switch-china/featured.png" class="thumbnail-image"> </a></p>
 </div>
@@ -1131,9 +1131,6 @@ SWITCH-China: A Systems Approach to Decarbonizing China’s Power System
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('paper'); return false;">
 paper
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('video'); return false;">
-video
 </div>
 <div class="listing-category" onclick="window.quartoListingCategory('poster'); return false;">
 poster
@@ -1407,6 +1404,30 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, function() {
+      let href = xref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children.length > 2) {
+          for (let i = 0; i < 2; i++) {
+            container.appendChild(note.children[i].cloneNode(true));
+          }
+          return container.innerHTML
+        } else {
+          return note.innerHTML;
+        }
+      } else {
+        return note.innerHTML;
+      }
     });
   }
       let selectedAnnoteEl;
