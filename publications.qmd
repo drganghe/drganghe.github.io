@@ -63,7 +63,7 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 
 ## Peer-reviewed Journal Paper
 
-Li, Bo\*, Dekai Jing, Haiwang Zhong, **Gang He**, Ziming Ma, Guangchun Ruan, Minyou Chen, and Daniel M. Kammen. 2023. [Centralized Charging Station Planning for Battery Electric Trucks Considering the Impacts on Electricity Distribution Systems](https://www.sciencedirect.com/science/article/pii/S2352484723004547). *Energy Reports* 9: 346–57. doi: [10.1016/j.egyr.2023.04.090](https://doi.org/10.1016/j.egyr.2023.04.090).
+Li, Bo\*, Dekai Jing, Haiwang Zhong, **Gang He**, Ziming Ma, Guangchun Ruan, Minyou Chen, and Daniel M. Kammen. 2023. [Centralized Charging Station Planning for Battery Electric Trucks Considering the Impacts on Electricity Distribution Systems](https://www.sciencedirect.com/science/article/pii/S2352484723004547). *Energy Reports* 9: 346–57. doi: [10.1016/j.egyr.2023.04.090](https://doi.org/10.1016/j.egyr.2023.04.090). \[[pdf](https://www.sciencedirect.com/science/article/pii/S2352484723004547/pdfft?md5=3fa00e46993ada2520dff9856331657f&pid=1-s2.0-S2352484723004547-main.pdf)]
 
 Luo, Qian, Fernando Garcia-Menendez, Haozhe Yang, Ranjit Deshmukh, **Gang He**, Jiang Lin\*, and Jeremiah X. Johnson. 2023. [The Health and Climate Benefits of Economic Dispatch in China’s Power System](https://pubs.acs.org/doi/10.1021/acs.est.2c05663). *Environmental Science & Technology* 57(7): 2898–2906. doi: [10.1021/acs.est.2c05663](https://doi.org/10.1021/acs.est.2c05663). \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.est.2c05663)]
 

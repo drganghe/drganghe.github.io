@@ -1,5 +1,5 @@
 ---
-title: "Nature News Featured our studies on China's clean energy transition"
+title: "Nature News featured our studies on China's clean energy transition"
 description: "Our work is reported by *Nature*."
 author: "Smriti Mallapaty"
 date: "2020-10-19"
