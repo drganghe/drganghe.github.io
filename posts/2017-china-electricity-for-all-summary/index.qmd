@@ -41,7 +41,7 @@ Winning the battle to bring electricity to the final 3% was much harder. Success
 
 Even so, grid extensions could not reach everyone in a cost-effective manner.
 
-In 2012, the central government issued a 3-year action plan, “Electricity for All (2013-2015)”[国家能源局. 2013.《全面解决无电人口用电问题3年行动计划（2013-2015年）》.]{.aside}, to connect the final 2.73 million people. It succeeded. China declared full electrification in 2015.
+In 2012, the central government issued a 3-year action plan, “Electricity for All (2013-2015)”^[National Energy Administration. 2013. Three-year Action Plan to Achieve Electricity for All (2013-2015). 国家能源局. 2013.《全面解决无电人口用电问题3年行动计划（2013-2015年）》.], to connect the final 2.73 million people. It succeeded. China declared full electrification in 2015.
 
 ## Experiences
 
