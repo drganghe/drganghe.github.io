@@ -15,7 +15,88 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.4.6</generator>
-<lastBuildDate>Wed, 12 Apr 2023 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 May 2023 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post-Doctoral Researcher in Power System, Air Pollution, and Human Health Modeling</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/posts/2023-05-post-doc-supply-chain-power-system-environment-human-health/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="position-overview" class="level2">
+<h2 class="anchored" data-anchor-id="position-overview">Position Overview</h2>
+<p>We are seeking a highly motivated post-doctoral researcher to join our interdisciplinary team studying the carbon mitigation, air quality, and human health benefits of global clean energy supply chains, with support from the Global Energy Initiative at ClimateWorks Foundation. The ideal candidate will have expertise in power system modeling, air pollution and human health modeling.</p>
+</section>
+<section id="key-responsibilities" class="level2">
+<h2 class="anchored" data-anchor-id="key-responsibilities">Key Responsibilities</h2>
+<ul>
+<li>Conduct research on the carbon mitigation, air quality, and human health benefits of global clean energy supply chains using power system modeling, air pollution modeling, and human health modeling.<br>
+</li>
+<li>Develop and apply power system models to evaluate the impacts of clean energy supply chains on electricity systems and greenhouse gas emissions.<br>
+</li>
+<li>Develop and apply air pollution and human health models to evaluate the impacts of clean energy supply chains on air quality and human health.<br>
+</li>
+<li>Collaborate with interdisciplinary team members and external partners to ensure project goals are met.<br>
+</li>
+<li>Publish research findings in peer-reviewed journals and present at conferences.<br>
+</li>
+<li>Contribute to the preparation of grant proposals and other funding opportunities.</li>
+</ul>
+</section>
+<section id="requirements" class="level2">
+<h2 class="anchored" data-anchor-id="requirements">Requirements</h2>
+<ul>
+<li>PhD in a relevant field, such as energy systems, electrical engineering, environmental science, or public health.<br>
+</li>
+<li>Expertise in power system modeling (e.g., SWITCH, PyPSA, GridPath, GenX), air pollution modeling (e.g., CMAQ, WRF-Chem, or inMAP), and human health modeling.<br>
+</li>
+<li>Proficiency in at least one programming language commonly used for system modeling (e.g., Python, R, or MATLAB).<br>
+</li>
+<li>Strong analytical skills and experience with statistical analysis.</li>
+<li>Excellent oral and written communication skills.<br>
+</li>
+<li>Ability to work independently and as part of a team.<br>
+</li>
+<li>Track record of publishing research findings in peer-reviewed journals.</li>
+</ul>
+</section>
+<section id="preferred-qualifications" class="level2">
+<h2 class="anchored" data-anchor-id="preferred-qualifications">Preferred qualifications</h2>
+<ul>
+<li>Experience working on interdisciplinary research projects.<br>
+</li>
+<li>Familiarity with global supply chains and sustainability issues.<br>
+</li>
+<li>Experience with spatial analysis and GIS software (e.g., ArcGIS or QGIS).</li>
+</ul>
+<p>This is a full-time, one-year position with the possibility of extension based on performance and funding availability. The position offers salary and benefits package, as well as opportunities for professional development and networking. Applicants should submit a CV, cover letter, and contact information for three references. Applications will be reviewed on a rolling basis until the position is filled.</p>
+<center>
+<div class="hero-buttons">
+<p><a href="https://www.rfcuny.org/careers/postings?pvnID=BA-2305-005626" class="btn-action-primary btn-action btn btn-success btn-lg">Apply here</a></p>
+</div>
+</center>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>job</category>
+  <guid>https://drganghe.github.io/posts/2023-05-post-doc-supply-chain-power-system-environment-human-health/index.html</guid>
+  <pubDate>Tue, 23 May 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/files/images/we-need-you.png" medium="image" type="image/png" height="135" width="144"/>
+</item>
 <item>
   <title>MIT Energy Conference U.S. China Energy Transition</title>
   <dc:creator>MIT Energy Conference</dc:creator>
@@ -1648,57 +1729,6 @@ Accelerates the Decarbonization of China’s Power System.”</span>
   <guid>https://drganghe.github.io/posts/2020-05-ncomms-rapid-re-cost/index.html</guid>
   <pubDate>Fri, 15 May 2020 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2020-05-ncomms-rapid-re-cost/featured.png" medium="image" type="image/png" height="103" width="144"/>
-</item>
-<item>
-  <title>Stony Brook University Hosts NSF Funded Data Science Workshop</title>
-  <dc:creator>SBU News</dc:creator>
-  <link>https://drganghe.github.io/posts/2020-01-nsf-workshop/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>On January 9-10, 2020, the Department of Technology and Society, Stony Brook University, hosted an NSF funded workshop entitled “<a href="https://sites.google.com/view/nsf-data-science-workshop/">Data Science Across the Undergraduate Curriculum University-Industry Online Case Studies on Applications of Data Science</a>.” This workshop is supported by the National Science Foundation.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Check Stony Brook University’s <a href="https://news.stonybrook.edu/research/stony-brook-university-hosts-nsf-funded-data-science-workshop/">news page</a> for more information.</p>
-</section>
-<section id="sbu-news" class="level2">
-<h2 class="anchored" data-anchor-id="sbu-news">SBU News</h2>
-<blockquote class="blockquote">
-<p>On January 9-10, 2020, the <a href="https://www.stonybrook.edu/est/">Department of Technology and Society</a>, Stony Brook University, hosted an NSF funded workshop entitled “Data Science Across the Undergraduate Curriculum: University-Industry Online Case Studies on Applications of Data Science.” This workshop is supported by the National Science Foundation under Grant No.&nbsp;<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1912159">1912159</a>.</p>
-<p>Three keynote speakers, sixteen panelists addressed participants who included industry representatives, faculty and students discussing how data science undergraduate programs can best meet the nation’s increasing demand for the STEM workforce. With the goal of creating initial plans for curriculum design and assessment frameworks, this workshop illuminated the need to improve undergraduate data science education through university and industry partnerships.</p>
-<p>The workshop was kicked off by Fotis Sotiropoulos, Dean of the College of Engineering and Applied Sciences (CEAS), in which he highlighted the exciting STEM science education programs within CEAS and the contribution of the late Dr.&nbsp;David Ferguson, a national leader in STEM education who passed in 2019. Dean Sotiropoulos invited the participants to “envision the future of education and research in the era of intelligent machines.”</p>
-<p>Keynote speaker Jay Labov, former Senior Advisor for the National Academies of Sciences, Engineering, and Medicine, criticized current education practice in data science. He argued that too many students leave STEM majors because they do not find math formulas taught in class relevant to them. He said, “Most students would say ’I left STEM because it doesn’t speak to me. I thought I was going to be here, trying to help solve the world’s problems. What I find myself was in the classroom with five hundred undergraduates with a talking head in front putting up all kinds of equations that make no sense.”</p>
-<p>In response, a panel, including Anand Rao (Data &amp; Analytics PwC), Bonita London (Psychology SBU), Wei Zhu (Applied Math and Statistics SBU), and Nikki Evans (Director of Workforce Partnerships, CUNY), moderated by Marianna Savoca (Career Center SBU), presented their ideas to plug the leaky STEM pipeline through innovations in classroom teaching and industry-university partnerships.</p>
-<p>Minghua Zhang, Interim Provost of Stony Brook University, joined the workshop for lunch to welcome all participants and highlighted the challenges and uncertainties both in data collecting and data analyzing.</p>
-<p>In the second keynote, Carrie Cullen Hitt, Executive Director of the National Offshore Wind Research and Development Consortium, illustrated how data science can improve efficiency in energy sectors by collecting and monitoring information generated, for instance, by wind turbines. Built on that premise, two panels further reviewed data science applications for clean energy and urban sustainability respectively. Panelists included: Vijay Modi (Columbia University), Vincent Guastamacchia (PSEG Long Island) led by Gang He (Technology and Society SBU), and Mark Rodgers (Rutgers Business School), Jeremy Schneider (The Alliance for Downtown NY), Omkar Aphale (Cascadia), Daniel Cisek (National Geospatial-Intelligence Agency), Katrina Sutton and Vaishnavi Karanam (UC Davis) moderated by Elizabeth Hewitt (Tech and Society SBU).</p>
-<p>Addressing data science misuse in the third keynote, Suresh Venkatasubramanian, Professor in the School of Computing at the University of Utah, unearthed hidden decisions involving ethical dilemmas that data scientists must make throughout their work pipeline, from data collection through insights generation. “We do make many implicit choices in every stage of the pipeline when we do the analysis. We don’t often think about whether these have any long-term consequences,” he said.</p>
-<p>The final session, moderated by Wolf Schäfer (Technology and Society SBU), highlighted the need for ethics training in data science majors. In the panel, Derek Leben (University of Pittsburgh), Carl Hobert (author and conflict resolution expert), Robert Crease (Philosophy SBU), and Daniene Byrne (Technology and Society SBU) shared their work examining ethical decision process in data science and technology applications.</p>
-<p>— Firman Firmansyah</p>
-</blockquote>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <category>event</category>
-  <guid>https://drganghe.github.io/posts/2020-01-nsf-workshop/index.html</guid>
-  <pubDate>Fri, 17 Jan 2020 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2020-01-nsf-workshop/featured.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

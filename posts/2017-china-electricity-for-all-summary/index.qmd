@@ -11,7 +11,7 @@ fig-cap-location: margin
 ---
 
 ## Summary
-In a [paper](/posts/2017-china-electricity-for-all/index.qmd) @He2017efa , we synthesize some key experiences and lessons to be learned from China’s successful program to provide electricity for all. Substantial funding from the central government, delivered by mechanisms sensitive to local provincial needs, were essential to success. Also vital was use of off-grid solar home systems for the most remote users for whom grid connection would be quite costly.
+In the  @He2017efa [paper](/posts/2017-china-electricity-for-all/index.qmd), we synthesize some key experiences and lessons to be learned from China’s successful program to provide electricity for all. Substantial funding from the central government, delivered by mechanisms sensitive to local provincial needs, were essential to success. Also vital was use of off-grid solar home systems for the most remote users for whom grid connection would be quite costly.
 
 ## Electricity for all
 
