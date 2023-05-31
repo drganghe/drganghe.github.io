@@ -1,0 +1,46 @@
+---
+title: "Dr. Gang He joins the Marxe School of Public and International Affairs"
+description: "Gang is excited about the new chapter of career"
+author: "Gang He"
+date: "2023-08-25"
+categories: [news]
+image: "featured.jpeg"
+css: /custom.css
+draft: true
+---
+
+Gang will be joining the Marxe School of Public and International Affairs, Baruch College, City University of New York, as an assistant professor on climate policy, starting in August 2023. 
+
+## About Marxe School
+
+>The Austin W. Marxe School of Public and International Affairs is New York City’s only public graduate school dedicated to public affairs. Since 1994, we have offered undergraduate and graduate-level degrees in public policy and administration, and Master of Science in Education (MSEd) program in Higher Education Administration (MSEd-HEA). In the fall of 2017 we launched a Master of International Affairs (MIA) degree program.
+
+>The mission of the Austin W. Marxe School of Public and International Affairs and its degree programs is to empower the next generation of public and nonprofit leaders, advance knowledge about public life and policy, and engage communities across our city, nation, and world to foster effective, inclusive institutions and societies.
+
+Learn more: <https://marxe.baruch.cuny.edu/about/>
+
+
+## My role at Marxe
+
+My research 
+
+
+
+I will be teaching two classes:
+
+"Energy, Climate, and Society"
+
+
+## I'm hiring
+
+
+## What we have achieved
+
+
+## Thank you
+
+Thank you mentors, collaborators, and students
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
