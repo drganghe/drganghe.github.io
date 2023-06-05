@@ -27,6 +27,8 @@ css: /custom.css
 
 {{< include /files/includes/_academic.qmd >}}
 
+![*Nature* December 1, 2022 Issue Cover highlighted our paper in the same issue](nature-cover.jpg)
+
 ::: {.callout-note}
 ## Paper
 Quantifying the cost savings of global solar photovoltaic supply chains   
@@ -50,6 +52,8 @@ Paper summary: [The Cost of Going Solo in Solar](/posts/2022-11-nature-solar-pap
 ResearchGate [pdf](https://www.researchgate.net/publication/364757014_Quantifying_the_cost_savings_of_global_solar_photovoltaic_supply_chains) provided by *Nature*
 
 Preprint [pdf](/files/papers/2022-nature-solar-supply-chains-preprint.pdf)
+
+Author Correction [pdf](https://www.nature.com/articles/s41586-023-06262-7), [SI](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06262-7/MediaObjects/41586_2023_6262_MOESM1_ESM.pdf)
 
 Github: [solar-learning-2021](https://github.com/jhelvy/solar-learning-2021)
 

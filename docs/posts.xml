@@ -472,6 +472,12 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/nature-cover.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><em>Nature</em> December 1, 2022 Issue Cover highlighted our paper in the same issue</figcaption>
+</figure>
+</div>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -499,6 +505,7 @@ DOI: <a href="https://doi.org/10.1038/s41586-022-05316-6">10.1038/s41586-022-053
 <p>Paper summary: <a href="../../posts/2022-11-nature-solar-paper-summary/index.html">The Cost of Going Solo in Solar</a></p>
 <p>ResearchGate <a href="https://www.researchgate.net/publication/364757014_Quantifying_the_cost_savings_of_global_solar_photovoltaic_supply_chains">pdf</a> provided by <em>Nature</em></p>
 <p>Preprint <a href="../../files/papers/2022-nature-solar-supply-chains-preprint.pdf">pdf</a></p>
+<p>Author Correction <a href="https://www.nature.com/articles/s41586-023-06262-7">pdf</a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06262-7/MediaObjects/41586_2023_6262_MOESM1_ESM.pdf">SI</a></p>
 <p>Github: <a href="https://github.com/jhelvy/solar-learning-2021">solar-learning-2021</a></p>
 <p>Zenodo: <a href="https://doi.org/10.5281/zenodo.6989075">Code and Data</a></p>
 <p>Shinyapps: <a href="https://jhelvy.shinyapps.io/solar-learning-2021/">Sensitivity visualization</a></p>

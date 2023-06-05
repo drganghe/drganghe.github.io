@@ -1,6 +1,6 @@
 ---
 title: "Dr. Gang He joins the Marxe School of Public and International Affairs"
-description: "Gang is excited about the new chapter of career"
+description: "Welcome new collaborations"
 author: "Gang He"
 date: "2023-08-25"
 categories: [news]
@@ -9,7 +9,7 @@ css: /custom.css
 draft: true
 ---
 
-Gang will be joining the Marxe School of Public and International Affairs, Baruch College, City University of New York, as an assistant professor on climate policy, starting in August 2023. 
+I will be joining the Marxe School of Public and International Affairs, Baruch College, City University of New York, as an assistant professor on climate policy, starting in August 2023. 
 
 ## About Marxe School
 
@@ -20,15 +20,13 @@ Gang will be joining the Marxe School of Public and International Affairs, Baruc
 Learn more: <https://marxe.baruch.cuny.edu/about/>
 
 
-## My role at Marxe
+## Me at Marxe
 
-My research 
+I will continue my research on energy systems, energy and climate policy, and energy transition. My goal is to provide data-driven, evidence based, energy and climate policy analysis and research to support energy decisions and climate actions. 
 
+I will be teaching two classes: One class at undergraduate level titled "Energy, Climate, and Society" which offers a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. 
 
-
-I will be teaching two classes:
-
-"Energy, Climate, and Society"
+The other class for graduate student title "Energy and Climate Policy" which provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. In both classes, I hope to inspire and equip students to pursue careers in the energy and climate field, and to empower them with the knowledge and skills needed to make a positive impact on climate solutions.
 
 
 ## I'm hiring
@@ -36,10 +34,19 @@ I will be teaching two classes:
 
 ## What we have achieved
 
+Our research has published in [*Nature*](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd), [*Nature Communications*](/posts/2020-05-ncomms-rapid-re-cost/index.qmd), [*One Earth*](/posts/2020-08-oneearth-coal-just-transition/index.qmd), [*Environmental Science \& Technology*](/posts/2016-est-switch-china/index.qmd). 
+
+Our work has direct policy impacts. I have testified for the [New York State Climate Leadership and Community Protection Act](/posts/2019-nyclcpa-testimony/index.qmd) before it became law and have advised New York State Climate Action Council’s [Scoping Plan](/posts/2021-12-nysclcpa-scoping-plan-draft/index.qmd). I have also involved in the U.S.-China collaboration on energy and climate change. 
+
+I have taught more than 500 graduate and undergraduate students. My avaeraga evaluation is 4.7/5. I designed and open souced my Energy Systems Analysis class. Some universities use the material to enrich their own energy classes including, Penn State University, Binghamton University, University of Montana. According to Google Analytics, the course site has attracted more than 1000 users from 72 countries since launching in December 2022 to May 2023. 
+
+I'm exicited to the future opportunities in the New York City, New York, and international and interdisciplinary collaborations at CUNY.
+
 
 ## Thank you
 
-Thank you mentors, collaborators, and students
+Thank you mentors, collaborators, colleages, and students. I have benefited trememdously from my mentors who help me navigate uncertain waters. Thank you staff who supports new initatives, who gets grants out, who makes things work magically. 
+
 
 <!--Include social share buttons-->
 

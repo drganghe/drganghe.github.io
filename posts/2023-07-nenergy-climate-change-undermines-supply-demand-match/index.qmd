@@ -18,7 +18,7 @@ citation:
   container-title: "Nature Energy"
   doi: "10.1038/s41586-022-05316-6"
   available-date: "2023-10-26"
-  issued: "2022-12-01"
+  issued: "2023-12-01"
   volume: 612
   issue: 7938
   page: 83-87
@@ -48,9 +48,9 @@ Climate change modulates both energy demand and wind and solar energy supply, bu
 
 ## Links
 
-Published [paper](https://www.nature.com/articles/s41586-022-05316-6)
+Published [paper]()
 
-ResearchGate [pdf](https://www.researchgate.net/publication/364757014_Quantifying_the_cost_savings_of_global_solar_photovoltaic_supply_chains)
+ResearchGate [pdf]()
 
 Figshare: [Code and Data](https://doi.org/10.5281/zenodo.6989075)
 
