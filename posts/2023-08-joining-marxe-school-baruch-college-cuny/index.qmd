@@ -9,8 +9,9 @@ css: /custom.css
 draft: true
 ---
 
-I will be joining the Marxe School of Public and International Affairs, Baruch College, City University of New York, as an assistant professor on climate policy, starting in August 2023. 
+I will be joining the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/about/), Baruch College, City University of New York, as an assistant professor on climate policy, starting in August 2023. 
 
+<!--
 ## About Marxe School
 
 >The Austin W. Marxe School of Public and International Affairs is New York City’s only public graduate school dedicated to public affairs. Since 1994, we have offered undergraduate and graduate-level degrees in public policy and administration, and Master of Science in Education (MSEd) program in Higher Education Administration (MSEd-HEA). In the fall of 2017 we launched a Master of International Affairs (MIA) degree program.
@@ -19,6 +20,7 @@ I will be joining the Marxe School of Public and International Affairs, Baruch C
 
 Learn more: <https://marxe.baruch.cuny.edu/about/>
 
+-->
 
 ## Me at Marxe
 
@@ -26,7 +28,9 @@ I will continue my research on energy systems, energy and climate policy, and en
 
 I will be teaching two classes: One class at undergraduate level titled "Energy, Climate, and Society" which offers a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. 
 
-The other class for graduate student title "Energy and Climate Policy" which provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. In both classes, I hope to inspire and equip students to pursue careers in the energy and climate field, and to empower them with the knowledge and skills needed to make a positive impact on climate solutions.
+The other class for graduate student title "Energy and Climate Policy" which provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. 
+
+In both classes, I hope to inspire and equip students to pursue careers in the energy and climate field, and to empower them with the knowledge and skills needed to make a positive impact on climate solutions.
 
 
 ## I'm hiring
@@ -45,7 +49,7 @@ I'm exicited to the future opportunities in the New York City, New York, and int
 
 ## Thank you
 
-Thank you mentors, collaborators, colleages, and students. I have benefited trememdously from my mentors who help me navigate uncertain waters. Thank you staff who supports new initatives, who gets grants out, who makes things work magically. 
+Thank you mentors, collaborators, colleages, and students. I have benefited trememdously from my mentors who help me navigate uncertain waters. Thank you staff who supports new initatives, who makes things run magically. 
 
 
 <!--Include social share buttons-->

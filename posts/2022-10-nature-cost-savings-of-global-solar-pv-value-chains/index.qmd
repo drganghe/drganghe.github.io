@@ -7,7 +7,7 @@ author:
   - name: Michael R. Davidson
 date: "2022-10-26"
 categories: [paper, poster, slides]
-image: "featured.png"
+image: "featured.jpg"
 citation:
   type: article-journal
   container-title: "Nature"
@@ -27,7 +27,7 @@ css: /custom.css
 
 {{< include /files/includes/_academic.qmd >}}
 
-![*Nature* December 1, 2022 Issue Cover highlighted our paper in the same issue](nature-cover.jpg)
+![*Nature* December 1, 2022 Issue Cover highlighted our paper in the same issue](featured.jpg)
 
 ::: {.callout-note}
 ## Paper
