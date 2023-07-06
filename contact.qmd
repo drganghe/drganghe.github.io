@@ -8,6 +8,16 @@ title-block-banner: false
 
 **Gang He**
 
+Marxe School of Public and International Affairs
+
+Baruch College
+
+City University of New York
+
+E-mail: <gang.he@baruch.cuny.edu>
+
+<hr>
+
 Department of Technology and Society
 
 Stony Brook University
@@ -20,13 +30,4 @@ Office: 1420 Computer Science
 
 Office phone: +1 (631) 632-7689
 
-
 </center>
-
-<!--
-Marxe School of Public and International Affairs
-
-Baruch College
-
-City University of New York
--->

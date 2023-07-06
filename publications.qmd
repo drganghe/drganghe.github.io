@@ -12,9 +12,9 @@ css: /custom.css
 
 \* denotes corresponding author; <sup>GS</sup> denotes graduate student advisee; <sup>VS</sup> denotes visiting scholar.  
 
-Total citations as of June 2023:
+Total citations as of July 2023:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,500 (h-index = 23)   
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,600 (h-index = 23)   
 - [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 2,800 (h-index = 28, i10-index = 46) 
 
 ## Selected Work

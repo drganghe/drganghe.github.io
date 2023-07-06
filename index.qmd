@@ -20,7 +20,7 @@ about:
       href: https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/
     - icon: envelope
       text: E-mail
-      href: mailto:gang.he@stonybrook.edu
+      href: mailto:gang.he@baruch.cuny.edu
 #    - icon: github
 #      text: Github
 #      href: https://github.com/drganghe
