@@ -16,7 +16,7 @@ City University of New York
 
 E-mail: <gang.he@baruch.cuny.edu>
 
-<hr>
+<hr style="width:50%">
 
 Department of Technology and Society
 

@@ -35,7 +35,7 @@ Our results show a total of $67 billion was saved in solar deployment from 2008 
 ![Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).](fig-2-prices-in-national-global-markets.png){#fig-prices-national-vs-global fig-align="left" width="95%"}
 
 
-We also compare how these two scenarios might play out going forward. Assuming that capacity grows at a constant annual growth rate (CAGR), we estimate that solar module prices could be 20%-30% higher in 2030 than they otherwise would be if countries move to complete domestic manufacturing over a ten-year time frame.
+We also compare how these two scenarios might play out going forward. Assuming that capacity grows at a constant annual growth rate (CAGR), we estimate that solar module prices could be 20-30%^[This number was updated from 20-25% to reflect an [Author Correction](https://www.nature.com/articles/s41586-023-06262-7).] higher in 2030 than they otherwise would be if countries move to complete domestic manufacturing over a ten-year time frame.
 
 ## What About Jobs?
 

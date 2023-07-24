@@ -15,7 +15,108 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.4.186</generator>
-<lastBuildDate>Tue, 23 May 2023 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Jul 2023 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Climate change impacts on planned supply–demand match in global wind and solar energy systems</title>
+  <dc:creator>Laibao Liu</dc:creator>
+  <dc:creator>Gang He</dc:creator>
+  <dc:creator>Mengxi Wu</dc:creator>
+  <dc:creator>Gang Liu</dc:creator>
+  <dc:creator>Haoran Zhang</dc:creator>
+  <dc:creator>Ying Chen</dc:creator>
+  <dc:creator>Jiashu Shen</dc:creator>
+  <dc:creator>Shuangcheng Li</dc:creator>
+  <link>https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/featured.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Climate change impacts on supply, demand, and supply-demand match</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Climate change impacts on planned supply–demand match in global wind and solar energy systems<br>
+Laibao Liu*, <strong>Gang He</strong>, Mengxi Wu*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, Shuangcheng Li<br>
+<em>Nature Energy</em> (2023)<br>
+DOI: <a href="https://doi.org/10.1038/s41560-023-01304-w">10.1038/s41560-023-01304-w</a></p>
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Climate change modulates both energy demand and wind/solar energy supply, but a globally synthetic analysis of supply-demand match (SDM) is lacking. Here we use 12 state-of-the-art climate models to assess climate change impacts on SDM, quantified by the fraction of demand met by local wind or solar supply. For energy systems with varying dependence on wind or solar supply, up to 32% or 44% of non-Antarctic land areas, respectively, are projected to experience robust SDM reductions by the end of this century under an intermediate emission scenario. Smaller and more variable supply reduces SDM at northern middle-to-high latitudes, whereas reduced heating demand alleviates or reverses SDM reductions remarkably. By contrast, despite supply increases somewhere at low latitudes, raised cooling demand reduces SDM substantially. Changes in climate extremes and climate mean make size-comparable contributions. Our results provide early warnings for energy sectors in climate change adaptation.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.nature.com/articles/s41560-023-01304-w">paper</a></p>
+<p>Open Access <a href="https://www.nature.com/articles/s41560-023-01304-w.pdf">pdf</a></p>
+<p>Zenodo: <a href="https://zenodo.org/record/6884124">Code and Data</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41560-023-01304-w">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-hide-zero-citations="true" data-style="small_circle"></span>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{liu2023,
+  author = {Liu, Laibao and He, Gang and Wu, Mengxi and Liu, Gang and
+    Zhang, Haoran and Chen, Ying and Shen, Jiashu and Li, Shuangcheng},
+  title = {Climate Change Impacts on Planned Supply–Demand Match in
+    Global Wind and Solar Energy Systems},
+  journal = {Nature Energy},
+  date = {2023-07-24},
+  url = {https://www.nature.com/articles/s41560-023-01304-w},
+  doi = {10.1038/s41560-023-01304-w},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-liu2023" class="csl-entry quarto-appendix-citeas">
+Liu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen,
+Jiashu Shen, and Shuangcheng Li. 2023. <span>“Climate Change Impacts on
+Planned Supply–Demand Match in Global Wind and Solar Energy
+Systems.”</span> <em>Nature Energy</em>, July. <a href="https://doi.org/10.1038/s41560-023-01304-w">https://doi.org/10.1038/s41560-023-01304-w</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html</guid>
+  <pubDate>Mon, 24 Jul 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/featured.png" medium="image" type="image/png" height="123" width="144"/>
+</item>
 <item>
   <title>Post-Doctoral Researcher in Power System, Air Pollution, and Human Health Modeling</title>
   <dc:creator>Gang He</dc:creator>
@@ -293,7 +394,7 @@ https://quarto.org/docs/authoring/includes.html
 <blockquote class="blockquote">
 <p>Hello everyone, my name is Gang He, and I’m an assistant professor in the Department of Technology and Society at Stony Brook University. I’m grateful for the Integrated Assessment Modeling Consortium 2022 Best Poster Award for online poster presentation.</p>
 <p>I’d like to take the opportunity to share the main messages of the paper. To achieve carbon neutrality, the world must embark on a rapid and massive deployment of renewable energy. However, certain decoupling policies that restrict the free flow of capital, talent, and innovation may delay the continuous reduction in costs of renewable energy. The international climate policy now faces a crossroads - to continue relying on global supply chains or to shift towards domestic technology development and production.</p>
-<p>Our research captures this policy dilemma and assesses the cost savings associated with a globalized solar PV module supply chain. We created a two-factor hybrid learning model that considers historical capacity, component, and input material prices of solar PV deployment from the United States, Germany, and China. The results show that the globalized PV module market has saved PV installers $24 billion in the US, $7 billion in Germany and $36 billion in China from 2008 to 2020, compared to a scenario where domestic manufacturers increasingly supplied installed capacities over a ten-year period. Projecting the same scenario forward to 2030, we estimate that solar module prices will be about 20-30% higher than with a globalized supply chain. Our findings emphasize the importance of international cooperation in the pursuit of a low-carbon future.</p>
+<p>Our research captures this policy dilemma and assesses the cost savings associated with a globalized solar PV module supply chain. We created a two-factor hybrid learning model that considers historical capacity, component, and input material prices of solar PV deployment from the United States, Germany, and China. The results show that the globalized PV module market has saved PV installers $24 billion in the US, $7 billion in Germany and $36 billion in China from 2008 to 2020, compared to a scenario where domestic manufacturers increasingly supplied installed capacities over a ten-year period. Projecting the same scenario forward to 2030, we estimate that solar module prices will be about 20-30%<sup>2</sup> higher than with a globalized supply chain. Our findings emphasize the importance of international cooperation in the pursuit of a low-carbon future.</p>
 </blockquote>
 </section>
 <section id="acknowledgment" class="level2">
@@ -344,12 +445,13 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 
 
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<div id="quarto-appendix" class="default"><aside id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>Source: <a href="https://www.iamconsortium.org/iamc-announcements/news-iamc-announcement/iamc-2022-conference-material-and-statistics/">IAMC 2022: Conference material and statistics</a>.↩︎</p></li>
+<li id="fn2"><p>This number was updated from 20-25% to reflect an <a href="https://www.nature.com/articles/s41586-023-06262-7">Author Correction</a>.↩︎</p></li>
 </ol>
-</section></div> ]]></description>
+</aside></div> ]]></description>
   <category>news</category>
   <category>poster</category>
   <category>video</category>
@@ -393,7 +495,7 @@ https://quarto.org/docs/authoring/includes.html
 <figcaption class="figure-caption">Figure&nbsp;2: Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).</figcaption>
 </figure>
 </div>
-<p>We also compare how these two scenarios might play out going forward. Assuming that capacity grows at a constant annual growth rate (CAGR), we estimate that solar module prices could be 20%-30% higher in 2030 than they otherwise would be if countries move to complete domestic manufacturing over a ten-year time frame.</p>
+<p>We also compare how these two scenarios might play out going forward. Assuming that capacity grows at a constant annual growth rate (CAGR), we estimate that solar module prices could be 20-30%<sup>1</sup> higher in 2030 than they otherwise would be if countries move to complete domestic manufacturing over a ten-year time frame.</p>
 </section>
 <section id="what-about-jobs" class="level2">
 <h2 class="anchored" data-anchor-id="what-about-jobs">What About Jobs?</h2>
@@ -443,7 +545,13 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 </section>
 
- ]]></description>
+
+<div id="quarto-appendix" class="default"><aside id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>This number was updated from 20-25% to reflect an <a href="https://www.nature.com/articles/s41586-023-06262-7">Author Correction</a>.↩︎</p></li>
+</ol>
+</aside></div> ]]></description>
   <category>commentary</category>
   <guid>https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/index.html</guid>
   <pubDate>Mon, 21 Nov 2022 05:00:00 GMT</pubDate>
@@ -1617,125 +1725,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/index.html</guid>
   <pubDate>Wed, 03 Jun 2020 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/featured.png" medium="image" type="image/png" height="68" width="144"/>
-</item>
-<item>
-  <title>Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System</title>
-  <dc:creator>Gang He</dc:creator>
-  <dc:creator>Jiang Lin</dc:creator>
-  <dc:creator>Froylan Sifuentes</dc:creator>
-  <dc:creator>Xu Liu</dc:creator>
-  <dc:creator>Nikit Abhyankar</dc:creator>
-  <dc:creator>Amol Phadke</dc:creator>
-  <link>https://drganghe.github.io/posts/2020-05-ncomms-rapid-re-cost/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Paper
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System<br>
-<strong>Gang He</strong>*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*<br>
-<em>Nature Communications</em> (2020)<br>
-DOI: <a href="https://doi.org/10.1038/s41467-020-16184-x">10.1038/s41467-020-16184-x</a></p>
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>The costs for solar photovoltaics, wind, and battery storage have dropped markedly since 2010, however, many recent studies and reports around the world have not adequately captured such dramatic decrease. Those costs are projected to decline further in the near future, bringing new prospects for the widespread penetration of renewables and extensive power-sector decarbonization that previous policy discussions did not fully consider. Here we show if cost trends for renewables continue, 62% of China’s electricity could come from non-fossil sources by 2030 at a cost that is 11% lower than achieved through a business-as-usual approach. Further, China’s power sector could cut half of its 2015 carbon emissions at a cost about 6% lower compared to business-as-usual conditions.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://www.nature.com/articles/s41467-020-16184-x">paper</a></p>
-<p>Paper <a href="../../posts/2020-06-ncomms-paper-summary/index.html">summary</a></p>
-<p>Open access <a href="https://www.nature.com/articles/s41467-020-16184-x.pdf">pdf</a></p>
-<p><a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-020-16184-x/MediaObjects/41467_2020_16184_MOESM1_ESM.pdf">Supplementary Information</a></p>
-<p><a href="https://news.stonybrook.edu/newsroom/study-shows-decrease-in-renewable-energy-costs-may-serve-as-an-accelerator-for-clean-energy-expansion/">SBU News</a></p>
-<p><a href="../../posts/2020-10-nature-news-carbon-neutrality/index.html"><em>Nature</em> News</a></p>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-020-16184-x" data-hide-zero-citations="true" data-style="small_circle"></span>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-020-16184-x">
-
-</div>
-</section>
-<section id="twitter-thread" class="level2">
-<h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
-<blockquote class="twitter-tweet blockquote">
-<p lang="en" dir="ltr">
-I’d like to share my new paper <a href="https://twitter.com/CEASSBU?ref_src=twsrc%5Etfw"><span class="citation" data-cites="CEASSBU">(</span></a><strong>CEASSBU?</strong>) <a href="https://twitter.com/stonybrooku?ref_src=twsrc%5Etfw"><span class="citation" data-cites="stonybrooku">(</span></a><strong>stonybrooku?</strong>) with colleagues <a href="https://twitter.com/BerkeleyLab?ref_src=twsrc%5Etfw"><span class="citation" data-cites="BerkeleyLab">(</span></a><strong>BerkeleyLab?</strong>) in <a href="https://twitter.com/NatureComms?ref_src=twsrc%5Etfw"><span class="citation" data-cites="NatureComms">(</span></a><strong>NatureComms?</strong>) .<br><br>Title: “Rapid cost decrease of renewables and storage accelerates the decarbonization of China’s power system”.<br><br>Paper: <a href="https://t.co/ztHzSw572S">https://t.co/ztHzSw572S</a><br><br>PDF: <a href="https://t.co/MwTB27EicM">https://t.co/MwTB27EicM</a> <a href="https://t.co/DFihF3BmD5">pic.twitter.com/DFihF3BmD5</a>
-</p>
-— Gang He (<span class="citation" data-cites="DrGangHe">(<strong>DrGangHe?</strong>)</span>) <a href="https://twitter.com/DrGangHe/status/1266101281472622603?ref_src=twsrc%5Etfw">May 28, 2020</a>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</section>
-<section id="sbu-press-release" class="level2">
-<h2 class="anchored" data-anchor-id="sbu-press-release">SBU Press Release</h2>
-<blockquote class="blockquote">
-<h3 id="study-shows-decrease-in-renewable-energy-costs-may-serve-as-an-accelerator-for-clean-energy-expansion" class="anchored"><a href="https://news.stonybrook.edu/newsroom/study-shows-decrease-in-renewable-energy-costs-may-serve-as-an-accelerator-for-clean-energy-expansion/">Study Shows Decrease in Renewable Energy Costs May Serve as an Accelerator for Clean Energy Expansion</a></h3>
-<p>June 1, 2020</p>
-<p>The News in Brief:</p>
-<ul>
-<li>This study is the first to reveal the implications of cost decrease on power systems and new perspectives on clean power transition.</li>
-<li>The analysis uses China’s power system as a case study to demonstrate the impact of a fast cost decrease of renewable and storage source, a scenario that could apply to the United States.</li>
-<li>The study reveals fast decarbonization is both technically feasible and economically beneficial, which offers the prospect of large emissions mitigation with a global environmental impact.</li>
-</ul>
-<p>STONY BROOK, NY, June 1, 2020 – The costs for solar photovoltaics, wind, and battery storage have dropped markedly since 2010. A new study led by Stony Brook University and Lawrence Berkeley National Laboratory analyses the cost of renewable energy in China and reveals that costs are projected to decline further, thereby bringing new possibilities for the widespread penetration of renewable energy and extensive power-sector decarbonization. The findings, published in Nature Communications, may serve as a model for the United States and worldwide illustrating that decreases in renewable costs may help drive clean energy growth.</p>
-<p>Previous studies and reports globally have not adequately captured the dramatic decrease in costs of renewable energy and storage and therefore have underestimated the development of renewables. The authors contend that incorporating the new downward trend in costs of renewable energy into models is invaluable for modeling scenarios that are required for developing appropriate energy policies in countries.</p>
-<p>“For too long relying on variable wind and solar resources for electricity generation has been considered a challenge to system operations and as having no economic advantage,” said Gang He, Assistant Professor in the Department of Technology and Society in the College of Engineering and Applied Sciences at Stony Brook University.</p>
-<p>“Now rapid technological developments and falling costs in renewable energy and storage are undermining this assumption. Our paper is an effort to reveal the implications of such changes for China’s clean power transition.”</p>
-<p>Global weighted-average cost of electricity of utility-scale solar PV, onshore wind, and battery storage in China plummeted by 77, 35, and 85 percent, respectively, between 2010 and 2018. The researchers incorporated these falling costs into models for the development of China’s power sector, a factor often overlooked in power sector modelling.</p>
-<p>The modelling showed four scenarios for China’s power sector up to 2030, the business as usual approach, low cost renewable use, carbon constraints, and deep carbon constraints. Their findings with the models revealed that if cost trends continue, 62 percent of China’s electricity would come from non-fossil sources by 2030 at a cost that is 11 percent lower than achieved through a business-as-usual approach.</p>
-<p>The authors emphasize that expansion of renewables under the low-cost scenario would require significant infrastructure support in the form of transmission lines and storage capacity to allow grid stability.</p>
-<p>“The large-scale decarbonization of the power sector requires that several processes take place simultaneously,” explains Dr.&nbsp;He. “Both the renewable and storage capacity and transmission infrastructure must be scaled up quickly. The investment needed for the infrastructure transformation must be acquired and dedicated. And social and economic equity must be addressed during the transition to lower carbon power systems.”</p>
-<p>If such processes can be achieved simultaneously, added Dr.&nbsp;He, China will be able to increase renewables in an increasingly cost-effective manner. Such a model may show that fast decarbonization is both technically feasible and economically beneficial, a scenario that offers the prospect of large emissions mitigation with a global environmental impact.</p>
-<p>The research was supported by the Energy Foundation China, and the Hewlett and MJS Foundation through the U.S. Department of Energy under Contract Number No.&nbsp;DE-AC02-05CH11231.</p>
-</blockquote>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{he2020,
-  author = {He, Gang and Lin, Jiang and Sifuentes, Froylan and Liu, Xu
-    and Abhyankar, Nikit and Phadke, Amol},
-  title = {Rapid {Cost} {Decrease} of {Renewables} and {Storage}
-    {Accelerates} the {Decarbonization} of {China’s} {Power} {System}},
-  journal = {Nature Communications},
-  volume = {11},
-  number = {1},
-  pages = {2486},
-  date = {2020-05-15},
-  url = {https://www.nature.com/articles/s41467-020-16184-x},
-  doi = {10.1038/s41467-020-16184-x},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-he2020" class="csl-entry quarto-appendix-citeas">
-He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and
-Amol Phadke. 2020. <span>“Rapid Cost Decrease of Renewables and Storage
-Accelerates the Decarbonization of China’s Power System.”</span>
-<em>Nature Communications</em> 11 (1): 2486. <a href="https://doi.org/10.1038/s41467-020-16184-x">https://doi.org/10.1038/s41467-020-16184-x</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/posts/2020-05-ncomms-rapid-re-cost/index.html</guid>
-  <pubDate>Fri, 15 May 2020 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2020-05-ncomms-rapid-re-cost/featured.png" medium="image" type="image/png" height="103" width="144"/>
 </item>
 </channel>
 </rss>

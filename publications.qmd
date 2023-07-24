@@ -14,8 +14,8 @@ css: /custom.css
 
 Total citations as of July 2023:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,600 (h-index = 23)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 2,800 (h-index = 28, i10-index = 46) 
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,700 (h-index = 24)   
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 2,800 (h-index = 29, i10-index = 48) 
 
 ## Selected Work
 
@@ -24,36 +24,60 @@ Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cos
 **Coverage**: [SBU News](https://news.stonybrook.edu/environmental-stewardship/international-collaboration-is-key-to-addressing-global-climate-change/), [GWU News](https://mediarelations.gwu.edu/global-collaboration-saved-countries-67-billion-solar-panel-production-costs), [UCSD News](https://today.ucsd.edu/story/open-trade-saves-countries-billions-in-solar-panel-production), [_Nature_ Research Highlights](https://www.natureasia.com/en/research/highlight/14262), [_E&E News_](https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/), [GRID News](https://www.grid.news/story/global/2022/11/12/the-us-is-reducing-its-reliance-on-china-for-green-technology-could-that-slow-progress-on-climate-change/), [PV Magazine](https://pv-magazine-usa.com/2022/10/26/a-globalized-supply-chain-is-key-to-cutting-costs-in-solar-module-manufacturing/), [dot.LA](https://dot.la/deglobalization-2658510850.html), [pvbuzz](https://pvbuzz.com/new-study-quantifies-cost-savings-solar-industry-globalized-supply-chains/), [InnovateLongIsland](https://www.innovateli.com/no-736-on-immigrants-solar-energy-supplies-and-other-american-strengths-with-lots-of-candy-to-share/), [Mercom India](https://mercomindia.com/imposing-import-tariffs-hamper-of-solar-energy-study/), [China News](https://www.chinanews.com.cn/cj/2022/10-27/9881042.shtml), [Science and Technology Daily](http://www.stdaily.com/index/kejixinwen/202210/e38ea5c3a3054d87a43996d39a2924ab.shtml)   
 **Invited presentation**: [Tsinghua University](https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g), [Harvard University](https://www.belfercenter.org/event/energy-policy-seminar-michael-davidson-decoupling-china-clean-tech) (M.D.), ITIF (J.H.), [Climate Change Economics Forum](https://mp.weixin.qq.com/s/teDhroPPbaA6z1pVU2JrwA)   
 
+<center><hr style="width:50%"></center>
+
 Liu, Zhu\*, Zhu Deng, **Gang He**, Hailin Wang, Xian Zhang, Jiang Lin, Ye Qi, and Xi Liang. 2022. [Challenges and Opportunities for Carbon Neutrality in China](/posts/2022-03-nree-china-carbon-neutrality/index.qmd). *Nature Reviews Earth & Environment* 3(2): 141--155. doi: [10.1038/s43017-021-00244-x](https://doi.org/10.1038/s43017-021-00244-x). \[[pdf](https://www.nature.com/articles/s43017-021-00244-x.pdf)\] <span style="display: inline-block" class="__dimensions_badge_embed__" data-doi="10.1038/s43017-021-00244-x" data-style="large_rectangle"></span> <div style="display: inline-block" data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s43017-021-00244-x" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Coverage**: [_Carbon Brief_](https://www.carbonbrief.org/china-briefing-23-december-2021-analysis-of-beijings-new-pledge-interview-with-senior-advisers-economic-planning-meeting)  
 
+<center><hr style="width:50%"></center>
+
 <sup>GS</sup>Lee, Mekyung\*, and **Gang He**. 2021. [An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation during 1980--2017](/posts/2021-05-jcp-ai-energy/index.qmd). *Journal of Cleaner Production* 297: 126536. doi: [10.1016/j.jclepro.2021.126536](https://doi.org/10.1016/j.jclepro.2021.126536). \[[pdf](/files/papers/2021-JCP-AIandWindTechnologyInnovation.pdf)\] <span style="display: inline-block" class="__dimensions_badge_embed__" data-doi="10.1016/j.jclepro.2021.126536" data-style="large_rectangle"></span>    
 
+<center><hr style="width:50%"></center>
+
 Zhang, Chao, **Gang He**\*, Josiah Johnston, and Lijin Zhong. 2021. [Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint](/posts/2021-12-jcp-power-water-carbon/index.qmd). *Journal of Cleaner Production* 329: 129765. doi: [10.1016/j.jclepro.2021.129765](https://doi.org/10.1016/j.jclepro.2021.129765). \[[pdf](/files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf)\] <span style="display: inline-block" class="__dimensions_badge_embed__" data-doi="10.1016/j.jclepro.2021.129765" data-style="large_rectangle"></span>
+
+<center><hr style="width:50%"></center>
 
 **He, Gang**\*, Jiang Lin\*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke\*. 2020. [Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System](/posts/2020-05-ncomms-rapid-re-cost/index.qmd). *Nature Communications* 11(1): 2486. doi: [10.1038/s41467-020-16184-x](https://doi.org/10.1038/s41467-020-16184-x). \[[pdf](https://www.nature.com/articles/s41467-020-16184-x.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-020-16184-x" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41467-020-16184-x" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 **Coverage**: [SBU News](https://news.stonybrook.edu/newsroom/study-shows-decrease-in-renewable-energy-costs-may-serve-as-an-accelerator-for-clean-energy-expansion/), [LBL News](https://eta.lbl.gov/news/falling-prices-could-accelerate-china), [*Carbon Brief* Headline](https://www.carbonbrief.org/guest-post-chinas-power-sector-could-be-10-per-cent-cheaper-in-2030-with-more-renewables), [*InsideClimateNews*](https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/), [*E&E News*/*ClimateWire*](https://subscriber.politicopro.com/article/eenews/1063354565), [*Forbes*](https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/?sh=29fa3f2f1519), [*Nature* News](https://www.nature.com/articles/d41586-020-02927-9)  
 **Invited presentation**: [Asia Pacific Energy Research Centre (APERC) Annual Conference 2020](https://aperc.or.jp/presentations/event_detail.php?article_info__id=388), [Beijing Institute of Technology](https://ceep.bit.edu.cn/xzhd/xshdyg/8c8df4e81437434fb80b7ebb8d973b4c.htm), Dartmouth College, [Harvard Kennedy School Growth Lab](https://growthlab.cid.harvard.edu/event/research-seminar-achieving-power-sector-carbon-neutrality-low-cost-renewable-era)   
 
+<center><hr style="width:50%"></center>
+
 **He, Gang**\*, Jiang Lin, Ying Zhang, Wenhua Zhang, <sup>GS</sup>Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. [Enabling a Rapid and Just Transition Away from Coal in China](/posts/2020-08-oneearth-coal-just-transition/index.qmd). *One Earth* 3(2): 187–94. doi: [10.1016/j.oneear.2020.07.012](https://doi.org/10.1016/j.oneear.2020.07.012). \[[pdf](https://www.cell.com/action/showPdf?pii=S2590-3322%2820%2930356-0)\] \[[data](https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China)\]  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2020.07.012" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.oneear.2020.07.012" data-hide-no-mentions="true" class="altmetric-embed"></div>    
 **Coverage**: [SBU News](https://news.stonybrook.edu/homespotlight/study-shows-huge-benefits-of-transitioning-away-from-coal-in-china/), [*Nature* News](https://www.nature.com/articles/d41586-020-02927-9)  
 **Invited presentation**: Coal Transition Network, Peking University 
 
+<center><hr style="width:50%"></center>
+
 **He, Gang**\*, David Victor. 2017. [Experiences and lessons from China's success in providing electricity for all](/posts/2017-china-electricity-for-all/index.qmd). *Resources, Conservation and Recycling* 122: 335–338\. doi: [10.1016/j.resconrec.2017.03.011](https://doi.org/10.1016/j.resconrec.2017.03.011). \[[pdf](/files/papers/2017-china-electricity-for-all.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.resconrec.2017.03.011" data-style="large_rectangle"></span>   
 **Invited presentation**: [Energy Inforamtion Administration](https://www.eia.gov/conference/2017/), [International Association of Energy Economy](https://iaee2017.sg/programme/)
 
+<center><hr style="width:50%"></center>
+
 **He, Gang**\*, Hongliang Zhang\*, Yuan Xu\*, Xi Lu\*. 2017. [China’s clean power transition: Current status and future prospect](https://www.sciencedirect.com/science/article/pii/S0921344916303202). *Resources, Conservation and Recycling* 121: 3–10\. doi: [10.1016/j.resconrec.2016.11.003](https://doi.org/10.1016/j.resconrec.2016.11.003). \[[pdf](/files/papers/2017-RCR-CleanPowerTransition.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.resconrec.2016.11.003" data-style="large_rectangle"></span>  
+
+<center><hr style="width:50%"></center>
 
 **He, Gang**\*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen\*. 2016. [SWITCH-China: A Systems Approach to Decarbonizing China’s Power System](/posts/2016-est-switch-china/index.qmd). *Environmental Science & Technology* 50(11): 5467–5473. doi: [10.1021/acs.est.6b01345](https://doi.org/10.1021/acs.est.6b01345). \[[pdf](/files/papers/2016-EST-SWITCH-China.pdf)\]  \[[Supporting Information](https://www.researchgate.net/publication/303312092_SWITCH-China_A_Systems_Approach_to_Decarbonizing_China%27s_Power_System_SI)\] \[[Poster](/posts/2016-est-switch-china/poster.jpg)\]  <span class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.6b01345" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1021/acs.est.6b01345" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 **Invited presentation**: Lawrence Berkeley National Laboratory, Carnegie Mellon University, Michigan State University
 
+<center><hr style="width:50%"></center>
+
 **He, Gang**\*, Daniel M. Kammen\*. 2016. [Where, when and how much solar is available? A provincial-scale solar resource assessment for China](/posts/2016-re-china-provincial-solar-resource-assessment/index.qmd). *Renewable Energy* 85: 74–82\. doi: [10.1016/j.renene.2015.06.027](https://doi.org/10.1016/j.renene.2015.06.027). \[[pdf](/files/papers/2016-RE-ChinaProvincialSolar.pdf)\] \[Table and Figure [data](https://www.researchgate.net/publication/278679097_Where_when_and_how_much_solar_is_available_A_provincial-scale_solar_resource_assessment_for_China_Dataset)\] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2015.06.027" data-style="large_rectangle"></span>
+
+<center><hr style="width:50%"></center>
 
 Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE Cities: A Low-carbon Eco-city Evaluation Tool for China](/posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.qmd). *Ecological Indicators* 48: 448--456. doi: [10.1016/j.ecolind.2014.09.018](http://dx.doi.org/10.1016/j.ecolind.2014.09.018). \[[pdf](/files/papers/2015-EI-ELITE-Cities.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecolind.2014.09.018" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.ecolind.2014.09.018" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Coverage**: [The Guardian](https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly)\
 
+<center><hr style="width:50%"></center>
+
 **He, Gang**\*, Daniel M. Kammen. 2014. [Where, when and how much wind is available? A provincial-scale wind resource assessment for China](/posts/2014-ep-china-provincial-wind-resource-assessment/index.qmd). *Energy Policy* 74: 116–122\. doi: [10.1016/j.enpol.2014.07.003](https://doi.org/10.1016/j.enpol.2014.07.003). \[[pdf](/files/papers/2014-EP-ChinaProvincialWind.pdf)\] \[Table and Figure [data](https://www.researchgate.net/publication/273258314_Where_when_and_how_much_wind_is_available_A_provincial-scale_wind_resource_assessment_for_China_Dataset)\]
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enpol.2014.07.003" data-style="large_rectangle"></span>
+
+<center><hr style="width:50%"></center>
 
 **He, Gang**\*, Richard Morse. 2013. [Addressing Carbon Offsetters' Paradox: Lessons from Chinese Wind CDM](/posts/2013-ep-carbon-offsetters-paradox/index.qmd). *Energy Policy* 63: 1051–1055\. doi: [10.1016/j.enpol.2013.09.021](https://doi.org/10.1016/j.enpol.2013.09.021). \[[pdf](/files/papers/2013-EP-ChinaWindCDM.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enpol.2013.09.021" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.enpol.2013.09.021" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 **Coverage**: [Caixin Online](https://www.marketwatch.com/story/china-wind-power-stalls-as-international-funds-cut-2010-04-13)   
@@ -62,6 +86,8 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 
 
 ## Peer-reviewed Journal Paper
+
+Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](https://www.nature.com/articles/s41560-023-01304-w). *Nature Energy*, July, 1–11. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). [[pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)]
 
 Li, Bo\*, Dekai Jing, Haiwang Zhong, **Gang He**, Ziming Ma, Guangchun Ruan, Minyou Chen, and Daniel M. Kammen. 2023. [Centralized Charging Station Planning for Battery Electric Trucks Considering the Impacts on Electricity Distribution Systems](https://www.sciencedirect.com/science/article/pii/S2352484723004547). *Energy Reports* 9: 346–57. doi: [10.1016/j.egyr.2023.04.090](https://doi.org/10.1016/j.egyr.2023.04.090). \[[pdf](https://www.sciencedirect.com/science/article/pii/S2352484723004547/pdfft?md5=3fa00e46993ada2520dff9856331657f&pid=1-s2.0-S2352484723004547-main.pdf)]
 

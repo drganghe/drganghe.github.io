@@ -10,15 +10,15 @@ author:
   - name: Ying Chen
   - name: Jiashu Shen
   - name: Shuangcheng Li 
-date: "2023-07-10"
+date: "2023-07-24"
 categories: [paper]
-image: "featured.jpeg"
+image: "featured.png"
 citation:
   type: article-journal
   container-title: "Nature Energy"
   doi: "10.1038/s41560-023-01304-w"
-  available-date: "2023-07-10"
-  issued: "2023-07-10"
+  available-date: "2023-07-24"
+  issued: "2023-07-24"
 #  volume: 612
 #  issue: 7938
 #  page: 83-87
@@ -26,14 +26,14 @@ citation:
 #bibliography: cite.bib
 google-scholar: true
 css: /custom.css
-draft: true
+#draft: true
 ---
 
 <!--Include academic icons or bottons-->
 
 {{< include /files/includes/_academic.qmd >}}
 
-![](featured.jpg)
+![Climate change impacts on supply, demand, and supply-demand match](featured.png)
 
 ::: {.callout-note}
 ## Paper
@@ -52,7 +52,7 @@ Climate change modulates both energy demand and wind/solar energy supply, but a 
 
 Published [paper](https://www.nature.com/articles/s41560-023-01304-w)
 
-ResearchGate [pdf]()
+Open Access [pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)
 
 Zenodo: [Code and Data](https://zenodo.org/record/6884124)
 

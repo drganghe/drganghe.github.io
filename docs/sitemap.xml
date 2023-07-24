@@ -1,139 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://drganghe.github.io/posts.html</loc>
+    <lastmod>2023-04-21T00:50:56.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/index.html</loc>
+    <lastmod>2023-07-21T13:24:30.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html</loc>
+    <lastmod>2023-07-24T15:11:10.858Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.929Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2021-05-jcp-ai-energy/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2017-china-electricity-for-all/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2022-03-ccci-power-sector-coal-decarbonization/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.922Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2022-03-nree-china-carbon-neutrality/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.927Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2021-01-nys-waste/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.907Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.834Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/index.html</loc>
+    <lastmod>2023-07-20T23:50:04.656Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2020-10-nature-news-carbon-neutrality/index.html</loc>
+    <lastmod>2023-05-06T22:51:16.077Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/index.html</loc>
+    <lastmod>2023-03-18T12:50:05.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2022-01-iscience-renewable-flexibility/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.922Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2020-01-nsf-workshop/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/posts/2016-re-china-provincial-solar-resource-assessment/index.html</loc>
+    <lastmod>2023-01-30T19:18:04.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/contact.html</loc>
+    <lastmod>2023-07-09T11:20:09.991Z</lastmod>
+  </url>
+  <url>
     <loc>https://drganghe.github.io/teaching.html</loc>
     <lastmod>2023-06-16T19:03:19.739Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/contact.html</loc>
-    <lastmod>2023-07-06T13:41:21.740Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2016-re-china-provincial-solar-resource-assessment/index.html</loc>
-    <lastmod>2023-06-16T19:01:12.996Z</lastmod>
-  </url>
-  <url>
     <loc>https://drganghe.github.io/posts/2021-12-jcp-power-water-carbon/index.html</loc>
-    <lastmod>2023-06-16T19:01:13.672Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2020-01-nsf-workshop/index.html</loc>
-    <lastmod>2023-06-16T19:01:14.140Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2022-01-iscience-renewable-flexibility/index.html</loc>
-    <lastmod>2023-06-16T19:01:15.240Z</lastmod>
+    <lastmod>2023-02-19T15:08:01.774Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2022-12-iamc-2022-best-poster-award/index.html</loc>
-    <lastmod>2023-06-16T19:01:15.725Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/index.html</loc>
-    <lastmod>2023-06-16T19:01:16.737Z</lastmod>
+    <lastmod>2023-07-21T20:16:14.164Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2017-china-electricity-for-all-summary/index.html</loc>
-    <lastmod>2023-06-16T19:01:17.350Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2020-10-nature-news-carbon-neutrality/index.html</loc>
-    <lastmod>2023-06-16T19:01:17.736Z</lastmod>
+    <lastmod>2023-05-10T00:16:03.330Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2016-est-switch-china/index.html</loc>
-    <lastmod>2023-06-16T19:01:18.393Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/index.html</loc>
-    <lastmod>2023-06-16T19:01:18.762Z</lastmod>
+    <lastmod>2023-04-28T17:54:13.811Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2020-08-oneearth-coal-just-transition/index.html</loc>
-    <lastmod>2023-06-16T19:01:19.546Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/index.html</loc>
-    <lastmod>2023-06-16T19:01:20.185Z</lastmod>
+    <lastmod>2023-01-30T19:18:04.906Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2022-12-energy-systems-analysis-open-course/index.html</loc>
-    <lastmod>2023-06-16T19:01:20.663Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.html</loc>
-    <lastmod>2023-06-16T19:01:21.242Z</lastmod>
+    <lastmod>2023-02-23T01:36:13.629Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2020-05-ncomms-rapid-re-cost/index.html</loc>
-    <lastmod>2023-06-16T19:01:22.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2021-01-nys-waste/index.html</loc>
-    <lastmod>2023-06-16T19:01:22.519Z</lastmod>
+    <lastmod>2023-01-30T19:18:04.901Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html</loc>
-    <lastmod>2023-07-04T11:11:22.762Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2022-03-nree-china-carbon-neutrality/index.html</loc>
-    <lastmod>2023-06-16T19:01:23.948Z</lastmod>
+    <lastmod>2023-06-16T19:05:11.207Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2023-05-post-doc-supply-chain-power-system-environment-human-health/index.html</loc>
-    <lastmod>2023-06-16T19:01:24.387Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/index.html</loc>
-    <lastmod>2023-06-16T19:01:25.033Z</lastmod>
+    <lastmod>2023-05-23T15:49:20.439Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2014-ep-china-provincial-wind-resource-assessment/index.html</loc>
-    <lastmod>2023-06-16T19:01:25.626Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2022-03-ccci-power-sector-coal-decarbonization/index.html</loc>
-    <lastmod>2023-06-16T19:01:26.113Z</lastmod>
+    <lastmod>2023-01-30T19:18:04.833Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2019-nyclcpa-testimony/index.html</loc>
-    <lastmod>2023-06-16T19:01:26.582Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2017-china-electricity-for-all/index.html</loc>
-    <lastmod>2023-06-16T19:01:27.207Z</lastmod>
+    <lastmod>2023-05-09T12:01:19.664Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2022-04-nikkei-nuclear-delemma/index.html</loc>
-    <lastmod>2023-06-16T19:01:27.606Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2021-05-jcp-ai-energy/index.html</loc>
-    <lastmod>2023-06-16T19:01:28.238Z</lastmod>
+    <lastmod>2023-01-30T19:18:04.930Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2013-ep-carbon-offsetters-paradox/index.html</loc>
-    <lastmod>2023-06-16T19:01:28.805Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html</loc>
-    <lastmod>2023-06-16T19:01:29.456Z</lastmod>
+    <lastmod>2023-01-30T19:18:04.832Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/posts/2022-03-harvard-growth-lab-talk/index.html</loc>
-    <lastmod>2023-06-16T19:01:29.874Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/index.html</loc>
-    <lastmod>2023-07-06T13:45:31.556Z</lastmod>
+    <lastmod>2023-01-30T19:18:04.925Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/publications.html</loc>
-    <lastmod>2023-07-06T15:51:43.725Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/posts.html</loc>
-    <lastmod>2023-04-21T00:50:56.939Z</lastmod>
+    <lastmod>2023-07-24T15:09:07.051Z</lastmod>
   </url>
 </urlset>
