@@ -9,8 +9,6 @@ categories: [commentary]
 image: "featured.png"
 bibliography: cite.bib
 fig-cap-location: bottom
-include-in-header: 
-  - canonical.html
 ---
 
 ## Summary

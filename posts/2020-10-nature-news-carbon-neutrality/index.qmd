@@ -5,8 +5,6 @@ author: "Smriti Mallapaty"
 date: "2020-10-19"
 categories: [news]
 image: "featured.png"
-include-in-header: 
-  - canonical.html
 ---
 
 ## News Link

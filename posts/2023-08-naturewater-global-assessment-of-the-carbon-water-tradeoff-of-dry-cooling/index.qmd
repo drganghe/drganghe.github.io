@@ -1,0 +1,70 @@
+---
+title: "Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation"
+description: "We build a global unit-level framework to investigate the CO2 emission and energy penalty due to the deployment of dry cooling."
+author: 
+  - name: Yue Qin
+  - name: Yaoping Wang
+  - name: Shiyu Li
+  - name: Hang Deng
+  - name: Niko Wanders
+  - name: Joyce Bosmans
+  - name: Liangdian Huang
+  - name: Chaopeng Hong
+  - name: Edward Byers
+  - name: Daniel Gingerich
+  - name: Jeff M. Bielicki
+  - name: Gang He    
+date: "2023-08-07"
+categories: [paper]
+image: "featured.png"
+citation:
+  type: article-journal
+  container-title: "Nature Water"
+  doi: "10.1038/s44221-023-00120-6"
+  available-date: "2023-08-07"
+  issued: "2023-08-07"
+#  volume: 612
+#  issue: 7938
+#  page: 83-87
+  url: https://www.nature.com/articles/s44221-023-00120-6
+#bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+#draft: true
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+![Spatial pattern of global dry cooling generation units associated water-carbon interactions](featured.png)
+
+::: {.callout-note}
+## Paper
+Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation   
+Yue Qin\*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liangdian Huang, Chaopeng Hong\*, Edward Byers, Daniel Gingerich, Jeff M. Bielicki, **Gang He**   
+*Nature Water* (2023)   
+DOI: [10.1038/s44221-023-00120-6](https://doi.org/10.1038/s44221-023-00120-6)     
+:::
+
+## Abstract
+
+Water scarcity and climate change are dual challenges that could potentially threaten energy security. Yet, integrated water-carbon management frameworks coupling diverse water and carbon-mitigation technologies at high spatial heterogeneity are largely underdeveloped. Here, we build a global unit-level framework to investigate the CO2 emission and energy penalty due to the deployment of dry cooling–a critical water mitigation strategy–together with alternative water sourcing and carbon capture and storage (CCS) under climate scenarios. We find that CO2 emission and energy penalty for dry cooling units are location and climate specific (e.g., 1-15% of power output), often demonstrating significantly faster efficiency losses than rising temperature, especially under the high climate change scenario. Despite energy and CO2 penalties associated with unconventional water and CCS utilization, increasing wastewater and brine water accessibility provide potential alternatives to dry cooling for water scarcity alleviation, whereas CO2 storage can help to mitigate dry cooling-associated CO2 emission tradeoffs when alternative water sourcing is insufficient. By demonstrating an integrative planning framework, our study highlights the importance of integrated power sector planning under interconnected dual water carbon challenges.
+
+
+## Links
+
+Published [paper](https://www.nature.com/articles/s44221-023-00120-6)
+
+Published [pdf](https://www.nature.com/articles/s44221-023-00120-6.pdf)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s44221-023-00120-6"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s44221-023-00120-6" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+

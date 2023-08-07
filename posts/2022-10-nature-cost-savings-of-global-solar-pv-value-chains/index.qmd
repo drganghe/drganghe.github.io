@@ -65,7 +65,7 @@ Shinyapps: [Sensitivity visualization](https://jhelvy.shinyapps.io/solar-learnin
 
 Award: Integrated Assessment Modeling Consortium 2022 [Best Poster Award](/posts/2022-12-iamc-2022-best-poster-award/index.qmd)
 
-*Nature* Highlights: [Climate policy: Solar energy expected to be cheaper through globalization](https://www.natureasia.com/en/research/highlight/14262)
+*Nature* Highlights: [Climate policy: Solar energy expected to be cheaper through globalization](https://web.archive.org/web/20230603073317/https://www.natureasia.com/en/research/highlight/14262)
 
 *Joule* Preview: [The cost of risk mitigation—Diversifying the global solar PV supply chain](https://doi.org/10.1016/j.joule.2022.12.003) by Nathan L.Chang, Mohammad Dehghanimadvar, and Renate Egan
 

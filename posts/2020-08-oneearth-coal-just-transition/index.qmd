@@ -25,8 +25,6 @@ citation:
 bibliography: cite.bib
 google-scholar: true
 css: /custom.css
-include-in-header: 
-  - canonical.html
 ---
 
 ::: {.callout-note}

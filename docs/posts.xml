@@ -15,7 +15,163 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.4.186</generator>
-<lastBuildDate>Mon, 24 Jul 2023 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 07 Aug 2023 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation</title>
+  <dc:creator>Yue Qin</dc:creator>
+  <dc:creator>Yaoping Wang</dc:creator>
+  <dc:creator>Shiyu Li</dc:creator>
+  <dc:creator>Hang Deng</dc:creator>
+  <dc:creator>Niko Wanders</dc:creator>
+  <dc:creator>Joyce Bosmans</dc:creator>
+  <dc:creator>Liangdian Huang</dc:creator>
+  <dc:creator>Chaopeng Hong</dc:creator>
+  <dc:creator>Edward Byers</dc:creator>
+  <dc:creator>Daniel Gingerich</dc:creator>
+  <dc:creator>Jeff M. Bielicki</dc:creator>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/featured.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Spatial pattern of global dry cooling generation units associated water-carbon interactions</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation<br>
+Yue Qin*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liangdian Huang, Chaopeng Hong*, Edward Byers, Daniel Gingerich, Jeff M. Bielicki, <strong>Gang He</strong><br>
+<em>Nature Water</em> (2023)<br>
+DOI: <a href="https://doi.org/10.1038/s44221-023-00120-6">10.1038/s44221-023-00120-6</a></p>
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Water scarcity and climate change are dual challenges that could potentially threaten energy security. Yet, integrated water-carbon management frameworks coupling diverse water and carbon-mitigation technologies at high spatial heterogeneity are largely underdeveloped. Here, we build a global unit-level framework to investigate the CO2 emission and energy penalty due to the deployment of dry cooling–a critical water mitigation strategy–together with alternative water sourcing and carbon capture and storage (CCS) under climate scenarios. We find that CO2 emission and energy penalty for dry cooling units are location and climate specific (e.g., 1-15% of power output), often demonstrating significantly faster efficiency losses than rising temperature, especially under the high climate change scenario. Despite energy and CO2 penalties associated with unconventional water and CCS utilization, increasing wastewater and brine water accessibility provide potential alternatives to dry cooling for water scarcity alleviation, whereas CO2 storage can help to mitigate dry cooling-associated CO2 emission tradeoffs when alternative water sourcing is insufficient. By demonstrating an integrative planning framework, our study highlights the importance of integrated power sector planning under interconnected dual water carbon challenges.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.nature.com/articles/s44221-023-00120-6">paper</a></p>
+<p>Published <a href="https://www.nature.com/articles/s44221-023-00120-6.pdf">pdf</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s44221-023-00120-6">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s44221-023-00120-6" data-hide-zero-citations="true" data-style="small_circle"></span>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{qin2023,
+  author = {Qin, Yue and Wang, Yaoping and Li, Shiyu and Deng, Hang and
+    Wanders, Niko and Bosmans, Joyce and Huang, Liangdian and Hong,
+    Chaopeng and Byers, Edward and Gingerich, Daniel and M. Bielicki,
+    Jeff and He, Gang},
+  title = {Global Assessment of the Carbon–Water Tradeoff of Dry Cooling
+    for Thermal Power Generation},
+  journal = {Nature Water},
+  date = {2023-08-07},
+  url = {https://www.nature.com/articles/s44221-023-00120-6},
+  doi = {10.1038/s44221-023-00120-6},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-qin2023" class="csl-entry quarto-appendix-citeas">
+Qin, Yue, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce
+Bosmans, Liangdian Huang, et al. 2023. <span>“Global Assessment of the
+Carbon–Water Tradeoff of Dry Cooling for Thermal Power
+Generation.”</span> <em>Nature Water</em>, August. <a href="https://doi.org/10.1038/s44221-023-00120-6">https://doi.org/10.1038/s44221-023-00120-6</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/index.html</guid>
+  <pubDate>Mon, 07 Aug 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/featured.png" medium="image" type="image/png" height="86" width="144"/>
+</item>
+<item>
+  <title>Gang joins the Marxe School of Public and International Affairs</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>I’m joining the <a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/">Marxe School of Public and International Affairs</a>, Baruch College, City University of New York, as an assistant professor on energy and climate policy.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/"><img src="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/New-Faculty_Webslider.jpeg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<p>I’m grateful for Marxe School’s warm welcome messages in the <a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/">August 2023 Faculty Spotlight</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/"><img src="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/MarxeSpotlights_WebSlider_August2023.jpeg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p>We welcome Assistant Professor Gang He to the Marxe School and discuss his research, experiences, recent projects, two courses he will be teaching, and more.</p>
+<h3 id="welcome-joining-the-marxe-school.-could-you-tell-us-more-about-your-research" class="anchored">Welcome joining the Marxe School. Could you tell us more about your research?</h3>
+<p>My research focuses on using data-driven, evidence-based analysis to inform energy and climate policy, I call it DEEP policy research. My overall research goal is to enable a rapid, sustainable, resilient, and just energy transition to achieve carbon neutrality and address climate challenges. I have been developing my research on deep decarbonization pathways of the electric power sector, role and impacts of global clean energy supply chains, energy systems adaptation to climate change, and justice implications of energy transition. My work has been published in high-impact journals such as <em>Nature</em>, <em>Nature Communications</em>, <em>One Earth</em>, <em>Environmental Science and Technology</em>. Engaging in the policymaking process is crucial to me, as it allows for real-world impact. I have had the opportunity to testify for the New York State Climate Leadership and Community Protection Act, offering insights before it become law. Additionally, I have advised the New York State Climate Action Council’s Scoping Plan. I’m excited to join the Marxe School and be surrounded by such a dynamic, diverse, and dedicated community of scholars and students. I’m eager to collaborate and contribute to the policy analysis, research, discussions, and debates aimed at fostering a better climate and society.</p>
+<h3 id="what-drew-you-to-climate-change-policy" class="anchored">What drew you to climate change policy?</h3>
+<p>As a first-generation college student and academic in my family, my journey began unexpectedly. When I was accepted into Peking University to study geography, I was working on a construction site. It was during my studies that I discovered my passion for geography, as it trained me to develop a systematic understanding of the big picture and allowed me to explore various places, people, and cultures through my fieldwork. During a project in southwest China, I observed firsthand the consequences of climate change. Due to increased rainfall and deforestation, the thin layer of topsoil is literally eroding from under the feet of local mountain residents, and with it their livelihoods. One event shaped my career trajectory significantly. After participating in the UN Climate Change Conference COP 11 in Montreal in 2005 as a youth delegate, I became increasingly involved in climate protection. I worked with fellow students and founded the first student climate club at Peking University, raising climate awareness among students and promoting environmental initiatives on campus. This experience propelled me to pursue a master’s degree in Climate and Society at Columbia University, followed by research work in the Program on Energy and Sustainable Development at Stanford University and a Ph.D.&nbsp;on Energy and Resources from the University of California, Berkeley. Over my lifetime, I have witnessed global annual carbon emissions double in forty years, reaching about 37 billion tons in 2021. Urgent actions are needed to reduce carbon emissions to net-zero by mid-century. I firmly believe that evidence-based policy can incentivize, leverage, and cultivate the necessary changes to achieve carbon neutrality.</p>
+<h3 id="can-you-share-more-about-your-ongoing-research-project-on-clean-energy-supply-chain" class="anchored">Can you share more about your ongoing research project on clean energy supply chain?</h3>
+<p>Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, yet countries sometimes implement decoupling policies that might impede continuous cost declining. International climate policy and renewable energy deployment policy now face a crossroads: continue relying on global supply chains, or pivot towards domestic technology development and production. In a collaborative paper published in Nature, our research team found globalized supply chain has saved solar installers in the United States, Germany, and China $67 Billion from 2008 to 2020, and solar prices would be 20-30% higher in 2030 if countries move to produce domestically. Build on the findings of the Nature paper, we are studying the carbon mitigation, air quality, and human health benefits of global solar PV supply chains, with support from the Global Energy Initiative at ClimateWorks Foundation. In addition, we are actively exploring opportunities and collaboration to address the challenges and implications to enable a sustainable, resilient, and just global clean energy supply chain to achieve climate goals.</p>
+<h3 id="what-will-you-be-teaching-in-the-fall" class="anchored">What will you be teaching in the Fall?</h3>
+<p>The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. In the Fall 2023 semester, I will be teaching two courses focused on energy and climate change policy. The undergraduate course, “Energy, Climate, and Society”, takes a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. The graduate-level course, “Energy and Climate Policy”, adopts a systems approach to delve into the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. In both classes, we aim to inspire and equip students, especially those from underrepresented groups and underserved communities, to pursue careers in the energy and climate field. We strive to empower them with the knowledge and skills needed to make a positive impact on climate solutions.</p>
+</blockquote>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/index.html</guid>
+  <pubDate>Tue, 01 Aug 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/featured.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Climate change impacts on planned supply–demand match in global wind and solar energy systems</title>
   <dc:creator>Laibao Liu</dc:creator>
@@ -81,6 +237,16 @@ DOI: <a href="https://doi.org/10.1038/s41560-023-01304-w">10.1038/s41560-023-013
 </div>
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-hide-zero-citations="true" data-style="small_circle"></span>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</section>
+<section id="twitter-thread" class="level2">
+<h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
+<blockquote class="twitter-tweet blockquote">
+<p lang="en" dir="ltr">
+Climate change impacts energy supply, it impacts demand too, what about supply and demand balance?<br><br>Our new <a href="https://twitter.com/NatureEnergyJnl?ref_src=twsrc%5Etfw"><span class="citation" data-cites="NatureEnergyJnl">@NatureEnergyJnl</span></a> paper mapped out how climate change impacts wind solar supply demand match globally.<br><br>Paper: <a href="https://t.co/TgyvQW2GOc">https://t.co/TgyvQW2GOc</a><br>Code: <a href="https://t.co/EsM3wauMKZ">https://t.co/EsM3wauMKZ</a> <a href="https://t.co/RTT40YoZNJ">pic.twitter.com/RTT40YoZNJ</a>
+</p>
+— Gang He (<span class="citation" data-cites="DrGangHe">@DrGangHe</span>) <a href="https://twitter.com/DrGangHe/status/1683500554809475072?ref_src=twsrc%5Etfw">July 24, 2023</a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -317,7 +483,7 @@ https://quarto.org/docs/authoring/includes.html
     }
   }
 </style>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7008437031106191362" height="1250" width="550" frameborder="0" allowfullscreen="" title="Embedded post">
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7008437031106191362" height="1255" width="550" frameborder="0" allowfullscreen="" title="Embedded post">
 </iframe>
 </section>
 <section id="twitter" class="level3">
@@ -621,7 +787,7 @@ DOI: <a href="https://doi.org/10.1038/s41586-022-05316-6">10.1038/s41586-022-053
 <section id="impact" class="level2">
 <h2 class="anchored" data-anchor-id="impact">Impact</h2>
 <p>Award: Integrated Assessment Modeling Consortium 2022 <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a></p>
-<p><em>Nature</em> Highlights: <a href="https://www.natureasia.com/en/research/highlight/14262">Climate policy: Solar energy expected to be cheaper through globalization</a></p>
+<p><em>Nature</em> Highlights: <a href="https://web.archive.org/web/20230603073317/https://www.natureasia.com/en/research/highlight/14262">Climate policy: Solar energy expected to be cheaper through globalization</a></p>
 <p><em>Joule</em> Preview: <a href="https://doi.org/10.1016/j.joule.2022.12.003">The cost of risk mitigation—Diversifying the global solar PV supply chain</a> by Nathan L.Chang, Mohammad Dehghanimadvar, and Renate Egan</p>
 <p>Press release: <a href="https://news.stonybrook.edu/newsroom/global-collaboration-is-key-to-saving-billions-for-solar-module-production/">SBU News</a>, <a href="https://mediarelations.gwu.edu/global-collaboration-saved-countries-67-billion-solar-panel-production-costs">GWU News</a>, <a href="https://today.ucsd.edu/story/open-trade-saves-countries-billions-in-solar-panel-production">UCSD News</a></p>
 <p>Coverage: <a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/">E&amp;E News</a>, <a href="https://www.grid.news/story/global/2022/11/12/the-us-is-reducing-its-reliance-on-china-for-green-technology-could-that-slow-progress-on-climate-change/">GRID News</a>, <a href="https://pv-magazine-usa.com/2022/10/26/a-globalized-supply-chain-is-key-to-cutting-costs-in-solar-module-manufacturing/">PV Magazine</a>, <a href="https://dot.la/deglobalization-2658510850.html">dot.LA</a>, <a href="https://pvbuzz.com/new-study-quantifies-cost-savings-solar-industry-globalized-supply-chains/">pvbuzz</a>, <a href="https://www.innovateli.com/no-736-on-immigrants-solar-energy-supplies-and-other-american-strengths-with-lots-of-candy-to-share/">InnovateLongIsland</a>, <a href="https://mercomindia.com/imposing-import-tariffs-hamper-of-solar-energy-study/">Mercom India</a>, <a href="https://www.chinanews.com.cn/cj/2022/10-27/9881042.shtml">China News</a>, <a href="http://www.stdaily.com/index/kejixinwen/202210/e38ea5c3a3054d87a43996d39a2924ab.shtml">Science and Technology Daily</a></p>
@@ -1475,256 +1641,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2020-10-nature-news-carbon-neutrality/index.html</guid>
   <pubDate>Mon, 19 Oct 2020 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2020-10-nature-news-carbon-neutrality/featured.png" medium="image" type="image/png" height="75" width="144"/>
-</item>
-<item>
-  <title>Enabling a Rapid and Just Transition away from Coal in China</title>
-  <dc:creator>Gang He</dc:creator>
-  <dc:creator>Jiang Lin</dc:creator>
-  <dc:creator>Ying Zhang</dc:creator>
-  <dc:creator>Wenhua Zhang</dc:creator>
-  <dc:creator>Guilherme Larangeira</dc:creator>
-  <dc:creator>Chao Zhang</dc:creator>
-  <dc:creator>Wei Peng</dc:creator>
-  <dc:creator>Manzhi Liu</dc:creator>
-  <dc:creator>Fuqiang Yang</dc:creator>
-  <link>https://drganghe.github.io/posts/2020-08-oneearth-coal-just-transition/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Paper
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Enabling a Rapid and Just Transition away from Coal in China<br>
-<strong>Gang He</strong>*, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang<br>
-<em>One Earth</em> (2020)<br>
-DOI: <a href="https://doi.org/10.1016/j.oneear.2020.07.012">10.1016/j.oneear.2020.07.012</a></p>
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>As the world’s largest coal producer and consumer, China’s transition from coal to cleaner energy sources is critical for achieving global decarbonization. Increasing regulations on air pollution and carbon emissions and decreasing costs of renewables drive China’s transition away from coal; however, this transition also has implications for employment and social justice. Here, we assess China’s current coal-transition policies, their barriers, and the potential for an accelerated transition, as well as the associated environmental, human health, and employment and social justice issues that may arise from the transition. We estimate that the most aggressive coal-transition pathway could reduce annual premature death related to coal combustion by 224,000 and reduce annual water consumption by 4.3 billion m3 in 2050 compared with business-as-usual. We highlight knowledge gaps and conclude with policy recommendations for an integrated approach to facilitate a rapid and just transition away from coal in China.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://www.cell.com/one-earth/fulltext/S2590-3322(20)30356-0">paper</a></p>
-<p>Open access <a href="https://www.cell.com/action/showPdf?pii=S2590-3322%2820%2930356-0">pdf</a></p>
-<p>Github <a href="https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China">data and resources</a></p>
-<p><a href="https://news.stonybrook.edu/homespotlight/study-shows-huge-benefits-of-transitioning-away-from-coal-in-china/">SBU News</a></p>
-<p><a href="../../posts/2020-10-nature-news-carbon-neutrality/index.html"><em>Nature</em> News</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2020.07.012">
-
-</div>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2020.07.012" data-hide-zero-citations="true" data-style="small_circle"></span>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</section>
-<section id="twitter-thread" class="level2">
-<h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
-<blockquote class="twitter-tweet blockquote">
-<p lang="en" dir="ltr">
-New Perspective <a href="https://twitter.com/stonybrooku?ref_src=twsrc%5Etfw"><span class="citation" data-cites="stonybrooku">(</span></a><strong>stonybrooku?</strong>) with Dr.&nbsp;Lin <a href="https://twitter.com/BerkeleyLab?ref_src=twsrc%5Etfw"><span class="citation" data-cites="BerkeleyLab">(</span></a><strong>BerkeleyLab?</strong>), <a href="https://twitter.com/WeiPeng_Pton?ref_src=twsrc%5Etfw"><span class="citation" data-cites="WeiPeng_Pton">(</span></a><strong>WeiPeng_Pton?</strong>), Dr.&nbsp;Yang <a href="https://twitter.com/NRDC?ref_src=twsrc%5Etfw"><span class="citation" data-cites="NRDC">(</span></a><strong>NRDC?</strong>) and others in <a href="https://twitter.com/OneEarth_CP?ref_src=twsrc%5Etfw"><span class="citation" data-cites="OneEarth_CP">(</span></a><strong>OneEarth_CP?</strong>) : <br><br>Title: Enabling a rapid and just transition away from coal in China<br><br>Paper: <a href="https://t.co/m1V93ybazP">https://t.co/m1V93ybazP</a> <br>PDF: <a href="https://t.co/OZajVVgrx7">https://t.co/OZajVVgrx7</a><br>Release: <a href="https://t.co/JNgI9xJvoW">https://t.co/JNgI9xJvoW</a> <a href="https://t.co/UYrAIicsL6">pic.twitter.com/UYrAIicsL6</a>
-</p>
-— Gang He (<span class="citation" data-cites="DrGangHe">(<strong>DrGangHe?</strong>)</span>) <a href="https://twitter.com/DrGangHe/status/1296912353917886464?ref_src=twsrc%5Etfw">August 21, 2020</a>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</section>
-<section id="sbu-press-release" class="level2">
-<h2 class="anchored" data-anchor-id="sbu-press-release">SBU Press Release</h2>
-<blockquote class="blockquote">
-<h3 id="study-shows-huge-benefits-of-transitioning-away-from-coal-in-china" class="anchored"><a href="https://news.stonybrook.edu/homespotlight/study-shows-huge-benefits-of-transitioning-away-from-coal-in-china/">Study Shows Huge Benefits of Transitioning Away from Coal in China</a></h3>
-<p>August 21, 2020</p>
-<p>China is the world’s largest producer and consumer of coal. A team of international scientists led by Stony Brook University’s Gang He, contend that China needs to transition away from coal to help the world achieve global decarbonization and improve the nation’s environmental and human health. In a perspective paper published in One Earth, the team outlines steps that can be taken for an albeit difficult, yet just and quicker transition away from coal.</p>
-<p>The study proposes a political-socio-economic perspective targeting an integrated value chain to highlight a few overarching strategies and implementing policies accelerating China’s transition away from coal. This is different from the conventional discussion on coal transition, which usually centers on air pollution, carbon emission and competition from renewables.</p>
-<p>“Our paper is an effort to include in the overall discussion the employment and social justice impacts, including environmental justice, of such a transition,” said Dr.&nbsp;He, assistant professor in the Department of Technology and Society in the College of Engineering and Applied Sciences at Stony Brook University.</p>
-<p>“The benefits of China’s transition away from coal is huge. We estimate that the most aggressive coal-transition pathway could reduce premature death related to coal combustion by 224,000 in 2050, compared to the business-as-usual scenario,” said Dr.&nbsp;He. “Similarly, our maximum estimated reduction in water consumption, arguably the most vital of all resources, is about 4.3 billion m3 in 2050.”</p>
-<p>The researchers argue that for a rapid transition away from coal, China needs to take these steps:</p>
-<ul>
-<li>Retire coal generating plants earlier and cancel newly planned coal projects.</li>
-<li>Reduce the nation’s coal consumption beyond the massive power sector.</li>
-<li>A rapid transition presents economic and social challenges that should be met with new economic opportunities.</li>
-<li>Attempt to align the motivations and incentives of key business and government stakeholders, which are often not coordinated.</li>
-</ul>
-<p>Dr.&nbsp;He emphasizes that a successful coal transition would involve changes that must take into account the well-being and economic security of some three million people who work in coal mining-related jobs in China, as well as another 500,000 who work within the coal power industry. A just transition away from coal, the authors write, also needs to accommodate low-income groups that rely on abundant, cheap and readily available coal for basic electricity and heating service.</p>
-<p>To start the transition, the authors propose the creation of a dedicated task force charged with facilitating action plans to be carried out and a process that serves the best interests of affected stakeholders and China’s diverse population.</p>
-</blockquote>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{he2020,
-  author = {He, Gang and Lin, Jiang and Zhang, Ying and Zhang, Wenhua
-    and Larangeira, Guilherme and Zhang, Chao and Peng, Wei and Liu,
-    Manzhi and Yang, Fuqiang},
-  title = {Enabling a {Rapid} and {Just} {Transition} Away from {Coal}
-    in {China}},
-  journal = {One Earth},
-  volume = {3},
-  number = {2},
-  pages = {187-194},
-  date = {2020-08-21},
-  url = {https://www.cell.com/one-earth/fulltext/S2590-3322(20)30356-0},
-  doi = {10.1016/j.oneear.2020.07.012},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-he2020" class="csl-entry quarto-appendix-citeas">
-He, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira,
-Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020.
-<span>“Enabling a Rapid and Just Transition Away from Coal in
-China.”</span> <em>One Earth</em> 3 (2): 187–94. <a href="https://doi.org/10.1016/j.oneear.2020.07.012">https://doi.org/10.1016/j.oneear.2020.07.012</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/posts/2020-08-oneearth-coal-just-transition/index.html</guid>
-  <pubDate>Fri, 21 Aug 2020 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2020-08-oneearth-coal-just-transition/featured.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>China’s power sector could be ‘10% cheaper in 2030’ with more renewables</title>
-  <dc:creator>Jiang Lin</dc:creator>
-  <dc:creator>Gang He</dc:creator>
-  <link>https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>In a new <a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html">study</a> <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span> published in <a href="https://www.nature.com/articles/s41467-020-16184-x"><em>Nature Communications</em></a>, we explore the implications of clean-energy cost trends for the electricity system in China over the next decade. We found that if China uses the most cost-effective renewable energy resources, it could generate more than 60% of its electricity from “non-fossil” sources by 2030 – including wind, solar, hydro and nuclear – at a cost that is around 10% lower than under business-as-usual.</p>
-</section>
-<section id="background" class="level2">
-<h2 class="anchored" data-anchor-id="background">Background</h2>
-<p>The costs for solar, wind and battery storage have dropped markedly since 2010 and are expected to decline further in the near future. This rapid fall in costs could have a large effect on energy system investment and policies, but has not been fully captured in energy modelling.</p>
-<p>This is particularly relevant for China, which is now debating whether to build hundreds of new coal-fired power plants in the 2020s, despite overcapacity and financial distress in the sector.</p>
-<p>In a new study, published in Nature Communications, we worked with my colleagues to explore the implications of clean-energy cost trends for the electricity system in China over the next decade.</p>
-<p>We found that if China uses the most cost-effective renewable energy resources, it could generate more than 60% of its electricity from “non-fossil” sources by 2030 – including wind, solar, hydro and nuclear – at a cost that is around 10% lower than under business-as-usual.</p>
-<p>This cleaner electricity mix would still reliably meet rising demand. This suggests China could raise its target to get 50% of its electricity from non-fossil sources by 2030, while saving money.</p>
-</section>
-<section id="balancing-priorities" class="level2">
-<h2 class="anchored" data-anchor-id="balancing-priorities">Balancing priorities</h2>
-<p>It is often said that renewable sources of electricity, such as wind and solar, are variable and expensive. However, the recent innovation in technology and operation of electricity grids – and, in particular, the availability of cheaper storage – have changed the industry outlook.</p>
-<p>In this study, we used an electricity system capacity expansion model (SWITCH-China) to explore how the Chinese power system could be expanded to meet rising electricity demand. We developed four scenarios for 2030 to explore the implications of a continued, rapid decrease in renewable energy costs.</p>
-<p>The scenarios are:</p>
-<ol type="1">
-<li><p>Business-as-usual scenario (BAU), which assumes the continuation of current policies and moderate cost decreases in future renewable costs;</p></li>
-<li><p>Low-cost renewables scenario (R), which assumes the rapid recent decrease in costs for renewables and storage will continue;</p></li>
-<li><p>Carbon constraints scenario (C50), which has a power-sector carbon cap of 50% below 2015 levels in 2030, on top of the R scenario;</p></li>
-<li><p>Deep carbon constraints scenario (C80), which further constrain the carbon emissions from the power sector to be 80% lower than the 2015 level by 2030.</p></li>
-</ol>
-<p>All scenarios assume the same electricity demand projection, which reaches 8,757 terawatt hours (TWh) in 2030, up from 7,225TWh today.</p>
-<p>Our modeling results show that, as expected, rapid decreases in the costs of renewable energy sources lead to more wind and solar capacity being installed. If the levelised cost of energy (LCOE) for solar, wind and storage follows recent global trends then, by 2030, China could meet expected demand with 62% of its electricity from non-fossil sources under the R scenario with the lowest overall cost.</p>
-<p>This “R” scenario is shown in Figure&nbsp;1, in the second column on the right-hand side, with wind (green) and solar (yellow) providing 39% of the total. As a result of higher non-fossil output, coal-based generation (black) could be just 3,700TWh in 2030 under the R scenario, some 30% lower than under BAU (4,900TWh). Battery storage (orange) and small amounts of gas (purple) generation would supplement the increasing wind and solar supplies.</p>
-<div id="fig-electricity-generation-by-fuel" class="quarto-figure quarto-figure-left anchored">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/electricity-generation-by-fuel.jpeg" class="img-fluid figure-img" style="width:95.0%"></p>
-<figcaption class="figure-caption">Figure&nbsp;1: Electricity generation by fuel, terawatt hours, in 2020 (left), 2025 (centre) and 2030 (right), under each of the four modelled scenarios. Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption>
-</figure>
-</div>
-<!---
-<img src="electricity-generation-by-fuel.jpeg" title="Electricity generation by fuel, terawatt hours, in 2020 (left), 2025 (centre) and 2030 (right), under each of the four modelled scenarios. Source: He et al. (2020).">
---->
-</section>
-<section id="wind-solar-and-storage-growth" class="level2">
-<h2 class="anchored" data-anchor-id="wind-solar-and-storage-growth">Wind, solar and storage growth</h2>
-<p>Non-fossil sources of electricity would need to grow their capacity dramatically over the next decade if they are to meet such significant shares of electricity demand in China. Figure&nbsp;2 shows the capacity of each source, in gigawatts (GW), under the four scenarios.</p>
-<p>By 2030, wind and solar capacity would reach 660GW and 1,260GW under the “R” scenario, respectively. These figures can be compared with current wind and solar capacity of 210GW and 204GW, respectively.</p>
-<div id="fig-mix-of-installed-power-capacity" class="quarto-figure quarto-figure-left anchored">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/mix-of-installed-power-capacity.jpeg" class="img-fluid figure-img" style="width:95.0%"></p>
-<figcaption class="figure-caption">Figure&nbsp;2: Mix of installed power capacity, gigawatts, in each of the four scenarios in 2020 (left), 2025 (centre), and 2030 (right). Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption>
-</figure>
-</div>
-<!--
-<img src="mix-of-installed-power-capacity.jpeg" caption="Mix of installed power capacity, gigawatts, in each of the four scenarios in 2020 (left), 2025 (centre), and 2030 (right). Source: He et al. (2020)." >
--->
-<p>With wind and solar generating increasing shares of China’s electricity, there would be a growing need for system flexibility and storage capacity to help integrate their variable output, while reliably meeting demand at all times.</p>
-<p>By 2030, storage capacity – including from batteries – is just 34GW under BAU, but needs to grow to as much as 307GW in the R scenario, as shown in orange in Figure&nbsp;2 above.</p>
-<p>To put this in context, pumped hydro capacity in China in 2015 was about 25GW and has been expanding very quickly. In our scenarios, it is estimated to reach up to 130GW by 2030, with the remaining 177GW coming from battery storage or other storage technology.</p>
-<p>This large capacity would be very ambitious to deploy in a comparatively short time, requiring about 11.8GW annually during the period we modelled. If battery efficiency and performance were to improve more quickly than we assumed, the needed storage capacity would be smaller.</p>
-</section>
-<section id="cost-of-carbon-mitigation" class="level2">
-<h2 class="anchored" data-anchor-id="cost-of-carbon-mitigation">Cost of carbon mitigation</h2>
-<p>In the next part of our research, we evaluate the CO2 emissions impact due to increasing generation from renewable energy and decreasing generation from fossil fuels. Our results show that a low-cost renewables (R) scenario would result in 25% lower emissions, at 2,970 million metric tonnes of CO2 (MtCO2) in 2030 versus 3,980MtCO2 under the BAU scenario.</p>
-<p>This is shown in the left-hand chart in Figure&nbsp;3, where power-sector CO2 emissions would be expected to remain relatively constant under BAU (blue line), but would fall rapidly over the next decade under the “R” low-cost renewables pathway (orange).</p>
-<div id="fig-co2-and-power-costs" class="quarto-figure quarto-figure-left anchored">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/co2-and-power-costs.jpeg" class="img-fluid figure-img" style="width:95.0%"></p>
-<figcaption class="figure-caption">Figure&nbsp;3: Power-sector CO2 emissions 2015-2030 (a, left, millions of tonnes) and electricity generation costs, including the cost of storage and other grid infrastructure (b, right, dollars per megawatt hour) under the four scenarios. Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption>
-</figure>
-</div>
-<!--
-<img src="co2-and-power-costs.jpeg" title="Power-sector CO2 emissions 2015-2030 (a, left, millions of tonnes) and electricity generation costs, including the cost of storage and other grid infrastructure (b, right, dollars per megawatt hour) under the four scenarios. Source: He et al. (2020)." >
--->
-<p>Given the remarkable and ongoing reductions in the cost of renewable power, the 25% reduction in carbon emissions could be achieved for a lower cost of power under the R scenario than under the BAU scenario, as shown in Figure&nbsp;3 right.</p>
-<p>In 2030, total costs under the R scenario are 11% lower than those under the BAU scenario. As a result, the implied cost of carbon reduction would be -$36 per tonne of CO2. Even under the carbon cap (C50) scenario, China could eliminate half of its 2015 emissions from the power sector by 2030 at 6% lower cost, while delivering 77% of electricity from non-fossil sources.</p>
-</section>
-<section id="regional-power-trade" class="level2">
-<h2 class="anchored" data-anchor-id="regional-power-trade">Regional power trade</h2>
-<p>In the final part of our work, we examined the regional implications of rising renewable output for the power system in 2030. In particular, we found regional disparities in the location of the most cost-effective renewable energy resources in China.</p>
-<p>With the assumed decrease in costs for solar, wind and storage technologies, the northwest region could emerge as a national supplier of carbon-neutral electricity, while the eastern grid could become increasingly import-dependent to meet its demand.</p>
-<p>Such a regional imbalance would become larger with greater penetration of renewables, as would the need for inter-provincial transmission lines. For each region on the map, Figure&nbsp;4 shows electricity generation from each fuel in 2030, under the four different scenarios that we studied. The dotted lines show that region’s electricity demand and the magenta arrows represent electricity flows from one region to another in the R scenario.</p>
-<div id="fig-regional-transmission" class="quarto-figure quarto-figure-left anchored">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/regional-transmission.jpeg" class="img-fluid figure-img" style="width:95.0%"></p>
-<figcaption class="figure-caption">Figure&nbsp;4: Regional generation, demand and interregional transmission map for the R scenario in 2030, in terawatt hours. Each region shows a graph, with bars representing generation from each fuel for the four different scenarios, in order of increased carbon reduction (from left to right: BAU, RE, C50 and C80). The dotted line across all bars in each set of generation graphs represents the yearly demand in 2030 in each region, which stays constant across the four scenarios. The magenta arrows point in the direction of the transmission flow between two regions. Source: <span class="citation" data-cites="he_rapid_2020">He et al. (2020)</span>.</figcaption>
-</figure>
-</div>
-<!--
-<img src="regional-transmission.jpeg" title="Regional generation, demand and interregional transmission map for the R scenario in 2030, in terawatt hours. Each region shows a graph, with bars representing generation from each fuel for the four different scenarios, in order of increased carbon reduction (from left to right: BAU, RE, C50 and C80). The dotted line across all bars in each set of generation graphs represents the yearly demand in 2030 in each region, which stays constant across the four scenarios. The magenta arrows point in the direction of the transmission flow between two regions. Source: He et al. (2020)." >
---->
-</section>
-<section id="clean-energy-transition-and-post-covid-recovery" class="level2">
-<h2 class="anchored" data-anchor-id="clean-energy-transition-and-post-covid-recovery">Clean energy transition and post-Covid recovery</h2>
-<p>As China drafts its 14th five-year plan (due next year) and deliberates its own post-Covid economic recovery measures, our research offers valuable insights into the cheapest ways to meet the country’s rising electricity demand.</p>
-<p>Most notably, we found that China could cut emissions from its power sector at lower overall cost than a business-as-usual approach, by relying more heavily on renewables and storage. This would have co-benefits including reducing harmful air pollution, cutting water use and creating green jobs.</p>
-<p>In contrast, there are signs that some local governments are fast-tracking more new coal power plants this year, despite the fact that half of China’s existing capacity is already losing money and the entire fleet only operates half the time, a sign of overcapacity.</p>
-<p>While it should save money overall, the scale of the transformation implied by our work is significant and would require a very rapid acceleration of current progress. The capacity of renewables and storages, as well as transmission infrastructure, would need to be scaled up very quickly.</p>
-<p>Nevertheless, our analysis shows that such a fast decarbonisation and clean power transition is both technically feasible and economically beneficial.</p>
-<p>Options to bring such a transition about could include long-term targets for clean energy, such as a zero-emission power target, as well as electricity market reforms. This could create incentives to reduce institutional barriers to trading power across regions and to better integrate renewable energy.</p>
-<p>Check the original post at <a href="https://www.carbonbrief.org/guest-post-chinas-power-sector-could-be-10-per-cent-cheaper-in-2030-with-more-renewables" target="_blank">Carbon Brief</a>. Read more about our <a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html">paper</a>.</p>
-<section id="references" class="level3">
-<h3 class="anchored" data-anchor-id="references">References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent">
-<div id="ref-he_rapid_2020" class="csl-entry">
-He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. <span>“Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.”</span> <em>Nature Communications</em> 11 (1): 2486. <a href="https://doi.org/10.1038/s41467-020-16184-x">https://doi.org/10.1038/s41467-020-16184-x</a>.
-</div>
-</div>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>commentary</category>
-  <guid>https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/index.html</guid>
-  <pubDate>Wed, 03 Jun 2020 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2020-06-ncomms-paper-summary/featured.png" medium="image" type="image/png" height="68" width="144"/>
 </item>
 </channel>
 </rss>

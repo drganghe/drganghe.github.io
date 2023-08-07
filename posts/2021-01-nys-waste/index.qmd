@@ -5,8 +5,6 @@ author: "SBU News"
 date: "2021-01-28"
 categories: [news]
 image: "featured.jpg"
-include-in-header: 
-  - canonical.html
 ---
 
 ## Summary

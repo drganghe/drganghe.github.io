@@ -16,18 +16,5 @@ City University of New York
 
 E-mail: <gang.he@baruch.cuny.edu>
 
-<hr style="width:50%">
-
-Department of Technology and Society
-
-Stony Brook University
-
-Stony Brook, NY 11794-4404
-
-E-mail: <Gang.He@stonybrook.edu>
-
-Office: 1420 Computer Science
-
-Office phone: +1 (631) 632-7689
 
 </center>

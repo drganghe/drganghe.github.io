@@ -12,10 +12,10 @@ css: /custom.css
 
 \* denotes corresponding author; <sup>GS</sup> denotes graduate student advisee; <sup>VS</sup> denotes visiting scholar.  
 
-Total citations as of July 2023:
+Total citations as of August 2023:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,700 (h-index = 24)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 2,800 (h-index = 29, i10-index = 48) 
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,600 (h-index = 23)   
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 2,900 (h-index = 29, i10-index = 48) 
 
 ## Selected Work
 
@@ -60,7 +60,7 @@ Zhang, Chao, **Gang He**\*, Josiah Johnston, and Lijin Zhong. 2021. [Long-Term 
 
 <center><hr style="width:50%"></center>
 
-**He, Gang**\*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen\*. 2016. [SWITCH-China: A Systems Approach to Decarbonizing China’s Power System](/posts/2016-est-switch-china/index.qmd). *Environmental Science & Technology* 50(11): 5467–5473. doi: [10.1021/acs.est.6b01345](https://doi.org/10.1021/acs.est.6b01345). \[[pdf](/files/papers/2016-EST-SWITCH-China.pdf)\]  \[[Supporting Information](https://www.researchgate.net/publication/303312092_SWITCH-China_A_Systems_Approach_to_Decarbonizing_China%27s_Power_System_SI)\] \[[Poster](/posts/2016-est-switch-china/poster.jpg)\]  <span class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.6b01345" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1021/acs.est.6b01345" data-hide-no-mentions="true" class="altmetric-embed"></div>   
+**He, Gang**\*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen\*. 2016. [SWITCH-China: A Systems Approach to Decarbonizing China’s Power System](/posts/2016-est-switch-china/index.qmd). *Environmental Science & Technology* 50(11): 5467–5473. doi: [10.1021/acs.est.6b01345](https://doi.org/10.1021/acs.est.6b01345). \[[pdf](/files/papers/2016-EST-SWITCH-China.pdf)\]  \[[Supporting Information](https://www.researchgate.net/publication/303312092_SWITCH-China_A_Systems_Approach_to_Decarbonizing_China%27s_Power_System_SI)\] \[[Poster](/files/posters/switch-china-poster.jpeg)\]  <span class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.6b01345" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1021/acs.est.6b01345" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 **Invited presentation**: Lawrence Berkeley National Laboratory, Carnegie Mellon University, Michigan State University
 
 <center><hr style="width:50%"></center>
@@ -87,7 +87,9 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 
 ## Peer-reviewed Journal Paper
 
-Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](https://www.nature.com/articles/s41560-023-01304-w). *Nature Energy*, July, 1–11. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). [[pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)]
+Yue Qin\*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liangdian Huang, Chaopeng Hong\*, Edward Byers, Daniel Gingerich, Jeff M. Bielicki, **Gang He**. 2023. [Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation](https://www.nature.com/articles/s44221-023-00120-6). *Nature Water*. doi: [10.1038/s44221-023-00120-6](https://doi.org/10.1038/s44221-023-00120-6). [[pdf](https://www.nature.com/articles/s44221-023-00120-6.pdf)]  
+
+Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](https://www.nature.com/articles/s41560-023-01304-w). *Nature Energy*. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). [[pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)]
 
 Li, Bo\*, Dekai Jing, Haiwang Zhong, **Gang He**, Ziming Ma, Guangchun Ruan, Minyou Chen, and Daniel M. Kammen. 2023. [Centralized Charging Station Planning for Battery Electric Trucks Considering the Impacts on Electricity Distribution Systems](https://www.sciencedirect.com/science/article/pii/S2352484723004547). *Energy Reports* 9: 346–57. doi: [10.1016/j.egyr.2023.04.090](https://doi.org/10.1016/j.egyr.2023.04.090). \[[pdf](https://www.sciencedirect.com/science/article/pii/S2352484723004547/pdfft?md5=3fa00e46993ada2520dff9856331657f&pid=1-s2.0-S2352484723004547-main.pdf)]
 
