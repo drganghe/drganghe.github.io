@@ -51,7 +51,7 @@ https://badge.dimensions.ai/
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/featured.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Spatial pattern of global dry cooling generation units associated water-carbon interactions</figcaption>
+<figcaption class="figure-caption">Spatial pattern of global dry cooling generation units associated energy-water-carbon interactions</figcaption>
 </figure>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -72,12 +72,12 @@ DOI: <a href="https://doi.org/10.1038/s44221-023-00120-6">10.1038/s44221-023-001
 </div>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Water scarcity and climate change are dual challenges that could potentially threaten energy security. Yet, integrated water-carbon management frameworks coupling diverse water and carbon-mitigation technologies at high spatial heterogeneity are largely underdeveloped. Here, we build a global unit-level framework to investigate the CO2 emission and energy penalty due to the deployment of dry cooling–a critical water mitigation strategy–together with alternative water sourcing and carbon capture and storage (CCS) under climate scenarios. We find that CO2 emission and energy penalty for dry cooling units are location and climate specific (e.g., 1-15% of power output), often demonstrating significantly faster efficiency losses than rising temperature, especially under the high climate change scenario. Despite energy and CO2 penalties associated with unconventional water and CCS utilization, increasing wastewater and brine water accessibility provide potential alternatives to dry cooling for water scarcity alleviation, whereas CO2 storage can help to mitigate dry cooling-associated CO2 emission tradeoffs when alternative water sourcing is insufficient. By demonstrating an integrative planning framework, our study highlights the importance of integrated power sector planning under interconnected dual water carbon challenges.</p>
+<p>Water scarcity and climate change are dual challenges that could potentially threaten energy security. Yet, integrated water–carbon management frameworks coupling diverse water- and carbon-mitigation technologies at high spatial heterogeneity are largely underdeveloped. Here we build a global unit-level framework to investigate the CO2 emission and energy penalty due to the deployment of dry cooling—a critical water mitigation strategy—together with alternative water sourcing and carbon capture and storage under climate scenarios. We find that CO2 emission and energy penalty for dry cooling units are location and climate specific (for example, 1–15% of power output), often demonstrating notably faster efficiency losses than rising temperature, especially under the high climate change scenario. Despite energy and CO2 penalties associated with alternative water treatment and carbon capture and storage utilization, increasing wastewater and brine water accessibility provide potential alternatives to dry cooling for water scarcity alleviation, whereas CO2 storage can help to mitigate dry cooling-associated CO2 emission tradeoffs when alternative water supply is insufficient. By demonstrating an integrative planning framework, our study highlights the importance of integrated power sector planning under interconnected dual water–carbon challenges.</p>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Published <a href="https://www.nature.com/articles/s44221-023-00120-6">paper</a></p>
-<p>Published <a href="https://www.nature.com/articles/s44221-023-00120-6.pdf">pdf</a></p>
+<p>View-only SharedIt <a href="https://rdcu.be/diKmv">full-text</a></p>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s44221-023-00120-6">
 
