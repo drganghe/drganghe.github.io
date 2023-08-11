@@ -14,8 +14,107 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.4.186</generator>
-<lastBuildDate>Mon, 07 Aug 2023 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Fri, 11 Aug 2023 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Heterogeneous effects of battery storage deployment strategies on decarbonization of provincial power systems in China</title>
+  <dc:creator>Liqun Peng</dc:creator>
+  <dc:creator>Denise L. Mauzerall</dc:creator>
+  <dc:creator>Yaofeng D. Zhong</dc:creator>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/posts/2023-08-ncomms-heterogeneous-effects-of-battery-storage-deployment-strategies/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2023-08-ncomms-heterogeneous-effects-of-battery-storage-deployment-strategies/featured.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Three battery storage deployment strategies</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Heterogeneous effects of battery storage deployment strategies on decarbonization of provincial power systems in China<br>
+Liqun Peng, Denise L. Mauzerall*, Yaofeng D. Zhong, <strong>Gang He</strong>*<br>
+<em>Nature Communications</em> (2023)<br>
+DOI: <a href="https://doi.org/10.1038/s41467-023-40337-3">10.1038/s41467-023-40337-3</a></p>
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Battery storage is critical for integrating variable renewable generation, yet how the location, scale, and timing of storage deployment affect system costs and carbon dioxide (CO2) emissions is uncertain. We improve a power system model, SWITCH-China, to examine three nationally uniform battery deployment strategies (Renewable-connected, Grid-connected, and Demand-side) and a heterogeneous battery deployment strategy where each province is allowed to utilize any of the three battery strategies. Here, we find that the heterogeneous strategy always provides the lowest system costs among all four strategies, where provinces with abundant renewable resources dominantly adopt Renewable-connected batteries while those with limited renewables dominantly adopt Demand-side batteries. However, which strategy achieves the lowest CO2 emissions depends on carbon prices. The Renewable-connected strategy achieves the lowest CO2 emissions when carbon prices are relatively low, and the heterogeneous strategy results in the lowest CO2 emissions only at extremely high carbon prices.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.nature.com/articles/s41467-023-40337-3">paper</a></p>
+<p>Open-access <a href="https://www.nature.com/articles/s41467-023-40337-3.pdf">pdf</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-40337-3">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-40337-3" data-hide-zero-citations="true" data-style="small_circle"></span>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{peng2023,
+  author = {Peng, Liqun and L. Mauzerall, Denise and D. Zhong, Yaofeng
+    and He, Gang},
+  title = {Heterogeneous Effects of Battery Storage Deployment
+    Strategies on Decarbonization of Provincial Power Systems in
+    {China}},
+  journal = {Nature Communications},
+  volume = {14},
+  pages = {4858},
+  date = {2023-08-11},
+  url = {https://www.nature.com/articles/s41467-023-40337-3},
+  doi = {10.1038/s41467-023-40337-3},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-peng2023" class="csl-entry quarto-appendix-citeas">
+Peng, Liqun, Denise L. Mauzerall, Yaofeng D. Zhong, and Gang He. 2023.
+<span>“Heterogeneous Effects of Battery Storage Deployment Strategies on
+Decarbonization of Provincial Power Systems in China.”</span> <em>Nature
+Communications</em> 14 (August): 4858. <a href="https://doi.org/10.1038/s41467-023-40337-3">https://doi.org/10.1038/s41467-023-40337-3</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/posts/2023-08-ncomms-heterogeneous-effects-of-battery-storage-deployment-strategies/index.html</guid>
+  <pubDate>Fri, 11 Aug 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2023-08-ncomms-heterogeneous-effects-of-battery-storage-deployment-strategies/featured.png" medium="image" type="image/png" height="95" width="144"/>
+</item>
 <item>
   <title>Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation</title>
   <dc:creator>Yue Qin</dc:creator>
@@ -78,6 +177,7 @@ DOI: <a href="https://doi.org/10.1038/s44221-023-00120-6">10.1038/s44221-023-001
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Published <a href="https://www.nature.com/articles/s44221-023-00120-6">paper</a></p>
 <p>View-only SharedIt <a href="https://rdcu.be/diKmv">full-text</a></p>
+<p>Stony Brook University <a href="https://news.stonybrook.edu/newsroom/taking-a-global-look-at-dry-and-alternative-water-cooling-of-power-plants/">news</a></p>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s44221-023-00120-6">
 
@@ -611,13 +711,13 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 
 
-<div id="quarto-appendix" class="default"><aside id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>Source: <a href="https://www.iamconsortium.org/iamc-announcements/news-iamc-announcement/iamc-2022-conference-material-and-statistics/">IAMC 2022: Conference material and statistics</a>.↩︎</p></li>
 <li id="fn2"><p>This number was updated from 20-25% to reflect an <a href="https://www.nature.com/articles/s41586-023-06262-7">Author Correction</a>.↩︎</p></li>
 </ol>
-</aside></div> ]]></description>
+</section></div> ]]></description>
   <category>news</category>
   <category>poster</category>
   <category>video</category>
@@ -712,12 +812,12 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 
 
-<div id="quarto-appendix" class="default"><aside id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>This number was updated from 20-25% to reflect an <a href="https://www.nature.com/articles/s41586-023-06262-7">Author Correction</a>.↩︎</p></li>
 </ol>
-</aside></div> ]]></description>
+</section></div> ]]></description>
   <category>commentary</category>
   <guid>https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/index.html</guid>
   <pubDate>Mon, 21 Nov 2022 05:00:00 GMT</pubDate>
@@ -1593,54 +1693,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2021-01-nys-waste/index.html</guid>
   <pubDate>Thu, 28 Jan 2021 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2021-01-nys-waste/featured.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Nature News featured our studies on China’s clean energy transition</title>
-  <dc:creator>Smriti Mallapaty</dc:creator>
-  <link>https://drganghe.github.io/posts/2020-10-nature-news-carbon-neutrality/index.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="news-link" class="level2">
-<h2 class="anchored" data-anchor-id="news-link">News Link</h2>
-<p><a href="https://www.nature.com/articles/d41586-020-02927-9" class="uri">https://www.nature.com/articles/d41586-020-02927-9</a></p>
-</section>
-<section id="quotes" class="level2">
-<h2 class="anchored" data-anchor-id="quotes">Quotes</h2>
-<blockquote class="blockquote">
-<p>“But battery storage has become cheaper over the past decade, and that could bring costs down, says Gang He, an energy-systems modeller at Stony Brook University in New York. If trends in the cost of renewables technology continue, more than 60% of China’s electricity could come from non-fossil fuels by 2030, says (Gang) He. “That is quite encouraging.”</p>
-</blockquote>
-<p>……</p>
-<blockquote class="blockquote">
-<p>“But in making the shift, says (Gang) He, China also needs to consider the well-being and economic security of some 3.5 million workers in the coal mining and power industry, as well as the many people who rely on cheap electricity and heating.</p>
-</blockquote>
-</section>
-<section id="featured-papers" class="level2">
-<h2 class="anchored" data-anchor-id="featured-papers">Featured Papers</h2>
-<ul>
-<li><p>He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “<a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html">Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System</a>.” <em>Nature Communications</em> 11 (1): 2486. <a href="https://doi.org/10.1038/s41467-020-16184-x" class="uri">https://doi.org/10.1038/s41467-020-16184-x</a>.</p></li>
-<li><p>He, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. “<a href="../../posts/2020-08-oneearth-coal-just-transition/index.html">Enabling a Rapid and Just Transition Away from Coal in China</a>.” <em>One Earth</em> 3 (2): 187–94. <a href="https://doi.org/10.1016/j.oneear.2020.07.012" class="uri">https://doi.org/10.1016/j.oneear.2020.07.012</a>.</p></li>
-</ul>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/posts/2020-10-nature-news-carbon-neutrality/index.html</guid>
-  <pubDate>Mon, 19 Oct 2020 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2020-10-nature-news-carbon-neutrality/featured.png" medium="image" type="image/png" height="75" width="144"/>
 </item>
 </channel>
 </rss>

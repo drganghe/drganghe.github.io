@@ -14,7 +14,7 @@ css: /custom.css
 
 Total citations as of August 2023:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,600 (h-index = 23)   
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,700 (h-index = 23)   
 - [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 2,900 (h-index = 29, i10-index = 48) 
 
 ## Selected Work
@@ -87,7 +87,9 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 
 ## Peer-reviewed Journal Paper
 
-Yue Qin\*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liangdian Huang, Chaopeng Hong\*, Edward Byers, Daniel Gingerich, Jeff M. Bielicki, **Gang He**. 2023. [Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation](https://www.nature.com/articles/s44221-023-00120-6). *Nature Water*. doi: [10.1038/s44221-023-00120-6](https://doi.org/10.1038/s44221-023-00120-6). [[full-text](https://rdcu.be/diKmv)]  
+Peng, Liqun, Denise L. Mauzerall\*, Yaofeng D. Zhong, and **Gang He**\*. 2023. [Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China](https://www.nature.com/articles/s41467-023-40337-3). *Nature Communications 14* (1): 4858. doi:[10.1038/s41467-023-40337-3](https://doi.org/10.1038/s41467-023-40337-3). [[pdf](https://www.nature.com/articles/s41467-023-40337-3.pdf)]
+
+Yue Qin\*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liangdian Huang, Chaopeng Hong\*, Edward Byers, Daniel Gingerich, Jeff M. Bielicki, and **Gang He**. 2023. [Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation](https://www.nature.com/articles/s44221-023-00120-6). *Nature Water*. doi: [10.1038/s44221-023-00120-6](https://doi.org/10.1038/s44221-023-00120-6). [[full-text](https://rdcu.be/diKmv)]  
 
 Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](https://www.nature.com/articles/s41560-023-01304-w). *Nature Energy*. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). [[pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)]
 
