@@ -58,6 +58,8 @@ Published [paper](https://www.nature.com/articles/s44221-023-00120-6)
 
 View-only SharedIt [full-text](https://rdcu.be/diKmv)
 
+Peking University [news](https://cese.pku.edu.cn/kycg/152096.htm)
+
 Stony Brook University [news](https://news.stonybrook.edu/newsroom/taking-a-global-look-at-dry-and-alternative-water-cooling-of-power-plants/)
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s44221-023-00120-6"></div>
@@ -65,6 +67,9 @@ Stony Brook University [news](https://news.stonybrook.edu/newsroom/taking-a-glob
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s44221-023-00120-6" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
+## Twitter Thread
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ICYMI. New paper in <a href="https://twitter.com/NatureWaterJnl?ref_src=twsrc%5Etfw">@NatureWaterJnl</a> led by <a href="https://twitter.com/hashtag/YueQin?src=hash&amp;ref_src=twsrc%5Etfw">#YueQin</a> builds a global unit-level framework to investigate the CO2 and energy penalty due to dry cooling and reveal the critical link between water scarcity, climate change, and energy security<br><br>Full-text: <a href="https://t.co/9axk9YdK9d">https://t.co/9axk9YdK9d</a> <a href="https://t.co/2HVSdZDbww">pic.twitter.com/2HVSdZDbww</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1693955754322002081?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--Include social share buttons-->
 

@@ -177,6 +177,7 @@ DOI: <a href="https://doi.org/10.1038/s44221-023-00120-6">10.1038/s44221-023-001
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Published <a href="https://www.nature.com/articles/s44221-023-00120-6">paper</a></p>
 <p>View-only SharedIt <a href="https://rdcu.be/diKmv">full-text</a></p>
+<p>Peking University <a href="https://cese.pku.edu.cn/kycg/152096.htm">news</a></p>
 <p>Stony Brook University <a href="https://news.stonybrook.edu/newsroom/taking-a-global-look-at-dry-and-alternative-water-cooling-of-power-plants/">news</a></p>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s44221-023-00120-6">
@@ -184,6 +185,16 @@ DOI: <a href="https://doi.org/10.1038/s44221-023-00120-6">10.1038/s44221-023-001
 </div>
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s44221-023-00120-6" data-hide-zero-citations="true" data-style="small_circle"></span>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</section>
+<section id="twitter-thread" class="level2">
+<h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
+<blockquote class="twitter-tweet blockquote">
+<p lang="en" dir="ltr">
+ICYMI. New paper in <a href="https://twitter.com/NatureWaterJnl?ref_src=twsrc%5Etfw"><span class="citation" data-cites="NatureWaterJnl">@NatureWaterJnl</span></a> led by <a href="https://twitter.com/hashtag/YueQin?src=hash&amp;ref_src=twsrc%5Etfw">#YueQin</a> builds a global unit-level framework to investigate the CO2 and energy penalty due to dry cooling and reveal the critical link between water scarcity, climate change, and energy security<br><br>Full-text: <a href="https://t.co/9axk9YdK9d">https://t.co/9axk9YdK9d</a> <a href="https://t.co/2HVSdZDbww">pic.twitter.com/2HVSdZDbww</a>
+</p>
+— Gang He (<span class="citation" data-cites="DrGangHe">@DrGangHe</span>) <a href="https://twitter.com/DrGangHe/status/1693955754322002081?ref_src=twsrc%5Etfw">August 22, 2023</a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -367,7 +378,10 @@ https://quarto.org/docs/authoring/includes.html
   title = {Climate Change Impacts on Planned Supply–Demand Match in
     Global Wind and Solar Energy Systems},
   journal = {Nature Energy},
-  date = {2023-07-24},
+  volume = {8},
+  number = {8},
+  pages = {870-880},
+  date = {2023-08-22},
   url = {https://www.nature.com/articles/s41560-023-01304-w},
   doi = {10.1038/s41560-023-01304-w},
   langid = {en}
@@ -376,7 +390,7 @@ https://quarto.org/docs/authoring/includes.html
 Liu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen,
 Jiashu Shen, and Shuangcheng Li. 2023. <span>“Climate Change Impacts on
 Planned Supply–Demand Match in Global Wind and Solar Energy
-Systems.”</span> <em>Nature Energy</em>, July. <a href="https://doi.org/10.1038/s41560-023-01304-w">https://doi.org/10.1038/s41560-023-01304-w</a>.
+Systems.”</span> <em>Nature Energy</em> 8 (8): 870–80. <a href="https://doi.org/10.1038/s41560-023-01304-w">https://doi.org/10.1038/s41560-023-01304-w</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
   <guid>https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html</guid>

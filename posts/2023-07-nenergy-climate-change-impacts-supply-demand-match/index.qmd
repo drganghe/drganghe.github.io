@@ -18,10 +18,10 @@ citation:
   container-title: "Nature Energy"
   doi: "10.1038/s41560-023-01304-w"
   available-date: "2023-07-24"
-  issued: "2023-07-24"
-#  volume: 612
-#  issue: 7938
-#  page: 83-87
+  issued: "2023-08-22"
+  volume: 8
+  issue: 8
+  page: 870-880
   url: https://www.nature.com/articles/s41560-023-01304-w
 #bibliography: cite.bib
 google-scholar: true

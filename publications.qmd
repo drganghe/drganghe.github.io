@@ -15,7 +15,7 @@ css: /custom.css
 Total citations as of August 2023:
 
 - [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,700 (h-index = 23)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 2,900 (h-index = 29, i10-index = 48) 
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 3,000 (h-index = 29, i10-index = 48) 
 
 ## Selected Work
 
@@ -91,7 +91,7 @@ Peng, Liqun, Denise L. Mauzerall\*, Yaofeng D. Zhong, and **Gang He**\*. 2023. [
 
 Yue Qin\*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liangdian Huang, Chaopeng Hong\*, Edward Byers, Daniel Gingerich, Jeff M. Bielicki, and **Gang He**. 2023. [Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation](https://www.nature.com/articles/s44221-023-00120-6). *Nature Water*. doi: [10.1038/s44221-023-00120-6](https://doi.org/10.1038/s44221-023-00120-6). [[full-text](https://rdcu.be/diKmv)]  
 
-Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](https://www.nature.com/articles/s41560-023-01304-w). *Nature Energy*. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). [[pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)]
+Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](https://www.nature.com/articles/s41560-023-01304-w). *Nature Energy* 8(8): 810–80. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). [[pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)]
 
 Li, Bo\*, Dekai Jing, Haiwang Zhong, **Gang He**, Ziming Ma, Guangchun Ruan, Minyou Chen, and Daniel M. Kammen. 2023. [Centralized Charging Station Planning for Battery Electric Trucks Considering the Impacts on Electricity Distribution Systems](https://www.sciencedirect.com/science/article/pii/S2352484723004547). *Energy Reports* 9: 346–57. doi: [10.1016/j.egyr.2023.04.090](https://doi.org/10.1016/j.egyr.2023.04.090). \[[pdf](https://www.sciencedirect.com/science/article/pii/S2352484723004547/pdfft?md5=3fa00e46993ada2520dff9856331657f&pid=1-s2.0-S2352484723004547-main.pdf)]
 
