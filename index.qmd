@@ -17,7 +17,7 @@ about:
       href: https://www.ganghe.net
     - icon: globe
       text: CUNYpage
-      href: https://marxe.baruch.cuny.edu/about/faculty-and-staff/full-time-faculty/
+      href: https://www.baruch.cuny.edu/profiles/faculty/Gang-He
     - icon: envelope
       text: E-mail
       href: mailto:gang.he@baruch.cuny.edu
