@@ -19,7 +19,6 @@ citation:
 #  issue: 7938
   page-first: 4858 
   url: https://www.nature.com/articles/s41467-023-40337-3 
-#bibliography: cite.bib
 google-scholar: true
 css: /custom.css
 #draft: true

@@ -23,7 +23,6 @@ citation:
   issue: 8
   page: 870-880
   url: https://www.nature.com/articles/s41560-023-01304-w
-#bibliography: cite.bib
 google-scholar: true
 css: /custom.css
 #draft: true

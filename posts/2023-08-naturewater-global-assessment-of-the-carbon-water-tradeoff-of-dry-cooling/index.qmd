@@ -23,11 +23,10 @@ citation:
   doi: "10.1038/s44221-023-00120-6"
   available-date: "2023-08-07"
   issued: "2023-08-07"
-#  volume: 612
-#  issue: 7938
-#  page: 83-87
+  volume: 1
+  issue: 8
+  page: 682–693
   url: https://www.nature.com/articles/s44221-023-00120-6
-#bibliography: cite.bib
 google-scholar: true
 css: /custom.css
 #draft: true
