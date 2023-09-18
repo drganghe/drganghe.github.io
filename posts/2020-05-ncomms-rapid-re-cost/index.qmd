@@ -16,7 +16,8 @@ citation:
   container-title: "Nature Communications"
   volume: 11
   issue: 1
-  page-first: 2486
+  page: 2486
+#  page-first: 2486
   doi: "10.1038/s41467-020-16184-x"
   url: https://www.nature.com/articles/s41467-020-16184-x
 bibliography: cite.bib

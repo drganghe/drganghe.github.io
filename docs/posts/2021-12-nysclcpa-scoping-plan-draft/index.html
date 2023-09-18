@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.330">
+<meta name="generator" content="quarto-1.4.371">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gang He">
 <meta name="dcterms.date" content="2021-12-20">
-<meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies energy systems modeling, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization and carbon neutrality">
+<meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
 
 <title>Dr.&nbsp;Gang He - Gang contributed to the NYS Climate Action Council Draft Scoping Plan</title>
 <style>
@@ -264,7 +264,13 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <section id="about-the-technical-advisory-group" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-technical-advisory-group">About the Technical Advisory Group</h2>
 <p>The Technical Advisory Group provides technical expertise and comments to the Council and the integration analysis of the Draft Scoping Plan. The group includes:</p>
-<p><img src="TAG.jpeg" class="img-fluid" alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University; Gang He, Department of Technology and Society, Stony Brook University; Benjamin Houlton, Department of Global Development, Cornell University;  Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University; Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University;  Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory; Timothy Lipman, Institute of Transportation Studies, University of California Berkeley; Melissa C. Lott, Columbia SIPA Center on Global Energy Policy;  Vijay Modi, The Earth Institute, Columbia University;  Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison; Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory;  Richard Perez, Atmospheric Sciences Research Center, University of Albany; Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory;  Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute; Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology; Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory."></p>
+<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-center anchored" alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University; Gang He, Department of Technology and Society, Stony Brook University; Benjamin Houlton, Department of Global Development, Cornell University;  Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University; Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University;  Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory; Timothy Lipman, Institute of Transportation Studies, University of California Berkeley; Melissa C. Lott, Columbia SIPA Center on Global Energy Policy;  Vijay Modi, The Earth Institute, Columbia University;  Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison; Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory;  Richard Perez, Atmospheric Sciences Research Center, University of Albany; Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory;  Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute; Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology; Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory.">
+<figure class="quarto-float quarto-float-fig figure">
+<div>
+<img src="TAG.jpeg" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid figure-img" alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University; Gang He, Department of Technology and Society, Stony Brook University; Benjamin Houlton, Department of Global Development, Cornell University;  Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University; Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University;  Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory; Timothy Lipman, Institute of Transportation Studies, University of California Berkeley; Melissa C. Lott, Columbia SIPA Center on Global Energy Policy;  Vijay Modi, The Earth Institute, Columbia University;  Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison; Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory;  Richard Perez, Atmospheric Sciences Research Center, University of Albany; Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory;  Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute; Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology; Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory.">
+</div>
+</figure>
+</div>
 </section>
 <section id="related-news" class="level2">
 <h2 class="anchored" data-anchor-id="related-news">Related News</h2>
@@ -627,7 +633,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/drganghe\.github\.io");
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
@@ -638,6 +644,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
       }
     }
 });

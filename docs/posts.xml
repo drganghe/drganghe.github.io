@@ -8,13 +8,13 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 <atom:link href="https://drganghe.github.io/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Dr. Gang He is an energy scholar, researcher, and teacher. He studies energy systems modeling, energy and climate policy, and clean energy transition.</description>
+<description>Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition.</description>
 <image>
 <url>https://drganghe.github.io/files/gang-he-profile.jpeg</url>
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.4.330</generator>
+<generator>quarto-1.4.371</generator>
 <lastBuildDate>Fri, 11 Aug 2023 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Heterogeneous effects of battery storage deployment strategies on decarbonization of provincial power systems in China</title>
@@ -43,7 +43,7 @@ https://badge.dimensions.ai/
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-08-ncomms-heterogeneous-effects-of-battery-storage-deployment-strategies/featured.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Three battery storage deployment strategies</figcaption>
+<figcaption>Three battery storage deployment strategies</figcaption>
 </figure>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -150,7 +150,7 @@ https://badge.dimensions.ai/
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/featured.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Spatial pattern of global dry cooling generation units associated energy-water-carbon interactions</figcaption>
+<figcaption>Spatial pattern of global dry cooling generation units associated energy-water-carbon interactions</figcaption>
 </figure>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -245,17 +245,9 @@ Generation.”</span> <em>Nature Water</em> 1 (8): 682–93. <a href="https://do
 
 
 <p>I’m joining the <a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/">Marxe School of Public and International Affairs</a>, Baruch College, City University of New York, as an assistant professor on energy and climate policy.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/"><img src="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/New-Faculty_Webslider.jpeg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
+<p><a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/"><img src="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/New-Faculty_Webslider.jpeg" class="img-fluid"></a></p>
 <p>I’m grateful for Marxe School’s warm welcome messages in the <a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/">August 2023 Faculty Spotlight</a>.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/"><img src="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/MarxeSpotlights_WebSlider_August2023.jpeg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
+<p><a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/"><img src="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/MarxeSpotlights_WebSlider_August2023.jpeg" class="img-fluid"></a></p>
 <blockquote class="blockquote">
 <p>We welcome Assistant Professor Gang He to the Marxe School and discuss his research, experiences, recent projects, two courses he will be teaching, and more.</p>
 <h3 id="welcome-joining-the-marxe-school.-could-you-tell-us-more-about-your-research" class="anchored">Welcome joining the Marxe School. Could you tell us more about your research?</h3>
@@ -317,7 +309,7 @@ https://badge.dimensions.ai/
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/featured.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Climate change impacts on supply, demand, and supply-demand match</figcaption>
+<figcaption>Climate change impacts on supply, demand, and supply-demand match</figcaption>
 </figure>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -490,11 +482,7 @@ https://quarto.org/docs/authoring/includes.html
 
 
 <p>Welcome to join us for a discussion on parallels between the US and China’s energy transition landscapes.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://mitenergyconference.org/agenda"><img src="https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/featured.jpeg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
+<p><a href="https://mitenergyconference.org/agenda"><img src="https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/featured.jpeg" class="img-fluid quarto-figure-center"></a></p>
 <section id="twitter" class="level2">
 <h2 class="anchored" data-anchor-id="twitter">Twitter</h2>
 <blockquote class="twitter-tweet blockquote">
@@ -645,7 +633,7 @@ https://quarto.org/docs/authoring/includes.html
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2022-12-iamc-2022-best-poster-award/featured.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Our solar global supply chain paper won the best poster award</figcaption>
+<figcaption>Our solar global supply chain paper won the best poster award</figcaption>
 </figure>
 </div>
 <section id="summary" class="level2">
@@ -654,9 +642,11 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 <section id="the-poster" class="level2">
 <h2 class="anchored" data-anchor-id="the-poster">The Poster</h2>
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="img-fluid figure-img" style="width:95.0%"></p>
+<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-left anchored" width="95%" data-fig-align="left">
+<figure class="quarto-float quarto-float-fig figure">
+<div>
+<img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
+</div>
 </figure>
 </div>
 </section>
@@ -760,10 +750,14 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="background">Background</h2>
 <p>Three decades. That is how much time is left to decarbonize the world’s energy systems to limit global warming to 1.5°C, according to the latest <a href="https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf#page=33">Intergovernmental Panel on Climate Change (IPCC) report</a>. Achieving this feat requires renewable energy systems be deployed at an unprecedented speed and scale. While daunting, the good news is that this transformation may not cost as much as many expected just a decade ago, thanks to rapid cost declines in renewable energy technologies. Solar photovoltaics (PV) is a prime example. In the last decade, the price of solar modules has <a href="https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021">dropped 88 percent</a>, making solar cost-competitive with fossil fuels in many parts of the world.</p>
 <p>This <a href="https://www.howsolargotcheap.com/">remarkable success story</a> was made possible by the decades-long free flow of goods, talent and capital across multiple countries involved in the solar industry. But the learning processes that have led to these rapid declines are increasingly at risk from policies aimed at localizing production to within national borders and moving away from global supply chains. Such policies have become increasingly popular, in part due to supply chain disruptions experienced during the COVID-19 pandemic and, perhaps more notably, in response to the concentration of the solar PV supply chain in China, which now comprises <a href="https://doi.org/10.1051/epjpv/2022010">78% of global PV module production</a> (see Figure&nbsp;1).</p>
-<div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left anchored">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-1-solar-production-by-origin.png" class="img-fluid figure-img" style="width:90.0%"></p>
-<figcaption class="figure-caption">Figure&nbsp;1: Annual solar PV cell production by origin, 2010–2021.</figcaption>
+<div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="90%">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-pv-by-origin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-1-solar-production-by-origin.png" class="img-fluid quarto-figure-left figure-img" style="width:90.0%">
+</div>
+<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-pv-by-origin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Annual solar PV cell production by origin, 2010–2021.
+</figcaption>
 </figure>
 </div>
 <p>We have been studying this phenomenon for years, trying to understand the cost of erecting barriers to international cooperation when it comes to the development and deployment of low carbon energy technologies (LCETs) like solar PV. In our recent paper published in <a href="https://www.nature.com/articles/s41586-022-05316-6"><em>Nature</em></a>, we model the cost of moving away from global supply chains for solar PV modules, concluding that tens of billions of dollars have been saved in solar deployment over the past decade thanks to global supply chains.</p>
@@ -772,10 +766,14 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="learning-in-global-versus-national-markets">Learning in Global Versus National Markets</h2>
 <p>In our paper, we use historical deployment and price data in the U.S., Germany, and China—the three largest solar-deploying countries—to model the cost savings from historical global cooperation in the solar PV industry. Using the classic <a href="https://en.wikipedia.org/wiki/Learning_curve">learning curve</a> model, we model historical learning rates in each country from 2006 to 2020, which we call a period of learning in “global market” conditions. We then simulate a counterfactual “national markets” scenario, in which these countries adopt nationalistic trade policies that limit cross-border learning over the same period.</p>
 <p>Our results show a total of $67 billion was saved in solar deployment from 2008 to 2020 thanks to global supply chains ($24 billion, $36 billion, and $7 billion in the U.S., China, and Germany, respectively). We also estimate that under the “national markets” scenario, solar panel prices in 2020 would have been significantly higher—107% higher in the U.S., 83% higher in Germany, and 54% higher in China (see Figure&nbsp;2).</p>
-<div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left anchored">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-2-prices-in-national-global-markets.png" class="img-fluid figure-img" style="width:95.0%"></p>
-<figcaption class="figure-caption">Figure&nbsp;2: Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).</figcaption>
+<div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="95%">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-prices-national-vs-global-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-2-prices-in-national-global-markets.png" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
+</div>
+<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-prices-national-vs-global-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).
+</figcaption>
 </figure>
 </div>
 <p>We also compare how these two scenarios might play out going forward. Assuming that capacity grows at a constant annual growth rate (CAGR), we estimate that solar module prices could be 20-30%<sup>1</sup> higher in 2030 than they otherwise would be if countries move to complete domestic manufacturing over a ten-year time frame.</p>
@@ -802,7 +800,7 @@ https://quarto.org/docs/authoring/includes.html
 <p>Check the original post at <a href="https://www.newsecuritybeat.org/2022/11/cost-solo-solar/" target="_blank">New Security Beat</a>. Learn more about our <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html">paper</a>.</p>
 <section id="references" class="level3">
 <h3 class="anchored" data-anchor-id="references">References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
 <div id="ref-davidson2022risks" class="csl-entry">
 Davidson, Michael R, Valerie J Karplus, Joanna I Lewis, Jonas Nahm, and Alex Wang. 2022. <span>“Risks of Decoupling from China on Low-Carbon Technologies.”</span> <em>Science</em> 377 (6612): 1266–69. <a href="https://doi.org/10.1126/science.abq5446">https://doi.org/10.1126/science.abq5446</a>.
 </div>
@@ -866,7 +864,7 @@ https://badge.dimensions.ai/
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/featured.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><em>Nature</em> December 1, 2022 Issue Cover highlighted our paper in the same issue</figcaption>
+<figcaption><em>Nature</em> December 1, 2022 Issue Cover highlighted our paper in the same issue</figcaption>
 </figure>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -929,9 +927,11 @@ Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%
 <section id="poster" class="level2">
 <h2 class="anchored" data-anchor-id="poster">Poster</h2>
 <p>Here is the poster for <a href="https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/">IAMC2022</a> which won the <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a>. The <a href="../../files/posters/nature-solar-supply-chains-poster.pdf">pdf</a> is also available.</p>
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="img-fluid figure-img" style="width:95.0%"></p>
+<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="95%">
+<figure class="quarto-float quarto-float-fig figure">
+<div>
+<img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
+</div>
 </figure>
 </div>
 </section>
@@ -1217,11 +1217,7 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://ccci.berkeley.edu/events/2022/02/webinar-charting-china-s-power-sector-coal-decarbonization"><img src="https://drganghe.github.io/posts/2022-03-ccci-power-sector-coal-decarbonization/featured.jpeg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
+<p><a href="https://ccci.berkeley.edu/events/2022/02/webinar-charting-china-s-power-sector-coal-decarbonization"><img src="https://drganghe.github.io/posts/2022-03-ccci-power-sector-coal-decarbonization/featured.jpeg" class="img-fluid quarto-figure-center"></a></p>
 <p><a href="https://spp.umd.edu/events/webinar-charting-chinas-power-sector-coal-decarbonization-1"><strong>Agenda</strong></a></p>
 <section id="recorded-video" class="level2">
 <h2 class="anchored" data-anchor-id="recorded-video">Recorded Video</h2>
@@ -1479,9 +1475,11 @@ DOI: <a href="https://doi.org/10.1016/j.jclepro.2021.129765">10.1016/j.jclepro.2
 </section>
 <section id="poster" class="level2">
 <h2 class="anchored" data-anchor-id="poster">Poster</h2>
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/files/posters/electricity-carbon-water-poster.jpeg" class="img-fluid figure-img" style="width:95.0%"></p>
+<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-left anchored" width="95%" data-fig-align="left">
+<figure class="quarto-float quarto-float-fig figure">
+<div>
+<img src="https://drganghe.github.io/files/posters/electricity-carbon-water-poster.jpeg" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
+</div>
 </figure>
 </div>
 </section>
@@ -1556,7 +1554,13 @@ of Cleaner Production</em> 329 (December): 129765. <a href="https://doi.org/10.1
 <section id="about-the-technical-advisory-group" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-technical-advisory-group">About the Technical Advisory Group</h2>
 <p>The Technical Advisory Group provides technical expertise and comments to the Council and the integration analysis of the Draft Scoping Plan. The group includes:</p>
-<p><img src="https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/TAG.jpeg" class="img-fluid" alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University; Gang He, Department of Technology and Society, Stony Brook University; Benjamin Houlton, Department of Global Development, Cornell University;  Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University; Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University;  Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory; Timothy Lipman, Institute of Transportation Studies, University of California Berkeley; Melissa C. Lott, Columbia SIPA Center on Global Energy Policy;  Vijay Modi, The Earth Institute, Columbia University;  Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison; Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory;  Richard Perez, Atmospheric Sciences Research Center, University of Albany; Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory;  Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute; Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology; Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory."></p>
+<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-center anchored" alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University; Gang He, Department of Technology and Society, Stony Brook University; Benjamin Houlton, Department of Global Development, Cornell University;  Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University; Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University;  Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory; Timothy Lipman, Institute of Transportation Studies, University of California Berkeley; Melissa C. Lott, Columbia SIPA Center on Global Energy Policy;  Vijay Modi, The Earth Institute, Columbia University;  Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison; Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory;  Richard Perez, Atmospheric Sciences Research Center, University of Albany; Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory;  Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute; Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology; Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory.">
+<figure class="quarto-float quarto-float-fig figure">
+<div>
+<img src="https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/TAG.jpeg" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid figure-img" alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University; Gang He, Department of Technology and Society, Stony Brook University; Benjamin Houlton, Department of Global Development, Cornell University;  Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University; Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University;  Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory; Timothy Lipman, Institute of Transportation Studies, University of California Berkeley; Melissa C. Lott, Columbia SIPA Center on Global Energy Policy;  Vijay Modi, The Earth Institute, Columbia University;  Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison; Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory;  Richard Perez, Atmospheric Sciences Research Center, University of Albany; Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory;  Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute; Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology; Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory.">
+</div>
+</figure>
+</div>
 </section>
 <section id="related-news" class="level2">
 <h2 class="anchored" data-anchor-id="related-news">Related News</h2>

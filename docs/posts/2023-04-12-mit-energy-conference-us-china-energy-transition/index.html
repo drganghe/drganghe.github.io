@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.330">
+<meta name="generator" content="quarto-1.4.371">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gang He">
 <meta name="dcterms.date" content="2023-04-12">
-<meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies energy systems modeling, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization and carbon neutrality">
+<meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
 
 <title>Dr.&nbsp;Gang He - MIT Energy Conference U.S. China Energy Transition</title>
 <style>
@@ -245,11 +245,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 </header>
 
 <p>Welcome to join us for a discussion on parallels between the US and China’s energy transition landscapes.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://mitenergyconference.org/agenda"><img src="featured.jpeg" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
+<p><a href="https://mitenergyconference.org/agenda"><img src="featured.jpeg" class="img-fluid quarto-figure-center"></a></p>
 <section id="twitter" class="level2">
 <h2 class="anchored" data-anchor-id="twitter">Twitter</h2>
 <blockquote class="twitter-tweet blockquote">
@@ -624,7 +620,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/drganghe\.github\.io");
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
@@ -635,6 +631,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
       }
     }
 });

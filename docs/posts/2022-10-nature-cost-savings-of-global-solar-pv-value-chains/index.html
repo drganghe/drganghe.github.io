@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.330">
+<meta name="generator" content="quarto-1.4.371">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gang He">
 <meta name="dcterms.date" content="2022-10-26">
-<meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies energy systems modeling, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization and carbon neutrality">
+<meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
 
 <title>Dr.&nbsp;Gang He - Quantifying the cost savings of global solar photovoltaic supply chains</title>
 <style>
@@ -284,7 +284,7 @@ https://badge.dimensions.ai/
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="featured.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><em>Nature</em> December 1, 2022 Issue Cover highlighted our paper in the same issue</figcaption>
+<figcaption><em>Nature</em> December 1, 2022 Issue Cover highlighted our paper in the same issue</figcaption>
 </figure>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -347,9 +347,11 @@ Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%
 <section id="poster" class="level2">
 <h2 class="anchored" data-anchor-id="poster">Poster</h2>
 <p>Here is the poster for <a href="https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/">IAMC2022</a> which won the <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a>. The <a href="../../files/posters/nature-solar-supply-chains-poster.pdf">pdf</a> is also available.</p>
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="../../files/posters/nature-solar-supply-chains-poster.png" class="img-fluid figure-img" style="width:95.0%"></p>
+<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="95%">
+<figure class="quarto-float quarto-float-fig figure">
+<div>
+<img src="../../files/posters/nature-solar-supply-chains-poster.png" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
+</div>
 </figure>
 </div>
 </section>
@@ -776,7 +778,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/drganghe\.github\.io");
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
@@ -787,6 +789,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
       }
     }
 });

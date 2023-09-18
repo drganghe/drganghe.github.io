@@ -13,7 +13,8 @@ citation:
   type: article-journal
   container-title: "Journal of Cleaner Production"
   volume: 329
-  page-first: 129765
+  page: 129765
+#  page-first: 129765
   doi: "10.1016/j.jclepro.2021.129765"
   url: https://www.sciencedirect.com/science/article/pii/S095965262103941X
 bibliography: cite.bib
