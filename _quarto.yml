@@ -88,7 +88,7 @@ format:
     css: styles.css
     toc: true
     footnotes-hover: true
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
 

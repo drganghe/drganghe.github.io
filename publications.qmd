@@ -12,10 +12,10 @@ css: /custom.css
 
 \* denotes corresponding author; <sup>GS</sup> denotes graduate student advisee; <sup>VS</sup> denotes visiting scholar.  
 
-Total citations as of August 2023:
+Total citations as of September 2023:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,700 (h-index = 23)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 3,000 (h-index = 29, i10-index = 48) 
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 1,800 (h-index = 23)   
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 3,100 (h-index = 29, i10-index = 48) 
 
 ## Selected Work
 
@@ -87,7 +87,7 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 
 ## Peer-reviewed Journal Paper
 
-Luo, Qian, Fernando Garcia-Menendez, Jiang Lin, **Gang He**, and Jeremiah X. Johnson\*. 2023. [Accelerating China’s Power Sector Decarbonization Can Save Lives: Integrating Public Health Goals into Power Sector Decisions](https://iopscience.iop.org/article/10.1088/1748-9326/acf84b). *Environmental Research Letters*. doi: [10.1088/1748-9326/acf84b](https://doi.org/10.1088/1748-9326/acf84b).  
+Luo, Qian, Fernando Garcia-Menendez, Jiang Lin, **Gang He**, and Jeremiah X. Johnson\*. 2023. [Accelerating China’s Power Sector Decarbonization Can Save Lives: Integrating Public Health Goals into Power Sector Decisions](https://iopscience.iop.org/article/10.1088/1748-9326/acf84b). *Environmental Research Letters* 18: 104023. doi: [10.1088/1748-9326/acf84b](https://doi.org/10.1088/1748-9326/acf84b).  [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/acf84b/pdf)]
 
 Peng, Liqun, Denise L. Mauzerall\*, Yaofeng D. Zhong, and **Gang He**\*. 2023. [Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China](https://www.nature.com/articles/s41467-023-40337-3). *Nature Communications* 14: 4858. doi:[10.1038/s41467-023-40337-3](https://doi.org/10.1038/s41467-023-40337-3). [[pdf](https://www.nature.com/articles/s41467-023-40337-3.pdf)]
 

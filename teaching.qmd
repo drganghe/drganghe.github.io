@@ -77,7 +77,7 @@ Climate change is one of the biggest challenges of our time. This course offers 
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2023](https://www.ganghe.net/teaching/EST625-2023-Advanced-Science-Technology-and-Innovation-Policy) &nbsp; | &nbsp;  [Spring 2022](https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy)
+[Spring 2023](https://www.ganghe.net/teaching/EST625-2023-Advanced-Science-Technology-and-Innovation-Policy){.external target="_blank"} &nbsp; | &nbsp;  [Spring 2022](https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy){.external target="_blank"}
 
 This PhD seminar evaluates ideas and applications of science, technology, policy and innovation systems by drawing from a wide range of early and current literature and case studies. Emphasis is placed on deconstructing seminal ideas and practices in the context of policy and technology change. Students will refine analytical and communication skills that are relevant for working in positions at the interface of technology, policy, and innovation.
 

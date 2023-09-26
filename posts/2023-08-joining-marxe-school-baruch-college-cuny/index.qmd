@@ -9,11 +9,11 @@ css: /custom.css
 #draft: true
 ---
 
-I'm joining the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/), Baruch College, City University of New York, as an assistant professor on energy and climate policy. 
+I'm joining the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/){.external target="_blank"}, Baruch College, City University of New York, as an assistant professor on energy and climate policy. 
 
 [![](/posts/2023-08-joining-marxe-school-baruch-college-cuny/New-Faculty_Webslider.jpeg)](https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/)
 
-I'm grateful for Marxe School's warm welcome messages in the [August 2023 Faculty Spotlight](https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/).
+I'm grateful for Marxe School's warm welcome messages in the [August 2023 Faculty Spotlight](https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/){.external target="_blank"}.
 
 [![](/posts/2023-08-joining-marxe-school-baruch-college-cuny/MarxeSpotlights_WebSlider_August2023.jpeg)](https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/)
 
