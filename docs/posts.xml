@@ -14,8 +14,158 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.4.383</generator>
-<lastBuildDate>Fri, 11 Aug 2023 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.415</generator>
+<lastBuildDate>Wed, 11 Oct 2023 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060</title>
+  <dc:creator>Shi Chen</dc:creator>
+  <dc:creator>Xi Lu</dc:creator>
+  <dc:creator>Chris P. Nielsen</dc:creator>
+  <dc:creator>Michael B. McElroy</dc:creator>
+  <dc:creator>Gang He</dc:creator>
+  <dc:creator>Shaohui Zhang</dc:creator>
+  <dc:creator>Kebin He</dc:creator>
+  <dc:creator>Xiu Yang</dc:creator>
+  <dc:creator>Fang Zhang</dc:creator>
+  <dc:creator>Jimin Hao</dc:creator>
+  <link>https://drganghe.github.io/posts/2023-10-commsee-eploying-solar-pv-first-incarbon-intensive-regions/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2023-10-commsee-eploying-solar-pv-first-incarbon-intensive-regions/featured.webp" class="img-fluid figure-img"></p>
+<figcaption>Future GHG mitigation and emissions of PV industry by scenario from 2020 to 2060</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060<br>
+Shi Chen, Xi Lu*, Chris P. Nielsen, Michael B. McElroy*, Gang He, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang &amp; Jiming Hao<br>
+<em>Communications Earth &amp; Environment</em> (2023)<br>
+DOI: <a href="https://doi.org/10.1038/s43247-023-01006-x">10.1038/s43247-023-01006-x</a></p>
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The global surge in solar photovoltaic (PV) power has featured spatial specialization from manufacturing to installation along its industrial chain. Yet how to improve PV climate benefits are under-investigated. Here we explore the evolution of net greenhouse gas (GHG) mitigation of PV industry from 2009–2060 with a spatialized-dynamic life-cycle-analysis. Results suggest a net GHG mitigation of 1.29 Gt CO2-equivalent from 2009–2019, achieved by 1.97 Gt of mitigation from installation minus 0.68 Gt of emissions from manufacturing. The highest net GHG mitigation among future manufacturing-installation-scenarios to meet 40% global power demand in 2060 is as high as 204.7 Gt from 2020–2060, featuring manufacturing concentrated in Europe and North America and prioritized PV installations in carbon-intensive nations. This represents 97.5 Gt more net mitigation than the worst-case scenario, equivalent to 1.9 times 2020 global GHG emissions. The results call for strategic international coordination of PV industrial chain to increase GHG net mitigation.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.nature.com/articles/s43247-023-01006-x">paper</a></p>
+<p>Open-access <a href="https://www.nature.com/articles/s43247-023-01006-x.pdf">pdf</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s43247-023-01006-x">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s43247-023-01006-x" data-hide-zero-citations="true" data-style="small_circle"></span>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{chen2023,
+  author = {Chen, Shi and Lu, Xi and P. Nielsen, Chris and B. McElroy,
+    Michael and He, Gang and Zhang, Shaohui and He, Kebin and Yang, Xiu
+    and Zhang, Fang and Hao, Jimin},
+  title = {Deploying Solar Photovoltaic Energy First in Carbon-Intensive
+    Regions Brings Gigatons More Carbon Mitigations to 2060},
+  journal = {Communications Earth \&amp; Environment},
+  volume = {4},
+  pages = {369},
+  date = {2023-10-11},
+  url = {https://www.nature.com/articles/s43247-023-01006-x},
+  doi = {10.1038/s43247-023-01006-x},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-chen2023" class="csl-entry quarto-appendix-citeas">
+Chen, Shi, Xi Lu, Chris P. Nielsen, Michael B. McElroy, Gang He, Shaohui
+Zhang, Kebin He, Xiu Yang, Fang Zhang, and Jimin Hao. 2023.
+<span>“Deploying Solar Photovoltaic Energy First in Carbon-Intensive
+Regions Brings Gigatons More Carbon Mitigations to 2060.”</span>
+<em>Communications Earth &amp; Environment</em> 4 (October): 369. <a href="https://doi.org/10.1038/s43247-023-01006-x">https://doi.org/10.1038/s43247-023-01006-x</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/posts/2023-10-commsee-eploying-solar-pv-first-incarbon-intensive-regions/</guid>
+  <pubDate>Wed, 11 Oct 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2023-10-commsee-eploying-solar-pv-first-incarbon-intensive-regions/featured.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>Gang joins the Marxe School of Public and International Affairs</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I’m joining the <a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/" class="external" target="_blank">Marxe School of Public and International Affairs</a>, Baruch College, City University of New York, as an assistant professor on energy and climate policy.</p>
+<p><a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/"><img src="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/New-Faculty_Webslider.jpeg" class="img-fluid"></a></p>
+<p>I’m grateful for Marxe School’s warm welcome messages in the <a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/" class="external" target="_blank">August 2023 Faculty Spotlight</a>.</p>
+<p><a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/"><img src="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/MarxeSpotlights_WebSlider_August2023.jpeg" class="img-fluid"></a></p>
+<blockquote class="blockquote">
+<p>We welcome Assistant Professor Gang He to the Marxe School and discuss his research, experiences, recent projects, two courses he will be teaching, and more.</p>
+<h3 id="welcome-joining-the-marxe-school.-could-you-tell-us-more-about-your-research" class="anchored">Welcome joining the Marxe School. Could you tell us more about your research?</h3>
+<p>My research focuses on using data-driven, evidence-based analysis to inform energy and climate policy, I call it DEEP policy research. My overall research goal is to enable a rapid, sustainable, resilient, and just energy transition to achieve carbon neutrality and address climate challenges. I have been developing my research on deep decarbonization pathways of the electric power sector, role and impacts of global clean energy supply chains, energy systems adaptation to climate change, and justice implications of energy transition. My work has been published in high-impact journals such as <em>Nature</em>, <em>Nature Communications</em>, <em>One Earth</em>, <em>Environmental Science and Technology</em>. Engaging in the policymaking process is crucial to me, as it allows for real-world impact. I have had the opportunity to testify for the New York State Climate Leadership and Community Protection Act, offering insights before it become law. Additionally, I have advised the New York State Climate Action Council’s Scoping Plan. I’m excited to join the Marxe School and be surrounded by such a dynamic, diverse, and dedicated community of scholars and students. I’m eager to collaborate and contribute to the policy analysis, research, discussions, and debates aimed at fostering a better climate and society.</p>
+<h3 id="what-drew-you-to-climate-change-policy" class="anchored">What drew you to climate change policy?</h3>
+<p>As a first-generation college student and academic in my family, my journey began unexpectedly. When I was accepted into Peking University to study geography, I was working on a construction site. It was during my studies that I discovered my passion for geography, as it trained me to develop a systematic understanding of the big picture and allowed me to explore various places, people, and cultures through my fieldwork. During a project in southwest China, I observed firsthand the consequences of climate change. Due to increased rainfall and deforestation, the thin layer of topsoil is literally eroding from under the feet of local mountain residents, and with it their livelihoods. One event shaped my career trajectory significantly. After participating in the UN Climate Change Conference COP 11 in Montreal in 2005 as a youth delegate, I became increasingly involved in climate protection. I worked with fellow students and founded the first student climate club at Peking University, raising climate awareness among students and promoting environmental initiatives on campus. This experience propelled me to pursue a master’s degree in Climate and Society at Columbia University, followed by research work in the Program on Energy and Sustainable Development at Stanford University and a Ph.D.&nbsp;on Energy and Resources from the University of California, Berkeley. Over my lifetime, I have witnessed global annual carbon emissions double in forty years, reaching about 37 billion tons in 2021. Urgent actions are needed to reduce carbon emissions to net-zero by mid-century. I firmly believe that evidence-based policy can incentivize, leverage, and cultivate the necessary changes to achieve carbon neutrality.</p>
+<h3 id="can-you-share-more-about-your-ongoing-research-project-on-clean-energy-supply-chain" class="anchored">Can you share more about your ongoing research project on clean energy supply chain?</h3>
+<p>Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, yet countries sometimes implement decoupling policies that might impede continuous cost declining. International climate policy and renewable energy deployment policy now face a crossroads: continue relying on global supply chains, or pivot towards domestic technology development and production. In a collaborative paper published in Nature, our research team found globalized supply chain has saved solar installers in the United States, Germany, and China $67 Billion from 2008 to 2020, and solar prices would be 20-30% higher in 2030 if countries move to produce domestically. Build on the findings of the Nature paper, we are studying the carbon mitigation, air quality, and human health benefits of global solar PV supply chains, with support from the Global Energy Initiative at ClimateWorks Foundation. In addition, we are actively exploring opportunities and collaboration to address the challenges and implications to enable a sustainable, resilient, and just global clean energy supply chain to achieve climate goals.</p>
+<h3 id="what-will-you-be-teaching-in-the-fall" class="anchored">What will you be teaching in the Fall?</h3>
+<p>The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. In the Fall 2023 semester, I will be teaching two courses focused on energy and climate change policy. The undergraduate course, “Energy, Climate, and Society”, takes a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. The graduate-level course, “Energy and Climate Policy”, adopts a systems approach to delve into the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. In both classes, we aim to inspire and equip students, especially those from underrepresented groups and underserved communities, to pursue careers in the energy and climate field. We strive to empower them with the knowledge and skills needed to make a positive impact on climate solutions.</p>
+</blockquote>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/</guid>
+  <pubDate>Fri, 25 Aug 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/featured.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Heterogeneous effects of battery storage deployment strategies on decarbonization of provincial power systems in China</title>
   <dc:creator>Liqun Peng</dc:creator>
@@ -237,49 +387,6 @@ Generation.”</span> <em>Nature Water</em> 1 (8): 682–93. <a href="https://do
   <guid>https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/</guid>
   <pubDate>Mon, 07 Aug 2023 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/featured.png" medium="image" type="image/png" height="86" width="144"/>
-</item>
-<item>
-  <title>Gang joins the Marxe School of Public and International Affairs</title>
-  <dc:creator>Gang He</dc:creator>
-  <link>https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>I’m joining the <a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/" class="external" target="_blank">Marxe School of Public and International Affairs</a>, Baruch College, City University of New York, as an assistant professor on energy and climate policy.</p>
-<p><a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/"><img src="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/New-Faculty_Webslider.jpeg" class="img-fluid"></a></p>
-<p>I’m grateful for Marxe School’s warm welcome messages in the <a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/" class="external" target="_blank">August 2023 Faculty Spotlight</a>.</p>
-<p><a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/"><img src="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/MarxeSpotlights_WebSlider_August2023.jpeg" class="img-fluid"></a></p>
-<blockquote class="blockquote">
-<p>We welcome Assistant Professor Gang He to the Marxe School and discuss his research, experiences, recent projects, two courses he will be teaching, and more.</p>
-<h3 id="welcome-joining-the-marxe-school.-could-you-tell-us-more-about-your-research" class="anchored">Welcome joining the Marxe School. Could you tell us more about your research?</h3>
-<p>My research focuses on using data-driven, evidence-based analysis to inform energy and climate policy, I call it DEEP policy research. My overall research goal is to enable a rapid, sustainable, resilient, and just energy transition to achieve carbon neutrality and address climate challenges. I have been developing my research on deep decarbonization pathways of the electric power sector, role and impacts of global clean energy supply chains, energy systems adaptation to climate change, and justice implications of energy transition. My work has been published in high-impact journals such as <em>Nature</em>, <em>Nature Communications</em>, <em>One Earth</em>, <em>Environmental Science and Technology</em>. Engaging in the policymaking process is crucial to me, as it allows for real-world impact. I have had the opportunity to testify for the New York State Climate Leadership and Community Protection Act, offering insights before it become law. Additionally, I have advised the New York State Climate Action Council’s Scoping Plan. I’m excited to join the Marxe School and be surrounded by such a dynamic, diverse, and dedicated community of scholars and students. I’m eager to collaborate and contribute to the policy analysis, research, discussions, and debates aimed at fostering a better climate and society.</p>
-<h3 id="what-drew-you-to-climate-change-policy" class="anchored">What drew you to climate change policy?</h3>
-<p>As a first-generation college student and academic in my family, my journey began unexpectedly. When I was accepted into Peking University to study geography, I was working on a construction site. It was during my studies that I discovered my passion for geography, as it trained me to develop a systematic understanding of the big picture and allowed me to explore various places, people, and cultures through my fieldwork. During a project in southwest China, I observed firsthand the consequences of climate change. Due to increased rainfall and deforestation, the thin layer of topsoil is literally eroding from under the feet of local mountain residents, and with it their livelihoods. One event shaped my career trajectory significantly. After participating in the UN Climate Change Conference COP 11 in Montreal in 2005 as a youth delegate, I became increasingly involved in climate protection. I worked with fellow students and founded the first student climate club at Peking University, raising climate awareness among students and promoting environmental initiatives on campus. This experience propelled me to pursue a master’s degree in Climate and Society at Columbia University, followed by research work in the Program on Energy and Sustainable Development at Stanford University and a Ph.D.&nbsp;on Energy and Resources from the University of California, Berkeley. Over my lifetime, I have witnessed global annual carbon emissions double in forty years, reaching about 37 billion tons in 2021. Urgent actions are needed to reduce carbon emissions to net-zero by mid-century. I firmly believe that evidence-based policy can incentivize, leverage, and cultivate the necessary changes to achieve carbon neutrality.</p>
-<h3 id="can-you-share-more-about-your-ongoing-research-project-on-clean-energy-supply-chain" class="anchored">Can you share more about your ongoing research project on clean energy supply chain?</h3>
-<p>Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, yet countries sometimes implement decoupling policies that might impede continuous cost declining. International climate policy and renewable energy deployment policy now face a crossroads: continue relying on global supply chains, or pivot towards domestic technology development and production. In a collaborative paper published in Nature, our research team found globalized supply chain has saved solar installers in the United States, Germany, and China $67 Billion from 2008 to 2020, and solar prices would be 20-30% higher in 2030 if countries move to produce domestically. Build on the findings of the Nature paper, we are studying the carbon mitigation, air quality, and human health benefits of global solar PV supply chains, with support from the Global Energy Initiative at ClimateWorks Foundation. In addition, we are actively exploring opportunities and collaboration to address the challenges and implications to enable a sustainable, resilient, and just global clean energy supply chain to achieve climate goals.</p>
-<h3 id="what-will-you-be-teaching-in-the-fall" class="anchored">What will you be teaching in the Fall?</h3>
-<p>The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. In the Fall 2023 semester, I will be teaching two courses focused on energy and climate change policy. The undergraduate course, “Energy, Climate, and Society”, takes a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. The graduate-level course, “Energy and Climate Policy”, adopts a systems approach to delve into the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. In both classes, we aim to inspire and equip students, especially those from underrepresented groups and underserved communities, to pursue careers in the energy and climate field. We strive to empower them with the knowledge and skills needed to make a positive impact on climate solutions.</p>
-</blockquote>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/</guid>
-  <pubDate>Tue, 01 Aug 2023 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2023-08-joining-marxe-school-baruch-college-cuny/featured.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Climate change impacts on planned supply–demand match in global wind and solar energy systems</title>
@@ -650,13 +757,7 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 <section id="the-poster" class="level2">
 <h2 class="anchored" data-anchor-id="the-poster">The Poster</h2>
-<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="95%">
-<figure class="quarto-float quarto-float-fig figure">
-<div>
-<img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
-</div>
-</figure>
-</div>
+<p><img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="img-fluid quarto-figure-left" style="width:95.0%"></p>
 </section>
 <section id="video" class="level2">
 <h2 class="anchored" data-anchor-id="video">Video</h2>
@@ -701,8 +802,8 @@ Two ex-aequo online poster presenters: <br>🏆<a href="https://twitter.com/DrGa
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Check <a href="https://www.iamconsortium.org/iamc-announcements/news-iamc-announcement/15th-iamc-annual-meeting-awards/">15th IAMC Annual Meeting: Awards</a> for the official announcement.</p>
 <p>Read more about the <a href="https://www.iamconsortium.org/uncategorized/gang-he-toon-vandyck-mengqi-zhao/">Best Poster Awardees</a>.</p>
-<p>Read more about our <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/">paper</a>.</p>
-<p>Read the paper <a href="../../posts/2022-11-nature-solar-paper-summary/">summary</a>.</p>
+<p>Read more about our <a href="../..\posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/">paper</a>.</p>
+<p>Read the paper <a href="../..\posts/2022-11-nature-solar-paper-summary/">summary</a>.</p>
 </section>
 <section id="iamc" class="level2">
 <h2 class="anchored" data-anchor-id="iamc">IAMC</h2>
@@ -759,7 +860,7 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="background">Background</h2>
 <p>Three decades. That is how much time is left to decarbonize the world’s energy systems to limit global warming to 1.5°C, according to the latest <a href="https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf#page=33">Intergovernmental Panel on Climate Change (IPCC) report</a>. Achieving this feat requires renewable energy systems be deployed at an unprecedented speed and scale. While daunting, the good news is that this transformation may not cost as much as many expected just a decade ago, thanks to rapid cost declines in renewable energy technologies. Solar photovoltaics (PV) is a prime example. In the last decade, the price of solar modules has <a href="https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021">dropped 88 percent</a>, making solar cost-competitive with fossil fuels in many parts of the world.</p>
 <p>This <a href="https://www.howsolargotcheap.com/">remarkable success story</a> was made possible by the decades-long free flow of goods, talent and capital across multiple countries involved in the solar industry. But the learning processes that have led to these rapid declines are increasingly at risk from policies aimed at localizing production to within national borders and moving away from global supply chains. Such policies have become increasingly popular, in part due to supply chain disruptions experienced during the COVID-19 pandemic and, perhaps more notably, in response to the concentration of the solar PV supply chain in China, which now comprises <a href="https://doi.org/10.1051/epjpv/2022010">78% of global PV module production</a> (see Figure&nbsp;1).</p>
-<div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="90%">
+<div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left anchored" width="90%" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-pv-by-origin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-1-solar-production-by-origin.png" class="img-fluid quarto-figure-left figure-img" style="width:90.0%">
@@ -775,7 +876,7 @@ Figure&nbsp;1: Annual solar PV cell production by origin, 2010–2021.
 <h2 class="anchored" data-anchor-id="learning-in-global-versus-national-markets">Learning in Global Versus National Markets</h2>
 <p>In our paper, we use historical deployment and price data in the U.S., Germany, and China—the three largest solar-deploying countries—to model the cost savings from historical global cooperation in the solar PV industry. Using the classic <a href="https://en.wikipedia.org/wiki/Learning_curve">learning curve</a> model, we model historical learning rates in each country from 2006 to 2020, which we call a period of learning in “global market” conditions. We then simulate a counterfactual “national markets” scenario, in which these countries adopt nationalistic trade policies that limit cross-border learning over the same period.</p>
 <p>Our results show a total of $67 billion was saved in solar deployment from 2008 to 2020 thanks to global supply chains ($24 billion, $36 billion, and $7 billion in the U.S., China, and Germany, respectively). We also estimate that under the “national markets” scenario, solar panel prices in 2020 would have been significantly higher—107% higher in the U.S., 83% higher in Germany, and 54% higher in China (see Figure&nbsp;2).</p>
-<div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="95%">
+<div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left anchored" width="95%" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-prices-national-vs-global-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-2-prices-in-national-global-markets.png" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
@@ -903,7 +1004,7 @@ DOI: <a href="https://doi.org/10.1038/s41586-022-05316-6">10.1038/s41586-022-053
 <p>Published <a href="https://www.nature.com/articles/s41586-022-05316-6">paper</a></p>
 <p>Paper summary: <a href="../../posts/2022-11-nature-solar-paper-summary/index.html">The Cost of Going Solo in Solar</a></p>
 <p>ResearchGate <a href="https://www.researchgate.net/publication/364757014_Quantifying_the_cost_savings_of_global_solar_photovoltaic_supply_chains">pdf</a> provided by <em>Nature</em></p>
-<p>Preprint <a href="../../files/papers/2022-nature-solar-supply-chains-preprint.pdf">pdf</a></p>
+<p>Preprint <a href="../..\files/papers/2022-nature-solar-supply-chains-preprint.pdf">pdf</a></p>
 <p>Author Correction <a href="https://www.nature.com/articles/s41586-023-06262-7">pdf</a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06262-7/MediaObjects/41586_2023_6262_MOESM1_ESM.pdf">SI</a></p>
 <p>Github: <a href="https://github.com/jhelvy/solar-learning-2021">solar-learning-2021</a></p>
 <p>Zenodo: <a href="https://doi.org/10.5281/zenodo.6989075">Code and Data</a></p>
@@ -936,14 +1037,8 @@ Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%
 </section>
 <section id="poster" class="level2">
 <h2 class="anchored" data-anchor-id="poster">Poster</h2>
-<p>Here is the poster for <a href="https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/">IAMC2022</a> which won the <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a>. The <a href="../../files/posters/nature-solar-supply-chains-poster.pdf">pdf</a> is also available.</p>
-<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="95%">
-<figure class="quarto-float quarto-float-fig figure">
-<div>
-<img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
-</div>
-</figure>
-</div>
+<p>Here is the poster for <a href="https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/">IAMC2022</a> which won the <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a>. The <a href="../..\files/posters/nature-solar-supply-chains-poster.pdf">pdf</a> is also available.</p>
+<p><img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="img-fluid quarto-figure-left" style="width:95.0%"></p>
 </section>
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
@@ -951,7 +1046,7 @@ Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%
 <iframe src="../../files/slides/solar-supply-chains-slides.html" class="responsive-iframe" width="100%" title="slides">
 </iframe>
 </div>
-<p>Above is the general slides of our paper, I presented it at <a href="https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g">Tsinghua University</a>. Check the <a href="../../files/slides/solar-supply-chains-slides.html">slides</a> in a new tab.</p>
+<p>Above is the general slides of our paper, I presented it at <a href="https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g">Tsinghua University</a>. Check the <a href="../..\files/slides/solar-supply-chains-slides.html">slides</a> in a new tab.</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -1125,7 +1220,7 @@ DOI: <a href="https://doi.org/10.1109/TIA.2021.3116916">10.1109/TIA.2021.3116916
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Published <a href="https://ieeexplore.ieee.org/document/9555251">paper</a></p>
-<p>Self-archiving <a href="../../files/papers/2022-IEEE-ModelingIntegratedPowerAndTransportationSystems.pdf">pdf</a></p>
+<p>Self-archiving <a href="../..\files/papers/2022-IEEE-ModelingIntegratedPowerAndTransportationSystems.pdf">pdf</a></p>
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TIA.2021.3116916" data-hide-zero-citations="true" data-style="small_circle"></span>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <!--Include social share buttons-->
@@ -1481,7 +1576,7 @@ DOI: <a href="https://doi.org/10.1016/j.jclepro.2021.129765">10.1016/j.jclepro.2
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Published <a href="https://www.sciencedirect.com/science/article/pii/S095965262103941X%3E">paper</a></p>
-<p>Self-archiving <a href="../../files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf">pdf</a></p>
+<p>Self-archiving <a href="../..\files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf">pdf</a></p>
 <p><a href="https://ars.els-cdn.com/content/image/1-s2.0-S095965262103941X-mmc1.docx">Supplementary Data</a></p>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jclepro.2021.129765">
@@ -1492,13 +1587,7 @@ DOI: <a href="https://doi.org/10.1016/j.jclepro.2021.129765">10.1016/j.jclepro.2
 </section>
 <section id="poster" class="level2">
 <h2 class="anchored" data-anchor-id="poster">Poster</h2>
-<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="95%">
-<figure class="quarto-float quarto-float-fig figure">
-<div>
-<img src="https://drganghe.github.io/files/posters/electricity-carbon-water-poster.jpeg" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
-</div>
-</figure>
-</div>
+<p><img src="https://drganghe.github.io/files/posters/electricity-carbon-water-poster.jpeg" class="img-fluid quarto-figure-left" style="width:95.0%"></p>
 </section>
 <section id="twitter-thread" class="level2">
 <h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
@@ -1572,17 +1661,11 @@ of Cleaner Production</em> 329 (December): 129765. <a href="https://doi.org/10.1
 <section id="about-the-technical-advisory-group" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-technical-advisory-group">About the Technical Advisory Group</h2>
 <p>The Technical Advisory Group provides technical expertise and comments to the Council and the integration analysis of the Draft Scoping Plan. The group includes:</p>
-<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-center anchored" alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University; Gang He, Department of Technology and Society, Stony Brook University; Benjamin Houlton, Department of Global Development, Cornell University;  Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University; Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University;  Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory; Timothy Lipman, Institute of Transportation Studies, University of California Berkeley; Melissa C. Lott, Columbia SIPA Center on Global Energy Policy;  Vijay Modi, The Earth Institute, Columbia University;  Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison; Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory;  Richard Perez, Atmospheric Sciences Research Center, University of Albany; Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory;  Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute; Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology; Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory.">
-<figure class="quarto-float quarto-float-fig figure">
-<div>
-<img src="https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/TAG.jpeg" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid figure-img" alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University; Gang He, Department of Technology and Society, Stony Brook University; Benjamin Houlton, Department of Global Development, Cornell University;  Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University; Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University;  Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory; Timothy Lipman, Institute of Transportation Studies, University of California Berkeley; Melissa C. Lott, Columbia SIPA Center on Global Energy Policy;  Vijay Modi, The Earth Institute, Columbia University;  Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison; Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory;  Richard Perez, Atmospheric Sciences Research Center, University of Albany; Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory;  Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute; Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology; Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory.">
-</div>
-</figure>
-</div>
+<p><img src="https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/TAG.jpeg" class="img-fluid" alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University; Gang He, Department of Technology and Society, Stony Brook University; Benjamin Houlton, Department of Global Development, Cornell University;  Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University; Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University;  Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory; Timothy Lipman, Institute of Transportation Studies, University of California Berkeley; Melissa C. Lott, Columbia SIPA Center on Global Energy Policy;  Vijay Modi, The Earth Institute, Columbia University;  Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison; Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory;  Richard Perez, Atmospheric Sciences Research Center, University of Albany; Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory;  Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute; Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology; Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory."></p>
 </section>
 <section id="related-news" class="level2">
 <h2 class="anchored" data-anchor-id="related-news">Related News</h2>
-<p><a href="../../posts/2019-nyclcpa-testimony/">Gang testified for the New York State Climate Leadership and Community Protection Act</a></p>
+<p><a href="../..\posts/2019-nyclcpa-testimony/">Gang testified for the New York State Climate Leadership and Community Protection Act</a></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -1636,7 +1719,7 @@ DOI: <a href="https://doi.org/10.1016/j.jclepro.2021.126536">10.1016/j.jclepro.2
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Published <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959652621007563">paper</a></p>
-<p>Self-archiving <a href="../../files/papers/2021-JCP-AIandWindTechnologyInnovation.pdf">pdf</a></p>
+<p>Self-archiving <a href="../..\files/papers/2021-JCP-AIandWindTechnologyInnovation.pdf">pdf</a></p>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jclepro.2021.126536">
 
@@ -1680,60 +1763,6 @@ Production</em> 297 (May): 126536. <a href="https://doi.org/10.1016/j.jclepro.20
   <guid>https://drganghe.github.io/posts/2021-05-jcp-ai-energy/</guid>
   <pubDate>Sat, 15 May 2021 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2021-05-jcp-ai-energy/featured.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Stony Brook Receives $4.25M Grant from State to Help NY Improve Recycling</title>
-  <dc:creator>SBU News</dc:creator>
-  <link>https://drganghe.github.io/posts/2021-01-nys-waste/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>Sorting garbage is messy, but important. Finding means to recover recyclable material from waste and putting it back into the product stream is critical to our sustainable future. That is why the Department of Technology and Society has been awarded $4.25 million by New York State to “characterize” its solid waste and improve its recycling.</p>
-</section>
-<section id="sbu-news" class="level2">
-<h2 class="anchored" data-anchor-id="sbu-news">SBU News</h2>
-<blockquote class="blockquote">
-<p>The five-year contract is with the New York State Department of Environmental Conservation (NYSDEC), Division of Materials Management. The project is led by Principal Investigators (PI) Professors David Tonjes and Elizabeth Hewitt, Co-PI Professor Gang He, and Research Professor Krista Thyberg. The primary task is to sample a set of municipal waste systems statewide to determine the composition of managed wastes and recyclables.</p>
-<p>Professor Tonjes has worked on New York solid waste issues for 30 years, in both technical and policy applications. Professor Hewitt is a planner with a strong background in researching human behavior and motivations in environmental settings. Professor He has conducted extensive research on recent energy and environmental management in China in terms of both infrastructure and policy changes. Professor Thyberg has been working on solid waste issues for about 10 years, including iconic work on managing food waste. They will be supported by teams of graduate students enrolled in doctoral and masters programs in the Department, and undergraduate students drawn mostly from the Technological Systems Management major.</p>
-<p>Student teams get the job of sorting garbage into more than 20 categories to determine variations across the State and within different kinds of management programs. Data will provide characterizations at a variety of scales, from individual truck routes to the State as a whole. The first year’s work, which was impacted by the pandemic, was restricted to sorting wastes at a number of recycling facilities and at two Long Island locations. The students found time during lock down to assemble data from nearly 200 waste sorts done by others across the country over the past several decades to put the New York work into context.</p>
-<p>“Similarities and differences across data sets will help refine State policies and regulations regarding solid waste management,” said Tonjes, associate research professor in the Department of Technology &amp; Society in Stony Brook’s College of Engineering and Applied Sciences (CEAS). “Our ultimate goal is to enable municipal waste managers to better target recovery and other management efforts while leading to refined or new means to promote more environmentally favorable behaviors.”</p>
-<p>This summer the sampling teams will fan out across the State and analyze samples at a number of disposal and recycling facilities. The data will not only be used to measure the effectiveness and efficiency of current programs but also to support other NYSDEC-funded recycling research programs, including work at the New York State Pollution Prevention Institute in Rochester, the University at Buffalo, SUNY College of Environmental Science and Forestry, and Alfred University.</p>
-<p>Year one also saw the completion of other related research projects supported by the NYSDEC grant by two smaller teams of student researchers:</p>
-<ul>
-<li>The first created an interactive web-based model to allow local planners to determine which materials are economically favored for recycling. This will allow for potential expansion of municipal recycling menus in sustainable directions. The model has been created and tested, and now the project report is being finalized for release later this spring.</li>
-<li>The second project investigated the interplay between market specifications and economics, recycling facility engineering choices, and policies adopted in China and by other jurisdictions that affect recycling. In 2017-2018, these factors merged to catastrophically collapse global recyclables markets. This research has explored the drivers for these intertwined forces and will help those proposing recycling regulations and planning technology implementations to mitigate the potential for similar events, and potentially to provide direction for recyclables processing for more long-term market sustainability. The reports detailing the findings are being prepared and will also be available in Spring 2021.</li>
-<li>A third related recycling research project will analyze the principles of the “circular economy” and determine the potential for recycling (especially “first order” recycling, which is when old newspaper is turned into new newspaper, not toilet paper, for instance) to play an important role in creating sustainable materials management. The project will focus on the classic set of recyclable materials (newspaper, cardboard, glass, metals, plastics) to determine what kinds of factors may limit first order recycling, which can lead to better expectations for market development and pursuit of innovative uses of collected materials destined for reuse. This project has just started and is expected to take two years to complete.</li>
-</ul>
-<p>“The Department of Technology &amp; Society blends engineering principles with social responsibility to help ensure that advances in technology truly benefit the community,” said Robert Kukta, acting dean, CEAS. “With population growth and increasing waste production, effective recycling is a critical issue for global sustainability. This project is a large step in the right direction not only for New York, but as a model for other locales.”</p>
-</blockquote>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Check Stony Brook University’s <a href="https://news.stonybrook.edu/environmental-stewardship/stony-brook-receives-4-25m-grant-from-state-to-help-ny-improve-recycling/">news page</a> for official release.</p>
-<p>Project Website: <a href="https://wastedata.info/" class="uri">https://wastedata.info/</a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/posts/2021-01-nys-waste/</guid>
-  <pubDate>Thu, 28 Jan 2021 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2021-01-nys-waste/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

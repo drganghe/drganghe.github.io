@@ -87,6 +87,8 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 
 ## Peer-reviewed Journal Paper
 
+Chen, Shi, Xi Lu\*, Chris P. Nielsen, Michael B. McElroy\*, **Gang He**, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang, and Jimin Hao. 2023. [Deploying Solar Photovoltaic Energy First in Carbon-Intensive Regions Brings Gigatons More Carbon Mitigations to 2060](https://www.nature.com/articles/s43247-023-01006-x). *Communications Earth & Environment* 4: 369. doi: [10.1038/s43247-023-01006-x](https://doi.org/10.1038/s43247-023-01006-x). [[pdf](https://www.nature.com/articles/s43247-023-01006-x.pdf)] 
+
 Luo, Qian, Fernando Garcia-Menendez, Jiang Lin, **Gang He**, and Jeremiah X. Johnson\*. 2023. [Accelerating China’s Power Sector Decarbonization Can Save Lives: Integrating Public Health Goals into Power Sector Decisions](https://iopscience.iop.org/article/10.1088/1748-9326/acf84b). *Environmental Research Letters* 18: 104023. doi: [10.1088/1748-9326/acf84b](https://doi.org/10.1088/1748-9326/acf84b).  [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/acf84b/pdf)]
 
 Peng, Liqun, Denise L. Mauzerall\*, Yaofeng D. Zhong, and **Gang He**\*. 2023. [Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China](https://www.nature.com/articles/s41467-023-40337-3). *Nature Communications* 14: 4858. doi:[10.1038/s41467-023-40337-3](https://doi.org/10.1038/s41467-023-40337-3). [[pdf](https://www.nature.com/articles/s41467-023-40337-3.pdf)]

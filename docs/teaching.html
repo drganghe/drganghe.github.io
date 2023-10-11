@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.383">
+<meta name="generator" content="quarto-1.4.415">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -47,7 +47,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     null
   ],
@@ -229,13 +229,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="energy-and-climate-policy">Energy and Climate Policy</h2>
 <div class="grid">
 <div class="g-col-12 g-col-md-2">
-<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div>
-<img src="./files/images/hex-Energy-Climate-Policy.png" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid figure-img">
-</div>
-</figure>
-</div>
+<p><img src=".\files/images/hex-Energy-Climate-Policy.png" class="img-fluid"></p>
 </div>
 <div class="g-col-12 g-col-md-10">
 <p><a href="https://drganghe.github.io/energy-climate-policy/">Fall 2023</a></p>
@@ -247,13 +241,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="energy-climate-and-society">Energy, Climate, and Society</h2>
 <div class="grid">
 <div class="g-col-12 g-col-md-2">
-<div id="fig-539a35d47e664c97a50115a146a7f1bd-2" class="quarto-figure quarto-figure-center anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div>
-<img src="./files/images/hex-Energy-Climate-Society.png" id="fig-539a35d47e664c97a50115a146a7f1bd-2" class="img-fluid figure-img">
-</div>
-</figure>
-</div>
+<p><img src=".\files/images/hex-Energy-Climate-Society.png" class="img-fluid"></p>
 </div>
 <div class="g-col-12 g-col-md-10">
 <p><a href="https://drganghe.github.io/energy-climate-society/">Fall 2023</a></p>
@@ -265,7 +253,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="energy-systems-analysis">Energy Systems Analysis</h2>
 <div class="grid">
 <div class="g-col-12 g-col-md-2">
-<p><a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/"><img src="./files/images/hex-EnergySystemsAnalysis.png" class="img-fluid"></a></p>
+<p><a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/"><img src=".\files/images/hex-EnergySystemsAnalysis.png" class="img-fluid"></a></p>
 </div>
 <div class="g-col-12 g-col-md-10">
 <p><a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/">Fall 2022</a></p>
@@ -277,7 +265,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="advanced-science-technology-and-innovation-policy">Advanced Science, Technology, and Innovation Policy</h2>
 <div class="grid">
 <div class="g-col-12 g-col-md-2">
-<p><a href="https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy"><img src="./files/images/hex-STIP.png" class="img-fluid"></a></p>
+<p><a href="https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy"><img src=".\files/images/hex-STIP.png" class="img-fluid"></a></p>
 </div>
 <div class="g-col-12 g-col-md-10">
 <p><a href="https://www.ganghe.net/teaching/EST625-2023-Advanced-Science-Technology-and-Innovation-Policy" class="external" target="_blank">Spring 2023</a> &nbsp; | &nbsp; <a href="https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy" class="external" target="_blank">Spring 2022</a></p>
@@ -678,9 +666,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
  	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
@@ -689,6 +678,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
 });

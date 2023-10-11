@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.383">
+<meta name="generator" content="quarto-1.4.415">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -48,7 +48,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     null
   ],
@@ -314,7 +314,7 @@ DOI: <a href="https://doi.org/10.1038/s41586-022-05316-6">10.1038/s41586-022-053
 <p>Published <a href="https://www.nature.com/articles/s41586-022-05316-6">paper</a></p>
 <p>Paper summary: <a href="../../posts/2022-11-nature-solar-paper-summary/index.html">The Cost of Going Solo in Solar</a></p>
 <p>ResearchGate <a href="https://www.researchgate.net/publication/364757014_Quantifying_the_cost_savings_of_global_solar_photovoltaic_supply_chains">pdf</a> provided by <em>Nature</em></p>
-<p>Preprint <a href="../../files/papers/2022-nature-solar-supply-chains-preprint.pdf">pdf</a></p>
+<p>Preprint <a href="../..\files/papers/2022-nature-solar-supply-chains-preprint.pdf">pdf</a></p>
 <p>Author Correction <a href="https://www.nature.com/articles/s41586-023-06262-7">pdf</a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06262-7/MediaObjects/41586_2023_6262_MOESM1_ESM.pdf">SI</a></p>
 <p>Github: <a href="https://github.com/jhelvy/solar-learning-2021">solar-learning-2021</a></p>
 <p>Zenodo: <a href="https://doi.org/10.5281/zenodo.6989075">Code and Data</a></p>
@@ -347,14 +347,8 @@ Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%
 </section>
 <section id="poster" class="level2">
 <h2 class="anchored" data-anchor-id="poster">Poster</h2>
-<p>Here is the poster for <a href="https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/">IAMC2022</a> which won the <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a>. The <a href="../../files/posters/nature-solar-supply-chains-poster.pdf">pdf</a> is also available.</p>
-<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="95%">
-<figure class="quarto-float quarto-float-fig figure">
-<div>
-<img src="../../files/posters/nature-solar-supply-chains-poster.png" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
-</div>
-</figure>
-</div>
+<p>Here is the poster for <a href="https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/">IAMC2022</a> which won the <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a>. The <a href="../..\files/posters/nature-solar-supply-chains-poster.pdf">pdf</a> is also available.</p>
+<p><img src="../..\files/posters/nature-solar-supply-chains-poster.png" class="img-fluid quarto-figure-left" style="width:95.0%"></p>
 </section>
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
@@ -362,7 +356,7 @@ Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%
 <iframe src="../../files/slides/solar-supply-chains-slides.html" class="responsive-iframe" width="100%" title="slides">
 </iframe>
 </div>
-<p>Above is the general slides of our paper, I presented it at <a href="https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g">Tsinghua University</a>. Check the <a href="../../files/slides/solar-supply-chains-slides.html">slides</a> in a new tab.</p>
+<p>Above is the general slides of our paper, I presented it at <a href="https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g">Tsinghua University</a>. Check the <a href="../..\files/slides/solar-supply-chains-slides.html">slides</a> in a new tab.</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -825,9 +819,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
  	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
@@ -836,6 +831,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
 });

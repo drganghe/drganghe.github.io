@@ -2,7 +2,7 @@
 title: "Gang joins the Marxe School of Public and International Affairs"
 description: "Welcome new collaborations"
 author: "Gang He"
-date: "2023-08-01"
+date: "2023-08-25"
 categories: [news]
 image: "featured.jpeg"
 css: /custom.css

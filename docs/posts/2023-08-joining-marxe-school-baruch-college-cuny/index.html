@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.383">
+<meta name="generator" content="quarto-1.4.415">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gang He">
-<meta name="dcterms.date" content="2023-08-01">
+<meta name="dcterms.date" content="2023-08-25">
 <meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
 
 <title>Dr.&nbsp;Gang He - Gang joins the Marxe School of Public and International Affairs</title>
@@ -48,7 +48,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     null
   ],
@@ -225,7 +225,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">August 1, 2023</p>
+      <p class="date">August 25, 2023</p>
     </div>
   </div>
   
@@ -238,9 +238,9 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 
 
 <p>I’m joining the <a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/" class="external" target="_blank">Marxe School of Public and International Affairs</a>, Baruch College, City University of New York, as an assistant professor on energy and climate policy.</p>
-<p><a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/"><img src="../../posts/2023-08-joining-marxe-school-baruch-college-cuny/New-Faculty_Webslider.jpeg" class="img-fluid"></a></p>
+<p><a href="https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/"><img src="../..\posts/2023-08-joining-marxe-school-baruch-college-cuny/New-Faculty_Webslider.jpeg" class="img-fluid"></a></p>
 <p>I’m grateful for Marxe School’s warm welcome messages in the <a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/" class="external" target="_blank">August 2023 Faculty Spotlight</a>.</p>
-<p><a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/"><img src="../../posts/2023-08-joining-marxe-school-baruch-college-cuny/MarxeSpotlights_WebSlider_August2023.jpeg" class="img-fluid"></a></p>
+<p><a href="https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/"><img src="../..\posts/2023-08-joining-marxe-school-baruch-college-cuny/MarxeSpotlights_WebSlider_August2023.jpeg" class="img-fluid"></a></p>
 <blockquote class="blockquote">
 <p>We welcome Assistant Professor Gang He to the Marxe School and discuss his research, experiences, recent projects, two courses he will be teaching, and more.</p>
 <h3 id="welcome-joining-the-marxe-school.-could-you-tell-us-more-about-your-research" class="anchored">Welcome joining the Marxe School. Could you tell us more about your research?</h3>
@@ -655,9 +655,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
  	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
@@ -666,6 +667,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
 });

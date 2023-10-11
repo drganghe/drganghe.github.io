@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.383">
+<meta name="generator" content="quarto-1.4.415">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -48,7 +48,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     null
   ],
@@ -289,7 +289,7 @@ DOI: <a href="https://doi.org/10.1016/j.jclepro.2021.129765">10.1016/j.jclepro.2
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Published <a href="https://www.sciencedirect.com/science/article/pii/S095965262103941X%3E">paper</a></p>
-<p>Self-archiving <a href="../../files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf">pdf</a></p>
+<p>Self-archiving <a href="../..\files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf">pdf</a></p>
 <p><a href="https://ars.els-cdn.com/content/image/1-s2.0-S095965262103941X-mmc1.docx">Supplementary Data</a></p>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jclepro.2021.129765">
@@ -300,13 +300,7 @@ DOI: <a href="https://doi.org/10.1016/j.jclepro.2021.129765">10.1016/j.jclepro.2
 </section>
 <section id="poster" class="level2">
 <h2 class="anchored" data-anchor-id="poster">Poster</h2>
-<div id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="95%">
-<figure class="quarto-float quarto-float-fig figure">
-<div>
-<img src="../../files/posters/electricity-carbon-water-poster.jpeg" id="fig-539a35d47e664c97a50115a146a7f1bd-1" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
-</div>
-</figure>
-</div>
+<p><img src="../..\files/posters/electricity-carbon-water-poster.jpeg" class="img-fluid quarto-figure-left" style="width:95.0%"></p>
 </section>
 <section id="twitter-thread" class="level2">
 <h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
@@ -739,9 +733,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
     var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
  	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
@@ -750,6 +745,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
 });
