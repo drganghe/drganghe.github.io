@@ -1,7 +1,7 @@
 ---
 title: "Dr. Gang He"
 #description-meta: "{{< meta description-meta >}}"
-image: files/gang-he-profile.jpeg
+image: files/profile/gang-he-cuny-profile.jpg
 page-navigation: false
 toc: false
 #sidebar: false
