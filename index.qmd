@@ -10,7 +10,7 @@ toc: false
 about:
   id: hero-heading
   template: trestles
-  image-width: 80%
+  image-width: 90%
   links:
     - icon: sun
       text: Mainpage
@@ -74,7 +74,7 @@ Dr. He’s work has direct policy impacts. He has testified for the [New York St
 
 Dr. He’s most recent collaborative analysis on the cost savings of global solar PV supply chains was published by [*Nature*](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd), and was awarded the [Best Poster Award](/posts/2022-12-iamc-2022-best-poster-award/index.qmd) by the Integrated Assessment Modeling Consortium (2022). He was selected as Youth Delegate to UNFCCC CoP11 (2005), Asia 21 Young Leaders (2007), Aspen Environment Forum Scholars (2011), Young Scholar of Institute for New Economic Thinking (2013), and [ITIF Energy Innovation Policy and Management Scholar](https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/){.external target="_blank"} (2019). 
 
-Dr. He has worked for the [Department of Technology and Society](https://www.stonybrook.edu/experts/profile/gang-he){.external target="_blank"} at Stony Brook University, the [Program on Energy and Sustainable Development](https://pesd.fsi.stanford.edu/people/Gang_He){.external target="_blank"} at Stanford University. He received his Ph.D. in [Energy and Resources](https://erg.berkeley.edu/people/gang-he/){.external target="_blank"} from University of California, Berkeley. He also holds an M.A. in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.
+Dr. He has worked for the [Department of Technology and Society](https://www.stonybrook.edu/commcms/est/people/affiliated_faculty/GangHe.php){.external target="_blank"} at Stony Brook University, the [Program on Energy and Sustainable Development](https://pesd.fsi.stanford.edu/people/Gang_He){.external target="_blank"} at Stanford University. He received his Ph.D. in [Energy and Resources](https://erg.berkeley.edu/people/gang-he/){.external target="_blank"} from University of California, Berkeley. He also holds an M.A. in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.
 
 ## Recent Posts
 Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)

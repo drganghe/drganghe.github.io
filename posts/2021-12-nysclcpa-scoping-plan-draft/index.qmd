@@ -9,15 +9,12 @@ image: "featured.png"
 
 ## Official Release
 
-<https://climate.ny.gov/Our-Climate-Act/Draft-Scoping-Plan>
+<https://climate.ny.gov/Resources/Draft-Scoping-Plan>
 
 ## About the Scoping Plan
 
 The Climate Leadership and Community Protection Act (Climate Act) was signed into law in 2019 as one of the most ambitious climate laws in the world. The law created the Climate Action Council (the Council), which is tasked with developing a Draft Scoping Plan that serves as an initial framework for how the State will reduce greenhouse gas emissions and achieve net-zero emissions, increase renewable energy usage, and ensure climate justice. On December 20, 2021, the Council voted to release the Draft Scoping Plan for public comment.
 
-## Submit your comments
-
-<https://nyserda.seamlessdocs.com/f/DraftScopingComments>
 
 ## About the Technical Advisory Group
 
