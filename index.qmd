@@ -10,7 +10,7 @@ toc: false
 about:
   id: hero-heading
   template: trestles
-  image-width: 90%
+  image-width: 80%
   links:
     - icon: sun
       text: Mainpage

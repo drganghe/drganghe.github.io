@@ -15,7 +15,53 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.4.415</generator>
-<lastBuildDate>Wed, 11 Oct 2023 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Nov 2023 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>UNEP releases the Production Gap Report 2023</title>
+  <dc:creator>UNEP </dc:creator>
+  <link>https://drganghe.github.io/posts/2023-11-unep-global-production-gap-report/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2023-11-unep-global-production-gap-report/featured.jpeg" class="img-fluid figure-img"></p>
+<figcaption>UNEP Production Gap Report 2023</figcaption>
+</figure>
+</div>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<blockquote class="blockquote">
+<p>The Production Gap Report tracks the misalignment between governments’ planned and projected production of coal, oil, and gas and the global production levels consistent with the Paris Agreement’s temperature goal. Now, in its fourth edition, this year’s report will feature two major updates to the production gap analysis, drawing on changes in government plans and projections since August 2021 and the new mitigation scenarios database compiled for the Intergovernmental Panel on Climate Change’s Sixth Assessment Report. The report will also provide a more detailed assessment of the global coal, oil, and gas reduction pathways needed to keep the 1.5°C goal in reach.</p>
+<p>The report will also feature individual country profiles for 20 major fossil-fuel-producing countries, evaluating governments’ latest climate ambitions and their plans, policies, and strategies that support fossil fuel production or the transition away from it: Australia, Brazil, Canada, China, Colombia, Germany, India, Indonesia, Kazakhstan, Kuwait, Mexico, Nigeria, Norway, Qatar, the Russian Federation, Saudi Arabia, South Africa, the United Arab Emirates, the United States of America, and the United Kingdom of Great Britain and Northern Ireland.</p>
+<p>This report is produced by the Stockholm Environment Institute(SEI), Climate Analytics, E3G, the International Institute for Sustainable Development(IISD), and the UN Environment Programme(UNEP).</p>
+</blockquote>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Check UNEP <a href="https://www.iamconsortium.org/iamc-announcements/news-iamc-announcement/15th-iamc-annual-meeting-awards/">Production Gap Report 2023</a> for the official announcement.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://drganghe.github.io/posts/2023-11-unep-global-production-gap-report/</guid>
+  <pubDate>Wed, 08 Nov 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2023-11-unep-global-production-gap-report/featured.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060</title>
   <dc:creator>Shi Chen</dc:creator>
@@ -512,6 +558,19 @@ Systems.”</span> <em>Nature Energy</em> 8 (8): 870–80. <a href="https://doi.
 
 
 
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Position filled
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This position is no longer available and is archived, please follow our website for future opportunities.</p>
+</div>
+</div>
 <section id="position-overview" class="level2">
 <h2 class="anchored" data-anchor-id="position-overview">Position Overview</h2>
 <p>We are seeking a highly motivated post-doctoral researcher to join our interdisciplinary team studying the carbon mitigation, air quality, and human health benefits of global clean energy supply chains, with support from the Global Energy Initiative at ClimateWorks Foundation. The ideal candidate will have expertise in power system modeling, air pollution and human health modeling.</p>
@@ -559,11 +618,13 @@ Systems.”</span> <em>Nature Energy</em> 8 (8): 870–80. <a href="https://doi.
 <li>Experience with spatial analysis and GIS software (e.g., ArcGIS or QGIS).</li>
 </ul>
 <p>This is a full-time, one-year position with the possibility of extension based on performance and funding availability. The position offers salary and benefits package, as well as opportunities for professional development and networking. Applicants should submit a CV, cover letter, and contact information for three references. Applications will be reviewed on a rolling basis until the position is filled.</p>
+<!--
 <center>
-<div class="hero-buttons">
-<p><a href="https://www.rfcuny.org/careers/postings?pvnID=BA-2305-005626" class="btn-action-primary btn-action btn btn-success btn-lg">Apply here</a></p>
-</div>
+::: {.hero-buttons}
+[Apply here](https://www.rfcuny.org/careers/postings?pvnID=BA-2305-005626){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+::: 
 </center>
+-->
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -1681,84 +1742,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/</guid>
   <pubDate>Mon, 20 Dec 2021 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/featured.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017</title>
-  <dc:creator>Mekyung Lee</dc:creator>
-  <dc:creator>Gang He</dc:creator>
-  <link>https://drganghe.github.io/posts/2021-05-jcp-ai-energy/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Paper
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017<br>
-Mekyung Lee*, and <strong>Gang He</strong><br>
-<em>Journal of Cleaner Production</em> (2021)<br>
-DOI: <a href="https://doi.org/10.1016/j.jclepro.2021.126536">10.1016/j.jclepro.2021.126536</a></p>
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>We investigated the applications of artificial intelligence (AI) algorithms in wind power technology changes over time and found that AI accelerates the automation of wind power systems. This study shows evidence of the evolution of wind technology innovation following the advancement in AI algorithms using the patents data issued in four intellectual property (IP) offices from 1980 through 2017. Artificial intelligence and more advanced data analytics can be effectively applied to increase the efficiency of wind power systems and to optimize wind farm operations. This study empirically analyzes the evolution of applications of AI algorithms in wind power technology by employing machine learning-based text mining and network analysis, demonstrating the dynamic changing pattern of applications of AI algorithms in wind power technology innovation.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959652621007563">paper</a></p>
-<p>Self-archiving <a href="../..\files/papers/2021-JCP-AIandWindTechnologyInnovation.pdf">pdf</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jclepro.2021.126536">
-
-</div>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jclepro.2021.126536" data-hide-zero-citations="true" data-style="small_circle"></span>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{lee2021,
-  author = {Lee, Mekyung and He, Gang},
-  title = {An Empirical Analysis of Applications of Artificial
-    Intelligence Algorithms in Wind Power Technology Innovation During
-    1980–2017},
-  journal = {Journal of Cleaner Production},
-  volume = {297},
-  pages = {126536},
-  date = {2021-05-15},
-  url = {https://www.sciencedirect.com/science/article/abs/pii/S0959652621007563},
-  doi = {10.1016/j.jclepro.2021.126536},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-lee2021" class="csl-entry quarto-appendix-citeas">
-Lee, Mekyung, and Gang He. 2021. <span>“An Empirical Analysis of
-Applications of Artificial Intelligence Algorithms in Wind Power
-Technology Innovation During 1980–2017.”</span> <em>Journal of Cleaner
-Production</em> 297 (May): 126536. <a href="https://doi.org/10.1016/j.jclepro.2021.126536">https://doi.org/10.1016/j.jclepro.2021.126536</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/posts/2021-05-jcp-ai-energy/</guid>
-  <pubDate>Sat, 15 May 2021 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2021-05-jcp-ai-energy/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

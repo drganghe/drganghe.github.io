@@ -9,6 +9,15 @@ css: /custom.css
 #draft: true
 ---
 
+::: {.callout-important}
+
+## Position filled
+
+This position is no longer available and is archived, please follow our website for future opportunities.
+
+:::
+
+
 ## Position Overview
 
 We are seeking a highly motivated post-doctoral researcher to join our interdisciplinary team studying the carbon mitigation, air quality, and human health benefits of global clean energy supply chains, with support from the Global Energy Initiative at ClimateWorks Foundation. The ideal candidate will have expertise in power system modeling, air pollution and human health modeling.
@@ -40,12 +49,13 @@ We are seeking a highly motivated post-doctoral researcher to join our interdisc
 
 This is a full-time, one-year position with the possibility of extension based on performance and funding availability. The position offers salary and benefits package, as well as opportunities for professional development and networking. Applicants should submit a CV, cover letter, and contact information for three references. Applications will be reviewed on a rolling basis until the position is filled.
 
-
+<!--
 <center>
 ::: {.hero-buttons}
 [Apply here](https://www.rfcuny.org/careers/postings?pvnID=BA-2305-005626){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 ::: 
 </center>
+-->
 
 <!--Include social share buttons-->
 
