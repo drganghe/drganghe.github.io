@@ -4,12 +4,12 @@ description: "Gang joins a global expert team that contributed to the Production
 author: "UNEP"
 date: "2023-11-08"
 categories: [news]
-image: "featured.jpeg"
+image: "featured.jpg"
 css: /custom.css
-draft: true
+#draft: true
 ---
 
-![UNEP Production Gap Report 2023](featured.jpeg)
+[![UNEP Production Gap Report 2023](featured.jpg)](https://productiongap.org/2023report/)
 
 
 ## Summary
@@ -23,8 +23,19 @@ draft: true
 
 ## Links
 
-Check UNEP [Production Gap Report 2023](https://www.iamconsortium.org/iamc-announcements/news-iamc-announcement/15th-iamc-annual-meeting-awards/) for the official announcement. 
+Check UNEP [Production Gap Report 2023](https://productiongap.org/2023report/) for the official release. 
 
+
+## Key messages
+
+>Taken together, government plans and projections would lead to an increase in global coal production until 2030, and in global oil and gas production until at least 2050. This conflicts with government commitments under the Paris Agreement, and clashes with expectations that global demand for coal, oil, and gas will peak within this decade even without new policies.
+
+[![Global levels of coal, oil , and gas estimated under the government plans and projections pathways would be 460%, 29%, and 82% higher than those under the respective 1.5°C-consistent pathways](PGR2023_Fig-2-2.webp)](https://productiongap.org/2023report/)
+
+
+## Contributors
+
+[![](pgr2023-contributors.png)](https://productiongap.org/2023report/)
 
 
 <!--Include social share buttons-->
