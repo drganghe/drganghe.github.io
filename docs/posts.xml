@@ -15,7 +15,79 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.4.471</generator>
-<lastBuildDate>Wed, 08 Nov 2023 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Nov 2023 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>SWITCH-China: Open Source Model for the World Largest Power System</title>
+  <dc:creator>SWITCH China</dc:creator>
+  <link>https://drganghe.github.io/posts/2023-11-switch-china-modeling-world-largest-power-system/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://github.com/switch-model/switch-china-open-model"><img src="https://drganghe.github.io/posts/2023-11-switch-china-modeling-world-largest-power-system/featured.png" class="img-fluid" alt="SWITCH-China Open Model"></a></p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>China’s power sector in 2022 accounted for about 1/4 of global coal consumption, 1/8 of global energy related carbon emission, and at the same time, 40% of global solar and wind capaicity. This fast transiting sector is under pressure to lower its carbon emissions while strive to power the world’s largest manufacturer and fastest growing mid-class. The scale and scope of China’s clean power transition is unprecedented, yet its trojactories are uncertain and its impacts are enormouse. How can China’s power sector achieve carbon netrality will in large impact how can the world meet the net-zero goals. Modeling China’s power transition is both important and challenging. After years’ efforts, and collaboration, I decide to open-source SWITCH-China Model and make it SWITCH-China Open Model to facilitate the modeling integration and comparison, data sharing, policy discussion and debate.</p>
+</section>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/JXkUuYRQvU0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<div class="container">
+<iframe src="../../files/slides/switch-china.html" class="responsive-iframe" width="100%" title="slides">
+</iframe>
+</div>
+<p>Above is the video and slides of my presentation for <a href="https://forum.openmod.org/t/openmod-meets-usa-2023/4148">Openmod meets USA 2023</a> online. Check the <a href="../..\files/slides/switch-china.html">slides</a> in a new tab.</p>
+</section>
+<section id="core-publications" class="level2">
+<h2 class="anchored" data-anchor-id="core-publications">Core publications</h2>
+<p>He, Gang*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen*. 2016. <a href="../../posts/2016-est-switch-china/index.html">SWITCH-China: A Systems Approach to Decarbonizing China’s Power System</a>. <em>Environmental Science &amp; Technology</em> 50(11): 5467–5473. doi: <a href="https://doi.org/10.1021/acs.est.6b01345">10.1021/acs.est.6b01345</a>.</p>
+<p>He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. <a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html">Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System</a>. <em>Nature Communications</em> 11(1): 2486. doi: <a href="https://doi.org/10.1038/s41467-020-16184-x">10.1038/s41467-020-16184-x</a>.</p>
+<p>Zhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong. 2021.&nbsp;<a href="../../posts/2021-12-jcp-power-water-carbon/index.html">Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint</a>. <em>Journal of Cleaner Production</em>&nbsp;329: 129765. doi: <a href="https://doi.org/10.1016/j.jclepro.2021.129765">10.1016/j.jclepro.2021.129765</a>.</p>
+<p>Peng, Liqun, Denise L. Mauzerall*, Yaofeng D. Zhong, and Gang He*. 2023. <a href="https://www.nature.com/articles/s41467-023-40337-3">Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China</a>. <em>Nature Communications</em> 14: 4858. doi:<a href="https://doi.org/10.1038/s41467-023-40337-3">10.1038/s41467-023-40337-3</a>.</p>
+</section>
+<section id="contributors" class="level2">
+<h2 class="anchored" data-anchor-id="contributors">Contributors</h2>
+<ul>
+<li>SWITCH/EDF and EDF-China team: Matthias Fripp, Oleg Lugovoy, Suzi Kerr, and Ji Gao, Keyang Xue, Gray Zhuoran Li, and others<br>
+</li>
+<li>UCB and RAEL: Daniel Kammen, Anne-Perrine Avrin, Jianwei Tian, James Nelson, Josiah Johnston, Ana Mileva, Bo Li, Patricia Hidalgo-Gonzalez, Juan Pablo Carvallo<br>
+</li>
+<li>Gridpath: Qian Luo, Haozhe Yang, Ana Mileva, and Ranjit Deshmukh<br>
+</li>
+<li>Collaborators: Chao Zhang, Jiang Lin, Amol Phadke, Liqun Peng, Denise Mauzerall, Desmond Zhong, Wenjia Cai, Yu Chen, Yuang Chen, Shiyu Huang, Jingxuan Hui, Haoran Li, Xu Liu, Hongyou Lu, Xiao Su, Yang Wang, Zheng Wang, Kate Yu, Shuyu Yang, Jiahai Yuan, Wenhua Zhang, Hongyang Zou, and many more<br>
+Thank you for your help and support!</li>
+</ul>
+</section>
+<section id="learn-more" class="level2">
+<h2 class="anchored" data-anchor-id="learn-more">Learn more</h2>
+<p><a href="https://www.ganghe.net/research/switch-china-model" class="uri">https://www.ganghe.net/research/switch-china-model</a></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>slides</category>
+  <category>video</category>
+  <guid>https://drganghe.github.io/posts/2023-11-switch-china-modeling-world-largest-power-system/</guid>
+  <pubDate>Mon, 13 Nov 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2023-11-switch-china-modeling-world-largest-power-system/featured.png" medium="image" type="image/png" height="66" width="144"/>
+</item>
 <item>
   <title>UNEP releases the Production Gap Report 2023</title>
   <dc:creator>SEI, Climate Analytics, E3G, IISD, UNEP</dc:creator>
@@ -1711,51 +1783,6 @@ of Cleaner Production</em> 329 (December): 129765. <a href="https://doi.org/10.1
   <guid>https://drganghe.github.io/posts/2021-12-jcp-power-water-carbon/</guid>
   <pubDate>Mon, 20 Dec 2021 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2021-12-jcp-power-water-carbon/featured.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Gang contributed to the NYS Climate Action Council Draft Scoping Plan</title>
-  <dc:creator>NYSERDA </dc:creator>
-  <link>https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="official-release" class="level2">
-<h2 class="anchored" data-anchor-id="official-release">Official Release</h2>
-<p><a href="https://climate.ny.gov/Resources/Draft-Scoping-Plan" class="uri">https://climate.ny.gov/Resources/Draft-Scoping-Plan</a></p>
-</section>
-<section id="about-the-scoping-plan" class="level2">
-<h2 class="anchored" data-anchor-id="about-the-scoping-plan">About the Scoping Plan</h2>
-<p>The Climate Leadership and Community Protection Act (Climate Act) was signed into law in 2019 as one of the most ambitious climate laws in the world. The law created the Climate Action Council (the Council), which is tasked with developing a Draft Scoping Plan that serves as an initial framework for how the State will reduce greenhouse gas emissions and achieve net-zero emissions, increase renewable energy usage, and ensure climate justice. On December 20, 2021, the Council voted to release the Draft Scoping Plan for public comment.</p>
-</section>
-<section id="about-the-technical-advisory-group" class="level2">
-<h2 class="anchored" data-anchor-id="about-the-technical-advisory-group">About the Technical Advisory Group</h2>
-<p>The Technical Advisory Group provides technical expertise and comments to the Council and the integration analysis of the Draft Scoping Plan. The group includes:</p>
-<p><img src="https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/TAG.jpeg" class="img-fluid" alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University; Gang He, Department of Technology and Society, Stony Brook University; Benjamin Houlton, Department of Global Development, Cornell University;  Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University; Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University;  Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory; Timothy Lipman, Institute of Transportation Studies, University of California Berkeley; Melissa C. Lott, Columbia SIPA Center on Global Energy Policy;  Vijay Modi, The Earth Institute, Columbia University;  Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison; Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory;  Richard Perez, Atmospheric Sciences Research Center, University of Albany; Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory;  Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute; Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology; Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory."></p>
-</section>
-<section id="related-news" class="level2">
-<h2 class="anchored" data-anchor-id="related-news">Related News</h2>
-<p><a href="../..\posts/2019-nyclcpa-testimony/">Gang testified for the New York State Climate Leadership and Community Protection Act</a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/</guid>
-  <pubDate>Mon, 20 Dec 2021 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2021-12-nysclcpa-scoping-plan-draft/featured.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>
