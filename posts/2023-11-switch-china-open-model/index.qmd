@@ -28,7 +28,7 @@ China's power sector in 2022 accounted for about 1/4 of global coal consumption,
 <iframe src="/files/slides/switch-china.html" class="responsive-iframe" width="100%" title="slides"></iframe>
 </div>
 
-Above is the video and slides of my presentation for [Openmod meets USA 2023](https://forum.openmod.org/t/openmod-meets-usa-2023/4148) online. Check the [slides](/files/slides/switch-china.html) in a new tab.
+Above are the video and slides of my presentation for [Openmod meets USA 2023](https://forum.openmod.org/t/openmod-meets-usa-2023/4148) online. Check the [slides](/files/slides/switch-china.html) in a new tab.
 
 
 ## Core publications
@@ -41,13 +41,13 @@ Zhang, Chao, Gang He\*, Josiah Johnston, and Lijin Zhong. 2021. [Long-Term Tran
 
 Peng, Liqun, Denise L. Mauzerall\*, Yaofeng D. Zhong, and Gang He\*. 2023. [Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China](https://www.nature.com/articles/s41467-023-40337-3). *Nature Communications* 14: 4858. doi:[10.1038/s41467-023-40337-3](https://doi.org/10.1038/s41467-023-40337-3).
 
-## Contributors
+## Acknowledgment
 
 - SWITCH/EDF and EDF-China team: Matthias Fripp, Oleg Lugovoy, Suzi Kerr, and Ji Gao, Keyang Xue, Gray Zhuoran Li, and others   
 - UCB and RAEL: Daniel Kammen, Anne-Perrine Avrin, Jianwei Tian, James Nelson, Josiah Johnston, Ana Mileva, Bo Li, Patricia Hidalgo-Gonzalez, Juan Pablo Carvallo    
 - Gridpath:  Qian Luo, Haozhe Yang, Ana Mileva, and Ranjit Deshmukh   
-- Collaborators: Chao Zhang, Jiang Lin, Amol Phadke, Liqun Peng, Denise Mauzerall, Desmond Zhong, Wenjia Cai, Yu Chen, Yuang Chen, Shiyu Huang, Jingxuan Hui, Haoran Li, Xu Liu, Hongyou Lu, Xiao Su, Yang Wang, Zheng Wang, Kate Yu, Shuyu Yang, Jiahai Yuan, Wenhua Zhang, Hongyang Zou, and many more   
-Thank you for your help and support!   
+- Collaborators: Chao Zhang, Jiang Lin, Amol Phadke, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, Liqun Peng, Denise Mauzerall, Desmond Zhong, Wenjia Cai, Yu Chen, Yuang Chen, Shiyu Huang, Jingxuan Hui, Haoran Li, Hongyou Lu, Xiao Su, Yang Wang, Zheng Wang, Kate Yu, Shuyu Yang, Jiahai Yuan, Wenhua Zhang, Hongyang Zou, and many more   
+ 
 
 ## Learn more
 

@@ -14,7 +14,7 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.4.471</generator>
+<generator>quarto-1.4.513</generator>
 <lastBuildDate>Mon, 13 Nov 2023 05:00:00 GMT</lastBuildDate>
 <item>
   <title>SWITCH-China: Open Source Model for the World Largest Power System</title>
@@ -25,7 +25,12 @@
 
 
 
-<p><a href="https://github.com/switch-model/switch-china-open-model"><img src="https://drganghe.github.io/posts/2023-11-switch-china-open-model/featured.png" class="img-fluid" alt="SWITCH-China Open Model"></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://github.com/switch-model/switch-china-open-model"><img src="https://drganghe.github.io/posts/2023-11-switch-china-open-model/featured.png" class="img-fluid figure-img" alt="SWITCH-China Open Model"></a></p>
+<figcaption>SWITCH-China Open Model</figcaption>
+</figure>
+</div>
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
 <p>China’s power sector in 2022 accounted for about 1/4 of global coal consumption, 1/8 of global energy related carbon emission, and at the same time, 40% of global solar and wind capaicity. This fast transiting sector is under pressure to lower its carbon emissions while strive to power the world’s largest manufacturer and fastest growing mid-class. The scale and scope of China’s clean power transition is unprecedented, yet its trojactories are uncertain and its impacts are enormouse. How can China’s power sector achieve carbon netrality will in large impact how can the world meet the net-zero goals. Modeling China’s power transition is both important and challenging. After years’ efforts, and collaboration, I decide to open-source SWITCH-China Model and make it SWITCH-China Open Model to facilitate the modeling integration and comparison, data sharing, policy discussion and debate.</p>
@@ -40,7 +45,7 @@
 <iframe src="../../files/slides/switch-china.html" class="responsive-iframe" width="100%" title="slides">
 </iframe>
 </div>
-<p>Above is the video and slides of my presentation for <a href="https://forum.openmod.org/t/openmod-meets-usa-2023/4148">Openmod meets USA 2023</a> online. Check the <a href="../..\files/slides/switch-china.html">slides</a> in a new tab.</p>
+<p>Above are the video and slides of my presentation for <a href="https://forum.openmod.org/t/openmod-meets-usa-2023/4148">Openmod meets USA 2023</a> online. Check the <a href="../..\files/slides/switch-china.html">slides</a> in a new tab.</p>
 </section>
 <section id="core-publications" class="level2">
 <h2 class="anchored" data-anchor-id="core-publications">Core publications</h2>
@@ -49,8 +54,8 @@
 <p>Zhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong. 2021.&nbsp;<a href="../../posts/2021-12-jcp-power-water-carbon/index.html">Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint</a>. <em>Journal of Cleaner Production</em>&nbsp;329: 129765. doi: <a href="https://doi.org/10.1016/j.jclepro.2021.129765">10.1016/j.jclepro.2021.129765</a>.</p>
 <p>Peng, Liqun, Denise L. Mauzerall*, Yaofeng D. Zhong, and Gang He*. 2023. <a href="https://www.nature.com/articles/s41467-023-40337-3">Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China</a>. <em>Nature Communications</em> 14: 4858. doi:<a href="https://doi.org/10.1038/s41467-023-40337-3">10.1038/s41467-023-40337-3</a>.</p>
 </section>
-<section id="contributors" class="level2">
-<h2 class="anchored" data-anchor-id="contributors">Contributors</h2>
+<section id="acknowledgment" class="level2">
+<h2 class="anchored" data-anchor-id="acknowledgment">Acknowledgment</h2>
 <ul>
 <li>SWITCH/EDF and EDF-China team: Matthias Fripp, Oleg Lugovoy, Suzi Kerr, and Ji Gao, Keyang Xue, Gray Zhuoran Li, and others<br>
 </li>
@@ -58,8 +63,7 @@
 </li>
 <li>Gridpath: Qian Luo, Haozhe Yang, Ana Mileva, and Ranjit Deshmukh<br>
 </li>
-<li>Collaborators: Chao Zhang, Jiang Lin, Amol Phadke, Liqun Peng, Denise Mauzerall, Desmond Zhong, Wenjia Cai, Yu Chen, Yuang Chen, Shiyu Huang, Jingxuan Hui, Haoran Li, Xu Liu, Hongyou Lu, Xiao Su, Yang Wang, Zheng Wang, Kate Yu, Shuyu Yang, Jiahai Yuan, Wenhua Zhang, Hongyang Zou, and many more<br>
-Thank you for your help and support!</li>
+<li>Collaborators: Chao Zhang, Jiang Lin, Amol Phadke, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, Liqun Peng, Denise Mauzerall, Desmond Zhong, Wenjia Cai, Yu Chen, Yuang Chen, Shiyu Huang, Jingxuan Hui, Haoran Li, Hongyou Lu, Xiao Su, Yang Wang, Zheng Wang, Kate Yu, Shuyu Yang, Jiahai Yuan, Wenhua Zhang, Hongyang Zou, and many more</li>
 </ul>
 </section>
 <section id="learn-more" class="level2">
@@ -97,7 +101,12 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
-<p><a href="https://productiongap.org/2023report/"><img src="https://drganghe.github.io/posts/2023-11-unep-production-gap-report-2023/featured.jpg" class="img-fluid" alt="UNEP Production Gap Report 2023"></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://productiongap.org/2023report/"><img src="https://drganghe.github.io/posts/2023-11-unep-production-gap-report-2023/featured.jpg" class="img-fluid figure-img" alt="UNEP Production Gap Report 2023"></a></p>
+<figcaption>UNEP Production Gap Report 2023</figcaption>
+</figure>
+</div>
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
 <blockquote class="blockquote">
@@ -127,7 +136,11 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 <section id="contributors" class="level2">
 <h2 class="anchored" data-anchor-id="contributors">Contributors</h2>
-<p><a href="https://productiongap.org/2023report/"><img src="https://drganghe.github.io/posts/2023-11-unep-production-gap-report-2023/pgr2023-contributors.png" class="img-fluid"></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://productiongap.org/2023report/"><img src="https://drganghe.github.io/posts/2023-11-unep-production-gap-report-2023/pgr2023-contributors.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 

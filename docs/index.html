@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.471">
+<meta name="generator" content="quarto-1.4.513">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -277,7 +277,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 </div>
   </div>
   <div class="about-contents"><div id="hero-heading">
-<p>Dr.&nbsp;He is an energy scholar, researcher, and teacher. He is an Assistant Professor in the <a href="https://marxe.baruch.cuny.edu/about/faculty-and-staff/full-time-faculty/" class="external" target="_blank">Marxe School of Public and International Affairs</a>, Baruch College, City University of New York. He studies and teaches energy systems, energy and climate policy, and clean energy transition.</p>
+<p>Dr.&nbsp;He is an energy scholar, researcher, and teacher. He is an Assistant Professor in the <a href="https://marxe.baruch.cuny.edu/about/faculty-and-staff/full-time-faculty/" class="external" target="_blank">Marxe School of Public and International Affairs</a>, Baruch College, City University of New York. He studies and teaches energy systems, energy and climate policy, and clean energy transition. His work advances data-driven, evidence-based research on deep decarbonization, renewable integration, clean energy global supply chains, and other emerging energy nexus themes.</p>
 <p>Dr.&nbsp;He’s work has been published in high-impact interdisciplinary and field journals such as <a href="./posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"><em>Nature</em></a>, <a href="./posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"><em>Nature Energy</em></a>, <a href="./posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/index.html"><em>Nature Water</em></a>, <a href="./posts/2020-05-ncomms-rapid-re-cost/index.html"><em>Nature Communications</em></a>, <a href="./posts/2020-08-oneearth-coal-just-transition/index.html"><em>One Earth</em></a>, <a href="./posts/2016-est-switch-china/index.html"><em>Environmental Science &amp; Technology</em></a>, <a href="./posts/2013-ep-carbon-offsetters-paradox/index.html"><em>Energy Policy</em></a>. His research was reported by <a href="./posts/2020-10-nature-news-carbon-neutrality/index.html"><em>Nature</em></a>, <em>Scientific American</em>, <em>Carbon Brief</em>, <em>National Geographic</em>, <em>New York Times</em>, <em>E&amp;E News</em>, among others.</p>
 <p>Dr.&nbsp;He’s work has direct policy impacts. He has testified for the <a href="./posts/2019-nyclcpa-testimony/index.html">New York State Climate Leadership and Community Protection Act</a> before it became law and has advised New York State Climate Action Council’s <a href="./posts/2021-12-nysclcpa-scoping-plan-draft/index.html">Scoping Plan</a>. He has also involved in the U.S.-China collaboration on energy and climate change.</p>
 </div></div>
@@ -290,7 +290,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
 <div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="news,event,slides,video" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1700737703360" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="432">
+<div class="g-col-1" data-index="0" data-categories="news,event,slides,video" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1701368068191" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
 <a href="./posts/2023-11-switch-china-open-model/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -452,6 +452,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -526,8 +544,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
         }
         typesetMath(container);
         return container.innerHTML
@@ -761,24 +786,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
-          }
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
