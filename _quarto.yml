@@ -82,6 +82,8 @@ website:
     tracking-id: "G-G4DYZHP5J7"
     anonymize-ip: true 
 
+bibliography: references.bib
+
 format:
   html:
     theme: cosmo

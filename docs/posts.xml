@@ -15,7 +15,76 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.4.513</generator>
-<lastBuildDate>Mon, 13 Nov 2023 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 05 Dec 2023 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Advancing a just, resilient, and sustainable clean energy supply chain</title>
+  <dc:creator>Gang He</dc:creator>
+  <dc:creator>Daniel M Kammen</dc:creator>
+  <dc:creator>Muhammad Husni Mubarok</dc:creator>
+  <dc:creator>Shoon So Oo</dc:creator>
+  <link>https://drganghe.github.io/posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>This post is prepared for COP28’s Energy &amp; Industry and Just Transition Day. We propose a multi-faceted framework for a <a href="https://www.climateworks.org/blog/advancing-a-just-resilient-and-sustainable-clean-energy-supply-chain/">just, resilient, and sustainable clean energy supply chain</a> to address the challenges along global clean energy supply chains.</p>
+</section>
+<section id="challenges" class="level2">
+<h2 class="anchored" data-anchor-id="challenges">Challenges</h2>
+<p>Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, a process that relies on an efficient global clean energy supply chain. Based on the IEA’s <a href="https://www.iea.org/reports/net-zero-by-2050">Net Zero by 2050</a>, solar and wind energy deployment must reach 20 and 15 times their 2020 levels by 2050, respectively, to bring down global energy-related carbon emissions to net zero. The global supply chains for solar and wind, intertwined with critical minerals and storage technologies, play a pivotal role in the success of this transition.</p>
+<p>Today, however, the pandemic, geopolitical tensions, and climate-driven events, present significant risks to the <a href="https://www.iea.org/reports/securing-clean-energy-technology-supply-chains">stability of the global clean energy supply chains</a>. The COVID-19 pandemic has revealed the vulnerability of global supply chains, disrupting manufacturing, transportation, and distribution networks worldwide. Geopolitical tensions and trade conflicts add another layer of complexity. The trade war has disrupted the free flow of capital, products, and even talents, essential components for the supply chain. Additionally, climate-induced extreme weather events and natural disasters pose physical threats to the infrastructure of the supply chain, affecting both production and distribution.</p>
+</section>
+<section id="benefits" class="level2">
+<h2 class="anchored" data-anchor-id="benefits">Benefits</h2>
+<p>The unequal distribution of costs and benefits along the supply chain raises ethical and socio-economic concerns, sometimes leading to countries breaking from the supply chain. While some regions benefit economically from the growth of the renewable energy sector, other regions bear disproportionate environmental and social burdens, particularly in Africa, Southeast Asia, and South America. The extraction of <a href="https://www.iea.org/news/iea-summit-on-critical-minerals-and-clean-energy-key-takeaways">critical minerals</a>, essential for battery manufacturing, often occurs in these regions, leading to environmental degradation, exploitation of local communities, and insufficient sharing of economic benefits. Deep seabed mining, promoted by some, presents an added layer of ecosystem risks.</p>
+<p>Despite these challenges, the benefits of a global supply chain are massive. An efficient and resilient supply chain is crucial for achieving continued cost reductions in solar, wind, and storage technologies – a key factor to scale up deployment. A paper published in <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"><em>Nature</em></a>, <span class="citation" data-cites="helveston_he_davidson_2022">Helveston, He, and Davidson (2022)</span> show solar PV costs could be 20-30% higher in 2030 if countries move from global supply chain to manufacturing domestically. The interconnectedness of these technologies, facilitated by a global supply chain, not only aids in cost reduction but also plays a pivotal role in carbon mitigation, pollution reduction, and overall improvement of human health. A recent paper published in <a href="../../posts/2023-10-commsee-eploying-solar-pv-first-incarbon-intensive-regions/index.html"><em>Communications Earth &amp; Environment</em></a>, <span class="citation" data-cites="chen2023deploying">Chen et al. (2023)</span> found that coordination of global solar manufacturing at low carbon regions and prioritize installation at carbon intensive regions could achieve 97.5 Gt more net carbon mitigation from 2020 to 2060. These benefits underscore the importance of preserving and strengthening the global supply chain, even as we navigate the challenges it presents.</p>
+<p>In addressing these challenges and maximizing the benefits, there is a pressing need for a commonly agreed framework for a just, resilient, and sustainable clean energy supply chain. Such a framework would bring together stakeholders from all countries and diverse sectors, fostering understanding and collaboration. This collaborative approach is essential for advancing solutions that continue to harness the benefits of a global supply chain while effectively addressing concerns about the associated risks and uncertainties.</p>
+<p>A just, resilient, and sustainable framework for the clean energy supply chain needs to consider the specific challenges faced by different regions, especially in <a href="https://www.seforall.org/our-work/initiatives-projects/renewable-energy-manufacturing-initiative">Africa</a>, <a href="https://www.seforall.org/publications/renewable-energy-manufacturing-opportunities-for-southeast-asia">Southeast Asia</a>, and South America. In these regions, the risks from supply chain disruptions are exacerbated by pre-existing socio-economic vulnerabilities. The pandemic has highlighted the need for robust public health infrastructure, social safety nets, and resilient economic systems. Geopolitical tensions can disproportionately affect developing nations, disrupting their economic development and access to crucial clean technologies. Climate events can have severe consequences in regions that are already overburdened with the impacts of climate change, leading to a compounding of challenges.</p>
+</section>
+<section id="a-multi-faceted-approach" class="level2">
+<h2 class="anchored" data-anchor-id="a-multi-faceted-approach">A multi-faceted approach</h2>
+<p>Addressing these challenges requires a multi-faceted approach that combines international cooperation, targeted policy interventions, and technological innovation.</p>
+<p>Firstly, international cooperation is essential to facilitate such a clean energy supply chain. Diplomatic efforts should be made to de-escalate trade tensions and foster collaboration between nations. Additionally, a global framework for the ethical and sustainable mining of critical minerals is crucial. This framework should ensure that mineral extraction respects environmental standards, labor conditions, and local communities’ well-being.</p>
+<p>Secondly, policy interventions at both national and international levels are vital to create a just, resilient, and sustainable clean energy supply chain. Governments need to implement policies that promote transparency, fairness, and inclusivity in the renewable energy sector. This includes establishing clear guidelines for ethical supply chain practices, incentivizing sustainable mining of critical minerals, and ensuring that the benefits of the renewable energy transition are shared equitably. International organizations can play a pivotal role in facilitating dialogue, setting standards, and providing support for developing nations to strengthen their renewable energy infrastructure and institutions.</p>
+<p>Thirdly, technological innovation is key to mitigating risks associated with the clean energy supply chain. Research and development efforts should focus on alternative materials that reduce dependence on critical minerals, recycling technologies to recover valuable components from end-of-life solar panels, wind turbines, and battery packs. Investing in innovative solutions will not only address the current challenges but also future-proof the clean energy supply chain against emerging risks.</p>
+<p>In crafting a just, resilient, and sustainable framework, it is crucial to consider the social and environmental impact of the supply chain at every stage. This includes the extraction of raw materials, manufacturing processes, transportation, distribution, installation, operation, and end-of-life disposal. Transparency and standards can ensure accountability and enable consumers, investors, and policymakers to make informed decisions that align with ethical and sustainability considerations.</p>
+<p>Furthermore, a just framework should prioritize the empowerment of local communities and workers involved in the clean energy supply chain. This involves fostering skill development, creating job opportunities, and ensuring fair wages and working conditions. Community engagement should be a cornerstone of supply chain and clean energy investments and projects, allowing local residents to actively participate in decision-making processes and share the benefits of renewable energy development.</p>
+<p>In conclusion, the global clean energy supply chain stands at a critical intersection of immense benefits and pressing challenges. While it is a linchpin for achieving global climate goals, its vulnerabilities to disruptions, geopolitical tensions, and unequal distribution of costs and benefits cannot be ignored. Creating a just, resilient, and sustainable framework for the clean energy supply chain is not only an ethical imperative but also a pragmatic necessity. By doing so, we can ensure that the benefits of renewable energy are realized globally, leaving no one behind in the clean energy transition to achieve climate goals.</p>
+<p>Check the original post at <a href="https://www.climateworks.org/blog/advancing-a-just-resilient-and-sustainable-clean-energy-supply-chain/">ClimateWorks Foundation</a>.</p>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-chen2023deploying" class="csl-entry">
+Chen, Shi, Xi Lu, Chris P. Nielsen, Michael B. McElroy, Gang He, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang, and Jimin Hao. 2023. <span>“Deploying Solar Photovoltaic Energy First in Carbon-Intensive Regions Brings Gigatons More Carbon Mitigations to 2060.”</span> <em>Communications Earth &amp; Environment</em> 4 (October): 369. <a href="https://doi.org/10.1038/s43247-023-01006-x">https://doi.org/10.1038/s43247-023-01006-x</a>.
+</div>
+<div id="ref-helveston_he_davidson_2022" class="csl-entry">
+Helveston, John, Gang He, and Michael Davidson. 2022. <span>“Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.”</span> <em>Nature</em> 612 (7938): 83–87. <a href="https://doi.org/10.1038/s41586-022-05316-6">https://doi.org/10.1038/s41586-022-05316-6</a>.
+</div>
+</div>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>commentary</category>
+  <guid>https://drganghe.github.io/posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/</guid>
+  <pubDate>Tue, 05 Dec 2023 05:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/cop28.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>SWITCH-China: Open Source Model for the World Largest Power System</title>
   <dc:creator>SWITCH China</dc:creator>
@@ -1700,102 +1769,6 @@ Grid Flexibility in a Renewable-Dominant Power System in China.”</span>
   <guid>https://drganghe.github.io/posts/2022-01-iscience-renewable-flexibility/</guid>
   <pubDate>Fri, 07 Jan 2022 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2022-01-iscience-renewable-flexibility/featured.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Long-term transition of China’s power sector under carbon neutrality target and water withdrawal constraint</title>
-  <dc:creator>Chao Zhang</dc:creator>
-  <dc:creator>Gang He</dc:creator>
-  <dc:creator>Josiah Johnston</dc:creator>
-  <dc:creator>Lijin Zhong</dc:creator>
-  <link>https://drganghe.github.io/posts/2021-12-jcp-power-water-carbon/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Paper
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Long-term transition of China’s power sector under carbon neutrality target and water withdrawal constraint<br>
-Chao Zhang, <strong>Gang He</strong>*, Josiah Johnston, and Lijin Zhong<br>
-<em>Journal of Cleaner Production</em> (2021)<br>
-DOI: <a href="https://doi.org/10.1016/j.jclepro.2021.129765">10.1016/j.jclepro.2021.129765</a></p>
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Deep carbon mitigation and water resources conservation are two interacted environmental challenges that China’s power sector is facing. We investigate long-term transition pathways (2020–2050) of China’s power sector under carbon neutrality target and water withdrawal constraint using an integrated capacity expansion and dispatch model: SWITCH-China. We find that achieving carbon neutrality before 2060 under moderate cost decline of renewables by 10–20% depends heavily on large scale deployment of coal-fired power generation with carbon capture and storage (CCS) since 2035 in China’s water-deficient northwestern regions, which may incur significant water penalties in arid catchments. Introducing water withdrawal constraints at the secondary river basin level can reduce the reliance on coal-CCS power generation to achieve carbon neutrality, promote the application of air-cooling technology, and reallocate newly built coal power capacities from northwestern regions to northeastern and southern regions. If levelized cost of renewables can decline rapidly by about 70%, demand for coal power generation with CCS will be significantly reduced by more than 80% and solar photovoltaic (PV) and wind could account for about 70% of the national total power generation by 2050. The transition pathway under low-cost renewables also creates water conservation co-benefits of around 10 billion m3 annually compared to the reference scenario.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://www.sciencedirect.com/science/article/pii/S095965262103941X%3E">paper</a></p>
-<p>Self-archiving <a href="../..\files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf">pdf</a></p>
-<p><a href="https://ars.els-cdn.com/content/image/1-s2.0-S095965262103941X-mmc1.docx">Supplementary Data</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jclepro.2021.129765">
-
-</div>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jclepro.2021.129765" data-hide-zero-citations="true" data-style="small_circle"></span>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</section>
-<section id="poster" class="level2">
-<h2 class="anchored" data-anchor-id="poster">Poster</h2>
-<p><img src="https://drganghe.github.io/files/posters/electricity-carbon-water-poster.jpeg" class="img-fluid quarto-figure-left" style="width:95.0%"></p>
-</section>
-<section id="twitter-thread" class="level2">
-<h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
-<blockquote class="twitter-tweet blockquote">
-<p lang="en" dir="ltr">
-New paper on energy-water nexus: Long-term transition of China’s power sector under carbon neutrality target and water withdrawal constraint.<br><br>With lead author Chao Zhang and coauthors Josiah Johnston, and Lijin Zhong.<br><br>Paper link: <a href="https://t.co/Ujwtk42Zmx">https://t.co/Ujwtk42Zmx</a><br><br>DM for a pdf. <a href="https://t.co/6QYrLLnWtv">pic.twitter.com/6QYrLLnWtv</a>
-</p>
-— Gang He (<span class="citation" data-cites="DrGangHe">(<strong>DrGangHe?</strong>)</span>) <a href="https://twitter.com/DrGangHe/status/1462407719231569920?ref_src=twsrc%5Etfw">November 21, 2021</a>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{zhang2021,
-  author = {Zhang, Chao and He, Gang and Johnston, Josiah and Zhong,
-    Lijin},
-  title = {Long-Term Transition of {China’s} Power Sector Under Carbon
-    Neutrality Target and Water Withdrawal Constraint},
-  journal = {Journal of Cleaner Production},
-  volume = {329},
-  pages = {129765},
-  date = {2021-12-20},
-  url = {https://www.sciencedirect.com/science/article/pii/S095965262103941X},
-  doi = {10.1016/j.jclepro.2021.129765},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-zhang2021" class="csl-entry quarto-appendix-citeas">
-Zhang, Chao, Gang He, Josiah Johnston, and Lijin Zhong. 2021.
-<span>“Long-Term Transition of China’s Power Sector Under Carbon
-Neutrality Target and Water Withdrawal Constraint.”</span> <em>Journal
-of Cleaner Production</em> 329 (December): 129765. <a href="https://doi.org/10.1016/j.jclepro.2021.129765">https://doi.org/10.1016/j.jclepro.2021.129765</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <category>poster</category>
-  <guid>https://drganghe.github.io/posts/2021-12-jcp-power-water-carbon/</guid>
-  <pubDate>Mon, 20 Dec 2021 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2021-12-jcp-power-water-carbon/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
