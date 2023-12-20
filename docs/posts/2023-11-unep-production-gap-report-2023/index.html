@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.513">
+<meta name="generator" content="quarto-1.4.531">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -50,7 +50,9 @@ ul.task-list li input[type="checkbox"] {
   "type": "textbox",
   "limit": 50,
   "keyboard-shortcut": [
-    null
+    "f",
+    "/",
+    "s"
   ],
   "language": {
     "search-no-results-text": "No results",
@@ -60,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -272,7 +275,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <p>Global levels of coal, oil , and gas estimated under the government plans and projections pathways would be 460%, 29%, and 82% higher than those under the respective 1.5°C-consistent pathways. The global levels of fossil fuel production implied by governments’ plans and projections, taken together, also exceed those implied by their stated climate mitigation policies and implied by their announced climate pledges as of September 2022, as modelled by the International Energy Agency.</p>
 <p>Given risks and uncertainties of CCS and CDR, countries should aim for a near total phase-out of coal production and use by 2040 and a combined reduction in oil and gas production and use by three-quarters by 2050 from 2020 levels, at a minimum. The potential failure of these measures to become sufficiently viable at scale, the non-climatic near-term harms of fossil fuels, and other lines of evidence, call for an even more rapid global phase-out of all fossil fuels.</p>
 </blockquote>
-<div class="quarto-figure quarto-figure-center">
+<div class="img-fluid quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="PGR2023_Fig-2-2.webp" class="img-fluid figure-img"></p>
 <figcaption>Global levels of coal, oil , and gas estimated under the government plans and projections pathways would be 460%, 29%, and 82% higher than those under the respective 1.5°C-consistent pathways</figcaption>
@@ -281,11 +284,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 </section>
 <section id="contributors" class="level2">
 <h2 class="anchored" data-anchor-id="contributors">Contributors</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://productiongap.org/2023report/"><img src="pgr2023-contributors.png" class="img-fluid figure-img"></a></p>
-</figure>
-</div>
+<p><a href="https://productiongap.org/2023report/"><img src="pgr2023-contributors.png" class="img-fluid"></a></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -447,27 +446,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    const typesetMath = (el) => {
-      if (window.MathJax) {
-        // MathJax Typeset
-        window.MathJax.typeset([el]);
-      } else if (window.katex) {
-        // KaTeX Render
-        var mathElements = el.getElementsByClassName("math");
-        var macros = [];
-        for (var i = 0; i < mathElements.length; i++) {
-          var texText = mathElements[i].firstChild;
-          if (mathElements[i].tagName == "SPAN") {
-            window.katex.render(texText.data, mathElements[i], {
-              displayMode: mathElements[i].classList.contains('display'),
-              throwOnError: false,
-              macros: macros,
-              fleqn: false
-            });
-          }
-        }
-      }
-    }
     if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
@@ -482,10 +460,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             break;
           }
         }
-        typesetMath(container);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
         return container.innerHTML
       } else {
-        typesetMath(note);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -494,7 +476,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
-      typesetMath(note);
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
       return note.innerHTML;
     }
   }
