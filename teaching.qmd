@@ -19,7 +19,7 @@ title-block-banner: false
 
 [Fall 2023](https://drganghe.github.io/energy-climate-policy/)
 
-The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. By the end of the course, students will be equipped with the necessary skills and knowledge to pursue a career in the energy and climate policy field. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future.
+The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future.
 
 :::
 
@@ -39,7 +39,7 @@ The urgent challenge of climate change demands innovative solutions and comprehe
 
 [Fall 2023](https://drganghe.github.io/energy-climate-society/)
 
-Climate change is one of the biggest challenges of our time. This course offers a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. Ultimately, the goal of this class is to provide students with a broad understanding of the challenges and opportunities associated with the energy and climate crisis. We hope to inspire and equip students to pursue careers in the energy and climate field, and to empower them with the knowledge and skills needed to make a positive impact on climate solutions.
+Climate change is one of the biggest challenges of our time. This course offers a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. Ultimately, the goal of this class is to provide students with a broad understanding of the challenges and opportunities associated with the energy and climate crisis. We aim to empower the students with the knowledge and skills needed to make a positive impact on climate solutions.
 
 :::
 

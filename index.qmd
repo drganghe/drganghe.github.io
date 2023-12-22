@@ -33,9 +33,15 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/hegang
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@DrGangHe      
     - icon: lightbulb
       text: ORCID
-      href: https://orcid.org/0000-0002-8416-1965  
+      href: https://orcid.org/0000-0002-8416-1965
+    - icon: files
+      text: WebOfScience
+      href: https://www.webofscience.com/wos/author/record/N-4549-2013  
     - icon: archive
       text: Scopus
       href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
