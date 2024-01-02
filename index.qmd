@@ -40,7 +40,7 @@ about:
       text: ORCID
       href: https://orcid.org/0000-0002-8416-1965
     - icon: files
-      text: WebOfScience
+      text: Web of Science
       href: https://www.webofscience.com/wos/author/record/N-4549-2013  
     - icon: archive
       text: Scopus

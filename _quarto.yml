@@ -53,7 +53,7 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "&copy; 2023 [Gang He](http://drganghe.github.io)." 
+    left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
     right:  
       - icon: github
         href: https://github.com/drganghe/drganghe.github.io

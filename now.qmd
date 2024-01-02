@@ -1,0 +1,18 @@
+---
+title: "Now"
+title-block-banner: false
+---
+
+A few things keep me busy these days:
+
+- Raising 2 kids (8 and 5) and spending 12 hours a day with them when school is closed
+
+::: {.callout-tip}
+
+## Big picture question
+
+How can we achieve carbon neutraliy by mid-centuraly in a just, resilient, and sustainable pathway?
+
+:::
+
+- I'm working with 
