@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.471">
+<meta name="generator" content="quarto-1.4.531">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -70,7 +70,9 @@ div.csl-indent {
   "type": "textbox",
   "limit": 50,
   "keyboard-shortcut": [
-    null
+    "f",
+    "/",
+    "s"
   ],
   "language": {
     "search-no-results-text": "No results",
@@ -80,6 +82,7 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -280,12 +283,12 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="background">Background</h2>
 <p>Three decades. That is how much time is left to decarbonize the world’s energy systems to limit global warming to 1.5°C, according to the latest <a href="https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf#page=33">Intergovernmental Panel on Climate Change (IPCC) report</a>. Achieving this feat requires renewable energy systems be deployed at an unprecedented speed and scale. While daunting, the good news is that this transformation may not cost as much as many expected just a decade ago, thanks to rapid cost declines in renewable energy technologies. Solar photovoltaics (PV) is a prime example. In the last decade, the price of solar modules has <a href="https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021">dropped 88 percent</a>, making solar cost-competitive with fossil fuels in many parts of the world.</p>
 <p>This <a href="https://www.howsolargotcheap.com/">remarkable success story</a> was made possible by the decades-long free flow of goods, talent and capital across multiple countries involved in the solar industry. But the learning processes that have led to these rapid declines are increasingly at risk from policies aimed at localizing production to within national borders and moving away from global supply chains. Such policies have become increasingly popular, in part due to supply chain disruptions experienced during the COVID-19 pandemic and, perhaps more notably, in response to the concentration of the solar PV supply chain in China, which now comprises <a href="https://doi.org/10.1051/epjpv/2022010">78% of global PV module production</a> (see <a href="#fig-pv-by-origin" class="quarto-xref">Figure&nbsp;1</a>).</p>
-<div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left anchored" width="90%" data-fig-align="left">
+<div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left" width="90%">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-pv-by-origin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="fig-1-solar-production-by-origin.png" class="img-fluid quarto-figure-left figure-img" style="width:90.0%">
+<img src="fig-1-solar-production-by-origin.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:90.0%">
 </div>
-<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-pv-by-origin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-pv-by-origin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;1: Annual solar PV cell production by origin, 2010–2021.
 </figcaption>
 </figure>
@@ -296,12 +299,12 @@ Figure&nbsp;1: Annual solar PV cell production by origin, 2010–2021.
 <h2 class="anchored" data-anchor-id="learning-in-global-versus-national-markets">Learning in Global Versus National Markets</h2>
 <p>In our paper, we use historical deployment and price data in the U.S., Germany, and China—the three largest solar-deploying countries—to model the cost savings from historical global cooperation in the solar PV industry. Using the classic <a href="https://en.wikipedia.org/wiki/Learning_curve">learning curve</a> model, we model historical learning rates in each country from 2006 to 2020, which we call a period of learning in “global market” conditions. We then simulate a counterfactual “national markets” scenario, in which these countries adopt nationalistic trade policies that limit cross-border learning over the same period.</p>
 <p>Our results show a total of $67 billion was saved in solar deployment from 2008 to 2020 thanks to global supply chains ($24 billion, $36 billion, and $7 billion in the U.S., China, and Germany, respectively). We also estimate that under the “national markets” scenario, solar panel prices in 2020 would have been significantly higher—107% higher in the U.S., 83% higher in Germany, and 54% higher in China (see <a href="#fig-prices-national-vs-global" class="quarto-xref">Figure&nbsp;2</a>).</p>
-<div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left anchored" width="95%" data-fig-align="left">
+<div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left" width="95%">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-prices-national-vs-global-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="fig-2-prices-in-national-global-markets.png" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
+<img src="fig-2-prices-in-national-global-markets.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:95.0%">
 </div>
-<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-prices-national-vs-global-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-prices-national-vs-global-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;2: Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).
 </figcaption>
 </figure>
@@ -348,7 +351,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -357,12 +360,12 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 
 
-<div id="quarto-appendix" class="default"><aside id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>This number was updated from 20-25% to reflect an <a href="https://www.nature.com/articles/s41586-023-06262-7">Author Correction</a>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
-</aside></div></main> <!-- /main -->
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -442,6 +445,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -491,38 +512,28 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    const typesetMath = (el) => {
-      if (window.MathJax) {
-        // MathJax Typeset
-        window.MathJax.typeset([el]);
-      } else if (window.katex) {
-        // KaTeX Render
-        var mathElements = el.getElementsByClassName("math");
-        var macros = [];
-        for (var i = 0; i < mathElements.length; i++) {
-          var texText = mathElements[i].firstChild;
-          if (mathElements[i].tagName == "SPAN") {
-            window.katex.render(texText.data, mathElements[i], {
-              displayMode: mathElements[i].classList.contains('display'),
-              throwOnError: false,
-              macros: macros,
-              fleqn: false
-            });
-          }
-        }
-      }
-    }
     if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
         }
-        typesetMath(container);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
         return container.innerHTML
       } else {
-        typesetMath(note);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -531,7 +542,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
-      typesetMath(note);
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
       return note.innerHTML;
     }
   }
@@ -751,31 +764,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
-          }
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2023 <a href="http://drganghe.github.io">Gang He</a>.</p>
+<a href="http://drganghe.github.io">Gang He</a> ©
+<script>document.write(new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

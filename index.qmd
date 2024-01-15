@@ -1,6 +1,6 @@
 ---
 title: "Dr. Gang He"
-#description-meta: "{{< meta description-meta >}}"
+#description-meta: "{{<p meta description-meta >}}"
 image: files/profile/gang-he-cuny-profile.jpg
 page-navigation: false
 toc: false
@@ -88,3 +88,4 @@ Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News
 :::{#recent-posts}
 :::
 
+<p align="right">[All Posts »](/posts.qmd)</p>

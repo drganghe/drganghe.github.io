@@ -74,7 +74,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -105,7 +105,7 @@ https://quarto.org/docs/authoring/includes.html
 </div>
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>China’s power sector in 2022 accounted for about 1/4 of global coal consumption, 1/8 of global energy related carbon emission, and at the same time, 40% of global solar and wind capaicity. This fast transiting sector is under pressure to lower its carbon emissions while strive to power the world’s largest manufacturer and fastest growing mid-class. The scale and scope of China’s clean power transition is unprecedented, yet its trojactories are uncertain and its impacts are enormouse. How can China’s power sector achieve carbon netrality will in large impact how can the world meet the net-zero goals. Modeling China’s power transition is both important and challenging. After years’ efforts, and collaboration, I decide to open-source SWITCH-China Model and make it SWITCH-China Open Model to facilitate the modeling integration and comparison, data sharing, policy discussion and debate.</p>
+<p>China’s power sector in 2022 accounted for about 1/4 of global coal consumption, 1/8 of global energy related carbon emission, and at the same time, 40% of global solar and wind capaicity. This fast transiting sector is under pressure to lower its carbon emissions while strive to power the world’s largest manufacturer and fastest growing mid-class. The scale and scope of China’s clean power transition is unprecedented and its impacts are enormouse, yet its trojactories are uncertain. How can China’s power sector achieve carbon netrality will in large impact how can the world meet the net-zero goals. Modeling China’s power transition is both important and challenging. After years’ efforts, and collaboration, I decide to open-source SWITCH-China Model and make it SWITCH-China Open Model to facilitate the modeling integration and comparison, data sharing, policy discussion and debate.</p>
 </section>
 <section id="video" class="level2">
 <h2 class="anchored" data-anchor-id="video">Video</h2>
@@ -148,7 +148,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -216,7 +216,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -260,7 +260,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class="quarto-figure quarto-figure-center">
+<div class="img-fluid quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-10-commsee-eploying-solar-pv-first-incarbon-intensive-regions/featured.webp" class="img-fluid figure-img"></p>
 <figcaption>Future GHG mitigation and emissions of PV industry by scenario from 2020 to 2060</figcaption>
@@ -303,14 +303,14 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{chen2023,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{chen2023,
   author = {Chen, Shi and Lu, Xi and P. Nielsen, Chris and B. McElroy,
     Michael and He, Gang and Zhang, Shaohui and He, Kebin and Yang, Xiu
     and Zhang, Fang and Hao, Jimin},
@@ -367,7 +367,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -404,7 +404,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class="quarto-figure quarto-figure-center">
+<div class="img-fluid quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-08-ncomms-heterogeneous-effects-of-battery-storage-deployment-strategies/featured.png" class="img-fluid figure-img"></p>
 <figcaption>Three battery storage deployment strategies</figcaption>
@@ -447,14 +447,14 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{peng2023,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{peng2023,
   author = {Peng, Liqun and L. Mauzerall, Denise and D. Zhong, Yaofeng
     and He, Gang},
   title = {Heterogeneous Effects of Battery Storage Deployment
@@ -512,7 +512,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class="quarto-figure quarto-figure-center">
+<div class="img-fluid quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/featured.png" class="img-fluid figure-img"></p>
 <figcaption>Spatial pattern of global dry cooling generation units associated energy-water-carbon interactions</figcaption>
@@ -555,9 +555,9 @@ DOI: <a href="https://doi.org/10.1038/s44221-023-00120-6">10.1038/s44221-023-001
 <h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
 <blockquote class="twitter-tweet blockquote">
 <p lang="en" dir="ltr">
-ICYMI. New paper in <a href="https://twitter.com/NatureWaterJnl?ref_src=twsrc%5Etfw"><span class="citation" data-cites="NatureWaterJnl">@NatureWaterJnl</span></a> led by <a href="https://twitter.com/hashtag/YueQin?src=hash&amp;ref_src=twsrc%5Etfw">#YueQin</a> builds a global unit-level framework to investigate the CO2 and energy penalty due to dry cooling and reveal the critical link between water scarcity, climate change, and energy security<br><br>Full-text: <a href="https://t.co/9axk9YdK9d">https://t.co/9axk9YdK9d</a> <a href="https://t.co/2HVSdZDbww">pic.twitter.com/2HVSdZDbww</a>
+ICYMI. New paper in <a href="https://twitter.com/NatureWaterJnl?ref_src=twsrc%5Etfw"><span class="citation" data-cites="NatureWaterJnl">(</span></a><strong>NatureWaterJnl?</strong>) led by <a href="https://twitter.com/hashtag/YueQin?src=hash&amp;ref_src=twsrc%5Etfw">#YueQin</a> builds a global unit-level framework to investigate the CO2 and energy penalty due to dry cooling and reveal the critical link between water scarcity, climate change, and energy security<br><br>Full-text: <a href="https://t.co/9axk9YdK9d">https://t.co/9axk9YdK9d</a> <a href="https://t.co/2HVSdZDbww">pic.twitter.com/2HVSdZDbww</a>
 </p>
-— Gang He (<span class="citation" data-cites="DrGangHe">@DrGangHe</span>) <a href="https://twitter.com/DrGangHe/status/1693955754322002081?ref_src=twsrc%5Etfw">August 22, 2023</a>
+— Gang He (<span class="citation" data-cites="DrGangHe">(<strong>DrGangHe?</strong>)</span>) <a href="https://twitter.com/DrGangHe/status/1693955754322002081?ref_src=twsrc%5Etfw">August 22, 2023</a>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!--Include social share buttons-->
@@ -567,14 +567,14 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{qin2023,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{qin2023,
   author = {Qin, Yue and Wang, Yaoping and Li, Shiyu and Deng, Hang and
     Wanders, Niko and Bosmans, Joyce and Huang, Liangdian and Hong,
     Chaopeng and Byers, Edward and Gingerich, Daniel and M. Bielicki,
@@ -630,7 +630,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class="quarto-figure quarto-figure-center">
+<div class="img-fluid quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/featured.png" class="img-fluid figure-img"></p>
 <figcaption>Climate change impacts on supply, demand, and supply-demand match</figcaption>
@@ -672,9 +672,9 @@ DOI: <a href="https://doi.org/10.1038/s41560-023-01304-w">10.1038/s41560-023-013
 <h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
 <blockquote class="twitter-tweet blockquote">
 <p lang="en" dir="ltr">
-Climate change impacts energy supply, it impacts demand too, what about supply and demand balance?<br><br>Our new <a href="https://twitter.com/NatureEnergyJnl?ref_src=twsrc%5Etfw"><span class="citation" data-cites="NatureEnergyJnl">@NatureEnergyJnl</span></a> paper mapped out how climate change impacts wind solar supply demand match globally.<br><br>Paper: <a href="https://t.co/TgyvQW2GOc">https://t.co/TgyvQW2GOc</a><br>Code: <a href="https://t.co/EsM3wauMKZ">https://t.co/EsM3wauMKZ</a> <a href="https://t.co/RTT40YoZNJ">pic.twitter.com/RTT40YoZNJ</a>
+Climate change impacts energy supply, it impacts demand too, what about supply and demand balance?<br><br>Our new <a href="https://twitter.com/NatureEnergyJnl?ref_src=twsrc%5Etfw"><span class="citation" data-cites="NatureEnergyJnl">(</span></a><strong>NatureEnergyJnl?</strong>) paper mapped out how climate change impacts wind solar supply demand match globally.<br><br>Paper: <a href="https://t.co/TgyvQW2GOc">https://t.co/TgyvQW2GOc</a><br>Code: <a href="https://t.co/EsM3wauMKZ">https://t.co/EsM3wauMKZ</a> <a href="https://t.co/RTT40YoZNJ">pic.twitter.com/RTT40YoZNJ</a>
 </p>
-— Gang He (<span class="citation" data-cites="DrGangHe">@DrGangHe</span>) <a href="https://twitter.com/DrGangHe/status/1683500554809475072?ref_src=twsrc%5Etfw">July 24, 2023</a>
+— Gang He (<span class="citation" data-cites="DrGangHe">(<strong>DrGangHe?</strong>)</span>) <a href="https://twitter.com/DrGangHe/status/1683500554809475072?ref_src=twsrc%5Etfw">July 24, 2023</a>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!--Include social share buttons-->
@@ -684,14 +684,14 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{liu2023,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{liu2023,
   author = {Liu, Laibao and He, Gang and Wu, Mengxi and Liu, Gang and
     Zhang, Haoran and Chen, Ying and Shen, Jiashu and Li, Shuangcheng},
   title = {Climate Change Impacts on Planned Supply–Demand Match in
@@ -799,7 +799,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -823,14 +823,18 @@ https://quarto.org/docs/authoring/includes.html
 
 
 <p>Welcome to join us for a discussion on parallels between the US and China’s energy transition landscapes.</p>
-<p><a href="https://mitenergyconference.org/agenda"><img src="https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/featured.jpeg" class="img-fluid quarto-figure-center"></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://mitenergyconference.org/agenda"><img src="https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/featured.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+</figure>
+</div>
 <section id="twitter" class="level2">
 <h2 class="anchored" data-anchor-id="twitter">Twitter</h2>
 <blockquote class="twitter-tweet blockquote">
 <p lang="en" dir="ltr">
 Get your tickets to the MIT Energy Conference: <a href="https://t.co/k01jKefeaG">https://t.co/k01jKefeaG</a>. We are pleased to announce another panel discussion: US-China Energy Transition, which will discuss parallels between the US and China’s energy transition landscapes, with a focus on the innovation ecosystem. <a href="https://t.co/UFdLzeP54V">pic.twitter.com/UFdLzeP54V</a>
 </p>
-— MIT Energy Conference (<span class="citation" data-cites="MITEnergyConf">@MITEnergyConf</span>) <a href="https://twitter.com/MITEnergyConf/status/1631743482258939905?ref_src=twsrc%5Etfw">March 3, 2023</a>
+— MIT Energy Conference (<span class="citation" data-cites="MITEnergyConf">(<strong>MITEnergyConf?</strong>)</span>) <a href="https://twitter.com/MITEnergyConf/status/1631743482258939905?ref_src=twsrc%5Etfw">March 3, 2023</a>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </section>
@@ -847,7 +851,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -939,7 +943,7 @@ https://quarto.org/docs/authoring/includes.html
 <p lang="en" dir="ltr">
 A semester's effort to open my "Energy Systems Analysis" class.<br><br>15 Lectures, covering overview, economics, technologies, climate, power, transition, efficiency, access, justice, AI and big data, limitations …<br><br>5 Real-world assignments.<br><br>And more:<a href="https://t.co/hK3uM7tik5">https://t.co/hK3uM7tik5</a> <a href="https://t.co/enxLzoS3HE">https://t.co/enxLzoS3HE</a> <a href="https://t.co/1r88HtOBRW">pic.twitter.com/1r88HtOBRW</a>
 </p>
-— Gang He (<span class="citation" data-cites="DrGangHe">@DrGangHe</span>) <a href="https://twitter.com/DrGangHe/status/1602652144561274881?ref_src=twsrc%5Etfw">December 13, 2022</a>
+— Gang He (<span class="citation" data-cites="DrGangHe">(<strong>DrGangHe?</strong>)</span>) <a href="https://twitter.com/DrGangHe/status/1602652144561274881?ref_src=twsrc%5Etfw">December 13, 2022</a>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>Many students do not have access to high-quality learning material in energy and climate change, especially in the underserved communities. If you like this work, you can help those in need to access the open-source course by spreading the word.</p>
@@ -950,7 +954,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -973,7 +977,7 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
-<div class="quarto-figure quarto-figure-center">
+<div class="img-fluid quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2022-12-iamc-2022-best-poster-award/featured.jpeg" class="img-fluid figure-img"></p>
 <figcaption>Our solar global supply chain paper won the best poster award</figcaption>
@@ -985,7 +989,11 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 <section id="the-poster" class="level2">
 <h2 class="anchored" data-anchor-id="the-poster">The Poster</h2>
-<p><img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="img-fluid quarto-figure-left" style="width:95.0%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:95.0%"></p>
+</figure>
+</div>
 </section>
 <section id="video" class="level2">
 <h2 class="anchored" data-anchor-id="video">Video</h2>
@@ -1010,9 +1018,9 @@ https://quarto.org/docs/authoring/includes.html
 <section id="acknowledgment" class="level2">
 <h2 class="anchored" data-anchor-id="acknowledgment">Acknowledgment</h2>
 <p>While I’m the lucky presenter of our collaborative paper, this award should also goes to my wonderful coauthors Dr.&nbsp;<a href="https://www.jhelvy.com/">John Helveston</a> and Dr.&nbsp;<a href="https://www.mdavidson.org">Michael Davidson</a>, its truly a collaborative effort. Please check their websites and follow them to learn more about their amazing work:</p>
-<a href="https://twitter.com/JohnHelveston?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow <span class="citation" data-cites="JohnHelveston">@JohnHelveston</span></a>
+<a href="https://twitter.com/JohnHelveston?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow <span class="citation" data-cites="JohnHelveston">(</span></a><strong>JohnHelveston?</strong>)
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/east_winds?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow <span class="citation" data-cites="east_winds">@east_winds</span></a>
+<a href="https://twitter.com/east_winds?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow <span class="citation" data-cites="east_winds">(</span></a><strong>east_winds?</strong>)
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>I also want to thank the nominating committee. Thank you the IAMC community, which has long been an inspiration to work in this field. I hope I will find more opportunities to contribute and payback.</p>
 </section>
@@ -1020,9 +1028,9 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="twitter-announcement">Twitter Announcement</h2>
 <blockquote class="twitter-tweet blockquote" data-conversation="none">
 <p lang="en" dir="ltr">
-Two ex-aequo online poster presenters: <br>🏆<a href="https://twitter.com/DrGangHe?ref_src=twsrc%5Etfw"><span class="citation" data-cites="DrGangHe">@DrGangHe</span></a>, "Quantifying the cost savings of global solar photovoltaic supply chains" <a href="https://t.co/OmPwEMeVEX">pic.twitter.com/OmPwEMeVEX</a>
+Two ex-aequo online poster presenters: <br>🏆<a href="https://twitter.com/DrGangHe?ref_src=twsrc%5Etfw"><span class="citation" data-cites="DrGangHe">(</span></a><strong>DrGangHe?</strong>), "Quantifying the cost savings of global solar photovoltaic supply chains" <a href="https://t.co/OmPwEMeVEX">pic.twitter.com/OmPwEMeVEX</a>
 </p>
-— IAMConsortium (<span class="citation" data-cites="IAMConsortium">@IAMConsortium</span>) <a href="https://twitter.com/IAMConsortium/status/1598658519573544960?ref_src=twsrc%5Etfw">December 2, 2022</a>
+— IAMConsortium (<span class="citation" data-cites="IAMConsortium">(<strong>IAMConsortium?</strong>)</span>) <a href="https://twitter.com/IAMConsortium/status/1598658519573544960?ref_src=twsrc%5Etfw">December 2, 2022</a>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </section>
@@ -1047,7 +1055,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -1055,13 +1063,13 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 
 
-<div id="quarto-appendix" class="default"><aside id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>Source: <a href="https://www.iamconsortium.org/iamc-announcements/news-iamc-announcement/iamc-2022-conference-material-and-statistics/">IAMC 2022: Conference material and statistics</a>.↩︎</p></li>
 <li id="fn2"><p>This number was updated from 20-25% to reflect an <a href="https://www.nature.com/articles/s41586-023-06262-7">Author Correction</a>.↩︎</p></li>
 </ol>
-</aside></div> ]]></description>
+</section></div> ]]></description>
   <category>news</category>
   <category>poster</category>
   <category>video</category>
@@ -1088,12 +1096,12 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="background">Background</h2>
 <p>Three decades. That is how much time is left to decarbonize the world’s energy systems to limit global warming to 1.5°C, according to the latest <a href="https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf#page=33">Intergovernmental Panel on Climate Change (IPCC) report</a>. Achieving this feat requires renewable energy systems be deployed at an unprecedented speed and scale. While daunting, the good news is that this transformation may not cost as much as many expected just a decade ago, thanks to rapid cost declines in renewable energy technologies. Solar photovoltaics (PV) is a prime example. In the last decade, the price of solar modules has <a href="https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021">dropped 88 percent</a>, making solar cost-competitive with fossil fuels in many parts of the world.</p>
 <p>This <a href="https://www.howsolargotcheap.com/">remarkable success story</a> was made possible by the decades-long free flow of goods, talent and capital across multiple countries involved in the solar industry. But the learning processes that have led to these rapid declines are increasingly at risk from policies aimed at localizing production to within national borders and moving away from global supply chains. Such policies have become increasingly popular, in part due to supply chain disruptions experienced during the COVID-19 pandemic and, perhaps more notably, in response to the concentration of the solar PV supply chain in China, which now comprises <a href="https://doi.org/10.1051/epjpv/2022010">78% of global PV module production</a> (see Figure&nbsp;1).</p>
-<div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left anchored" width="90%" data-fig-align="left">
+<div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left" width="90%">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-pv-by-origin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-1-solar-production-by-origin.png" class="img-fluid quarto-figure-left figure-img" style="width:90.0%">
+<img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-1-solar-production-by-origin.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:90.0%">
 </div>
-<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-pv-by-origin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-pv-by-origin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;1: Annual solar PV cell production by origin, 2010–2021.
 </figcaption>
 </figure>
@@ -1104,12 +1112,12 @@ Figure&nbsp;1: Annual solar PV cell production by origin, 2010–2021.
 <h2 class="anchored" data-anchor-id="learning-in-global-versus-national-markets">Learning in Global Versus National Markets</h2>
 <p>In our paper, we use historical deployment and price data in the U.S., Germany, and China—the three largest solar-deploying countries—to model the cost savings from historical global cooperation in the solar PV industry. Using the classic <a href="https://en.wikipedia.org/wiki/Learning_curve">learning curve</a> model, we model historical learning rates in each country from 2006 to 2020, which we call a period of learning in “global market” conditions. We then simulate a counterfactual “national markets” scenario, in which these countries adopt nationalistic trade policies that limit cross-border learning over the same period.</p>
 <p>Our results show a total of $67 billion was saved in solar deployment from 2008 to 2020 thanks to global supply chains ($24 billion, $36 billion, and $7 billion in the U.S., China, and Germany, respectively). We also estimate that under the “national markets” scenario, solar panel prices in 2020 would have been significantly higher—107% higher in the U.S., 83% higher in Germany, and 54% higher in China (see Figure&nbsp;2).</p>
-<div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left anchored" width="95%" data-fig-align="left">
+<div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left" width="95%">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-prices-national-vs-global-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-2-prices-in-national-global-markets.png" class="img-fluid quarto-figure-left figure-img" style="width:95.0%">
+<img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-2-prices-in-national-global-markets.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:95.0%">
 </div>
-<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-prices-national-vs-global-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-prices-national-vs-global-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;2: Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).
 </figcaption>
 </figure>
@@ -1156,7 +1164,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -1165,12 +1173,12 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 
 
-<div id="quarto-appendix" class="default"><aside id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>This number was updated from 20-25% to reflect an <a href="https://www.nature.com/articles/s41586-023-06262-7">Author Correction</a>.↩︎</p></li>
 </ol>
-</aside></div> ]]></description>
+</section></div> ]]></description>
   <category>commentary</category>
   <guid>https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/</guid>
   <pubDate>Mon, 21 Nov 2022 05:00:00 GMT</pubDate>
@@ -1200,7 +1208,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class="quarto-figure quarto-figure-center">
+<div class="img-fluid quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/featured.jpg" class="img-fluid figure-img"></p>
 <figcaption><em>Nature</em> December 1, 2022 Issue Cover highlighted our paper in the same issue</figcaption>
@@ -1266,7 +1274,11 @@ Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%
 <section id="poster" class="level2">
 <h2 class="anchored" data-anchor-id="poster">Poster</h2>
 <p>Here is the poster for <a href="https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/">IAMC2022</a> which won the <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a>. The <a href="../..\files/posters/nature-solar-supply-chains-poster.pdf">pdf</a> is also available.</p>
-<p><img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="img-fluid quarto-figure-left" style="width:95.0%"></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:95.0%"></p>
+</figure>
+</div>
 </section>
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
@@ -1282,7 +1294,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 <!---
@@ -1330,7 +1342,7 @@ The following timeline from Researchsquare might provide a reference point when 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{paul helveston2022,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{paul helveston2022,
   author = {Paul Helveston, John and He, Gang and R. Davidson, Michael},
   title = {Quantifying the Cost Savings of Global Solar Photovoltaic
     Supply Chains},
@@ -1396,7 +1408,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -1458,14 +1470,14 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{li2022,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{li2022,
   author = {Li, Bo and Chen, Minyou and Ma, Ziming and He, Gang and Dai,
     Wei and Liu, Dongran and Zhang, Chi and Zhong, Haiwang},
   title = {Modeling {Integrated} {Power} and {Transportation} {Systems:}
@@ -1531,7 +1543,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -1554,7 +1566,11 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
-<p><a href="https://ccci.berkeley.edu/events/2022/02/webinar-charting-china-s-power-sector-coal-decarbonization"><img src="https://drganghe.github.io/posts/2022-03-ccci-power-sector-coal-decarbonization/featured.jpeg" class="img-fluid quarto-figure-center"></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://ccci.berkeley.edu/events/2022/02/webinar-charting-china-s-power-sector-coal-decarbonization"><img src="https://drganghe.github.io/posts/2022-03-ccci-power-sector-coal-decarbonization/featured.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+</figure>
+</div>
 <p><a href="https://spp.umd.edu/events/webinar-charting-chinas-power-sector-coal-decarbonization-1"><strong>Agenda</strong></a></p>
 <section id="recorded-video" class="level2">
 <h2 class="anchored" data-anchor-id="recorded-video">Recorded Video</h2>
@@ -1585,7 +1601,7 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
@@ -1654,14 +1670,14 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{liu2022,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{liu2022,
   author = {Liu, Zhu and Deng, Zhu and He, Gang and Wang, Hailin and
     Zhang, Xian and Lin, Jiang and Qi, Ye and Liang, Xi},
   title = {Challenges and Opportunities for Carbon Neutrality in
@@ -1736,14 +1752,14 @@ Using includes will make edits easier, will only need to add or remove button he
 https://quarto.org/docs/authoring/includes.html
 -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{lin2022,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{lin2022,
   author = {Lin, Jiang and Abhyankar, Nikit and He, Gang and Liu, Xu and
     Yin, Shengfei},
   title = {Large Balancing Areas and Dispersed Renewable Investment
