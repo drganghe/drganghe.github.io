@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.531">
+<meta name="generator" content="quarto-1.5.6">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gang He">
 <meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
 
-<title>Dr.&nbsp;Gang He - What’s New &amp; Updated</title>
+<title>Dr. Gang He – What’s New &amp; Updated</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -764,7 +764,7 @@ John Paul Helveston, Gang He, Michael R. Davidson
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="paper,poster,slides" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1696710576631" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3576">
+<div class="quarto-post image-right" data-index="13" data-categories="paper,poster,slides" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1707053188559" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3576">
 <div class="thumbnail">
 <p><a href="./posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="no-external"></a></p><a href="./posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="no-external">
 <p><img src="./posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/featured.jpg" class="thumbnail-image"></p>
@@ -1770,7 +1770,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {

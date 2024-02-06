@@ -46,6 +46,26 @@ Climate change is one of the biggest challenges of our time. This course offers 
 :::
 
 
+## Program Evaluation
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/hex-Program-Evaluation.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Spring 2024](https://drganghe.github.io/program-evaluation/)
+
+This course examines the practical aspects of program evaluation within public policy in domestic and international contexts. Emphasis is placed on the design and implementation of small- to medium-scale program evaluations under time and budget constraints using ‘best feasible’ methods. Topics include the types and purposes of evaluation, theory-based evaluation, evaluability and planning, measurement and construct validity, data collection, evaluation design, estimation of program effects, experiments, qualitative and mixed methods, evaluation resistance, building organizational capacity, ethics, cost-effectiveness, and reporting and utilization. 
+
+:::
+
+:::
+
+
 ## Energy Systems Analysis
 
 ::: {.grid}

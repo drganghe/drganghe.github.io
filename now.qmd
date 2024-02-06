@@ -5,14 +5,34 @@ title-block-banner: false
 
 A few things keep me busy these days:
 
+## Kids
+
 - Raising 2 kids (8 and 5) and spending 12 hours a day with them when school is closed
+
+## Research 
 
 ::: {.callout-tip}
 
 ## Big picture question
 
-How can we achieve carbon neutraliy by mid-centuraly in a just, resilient, and sustainable pathway?
+How to achieve carbon neutraliy by mid-century on just, resilient, and sustainable pathways?
 
 :::
 
-- I'm working with 
+- I'm working with EDF on the Multi-Country Electricity Transition Potential and Challenges Project  
+- I'm working on a grant to study the climate, air pollution, and human health effect of imported solar PV  
+- I'm collaborating with LBL on power system decarbonization: we are organizing an Special Issue and a Workshop
+
+
+I welcome collaborations on:
+
+- Clean energy global supply chain
+- Power system decarbonization modeling
+- Just transition
+- Electricity-water-carbon nexus  
+- Other interdisciplinary aspects of carbon neutrality 
+
+
+## Teaching
+
+- I'm teaching PAF 9174 Program Evaluation for the Executive MPA program

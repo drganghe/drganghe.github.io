@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.531">
+<meta name="generator" content="quarto-1.5.6">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gang He">
 <meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
 
-<title>Dr.&nbsp;Gang He - Now</title>
+<title>Dr. Gang He – Now</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -194,7 +194,15 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#kids" id="toc-kids" class="nav-link active" data-scroll-target="#kids">Kids</a></li>
+  <li><a href="#research" id="toc-research" class="nav-link" data-scroll-target="#research">Research</a></li>
+  <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching">Teaching</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -219,9 +227,14 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 
 
 <p>A few things keep me busy these days:</p>
+<section id="kids" class="level2">
+<h2 class="anchored" data-anchor-id="kids">Kids</h2>
 <ul>
 <li>Raising 2 kids (8 and 5) and spending 12 hours a day with them when school is closed</li>
 </ul>
+</section>
+<section id="research" class="level2">
+<h2 class="anchored" data-anchor-id="research">Research</h2>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -232,14 +245,34 @@ Big picture question
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>How can we achieve carbon neutraliy by mid-centuraly in a just, resilient, and sustainable pathway?</p>
+<p>How to achieve carbon neutraliy by mid-century on just, resilient, and sustainable pathways?</p>
 </div>
 </div>
 <ul>
-<li>I’m working with</li>
+<li>I’m working with EDF on the Multi-Country Electricity Transition Potential and Challenges Project<br>
+</li>
+<li>I’m working on a grant to study the climate, air pollution, and human health effect of imported solar PV<br>
+</li>
+<li>I’m collaborating with LBL on power system decarbonization: we are organizing an Special Issue and a Workshop</li>
+</ul>
+<p>I welcome collaborations on:</p>
+<ul>
+<li>Clean energy global supply chain</li>
+<li>Power system decarbonization modeling</li>
+<li>Just transition</li>
+<li>Electricity-water-carbon nexus<br>
+</li>
+<li>Other interdisciplinary aspects of carbon neutrality</li>
+</ul>
+</section>
+<section id="teaching" class="level2">
+<h2 class="anchored" data-anchor-id="teaching">Teaching</h2>
+<ul>
+<li>I’m teaching PAF 9174 Program Evaluation for the Executive MPA program</li>
 </ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -421,7 +454,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {

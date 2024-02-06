@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.531">
+<meta name="generator" content="quarto-1.5.6">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gang He">
 <meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
 
-<title>Dr.&nbsp;Gang He - Teaching</title>
+<title>Dr. Gang He – Teaching</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -200,6 +200,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
   <ul>
   <li><a href="#energy-and-climate-policy" id="toc-energy-and-climate-policy" class="nav-link active" data-scroll-target="#energy-and-climate-policy">Energy and Climate Policy</a></li>
   <li><a href="#energy-climate-and-society" id="toc-energy-climate-and-society" class="nav-link" data-scroll-target="#energy-climate-and-society">Energy, Climate, and Society</a></li>
+  <li><a href="#program-evaluation" id="toc-program-evaluation" class="nav-link" data-scroll-target="#program-evaluation">Program Evaluation</a></li>
   <li><a href="#energy-systems-analysis" id="toc-energy-systems-analysis" class="nav-link" data-scroll-target="#energy-systems-analysis">Energy Systems Analysis</a></li>
   <li><a href="#advanced-science-technology-and-innovation-policy" id="toc-advanced-science-technology-and-innovation-policy" class="nav-link" data-scroll-target="#advanced-science-technology-and-innovation-policy">Advanced Science, Technology, and Innovation Policy</a></li>
   </ul>
@@ -249,6 +250,18 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <div class="g-col-12 g-col-md-10">
 <p><a href="https://drganghe.github.io/energy-climate-society/">Fall 2023</a></p>
 <p>Climate change is one of the biggest challenges of our time. This course offers a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. Ultimately, the goal of this class is to provide students with a broad understanding of the challenges and opportunities associated with the energy and climate crisis. We aim to empower the students with the knowledge and skills needed to make a positive impact on climate solutions.</p>
+</div>
+</div>
+</section>
+<section id="program-evaluation" class="level2">
+<h2 class="anchored" data-anchor-id="program-evaluation">Program Evaluation</h2>
+<div class="grid">
+<div class="g-col-12 g-col-md-2">
+<p><img src=".\files/images/hex-Program-Evaluation.png" class="img-fluid"></p>
+</div>
+<div class="g-col-12 g-col-md-10">
+<p><a href="https://drganghe.github.io/program-evaluation/">Spring 2024</a></p>
+<p>This course examines the practical aspects of program evaluation within public policy in domestic and international contexts. Emphasis is placed on the design and implementation of small- to medium-scale program evaluations under time and budget constraints using ‘best feasible’ methods. Topics include the types and purposes of evaluation, theory-based evaluation, evaluability and planning, measurement and construct validity, data collection, evaluation design, estimation of program effects, experiments, qualitative and mixed methods, evaluation resistance, building organizational capacity, ethics, cost-effectiveness, and reporting and utilization.</p>
 </div>
 </div>
 </section>
@@ -459,7 +472,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
