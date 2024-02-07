@@ -15,7 +15,7 @@ A few things keep me busy these days:
 
 ## Big picture question
 
-How to achieve carbon neutraliy by mid-century on just, resilient, and sustainable pathways?
+How to achieve carbon neutraliy by mid-century?
 
 :::
 
@@ -35,4 +35,4 @@ I welcome collaborations on:
 
 ## Teaching
 
-- I'm teaching PAF 9174 Program Evaluation for the Executive MPA program
+- I'm teaching PAF 9174 [Program Evaluation](https://drganghe.github.io/program-evaluation) for the Executive MPA program
