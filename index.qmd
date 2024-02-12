@@ -36,20 +36,15 @@ about:
     - icon: youtube
       text: YouTube
       href: https://www.youtube.com/@DrGangHe      
-    - icon: lightbulb
-      text: ORCID
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed
       href: https://orcid.org/0000-0002-8416-1965
-    - icon: files
-      text: Web of Science
+    - text: "{{< ai clarivate >}} Web of Science"
       href: https://www.webofscience.com/wos/author/record/N-4549-2013  
-    - icon: archive
-      text: Scopus
+    - text: "{{< ai scopus >}} Scopus"
       href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
-    - icon: google
-      text: Google Scholar
+    - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=vf90AuEAAAAJ
-    - icon: file-earmark-pdf
-      text: Research Gate
+    - text: "{{< ai researchgate >}} Research Gate"
       href: https://www.researchgate.net/profile/Gang-He-19
 
 listing:
