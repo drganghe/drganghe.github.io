@@ -36,7 +36,9 @@ website:
       - text: Teaching
         href: teaching.qmd
       - text: Posts
-        href: posts.qmd       
+        href: posts.qmd
+      - text: Now
+        href: now.qmd       
       - text: Contact
         href: contact.qmd   
     

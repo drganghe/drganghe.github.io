@@ -7,7 +7,7 @@ A few things keep me busy these days:
 
 ## Kids
 
-- Raising 2 kids (8 and 5) and spending 12 hours a day with them when school is closed
+- Raising 2 kids (8 and 5) and spending 12 hours a day with them when their school is closed
 
 ## Research 
 
@@ -15,17 +15,17 @@ A few things keep me busy these days:
 
 ## Big picture question
 
-How to achieve carbon neutraliy by mid-century? How to make the energy transition to achieve this goal more:
+How to achieve carbon neutraliy by mid-century? How to make the clean energy transition to achieve this goal more:
 
 - Sustainable (energy and environment)
 - Resilient (energy and climate) 
-- Equiable (energy and justice) 
+- Equitable (energy and justice) 
 
 :::
 
-- I'm working with EDF on the Multi-Country Electricity Transition Potential and Challenges Project  
-- I'm working on a grant to study the climate, air pollution, and human health effect of imported solar PV  
-- I'm collaborating with LBL on power system decarbonization: we are organizing an Special Issue and a Workshop
+- I'm working with EDF on the Multi-Country Electricity Transition Potential and Challenges Project   
+- I'm working on the climate, air pollution, and human health effect of imported solar PV supported by the ClimateWorks Foundation  
+- I'm collaborating with LBL on power system decarbonization: we are organizing an [Special Issue](/posts/2024-01-special-issue-china-power-system-carbon-neutrality/index.qmd) (*The Electricity Journal*) and a Workshop  
 
 
 I welcome collaborations on:
