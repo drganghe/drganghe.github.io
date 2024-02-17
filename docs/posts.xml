@@ -19,13 +19,13 @@
 <item>
   <title>Baruch College Conference on Climate Research, Teaching, and Collaboration</title>
   <dc:creator>Baruch Climate Conference</dc:creator>
-  <link>https://drganghe.github.io/posts/2024-02-baruch-climate-conference/</link>
+  <link>https://drganghe.github.io/posts/2024-02-22-baruch-climate-conference/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><a href="https://www.baruch.cuny.edu/climateconference/"><img src="https://drganghe.github.io/posts/2024-02-baruch-climate-conference/featured.png" class="img-fluid"></a></p>
+<p><a href="https://www.baruch.cuny.edu/climateconference/"><img src="https://drganghe.github.io/posts/2024-02-22-baruch-climate-conference/featured.png" class="img-fluid"></a></p>
 <section id="second-annual-conference-on-climate-research-teaching-and-collaboration" class="level2">
 <h2 class="anchored" data-anchor-id="second-annual-conference-on-climate-research-teaching-and-collaboration">Second Annual Conference on Climate Research, Teaching, and Collaboration</h2>
 <p>Thursday, Feb.&nbsp;22 and Friday, Feb.&nbsp;23<br>
@@ -70,9 +70,9 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>news</category>
   <category>event</category>
-  <guid>https://drganghe.github.io/posts/2024-02-baruch-climate-conference/</guid>
+  <guid>https://drganghe.github.io/posts/2024-02-22-baruch-climate-conference/</guid>
   <pubDate>Thu, 22 Feb 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-02-baruch-climate-conference/featured.png" medium="image" type="image/png" height="59" width="144"/>
+  <media:content url="https://drganghe.github.io/posts/2024-02-22-baruch-climate-conference/featured.png" medium="image" type="image/png" height="59" width="144"/>
 </item>
 <item>
   <title>Call for Papers: Achieving carbon neutrality in China’s power sector</title>
@@ -314,7 +314,7 @@ https://quarto.org/docs/authoring/includes.html
 <p>Global levels of coal, oil , and gas estimated under the government plans and projections pathways would be 460%, 29%, and 82% higher than those under the respective 1.5°C-consistent pathways. The global levels of fossil fuel production implied by governments’ plans and projections, taken together, also exceed those implied by their stated climate mitigation policies and implied by their announced climate pledges as of September 2022, as modelled by the International Energy Agency.</p>
 <p>Given risks and uncertainties of CCS and CDR, countries should aim for a near total phase-out of coal production and use by 2040 and a combined reduction in oil and gas production and use by three-quarters by 2050 from 2020 levels, at a minimum. The potential failure of these measures to become sufficiently viable at scale, the non-climatic near-term harms of fossil fuels, and other lines of evidence, call for an even more rapid global phase-out of all fossil fuels.</p>
 </blockquote>
-<div class="img-fluid quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-11-unep-production-gap-report-2023/PGR2023_Fig-2-2.webp" class="img-fluid figure-img"></p>
 <figcaption>Global levels of coal, oil , and gas estimated under the government plans and projections pathways would be 460%, 29%, and 82% higher than those under the respective 1.5°C-consistent pathways</figcaption>
@@ -375,7 +375,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class="img-fluid quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-10-commsee-eploying-solar-pv-first-incarbon-intensive-regions/featured.webp" class="img-fluid figure-img"></p>
 <figcaption>Future GHG mitigation and emissions of PV industry by scenario from 2020 to 2060</figcaption>
@@ -519,7 +519,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class="img-fluid quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-08-ncomms-heterogeneous-effects-of-battery-storage-deployment-strategies/featured.png" class="img-fluid figure-img"></p>
 <figcaption>Three battery storage deployment strategies</figcaption>
@@ -627,7 +627,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class="img-fluid quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/featured.png" class="img-fluid figure-img"></p>
 <figcaption>Spatial pattern of global dry cooling generation units associated energy-water-carbon interactions</figcaption>
@@ -745,7 +745,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class="img-fluid quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/featured.png" class="img-fluid figure-img"></p>
 <figcaption>Climate change impacts on supply, demand, and supply-demand match</figcaption>
@@ -1092,7 +1092,7 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
-<div class="img-fluid quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2022-12-iamc-2022-best-poster-award/featured.jpeg" class="img-fluid figure-img"></p>
 <figcaption>Our solar global supply chain paper won the best poster award</figcaption>
@@ -1207,7 +1207,7 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="background">Background</h2>
 <p>Three decades. That is how much time is left to decarbonize the world’s energy systems to limit global warming to 1.5°C, according to the latest <a href="https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf#page=33">Intergovernmental Panel on Climate Change (IPCC) report</a>. Achieving this feat requires renewable energy systems be deployed at an unprecedented speed and scale. While daunting, the good news is that this transformation may not cost as much as many expected just a decade ago, thanks to rapid cost declines in renewable energy technologies. Solar photovoltaics (PV) is a prime example. In the last decade, the price of solar modules has <a href="https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021">dropped 88 percent</a>, making solar cost-competitive with fossil fuels in many parts of the world.</p>
 <p>This <a href="https://www.howsolargotcheap.com/">remarkable success story</a> was made possible by the decades-long free flow of goods, talent and capital across multiple countries involved in the solar industry. But the learning processes that have led to these rapid declines are increasingly at risk from policies aimed at localizing production to within national borders and moving away from global supply chains. Such policies have become increasingly popular, in part due to supply chain disruptions experienced during the COVID-19 pandemic and, perhaps more notably, in response to the concentration of the solar PV supply chain in China, which now comprises <a href="https://doi.org/10.1051/epjpv/2022010">78% of global PV module production</a> (see Figure&nbsp;1).</p>
-<div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left" width="90%">
+<div id="fig-pv-by-origin" class="quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-pv-by-origin-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-1-solar-production-by-origin.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:90.0%">
@@ -1223,7 +1223,7 @@ Figure&nbsp;1: Annual solar PV cell production by origin, 2010–2021.
 <h2 class="anchored" data-anchor-id="learning-in-global-versus-national-markets">Learning in Global Versus National Markets</h2>
 <p>In our paper, we use historical deployment and price data in the U.S., Germany, and China—the three largest solar-deploying countries—to model the cost savings from historical global cooperation in the solar PV industry. Using the classic <a href="https://en.wikipedia.org/wiki/Learning_curve">learning curve</a> model, we model historical learning rates in each country from 2006 to 2020, which we call a period of learning in “global market” conditions. We then simulate a counterfactual “national markets” scenario, in which these countries adopt nationalistic trade policies that limit cross-border learning over the same period.</p>
 <p>Our results show a total of $67 billion was saved in solar deployment from 2008 to 2020 thanks to global supply chains ($24 billion, $36 billion, and $7 billion in the U.S., China, and Germany, respectively). We also estimate that under the “national markets” scenario, solar panel prices in 2020 would have been significantly higher—107% higher in the U.S., 83% higher in Germany, and 54% higher in China (see Figure&nbsp;2).</p>
-<div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left" width="95%">
+<div id="fig-prices-national-vs-global" class="quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-prices-national-vs-global-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="https://drganghe.github.io/posts/2022-11-nature-solar-paper-summary/fig-2-prices-in-national-global-markets.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:95.0%">

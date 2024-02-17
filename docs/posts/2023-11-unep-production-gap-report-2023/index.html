@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.531">
+<meta name="generator" content="quarto-1.5.6">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -10,7 +10,7 @@
 <meta name="dcterms.date" content="2023-11-08">
 <meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
 
-<title>Dr.&nbsp;Gang He - UNEP releases the Production Gap Report 2023</title>
+<title>Dr. Gang He – UNEP releases the Production Gap Report 2023</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -155,6 +155,10 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../now.html"> 
+<span class="menu-text">Now</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
@@ -275,7 +279,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <p>Global levels of coal, oil , and gas estimated under the government plans and projections pathways would be 460%, 29%, and 82% higher than those under the respective 1.5°C-consistent pathways. The global levels of fossil fuel production implied by governments’ plans and projections, taken together, also exceed those implied by their stated climate mitigation policies and implied by their announced climate pledges as of September 2022, as modelled by the International Energy Agency.</p>
 <p>Given risks and uncertainties of CCS and CDR, countries should aim for a near total phase-out of coal production and use by 2040 and a combined reduction in oil and gas production and use by three-quarters by 2050 from 2020 levels, at a minimum. The potential failure of these measures to become sufficiently viable at scale, the non-climatic near-term harms of fossil fuels, and other lines of evidence, call for an even more rapid global phase-out of all fossil fuels.</p>
 </blockquote>
-<div class="img-fluid quarto-figure quarto-figure-center">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="PGR2023_Fig-2-2.webp" class="img-fluid figure-img"></p>
 <figcaption>Global levels of coal, oil , and gas estimated under the government plans and projections pathways would be 460%, 29%, and 82% higher than those under the respective 1.5°C-consistent pathways</figcaption>
@@ -479,7 +483,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
