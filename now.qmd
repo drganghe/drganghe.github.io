@@ -3,6 +3,9 @@ title: "Now"
 title-block-banner: false
 ---
 
+<!--This is my personal clarity, please delete or replace with your clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
 A few things keep me busy these days:
 
 ## Kids
@@ -15,7 +18,8 @@ A few things keep me busy these days:
 
 ## Big picture question
 
-How to achieve carbon neutrality by mid-century? How to make the clean energy transition to achieve this goal more:
+How to achieve carbon neutrality by mid-century to address climate change?   
+How to make the clean energy transition to achieve this goal more:
 
 - Sustainable (energy and environment)
 - Resilient (energy and climate) 
@@ -28,15 +32,50 @@ How to achieve carbon neutrality by mid-century? How to make the clean energy tr
 - I'm collaborating with LBL on power system decarbonization: we are organizing an [Special Issue](/posts/2024-01-special-issue-china-power-system-carbon-neutrality/index.qmd) (*The Electricity Journal*) and a Workshop  
 
 
-I welcome collaborations on:
+### Welcome collaborations on
 
 - Clean energy global supply chain
 - Power system decarbonization modeling
-- Just transition
-- Electricity-water-carbon nexus  
+- Climate impact on energy systems
+- Just energy transition
+- Energy-water-carbon nexus  
 - Other interdisciplinary aspects of carbon neutrality 
+
+### How to collaborate
+
+**1. Papers** 
+
+| Contribution                  | Acknowledgment                                                  |
+|-------------------------------|-----------------------------------------------------------------|
+| Sharing published data        | Cite published paper                                            |
+| Data involve further work     | Coauthorship is expected                                        |
+| Modeling                      | Coauthorship is expected                                        |
+| Original ideas and narratives | Shared corresponding author is expected if adapted in the paper |
+
+Please send your inqury together with paper summary or manuscript. I will confirm upon receipt and usually will turn around within about a week with initial contribution. No reponses do not imply quality and often reflect not aligning with my expertise and research priority. Read more about [Authorship](https://www.nature.com/nature-portfolio/editorial-policies/authorship).
+
+**2. Proposals** 
+
+My group would happy to contribute on
+
+- Power systems modeling 
+- Energy systems analysis and integration 
+- Techno-economic analysis 
 
 
 ## Teaching
 
 - I'm teaching PAF 9174 [Program Evaluation](https://drganghe.github.io/program-evaluation) for the Executive MPA program
+
+
+## Letters
+
+I'm happpy to provide recommendation letters if you were **in my class** or **collaborated directly with me**. Please send bullet points answering the following questions:
+
+- What (class) project were you working on?
+- What have you done (contribution) for the project?
+- What challenges did you have when working on the project?
+- How did you manage the challenge?
+- Summarize why you are interested in this opportunity.
+
+Please share the position/opportunity links and deadlines. Please reach out to me at least **one month** before deadline. If you need me to submit the letter to multiple schools, please send the submission links all at once.

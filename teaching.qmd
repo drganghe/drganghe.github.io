@@ -1,10 +1,12 @@
 ---
 title: "Teaching"
-subtitle: "I teach classes on energy systems, energy and climate policy, and energy innovations. Here I list classes which I start to open source teaching material."
+subtitle: "I teach classes on energy systems, energy and climate policy, energy innovations, and methods class. Here I list classes which I start to open source teaching material."
 #description-meta: "{{< meta description-meta >}}"
 title-block-banner: false
 ---
 
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
 
 ## Energy and Climate Policy
 

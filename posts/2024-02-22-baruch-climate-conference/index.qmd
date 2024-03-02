@@ -1,6 +1,6 @@
 ---
 title: "Baruch College Conference on Climate Research, Teaching, and Collaboration"
-description: "Gang will speak in Baruch Climate Conference on Global Clean Energy Supply Chain"
+description: "Gang speaks in the Baruch Climate Conference on Global Clean Energy Supply Chain"
 author: "Baruch Climate Conference"
 date: "2024-02-22"
 categories: [news, event]
