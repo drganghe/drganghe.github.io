@@ -718,7 +718,7 @@
     "href": "now.html#research",
     "title": "Now",
     "section": "Research",
-    "text": "Research\n\n\n\n\n\n\nBig picture question\n\n\n\nHow to achieve carbon neutrality by mid-century to address climate change?\nHow to make the clean energy transition to achieve this goal more:\n\nSustainable (energy and environment)\nResilient (energy and climate)\nEquitable (energy and justice)\n\n\n\n\nI’m working with EDF on the Multi-Country Electricity Transition Potential and Challenges Project\n\nI’m working on the climate, air pollution, and human health effect of imported solar PV supported by the ClimateWorks Foundation\n\nI’m collaborating with LBL on power system decarbonization: we are organizing an Special Issue (The Electricity Journal) and a Workshop\n\n\nWelcome collaborations on\n\nClean energy global supply chain\nPower system decarbonization modeling\nClimate impact on energy systems\nJust energy transition\nEnergy-water-carbon nexus\n\nOther interdisciplinary aspects of carbon neutrality"
+    "text": "Research\n\n\n\n\n\n\nBig picture question\n\n\n\nHow to achieve carbon neutrality by mid-century to address climate change?\nHow to make the clean energy transition more:\n\nSustainable (energy and environment)\nResilient (energy and climate)\nEquitable (energy and justice)\n\n\n\n\nI’m working with EDF on the Multi-Country Electricity Transition Potential and Challenges Project\n\nI’m working on the climate, air pollution, and human health effect of imported solar PV supported by the ClimateWorks Foundation\n\nI’m collaborating with LBL on power system decarbonization: we are organizing an Special Issue (The Electricity Journal) and a Workshop\n\n\nWelcome collaborations on\n\nClean energy global supply chain\nPower system decarbonization modeling\nClimate impact on energy systems\nJust energy transition\nEnergy-water-carbon nexus\n\nOther interdisciplinary aspects of carbon neutrality"
   },
   {
     "objectID": "now.html#teaching",
@@ -1299,7 +1299,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (1%);  ESI Hot Paper (0.1%)\nTotal citations as of February 2024:"
+    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (1%);  ESI Hot Paper (0.1%)\nTotal citations as of March 2024:"
   },
   {
     "objectID": "publications.html#selected-work",
@@ -1363,5 +1363,19 @@
     "title": "Publications",
     "section": "Popular Writing ",
     "text": "Popular Writing \nGang He. Global policy of climate change in Doha (in Chinese). World Environment. 2013(1).\nGang He. Rethinking Shale Gas Revolution (in Chinese). Energy Observer. 2012(8).\nDaniel Kammen, Gang He. Critical test for Sino-US ties: Clean energy. China Daily (USA). January 21,2011\nGang He, Richard Morse. Lessons from controversy. China Dialogue. June 11, 2010.\nRichard Morse, Gang He, Varun Rai. Digging in Deep: Carbon Capture and Storage Technology in China is Driven by Energy Security Concerns. Business Forum China, 2010. \nGang He. Thinking at the edge of the world (in Chinese). World Environment Magazine. 2010(2). \nGang He. China Trends Series. EarthTrends, World Resources Institute. 2008/7–8.\nFreedom of Information and Environmental Protection in China.\nChina’s New Ministry of Environmental Protection Begins to Bark, but Still Lacks in Bite.\nFinding a Safe Level of Carbon Dioxide for the Global Atmosphere: Results of the Tallberg Forum.\nEnvironmental Challenges after China’s Sichuan Earthquake.\nGang He. How media and NGOs can work better to tackle climate change (in Chinese). Lv Ye (Green Leaf) Magazine. 2007(6). [pdf]\nGang He. Chinese Society Confronted with Climate Change. China Perspective. 2007(1). p.77. \nGang He. Chicago Climate Exchange (in Chinese). World Environment. 2007(2). [pdf]\nGang He. Hoping “Storm” Pass Away Quickly (in Chinese). World Environment. 2007(1). [pdf]\nGang He, C S Kiang. China, climate change and the equity principle. China Dialogue. Dec, 2007. \nGang He. Montreal triggers Post-Kyoto (in Chinese). World Environment. 2005(6). [pdf]\nGang He. China BELL Green Course–Green MBA’s Exploring (in Chinese). World Environment. 2005(4). [pdf]\nGang He, PAN Xulin. Maurice Strong and Qu Geping dialogue for the Environmental Protection Road (in Chinese). China News Agency.  2004-03-24.\nGang He, PAN Xulin. Farmer Delegate lectures about Eco-agriculture (in Chinese). China News Agency.  2004-03-15.\nGang He. Volunteers Create the Sunbow of Society (in Chinese). Way to PKU. Beijing: China Three Gorges Press. 2002."
+  },
+  {
+    "objectID": "posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/index.html#abstract",
+    "href": "posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/index.html#abstract",
+    "title": "Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060",
+    "section": "Abstract",
+    "text": "Abstract\nThe global surge in solar photovoltaic (PV) power has featured spatial specialization from manufacturing to installation along its industrial chain. Yet how to improve PV climate benefits are under-investigated. Here we explore the evolution of net greenhouse gas (GHG) mitigation of PV industry from 2009–2060 with a spatialized-dynamic life-cycle-analysis. Results suggest a net GHG mitigation of 1.29 Gt CO2-equivalent from 2009–2019, achieved by 1.97 Gt of mitigation from installation minus 0.68 Gt of emissions from manufacturing. The highest net GHG mitigation among future manufacturing-installation-scenarios to meet 40% global power demand in 2060 is as high as 204.7 Gt from 2020–2060, featuring manufacturing concentrated in Europe and North America and prioritized PV installations in carbon-intensive nations. This represents 97.5 Gt more net mitigation than the worst-case scenario, equivalent to 1.9 times 2020 global GHG emissions. The results call for strategic international coordination of PV industrial chain to increase GHG net mitigation."
+  },
+  {
+    "objectID": "posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/index.html#links",
+    "href": "posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/index.html#links",
+    "title": "Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060",
+    "section": "Links",
+    "text": "Links\nPublished paper\nOpen-access pdf"
   }
 ]
