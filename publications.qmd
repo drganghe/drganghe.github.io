@@ -17,7 +17,7 @@ Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS<
 Total citations as of March 2024:
 
 - [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 2,200 (h-index = 24)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 3,600 (h-index = 30, i10-index = 50) 
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 3,700 (h-index = 30, i10-index = 50) 
 
 ## Selected Work
 
@@ -28,16 +28,20 @@ Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cos
 
 <center><hr style="width:50%"></center>
 
+Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](https://www.nature.com/articles/s41560-023-01304-w). *Nature Energy* 8(8): 870–880. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). [[pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
 Liu, Zhu\*, Zhu Deng, **Gang He**, Hailin Wang, Xian Zhang, Jiang Lin, Ye Qi, and Xi Liang. 2022. [Challenges and Opportunities for Carbon Neutrality in China](/posts/2022-03-nree-china-carbon-neutrality/index.qmd). *Nature Reviews Earth & Environment* 3(2): 141--155. doi: [10.1038/s43017-021-00244-x](https://doi.org/10.1038/s43017-021-00244-x). \[[pdf](https://www.nature.com/articles/s43017-021-00244-x.pdf)\] ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span style="display: inline-block" class="__dimensions_badge_embed__" data-doi="10.1038/s43017-021-00244-x" data-style="large_rectangle"></span> <div style="display: inline-block" data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s43017-021-00244-x" data-hide-no-mentions="true" class="altmetric-embed"></div>
 **Coverage**: [_Carbon Brief_](https://www.carbonbrief.org/china-briefing-23-december-2021-analysis-of-beijings-new-pledge-interview-with-senior-advisers-economic-planning-meeting)  
 
 <center><hr style="width:50%"></center>
 
-<sup>GS</sup>Lee, Mekyung\*, and **Gang He**. 2021. [An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation during 1980--2017](/posts/2021-05-jcp-ai-energy/index.qmd). *Journal of Cleaner Production* 297: 126536. doi: [10.1016/j.jclepro.2021.126536](https://doi.org/10.1016/j.jclepro.2021.126536). \[[pdf](/files/papers/2021-JCP-AIandWindTechnologyInnovation.pdf)\] <span style="display: inline-block" class="__dimensions_badge_embed__" data-doi="10.1016/j.jclepro.2021.126536" data-style="large_rectangle"></span>    
+<sup>GS</sup>Lee, Mekyung\*, and **Gang He**. 2021. [An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation during 1980--2017](/posts/2021-05-jcp-ai-energy/index.qmd). *Journal of Cleaner Production* 297: 126536. doi: [10.1016/j.jclepro.2021.126536](https://doi.org/10.1016/j.jclepro.2021.126536). \[[pdf](/files/papers/2021-JCP-AIandWindTechnologyInnovation.pdf)\] <span style="display: inline-block" class="__dimensions_badge_embed__" data-doi="10.1016/j.jclepro.2021.126536" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.jclepro.2021.126536" data-hide-no-mentions="true" class="altmetric-embed"></div>   
 
 <center><hr style="width:50%"></center>
 
-Zhang, Chao, **Gang He**\*, Josiah Johnston, and Lijin Zhong. 2021. [Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint](/posts/2021-12-jcp-power-water-carbon/index.qmd). *Journal of Cleaner Production* 329: 129765. doi: [10.1016/j.jclepro.2021.129765](https://doi.org/10.1016/j.jclepro.2021.129765). \[[pdf](/files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf)\] <span style="display: inline-block" class="__dimensions_badge_embed__" data-doi="10.1016/j.jclepro.2021.129765" data-style="large_rectangle"></span>
+Zhang, Chao, **Gang He**\*, Josiah Johnston, and Lijin Zhong. 2021. [Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint](/posts/2021-12-jcp-power-water-carbon/index.qmd). *Journal of Cleaner Production* 329: 129765. doi: [10.1016/j.jclepro.2021.129765](https://doi.org/10.1016/j.jclepro.2021.129765). \[[pdf](/files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf)\] <span style="display: inline-block" class="__dimensions_badge_embed__" data-doi="10.1016/j.jclepro.2021.129765" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.jclepro.2021.129765" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
@@ -53,12 +57,12 @@ Zhang, Chao, **Gang He**\*, Josiah Johnston, and Lijin Zhong. 2021. [Long-Term 
 
 <center><hr style="width:50%"></center>
 
-**He, Gang**\*, David Victor. 2017. [Experiences and lessons from China's success in providing electricity for all](/posts/2017-china-electricity-for-all/index.qmd). *Resources, Conservation and Recycling* 122: 335–338\. doi: [10.1016/j.resconrec.2017.03.011](https://doi.org/10.1016/j.resconrec.2017.03.011). \[[pdf](/files/papers/2017-china-electricity-for-all.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.resconrec.2017.03.011" data-style="large_rectangle"></span>   
+**He, Gang**\*, David Victor. 2017. [Experiences and lessons from China's success in providing electricity for all](/posts/2017-china-electricity-for-all/index.qmd). *Resources, Conservation and Recycling* 122: 335–338\. doi: [10.1016/j.resconrec.2017.03.011](https://doi.org/10.1016/j.resconrec.2017.03.011). \[[pdf](/files/papers/2017-china-electricity-for-all.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.resconrec.2017.03.011" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.resconrec.2017.03.011" data-hide-no-mentions="true" class="altmetric-embed"></div>  
 **Invited presentation**: [Energy Inforamtion Administration](https://www.eia.gov/conference/2017/), [International Association of Energy Economy](https://iaee2017.sg/programme/)
 
 <center><hr style="width:50%"></center>
 
-**He, Gang**\*, Hongliang Zhang\*, Yuan Xu\*, Xi Lu\*. 2017. [China’s clean power transition: Current status and future prospect](https://www.sciencedirect.com/science/article/pii/S0921344916303202). *Resources, Conservation and Recycling* 121: 3–10\. doi: [10.1016/j.resconrec.2016.11.003](https://doi.org/10.1016/j.resconrec.2016.11.003). \[[pdf](/files/papers/2017-RCR-CleanPowerTransition.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.resconrec.2016.11.003" data-style="large_rectangle"></span>  
+**He, Gang**\*, Hongliang Zhang\*, Yuan Xu\*, Xi Lu\*. 2017. [China’s clean power transition: Current status and future prospect](https://www.sciencedirect.com/science/article/pii/S0921344916303202). *Resources, Conservation and Recycling* 121: 3–10\. doi: [10.1016/j.resconrec.2016.11.003](https://doi.org/10.1016/j.resconrec.2016.11.003). \[[pdf](/files/papers/2017-RCR-CleanPowerTransition.pdf)\] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.resconrec.2016.11.003" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.resconrec.2016.11.003" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 <center><hr style="width:50%"></center>
 
@@ -67,7 +71,7 @@ Zhang, Chao, **Gang He**\*, Josiah Johnston, and Lijin Zhong. 2021. [Long-Term 
 
 <center><hr style="width:50%"></center>
 
-**He, Gang**\*, Daniel M. Kammen\*. 2016. [Where, when and how much solar is available? A provincial-scale solar resource assessment for China](/posts/2016-re-china-provincial-solar-resource-assessment/index.qmd). *Renewable Energy* 85: 74–82\. doi: [10.1016/j.renene.2015.06.027](https://doi.org/10.1016/j.renene.2015.06.027). \[[pdf](/files/papers/2016-RE-ChinaProvincialSolar.pdf)\] \[Table and Figure [data](https://www.researchgate.net/publication/278679097_Where_when_and_how_much_solar_is_available_A_provincial-scale_solar_resource_assessment_for_China_Dataset)\] ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} (2018) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2015.06.027" data-style="large_rectangle"></span>
+**He, Gang**\*, Daniel M. Kammen\*. 2016. [Where, when and how much solar is available? A provincial-scale solar resource assessment for China](/posts/2016-re-china-provincial-solar-resource-assessment/index.qmd). *Renewable Energy* 85: 74–82\. doi: [10.1016/j.renene.2015.06.027](https://doi.org/10.1016/j.renene.2015.06.027). \[[pdf](/files/papers/2016-RE-ChinaProvincialSolar.pdf)\] \[Table and Figure [data](https://www.researchgate.net/publication/278679097_Where_when_and_how_much_solar_is_available_A_provincial-scale_solar_resource_assessment_for_China_Dataset)\] ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} (2018) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2015.06.027" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.renene.2015.06.027" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
@@ -77,7 +81,7 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 <center><hr style="width:50%"></center>
 
 **He, Gang**\*, Daniel M. Kammen. 2014. [Where, when and how much wind is available? A provincial-scale wind resource assessment for China](/posts/2014-ep-china-provincial-wind-resource-assessment/index.qmd). *Energy Policy* 74: 116–122\. doi: [10.1016/j.enpol.2014.07.003](https://doi.org/10.1016/j.enpol.2014.07.003). \[[pdf](/files/papers/2014-EP-ChinaProvincialWind.pdf)\] \[Table and Figure [data](https://www.researchgate.net/publication/273258314_Where_when_and_how_much_wind_is_available_A_provincial-scale_wind_resource_assessment_for_China_Dataset)\]
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enpol.2014.07.003" data-style="large_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enpol.2014.07.003" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.enpol.2014.07.003" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
@@ -88,6 +92,8 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 
 
 ## Peer-reviewed Journal Paper
+
+Peng, Liqun, Yang Guo, Shangwei Liu, **Gang He**, and Denise L. Mauzerall\*. 2024. [Subsidizing Grid-Based Electrolytic Hydrogen Will Increase Greenhouse Gas Emissions in Coal Dominated Power Systems](https://pubs.acs.org/doi/10.1021/acs.est.3c03045). *Environmental Science & Technology*. doi: [10.1021/acs.est.3c03045](https://doi.org/10.1021/acs.est.3c03045). \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.est.3c03045)]
 
 Chen, Shi, Xi Lu\*, Chris P. Nielsen, Michael B. McElroy\*, **Gang He**, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang, and Jimin Hao. 2023. [Deploying Solar Photovoltaic Energy First in Carbon-Intensive Regions Brings Gigatons More Carbon Mitigations to 2060](https://www.nature.com/articles/s43247-023-01006-x). *Communications Earth & Environment* 4: 369. doi: [10.1038/s43247-023-01006-x](https://doi.org/10.1038/s43247-023-01006-x). [[pdf](https://www.nature.com/articles/s43247-023-01006-x.pdf)] 
 
