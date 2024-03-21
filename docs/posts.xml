@@ -14,7 +14,7 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.5.6</generator>
+<generator>quarto-1.5.25</generator>
 <lastBuildDate>Thu, 22 Feb 2024 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Baruch College Conference on Climate Research, Teaching, and Collaboration</title>
@@ -155,7 +155,7 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 <section id="benefits" class="level2">
 <h2 class="anchored" data-anchor-id="benefits">Benefits</h2>
-<p>Despite these challenges, the benefits of a global supply chain are massive. An efficient and resilient supply chain is crucial for achieving continued cost reductions in solar, wind, and storage technologies – a key factor to scale up deployment. A paper published in <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"><em>Nature</em></a>, <span class="citation" data-cites="helveston_he_davidson_2022">Helveston, He, and Davidson (2022)</span> show solar PV costs could be 20-30% higher in 2030 if countries move from global supply chain to manufacturing domestically. The interconnectedness of these technologies, facilitated by a global supply chain, not only aids in cost reduction but also plays a pivotal role in carbon mitigation, pollution reduction, and overall improvement of human health. A recent paper published in <a href="../../posts/2023-10-commsee-eploying-solar-pv-first-incarbon-intensive-regions/index.html"><em>Communications Earth &amp; Environment</em></a>, <span class="citation" data-cites="chen2023deploying">Chen et al. (2023)</span> found that coordination of global solar manufacturing at low carbon regions and prioritize installation at carbon intensive regions could achieve 97.5 Gt more net carbon dioxide mitigation from 2020 to 2060. These benefits underscore the importance of preserving and strengthening the global supply chain, even as we navigate the challenges it presents.</p>
+<p>Despite these challenges, the benefits of a global supply chain are massive. An efficient and resilient supply chain is crucial for achieving continued cost reductions in solar, wind, and storage technologies – a key factor to scale up deployment. A paper published in <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"><em>Nature</em></a>, <span class="citation" data-cites="helveston_he_davidson_2022">Helveston, He, and Davidson (2022)</span> show solar PV costs could be 20-30% higher in 2030 if countries move from global supply chain to manufacturing domestically. The interconnectedness of these technologies, facilitated by a global supply chain, not only aids in cost reduction but also plays a pivotal role in carbon mitigation, pollution reduction, and overall improvement of human health. A recent paper published in <a href="../../posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/index.html"><em>Communications Earth &amp; Environment</em></a>, <span class="citation" data-cites="chen2023deploying">Chen et al. (2023)</span> found that coordination of global solar manufacturing at low carbon regions and prioritize installation at carbon intensive regions could achieve 97.5 Gt more net carbon dioxide mitigation from 2020 to 2060. These benefits underscore the importance of preserving and strengthening the global supply chain, even as we navigate the challenges it presents.</p>
 </section>
 <section id="a-just-resilient-and-sustainable-framework" class="level2">
 <h2 class="anchored" data-anchor-id="a-just-resilient-and-sustainable-framework">A just, resilient, and sustainable framework</h2>
@@ -232,7 +232,7 @@ https://quarto.org/docs/authoring/includes.html
 <iframe src="../../files/slides/switch-china.html" class="responsive-iframe" width="100%" title="slides">
 </iframe>
 </div>
-<p>Above are the video and slides of my presentation for <a href="https://forum.openmod.org/t/openmod-meets-usa-2023/4148">Openmod meets USA 2023</a> online. Check the <a href="../..\files/slides/switch-china.html">slides</a> in a new tab.</p>
+<p>Above are the video and slides of my presentation for <a href="https://forum.openmod.org/t/openmod-meets-usa-2023/4148">Openmod meets USA 2023</a> online. Check the <a href="../../files/slides/switch-china.html">slides</a> in a new tab.</p>
 </section>
 <section id="core-publications" class="level2">
 <h2 class="anchored" data-anchor-id="core-publications">Core publications</h2>
@@ -1149,8 +1149,8 @@ Two ex-aequo online poster presenters: <br>🏆<a href="https://twitter.com/DrGa
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Check <a href="https://www.iamconsortium.org/iamc-announcements/news-iamc-announcement/15th-iamc-annual-meeting-awards/">15th IAMC Annual Meeting: Awards</a> for the official announcement.</p>
 <p>Read more about the <a href="https://www.iamconsortium.org/uncategorized/gang-he-toon-vandyck-mengqi-zhao/">Best Poster Awardees</a>.</p>
-<p>Read more about our <a href="../..\posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/">paper</a>.</p>
-<p>Read the paper <a href="../..\posts/2022-11-nature-solar-paper-summary/">summary</a>.</p>
+<p>Read more about our <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/">paper</a>.</p>
+<p>Read the paper <a href="../../posts/2022-11-nature-solar-paper-summary/">summary</a>.</p>
 </section>
 <section id="iamc" class="level2">
 <h2 class="anchored" data-anchor-id="iamc">IAMC</h2>
@@ -1252,7 +1252,7 @@ Figure&nbsp;2: Comparison of estimated solar PV module prices under global versu
 <p>This does not mean the U.S. should abandon solar manufacturing. The world will need more supply to meet the scale of deployment necessary for climate goals, and more solar manufacturers adds resiliency to disruptive events such as pandemics and conflicts. As an R&amp;D leader, the U.S. could very likely lead in developing (and potentially manufacturing) the next-generation of solar PV technology. But the U.S. should not penalize firms for buying low-cost, high-quality panels from abroad, not when cost is still a barrier to greater solar adoption.</p>
 <p>There is a Chinese idiom that has a close corollary in the English-speaking world: 同舟共济(tóng zhōu gòng jì), which roughly translates to “same boat, work together.” Time is not on our side. Countries like the U.S. and China must find a way to address their geopolitical differences while simultaneously working together to lower the cost of LCETs, close <a href="https://www.unep.org/resources/emissions-gap-report-2022?gclid=Cj0KCQiA37KbBhDgARIsAIzce16RWcYDSbNbHM1nHzd4z6GMPt6Xexx1bMzhVGGbV46LPAxH74NqJw8aAmwVEALw_wcB">the emissions gap</a> and combat climate change.</p>
 <p><a href="https://jhelvy.com/"><em>John Paul Helveston</em></a> <em>is an assistant professor at the George Washington University’s School of Engineering &amp; Applied Science. His area of expertise includes understanding the factors that shape technological change, with a particular focus on transitioning to more sustainable and energy-saving technologies.</em></p>
-<p><a href="https://www.stonybrook.edu/commcms/est/people/core_faculty/ghe"><em>Gang He</em></a> <em>is an assistant professor in the Department of Technology and Society at Stony Brook University. His work focuses on energy modeling, energy and climate policy, energy and environment, domestic coal and power sectors and their key role in both the global energy supply and in international climate policy framework.</em></p>
+<p><a href="https://drganghe.github.io"><em>Gang He</em></a> <em>is an assistant professor in the Department of Technology and Society at Stony Brook University. His work focuses on energy modeling, energy and climate policy, energy and environment, domestic coal and power sectors and their key role in both the global energy supply and in international climate policy framework.</em></p>
 <p><a href="https://gps.ucsd.edu/faculty-directory/michael-davidson.html"><em>Michael R. Davidson</em></a> <em>is an assistant professor at University of California San Diego’s School of Global Policy and Strategy and the Jacobs School of Engineering. His research focuses on the engineering implications and institutional conflicts inherent in deploying renewable energy at scale, with a particular interest in China, India, and the U.S.</em></p>
 <p>Check the original post at <a href="https://www.newsecuritybeat.org/2022/11/cost-solo-solar/" target="_blank">New Security Beat</a>. Learn more about our <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html">paper</a>.</p>
 <section id="references" class="level3">
@@ -1351,7 +1351,7 @@ DOI: <a href="https://doi.org/10.1038/s41586-022-05316-6">10.1038/s41586-022-053
 <p>Published <a href="https://www.nature.com/articles/s41586-022-05316-6">paper</a></p>
 <p>Paper summary: <a href="../../posts/2022-11-nature-solar-paper-summary/index.html">The Cost of Going Solo in Solar</a></p>
 <p>ResearchGate <a href="https://www.researchgate.net/publication/364757014_Quantifying_the_cost_savings_of_global_solar_photovoltaic_supply_chains">pdf</a> provided by <em>Nature</em></p>
-<p>Preprint <a href="../..\files/papers/2022-nature-solar-supply-chains-preprint.pdf">pdf</a></p>
+<p>Preprint <a href="../../files/papers/2022-nature-solar-supply-chains-preprint.pdf">pdf</a></p>
 <p>Author Correction <a href="https://www.nature.com/articles/s41586-023-06262-7">pdf</a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06262-7/MediaObjects/41586_2023_6262_MOESM1_ESM.pdf">SI</a></p>
 <p>Github: <a href="https://github.com/jhelvy/solar-learning-2021">solar-learning-2021</a></p>
 <p>Zenodo: <a href="https://doi.org/10.5281/zenodo.6989075">Code and Data</a></p>
@@ -1363,7 +1363,7 @@ DOI: <a href="https://doi.org/10.1038/s41586-022-05316-6">10.1038/s41586-022-053
 <p><em>Nature</em> Highlights: <a href="https://web.archive.org/web/20230603073317/https://www.natureasia.com/en/research/highlight/14262">Climate policy: Solar energy expected to be cheaper through globalization</a></p>
 <p><em>Joule</em> Preview: <a href="https://doi.org/10.1016/j.joule.2022.12.003">The cost of risk mitigation—Diversifying the global solar PV supply chain</a> by Nathan L.Chang, Mohammad Dehghanimadvar, and Renate Egan</p>
 <p>Press release: <a href="https://news.stonybrook.edu/newsroom/global-collaboration-is-key-to-saving-billions-for-solar-module-production/">SBU News</a>, <a href="https://mediarelations.gwu.edu/global-collaboration-saved-countries-67-billion-solar-panel-production-costs">GWU News</a>, <a href="https://today.ucsd.edu/story/open-trade-saves-countries-billions-in-solar-panel-production">UCSD News</a></p>
-<p>Coverage: <a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/">E&amp;E News</a>, <a href="https://www.grid.news/story/global/2022/11/12/the-us-is-reducing-its-reliance-on-china-for-green-technology-could-that-slow-progress-on-climate-change/">GRID News</a>, <a href="https://pv-magazine-usa.com/2022/10/26/a-globalized-supply-chain-is-key-to-cutting-costs-in-solar-module-manufacturing/">PV Magazine</a>, <a href="https://dot.la/deglobalization-2658510850.html">dot.LA</a>, <a href="https://pvbuzz.com/new-study-quantifies-cost-savings-solar-industry-globalized-supply-chains/">pvbuzz</a>, <a href="https://www.innovateli.com/no-736-on-immigrants-solar-energy-supplies-and-other-american-strengths-with-lots-of-candy-to-share/">InnovateLongIsland</a>, <a href="https://mercomindia.com/imposing-import-tariffs-hamper-of-solar-energy-study/">Mercom India</a>, <a href="https://www.chinanews.com.cn/cj/2022/10-27/9881042.shtml">China News</a>, <a href="http://www.stdaily.com/index/kejixinwen/202210/e38ea5c3a3054d87a43996d39a2924ab.shtml">Science and Technology Daily</a></p>
+<p>Coverage: <a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/">E&amp;E News</a>, <a href="https://web.archive.org/web/20240106093827/https://themessenger.com/grid/the-us-is-reducing-its-reliance-on-china-for-green-technology-could-that-slow-progress-on-climate-change">GRID News</a>, <a href="https://pv-magazine-usa.com/2022/10/26/a-globalized-supply-chain-is-key-to-cutting-costs-in-solar-module-manufacturing/">PV Magazine</a>, <a href="https://dot.la/deglobalization-2658510850.html">dot.LA</a>, <a href="https://pvbuzz.com/new-study-quantifies-cost-savings-solar-industry-globalized-supply-chains/">pvbuzz</a>, <a href="https://www.innovateli.com/no-736-on-immigrants-solar-energy-supplies-and-other-american-strengths-with-lots-of-candy-to-share/">InnovateLongIsland</a>, <a href="https://mercomindia.com/imposing-import-tariffs-hamper-of-solar-energy-study/">Mercom India</a>, <a href="https://www.chinanews.com.cn/cj/2022/10-27/9881042.shtml">China News</a>, <a href="http://www.stdaily.com/index/kejixinwen/202210/e38ea5c3a3054d87a43996d39a2924ab.shtml">Science and Technology Daily</a></p>
 <p><a href="https://mp.weixin.qq.com/s/CuyHGblyLcMfMo13VBXaFA">Nature Portfolio Chinese summary</a></p>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-022-05316-6">
@@ -1384,7 +1384,7 @@ Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%
 </section>
 <section id="poster" class="level2">
 <h2 class="anchored" data-anchor-id="poster">Poster</h2>
-<p>Here is the poster for <a href="https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/">IAMC2022</a> which won the <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a>. The <a href="../..\files/posters/nature-solar-supply-chains-poster.pdf">pdf</a> is also available.</p>
+<p>Here is the poster for <a href="https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/">IAMC2022</a> which won the <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a>. The <a href="../../files/posters/nature-solar-supply-chains-poster.pdf">pdf</a> is also available.</p>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:95.0%"></p>
@@ -1397,7 +1397,7 @@ Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%
 <iframe src="../../files/slides/solar-supply-chains-slides.html" class="responsive-iframe" width="100%" title="slides">
 </iframe>
 </div>
-<p>Above is the general slides of our paper, I presented it at <a href="https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g">Tsinghua University</a>. Check the <a href="../..\files/slides/solar-supply-chains-slides.html">slides</a> in a new tab.</p>
+<p>Above is the general slides of our paper, I presented it at <a href="https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g">Tsinghua University</a>. Check the <a href="../../files/slides/solar-supply-chains-slides.html">slides</a> in a new tab.</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -1453,7 +1453,7 @@ The following timeline from Researchsquare might provide a reference point when 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{paul helveston2022,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{paul_helveston2022,
   author = {Paul Helveston, John and He, Gang and R. Davidson, Michael},
   title = {Quantifying the Cost Savings of Global Solar Photovoltaic
     Supply Chains},
@@ -1466,7 +1466,7 @@ The following timeline from Researchsquare might provide a reference point when 
   doi = {10.1038/s41586-022-05316-6},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-paul helveston2022" class="csl-entry quarto-appendix-citeas">
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-paul_helveston2022" class="csl-entry quarto-appendix-citeas">
 Paul Helveston, John, Gang He, and Michael R. Davidson. 2022.
 <span>“Quantifying the Cost Savings of Global Solar Photovoltaic Supply
 Chains.”</span> <em>Nature</em> 612 (7938): 83–87. <a href="https://doi.org/10.1038/s41586-022-05316-6">https://doi.org/10.1038/s41586-022-05316-6</a>.
@@ -1571,7 +1571,7 @@ DOI: <a href="https://doi.org/10.1109/TIA.2021.3116916">10.1109/TIA.2021.3116916
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Published <a href="https://ieeexplore.ieee.org/document/9555251">paper</a></p>
-<p>Self-archiving <a href="../..\files/papers/2022-IEEE-ModelingIntegratedPowerAndTransportationSystems.pdf">pdf</a></p>
+<p>Self-archiving <a href="../../files/papers/2022-IEEE-ModelingIntegratedPowerAndTransportationSystems.pdf">pdf</a></p>
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TIA.2021.3116916" data-hide-zero-citations="true" data-style="small_circle"></span>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <!--Include social share buttons-->

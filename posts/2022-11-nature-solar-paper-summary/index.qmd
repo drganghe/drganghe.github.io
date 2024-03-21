@@ -61,7 +61,7 @@ There is a Chinese idiom that has a close corollary in the English-speaking worl
 
 [_John Paul Helveston_](https://jhelvy.com/) _is an assistant professor at the George Washington University's School of Engineering & Applied Science. His area of expertise includes understanding the factors that shape technological change, with a particular focus on transitioning to more sustainable and energy-saving technologies._
 
-[_Gang He_](https://www.stonybrook.edu/commcms/est/people/core_faculty/ghe) _is an assistant professor in the Department of Technology and Society at Stony Brook University. His work focuses on energy modeling, energy and climate policy, energy and environment, domestic coal and power sectors and their key role in both the global energy supply and in international climate policy framework._
+[_Gang He_](https://drganghe.github.io) _is an assistant professor in the Department of Technology and Society at Stony Brook University. His work focuses on energy modeling, energy and climate policy, energy and environment, domestic coal and power sectors and their key role in both the global energy supply and in international climate policy framework._
 
 [_Michael R. Davidson_](https://gps.ucsd.edu/faculty-directory/michael-davidson.html) _is an assistant professor at University of California San Diego's School of Global Policy and Strategy and the Jacobs School of Engineering. His research focuses on the engineering implications and institutional conflicts inherent in deploying renewable energy at scale, with a particular interest in China, India, and the U.S._
 

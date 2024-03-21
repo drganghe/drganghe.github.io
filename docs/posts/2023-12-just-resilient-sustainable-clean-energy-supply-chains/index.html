@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.6">
+<meta name="generator" content="quarto-1.5.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -209,7 +209,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
@@ -296,7 +296,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 </section>
 <section id="benefits" class="level2">
 <h2 class="anchored" data-anchor-id="benefits">Benefits</h2>
-<p>Despite these challenges, the benefits of a global supply chain are massive. An efficient and resilient supply chain is crucial for achieving continued cost reductions in solar, wind, and storage technologies – a key factor to scale up deployment. A paper published in <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"><em>Nature</em></a>, <span class="citation" data-cites="helveston_he_davidson_2022">Helveston, He, and Davidson (<a href="#ref-helveston_he_davidson_2022" role="doc-biblioref">2022</a>)</span> show solar PV costs could be 20-30% higher in 2030 if countries move from global supply chain to manufacturing domestically. The interconnectedness of these technologies, facilitated by a global supply chain, not only aids in cost reduction but also plays a pivotal role in carbon mitigation, pollution reduction, and overall improvement of human health. A recent paper published in <a href="../../posts/2023-10-commsee-eploying-solar-pv-first-incarbon-intensive-regions/index.html"><em>Communications Earth &amp; Environment</em></a>, <span class="citation" data-cites="chen2023deploying">Chen et al. (<a href="#ref-chen2023deploying" role="doc-biblioref">2023</a>)</span> found that coordination of global solar manufacturing at low carbon regions and prioritize installation at carbon intensive regions could achieve 97.5 Gt more net carbon dioxide mitigation from 2020 to 2060. These benefits underscore the importance of preserving and strengthening the global supply chain, even as we navigate the challenges it presents.</p>
+<p>Despite these challenges, the benefits of a global supply chain are massive. An efficient and resilient supply chain is crucial for achieving continued cost reductions in solar, wind, and storage technologies – a key factor to scale up deployment. A paper published in <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"><em>Nature</em></a>, <span class="citation" data-cites="helveston_he_davidson_2022">Helveston, He, and Davidson (<a href="#ref-helveston_he_davidson_2022" role="doc-biblioref">2022</a>)</span> show solar PV costs could be 20-30% higher in 2030 if countries move from global supply chain to manufacturing domestically. The interconnectedness of these technologies, facilitated by a global supply chain, not only aids in cost reduction but also plays a pivotal role in carbon mitigation, pollution reduction, and overall improvement of human health. A recent paper published in <a href="../../posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/index.html"><em>Communications Earth &amp; Environment</em></a>, <span class="citation" data-cites="chen2023deploying">Chen et al. (<a href="#ref-chen2023deploying" role="doc-biblioref">2023</a>)</span> found that coordination of global solar manufacturing at low carbon regions and prioritize installation at carbon intensive regions could achieve 97.5 Gt more net carbon dioxide mitigation from 2020 to 2060. These benefits underscore the importance of preserving and strengthening the global supply chain, even as we navigate the challenges it presents.</p>
 </section>
 <section id="a-just-resilient-and-sustainable-framework" class="level2">
 <h2 class="anchored" data-anchor-id="a-just-resilient-and-sustainable-framework">A just, resilient, and sustainable framework</h2>
@@ -374,18 +374,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -417,7 +406,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
@@ -425,10 +436,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
@@ -470,7 +486,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
