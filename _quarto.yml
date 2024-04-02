@@ -47,7 +47,7 @@ website:
         href: files/Gang-He-CV.pdf 
       - icon: github
         href: https://github.com/drganghe
-      - icon: twitter 
+      - icon: twitter-x 
         href: https://twitter.com/DrGangHe
       - icon: rss
         href: posts.xml 
@@ -59,7 +59,7 @@ website:
     right:  
       - icon: github
         href: https://github.com/drganghe/drganghe.github.io
-      - icon: twitter 
+      - icon: twitter-x 
         href: https://twitter.com/DrGangHe
       - icon: rss
         href: posts.xml  
