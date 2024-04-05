@@ -15,9 +15,11 @@ about:
     - icon: sun
       text: Mainpage
       href: https://www.ganghe.net
+      target: _blank
     - icon: globe
       text: CUNYprofile
       href: https://www.baruch.cuny.edu/profiles/faculty/Gang-He
+      target: _blank
     - icon: envelope
       text: E-mail
       href: mailto:gang.he@baruch.cuny.edu
@@ -33,19 +35,26 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/hegang
+      target: _blank
     - icon: youtube
       text: YouTube
-      href: https://www.youtube.com/@DrGangHe      
+      href: https://www.youtube.com/@DrGangHe     
+      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed
       href: https://orcid.org/0000-0002-8416-1965
+      target: _blank
     - text: "{{< ai clarivate >}} Web of Science"
       href: https://www.webofscience.com/wos/author/record/N-4549-2013  
+      target: _blank
     - text: "{{< ai scopus >}} Scopus"
       href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
+      target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=vf90AuEAAAAJ
+      target: _blank
     - text: "{{< ai researchgate >}} Research Gate"
       href: https://www.researchgate.net/profile/Gang-He-19
+      target: _blank
 
 listing:
   - id: recent-posts
