@@ -1029,16 +1029,6 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/featured.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title></title>
-  <dc:creator>Clemens Ruben</dc:creator>
-  <link>https://drganghe.github.io/posts/2023-04-06-china-table-heads-he-gang-researches-the-energy-transition/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/posts/2023-04-06-china-table-heads-he-gang-researches-the-energy-transition/</guid>
-  <pubDate>Thu, 06 Apr 2023 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2023-04-06-china-table-heads-he-gang-researches-the-energy-transition/featured.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Open Course on Energy Systems Analysis</title>
   <dc:creator>Gang He</dc:creator>
   <link>https://drganghe.github.io/posts/2022-12-energy-systems-analysis-open-course/</link>
@@ -1671,6 +1661,60 @@ Decarbonization.”</span> <em>IEEE Transactions on Industry Applications
   <guid>https://drganghe.github.io/posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/</guid>
   <pubDate>Fri, 15 Apr 2022 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/featured.png" medium="image" type="image/png" height="63" width="144"/>
+</item>
+<item>
+  <title>Achieving power sector carbon neutrality in a low-cost renewable era</title>
+  <dc:creator>Growth Lab</dc:creator>
+  <link>https://drganghe.github.io/posts/2022-03-harvard-growth-lab-talk/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>In the <a href="https://growthlab.cid.harvard.edu/event/research-seminar-achieving-power-sector-carbon-neutrality-low-cost-renewable-era">Harvard Growth Lab Research Seminar</a> on March 14, 2022, Gang discussed the pathways of clean power transition and their system impacts using high-resolution models, to reflect the need for integrating variable renewable energy and phasing out coal to achieve carbon neutrality in the power sector at a low-cost renewables era.</p>
+</section>
+<section id="speaker" class="level2">
+<h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
+<p>Gang He, Assistant Professor in the Department of Technology and Society at Stony Brook University</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Clean power transition is at the center to achieve mid-century carbon neutrality goals. The cost of solar and wind has plummeted in the past decade, and solar and wind electricity has been achieving grid parity. Low-cost renewables offer new perspectives for energy system decarbonization that was less visioned before. In this talk, Dr.&nbsp;He will discuss the pathways of clean power transition and their system impacts using high-resolution models, to reflect the need for integrating variable renewable energy and phasing out coal to achieve carbon neutrality in the power sector at a low-cost renewables era.</p>
+</section>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Y-u5hqfcSyQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>This is a recorded video on the same topic for <a href="https://www.abstractsonline.com/pp8/?__hstc=194041586.8524a11c1c5f954b7845956fbd83f9c6.1672599062893.1672599062893.1672599062893.1&amp;__hssc=194041586.1.1672599062893&amp;__hsfp=1998772865&amp;hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/presentation/6340">INFORMS 2022</a>.</p>
+</section>
+<section id="discussed-papers" class="level2">
+<h2 class="anchored" data-anchor-id="discussed-papers">Discussed papers</h2>
+<ul>
+<li><p>He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “<a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html">Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System</a>.” <em>Nature Communications</em> 11 (1): 2486. <a href="https://doi.org/10.1038/s41467-020-16184-x" class="uri">https://doi.org/10.1038/s41467-020-16184-x</a>.</p></li>
+<li><p>Zhang, Chao, Gang He, Josiah Johnston, and Lijin Zhong. 2021. “<a href="../../posts/2021-12-jcp-power-water-carbon/index.html">Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint</a>.” <em>Journal of Cleaner Production</em> 329: 129765. <a href="https://doi.org/10.1016/j.jclepro.2021.129765" class="uri">https://doi.org/10.1016/j.jclepro.2021.129765</a>.</p></li>
+<li><p>He, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. “<a href="../../posts/2020-08-oneearth-coal-just-transition/index.html">Enabling a Rapid and Just Transition Away from Coal in China</a>.” <em>One Earth</em> 3 (2): 187–94. <a href="https://doi.org/10.1016/j.oneear.2020.07.012" class="uri">https://doi.org/10.1016/j.oneear.2020.07.012</a>.</p></li>
+</ul>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>event</category>
+  <category>video</category>
+  <guid>https://drganghe.github.io/posts/2022-03-harvard-growth-lab-talk/</guid>
+  <pubDate>Mon, 14 Mar 2022 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2022-03-harvard-growth-lab-talk/featured.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>
