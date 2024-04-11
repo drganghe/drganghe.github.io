@@ -44,13 +44,17 @@ website:
     
     right: 
       - text: CV
-        href: files/Gang-He-CV.pdf 
+        href: files/Gang-He-CV.pdf
+        target: _blank 
       - icon: github
         href: https://github.com/drganghe
+        target: _blank
       - icon: twitter-x 
         href: https://twitter.com/DrGangHe
+        target: _blank
       - icon: rss
-        href: posts.xml 
+        href: posts.xml
+        target: _blank
   
   page-navigation: true
   
@@ -59,10 +63,13 @@ website:
     right:  
       - icon: github
         href: https://github.com/drganghe/drganghe.github.io
+        target: _blank
       - icon: twitter-x 
         href: https://twitter.com/DrGangHe
+        target: _blank
       - icon: rss
-        href: posts.xml  
+        href: posts.xml
+        target: _blank  
   
   search:
     location: navbar
