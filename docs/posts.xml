@@ -1029,56 +1029,6 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/featured.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Heads: He Gang researches the energy transition</title>
-  <dc:creator>Clemens Ruben</dc:creator>
-  <link>https://drganghe.github.io/posts/2023-04-06-china-table-heads-he-gang-researches-the-energy-transition/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2023-04-06-china-table-heads-he-gang-researches-the-energy-transition/featured.jpeg" class="img-fluid figure-img"></p>
-<figcaption>China.Table features Gang’s adventure in energy and climate research</figcaption>
-</figure>
-</div>
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>I had the pleasure to talk with Clemens Ruben of Table.Media about my experiences and research, and below is a story that out of our conversations. Read the <a href="https://table.media/china/en/heads/he-gang-chinese-energy-supply-researcher">original article</a>.</p>
-</section>
-<section id="archieve" class="level2">
-<h2 class="anchored" data-anchor-id="archieve">Archieve</h2>
-<blockquote class="blockquote">
-<p>When He Gang was accepted to study geography at the prestigious Peking University, he was working in construction. His father, a small farmer in Hunan province, had died two years earlier. So He Gang had to lend a hand to support the family. Originally, he did not know much about geography as a subject, says He Gang, now an Assistant Professor in the Department of Technology and Society at Stony Brook University in New York. But he could not just pass up a place at one of the best universities in the US.</p>
-<p>During his studies, He Gang discovered his passion for geography because it allowed him to develop a systematic view of the big picture and to learn about different regions and people in China during field research. During a project in southwestern China, he experienced the consequences of climate change up close for the first time: increased rainfall and deforestation mean that the thin layer of topsoil is not just literally flowing away from under the feet of local mountain farmers – and with it their livelihood.</p>
-<h3 id="commitment-to-climate-protection" class="anchored">Commitment to climate protection</h3>
-<p>In 2005, He Gang attends the UN Climate Change Conference COP 11 in Montreal as a Chinese youth delegate, a formative event. Afterward, he begins to get involved in climate issues. With fellow students, he founds the first student climate club at Peking University, which works to increase environmental awareness among students and make the campus greener, among other things. And he decides to pursue a master’s degree in “Climate and Society” at Columbia University in the US, followed by research work in the “Energy and Sustainable Development” program at Stanford University and a doctorate in “Energy and Resources” in 2015 at Berkeley University. Meanwhile, He Gang’s research focuses on energy and climate policy. The Chinese economy is supposed to become climate neutral by 2060, but energy security is always an important requirement for the Chinese government, the scientist explains. This is the reason for the contradictory phenomenon that China strongly promotes the expansion of renewable energies but, at the same time, continues to build new coal-fired power plants on a large scale, which are considered to be particularly reliable.</p>
-<h3 id="solar-panel-study" class="anchored">Solar panel study</h3>
-<p>In his <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html">latest research project</a>, He Gang examined how the globalized market for solar panels positively affects their selling prices. The result: compared to relocating production to Germany, German buyers of solar panels saved about 6.5 billion euros between 2008 and 2020. There are concerns about buying Chinese photovoltaic systems with regard to jobs, human rights, and the high level of dependency. But this is offset by the enormous additional financial costs of relocating production, explains He Gang. Politicians have to weigh the options carefully.</p>
-<p>Overall, the climate researcher is cautiously optimistic: Renewable energies are now at the beginning of exponential growth, he says, and last year more money was invested in renewable than fossil energies worldwide for the first time. “This won’t save the world in which we live now, but it will help prevent the worst,” He Gang sums up. –Clemens Ruben</p>
-</blockquote>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/posts/2023-04-06-china-table-heads-he-gang-researches-the-energy-transition/</guid>
-  <pubDate>Thu, 06 Apr 2023 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2023-04-06-china-table-heads-he-gang-researches-the-energy-transition/featured.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Open Course on Energy Systems Analysis</title>
   <dc:creator>Gang He</dc:creator>
   <link>https://drganghe.github.io/posts/2022-12-energy-systems-analysis-open-course/</link>
@@ -1711,6 +1661,60 @@ Decarbonization.”</span> <em>IEEE Transactions on Industry Applications
   <guid>https://drganghe.github.io/posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/</guid>
   <pubDate>Fri, 15 Apr 2022 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/featured.png" medium="image" type="image/png" height="63" width="144"/>
+</item>
+<item>
+  <title>Achieving power sector carbon neutrality in a low-cost renewable era</title>
+  <dc:creator>Growth Lab</dc:creator>
+  <link>https://drganghe.github.io/posts/2022-03-harvard-growth-lab-talk/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>In the <a href="https://growthlab.cid.harvard.edu/event/research-seminar-achieving-power-sector-carbon-neutrality-low-cost-renewable-era">Harvard Growth Lab Research Seminar</a> on March 14, 2022, Gang discussed the pathways of clean power transition and their system impacts using high-resolution models, to reflect the need for integrating variable renewable energy and phasing out coal to achieve carbon neutrality in the power sector at a low-cost renewables era.</p>
+</section>
+<section id="speaker" class="level2">
+<h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
+<p>Gang He, Assistant Professor in the Department of Technology and Society at Stony Brook University</p>
+</section>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Clean power transition is at the center to achieve mid-century carbon neutrality goals. The cost of solar and wind has plummeted in the past decade, and solar and wind electricity has been achieving grid parity. Low-cost renewables offer new perspectives for energy system decarbonization that was less visioned before. In this talk, Dr.&nbsp;He will discuss the pathways of clean power transition and their system impacts using high-resolution models, to reflect the need for integrating variable renewable energy and phasing out coal to achieve carbon neutrality in the power sector at a low-cost renewables era.</p>
+</section>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Y-u5hqfcSyQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>This is a recorded video on the same topic for <a href="https://www.abstractsonline.com/pp8/?__hstc=194041586.8524a11c1c5f954b7845956fbd83f9c6.1672599062893.1672599062893.1672599062893.1&amp;__hssc=194041586.1.1672599062893&amp;__hsfp=1998772865&amp;hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/presentation/6340">INFORMS 2022</a>.</p>
+</section>
+<section id="discussed-papers" class="level2">
+<h2 class="anchored" data-anchor-id="discussed-papers">Discussed papers</h2>
+<ul>
+<li><p>He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “<a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html">Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System</a>.” <em>Nature Communications</em> 11 (1): 2486. <a href="https://doi.org/10.1038/s41467-020-16184-x" class="uri">https://doi.org/10.1038/s41467-020-16184-x</a>.</p></li>
+<li><p>Zhang, Chao, Gang He, Josiah Johnston, and Lijin Zhong. 2021. “<a href="../../posts/2021-12-jcp-power-water-carbon/index.html">Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint</a>.” <em>Journal of Cleaner Production</em> 329: 129765. <a href="https://doi.org/10.1016/j.jclepro.2021.129765" class="uri">https://doi.org/10.1016/j.jclepro.2021.129765</a>.</p></li>
+<li><p>He, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. “<a href="../../posts/2020-08-oneearth-coal-just-transition/index.html">Enabling a Rapid and Just Transition Away from Coal in China</a>.” <em>One Earth</em> 3 (2): 187–94. <a href="https://doi.org/10.1016/j.oneear.2020.07.012" class="uri">https://doi.org/10.1016/j.oneear.2020.07.012</a>.</p></li>
+</ul>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>event</category>
+  <category>video</category>
+  <guid>https://drganghe.github.io/posts/2022-03-harvard-growth-lab-talk/</guid>
+  <pubDate>Mon, 14 Mar 2022 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2022-03-harvard-growth-lab-talk/featured.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>

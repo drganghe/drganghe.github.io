@@ -76,6 +76,8 @@ website:
     type: textbox
   
   reader-mode: true
+
+  draft-mode: unlinked
   
   repo-url: https://github.com/drganghe/drganghe.github.io
 #  repo-actions: [edit, issue, source]
