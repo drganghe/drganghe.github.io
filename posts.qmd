@@ -6,7 +6,7 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-  page-size: 50
+  page-size: 100
   categories: true
   sort-ui: true
   filter-ui: true
