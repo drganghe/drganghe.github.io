@@ -2,10 +2,11 @@
 title: "Media"
 subtitle: "In the news"
 #description-meta: "{{< meta description-meta >}}"
-link-external-newwindow: true
 listing:  #an example of listing external links
   sort: "date desc"
   type: default
+#  grid-columns: 2
+#  image-height: 200px
   categories: true
   sort-ui: true
   filter-ui: true
@@ -16,8 +17,8 @@ listing:  #an example of listing external links
       author: Smriti Mallapaty
       description: "Gang's quote on the importance to continue the research exchange and colloboration 'If the river freezes over, water will still flow underneath.'"
       date: "2024-03-12"
-      categories: [Nature]
-    
+      categories: [Nature] 
+
     - path: https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/
       image: /files/images/media/scientific-american.png
       title: "What the U.S.-China Agreement Means for Greenhouse Gas Emissions"
@@ -26,8 +27,8 @@ listing:  #an example of listing external links
         - Sara Schonhardt
       description: "The two nations announced limited steps to address climate change. But even a modest agreement could have far-reaching effects."
       date: "2023-11-16"
-      categories: [Scientific American, E&E News]
-    
+      categories: [Scientific American, E&E News]  
+
     - path: https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/
       image: /files/images/media/ee-news.png
       title: "How Biden’s made-in-America solar strategy may backfire"
@@ -69,6 +70,14 @@ listing:  #an example of listing external links
       description: "The surprise announcement vaults the country ahead of U.S. climate ambitions and could encourage developing countries to follow suit."
       date: "2020-09-23"
       categories: [Scientific American, E&E News]
+
+    - path: https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/
+      image: /files/images/media/forbes.png
+      title: "Plummeting Renewable Energy, Battery Prices Mean China Could Hit 62% Clean Power And Cut Costs 11% By 2030"
+      author: Energy Innovation
+      description: "New research shows plummeting clean energy prices mean China could reliably run its grids on at least 62% non-fossil electricity generation by 2030, while cutting costs 11% compared to a business-as-usual approach. Once again, it’s cheaper to save the climate than destroy it."
+      date: "2020-08-10"
+      categories: [Forbes]
 
     - path: https://subscriber.politicopro.com/article/eenews/1063354565
       image: /files/images/media/ee-news.png
@@ -155,6 +164,10 @@ listing:  #an example of listing external links
 
 page-navigation: false
 title-block-banner: false
+
+format:
+  html:
+    link-external-newwindow: true
 ---
 
 

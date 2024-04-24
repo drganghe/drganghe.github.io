@@ -12,7 +12,8 @@ listing:
   filter-ui: true
   feed: true
 #page-layout: full
-page-navigation: true
+draft-mode: unlinked
+page-navigation: false
 title-block-banner: false
 ---
 

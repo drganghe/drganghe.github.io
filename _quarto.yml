@@ -35,6 +35,8 @@ website:
             href: publications.qmd
       - text: Teaching
         href: teaching.qmd
+      - text: Media
+        href: media.qmd        
       - text: Posts
         href: posts.qmd
       - text: Now
@@ -101,7 +103,11 @@ format:
     css: styles.css
     toc: true
     footnotes-hover: true
+    code-copy: true
+    code-link: true
+    fig-align: center
     link-external-icon: false
     link-external-newwindow: true
+    email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
 
