@@ -93,7 +93,7 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 
 ## Peer-reviewed Journal Paper
 
-Yang, Haozhe, Qian Luo, **Gang He**, Jiang Lin, Jeremiah X. Johnson, Fernando Garcia-Menendez, Olivier Deschenes, Ana Mileva, Ranjit Deshmukh\*. 2024. [Regional disparities in health and employment outcomes of China’s transition to a low-carbon electricity system](https://iopscience.iop.org/article/10.1088/2753-3751/ad3bb8). *Environmental Research: Energy*. doi: [10.1088/2753-3751/ad3bb8](https://doi.org/10.1088/2753-3751/ad3bb8). [[pdf](https://iopscience.iop.org/article/10.1088/2753-3751/ad3bb8/pdf)]
+Yang, Haozhe, Qian Luo, **Gang He**, Jiang Lin, Jeremiah X. Johnson, Fernando Garcia-Menendez, Olivier Deschenes, Ana Mileva, Ranjit Deshmukh\*. 2024. [Regional disparities in health and employment outcomes of China’s transition to a low-carbon electricity system](https://iopscience.iop.org/article/10.1088/2753-3751/ad3bb8). *Environmental Research: Energy* 1(2): 025001. doi: [10.1088/2753-3751/ad3bb8](https://doi.org/10.1088/2753-3751/ad3bb8). [[pdf](https://iopscience.iop.org/article/10.1088/2753-3751/ad3bb8/pdf)]
 
 Peng, Liqun, Yang Guo, Shangwei Liu, **Gang He**, and Denise L. Mauzerall\*. 2024. [Subsidizing Grid-Based Electrolytic Hydrogen Will Increase Greenhouse Gas Emissions in Coal Dominated Power Systems](https://pubs.acs.org/doi/10.1021/acs.est.3c03045). *Environmental Science & Technology* 58 (12), 5187–5195. doi: [10.1021/acs.est.3c03045](https://doi.org/10.1021/acs.est.3c03045). [[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.est.3c03045)]
 
