@@ -15,7 +15,7 @@ listing:  #an example of listing external links
       image: /files/images/media/nature.png
       title: "China–US climate collaboration concerns as Xie and Kerry step down"
       author: Smriti Mallapaty
-      description: "Gang's quote on the importance to continue the research exchange and colloboration: “If the river freezes over, water will still flow underneath.”"
+      description: "Gang's quote on the importance to continue the research exchange and colloboration 'If the river freezes over, water will still flow underneath.'"
       date: "2024-03-12"
       categories: [Nature] 
 
