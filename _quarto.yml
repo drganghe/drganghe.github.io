@@ -97,6 +97,9 @@ website:
 
 bibliography: references.bib
 
+exclude:
+  - media.qmd
+
 format:
   html:
     theme: cosmo
