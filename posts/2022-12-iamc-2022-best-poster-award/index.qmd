@@ -59,8 +59,9 @@ I also want to thank the nominating committee. Thank you the IAMC community, whi
 
 ## Twitter Announcement
 
+```{=html}
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Two ex-aequo online poster presenters: <br>🏆<a href="https://twitter.com/DrGangHe?ref_src=twsrc%5Etfw">@DrGangHe</a>, &quot;Quantifying the cost savings of global solar photovoltaic supply chains&quot; <a href="https://t.co/OmPwEMeVEX">pic.twitter.com/OmPwEMeVEX</a></p>&mdash; IAMConsortium (@IAMConsortium) <a href="https://twitter.com/IAMConsortium/status/1598658519573544960?ref_src=twsrc%5Etfw">December 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+```
 
 ## Links
 

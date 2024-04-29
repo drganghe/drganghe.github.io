@@ -68,7 +68,9 @@ Stony Brook University [news](https://news.stonybrook.edu/newsroom/taking-a-glob
 
 ## Twitter Thread
 
+```{=html}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">ICYMI. New paper in <a href="https://twitter.com/NatureWaterJnl?ref_src=twsrc%5Etfw">@NatureWaterJnl</a> led by <a href="https://twitter.com/hashtag/YueQin?src=hash&amp;ref_src=twsrc%5Etfw">#YueQin</a> builds a global unit-level framework to investigate the CO2 and energy penalty due to dry cooling and reveal the critical link between water scarcity, climate change, and energy security<br><br>Full-text: <a href="https://t.co/9axk9YdK9d">https://t.co/9axk9YdK9d</a> <a href="https://t.co/2HVSdZDbww">pic.twitter.com/2HVSdZDbww</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1693955754322002081?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 <!--Include social share buttons-->
 

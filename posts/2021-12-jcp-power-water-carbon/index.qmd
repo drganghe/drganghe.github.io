@@ -55,7 +55,9 @@ Self-archiving [pdf](/files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf)
 
 ## Twitter Thread
 
+```{=html}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New paper on energy-water nexus: Long-term transition of China’s power sector under carbon neutrality target and water withdrawal constraint.<br><br>With lead author Chao Zhang and coauthors Josiah Johnston, and Lijin Zhong.<br><br>Paper link: <a href="https://t.co/Ujwtk42Zmx">https://t.co/Ujwtk42Zmx</a><br><br>DM for a pdf. <a href="https://t.co/6QYrLLnWtv">pic.twitter.com/6QYrLLnWtv</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1462407719231569920?ref_src=twsrc%5Etfw">November 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 <!--Include social share buttons-->
 

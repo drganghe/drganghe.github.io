@@ -99,6 +99,7 @@ bibliography: references.bib
 
 exclude:
   - media.qmd
+  - /posts/2023-04-06-china-table-heads-he-gang-researches-the-energy-transition.qmd
 
 format:
   html:

@@ -82,7 +82,9 @@ Coverage: [E&E News](https://www.eenews.net/articles/how-bidens-made-in-america-
 
 ## Twitter Thread
 
+```{=html}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%5Etfw">@nature</a> with <a href="https://twitter.com/JohnHelveston?ref_src=twsrc%5Etfw">@JohnHelveston</a> and <a href="https://twitter.com/east_winds?ref_src=twsrc%5Etfw">@east_winds</a> on “Quantifying the cost savings of global solar photovoltaic supply chains”.<br><br>Paper: <a href="https://t.co/2DpBh4huDj">https://t.co/2DpBh4huDj</a><br><br>pdf: <a href="https://t.co/F7oPjA67LR">https://t.co/F7oPjA67LR</a> <br><br>Vis: <a href="https://t.co/a8Q306vnbq">https://t.co/a8Q306vnbq</a> <br><br>More: <a href="https://t.co/OVmdOUHIfZ">https://t.co/OVmdOUHIfZ</a> <a href="https://t.co/oFg4hGf9YK">pic.twitter.com/oFg4hGf9YK</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1585303259975061504?ref_src=twsrc%5Etfw">October 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 
 ## Poster

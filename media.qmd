@@ -16,7 +16,7 @@ listing:  #an example of listing external links
       image: /files/images/media/nature.png
       title: "China–US climate collaboration concerns as Xie and Kerry step down"
       author: Smriti Mallapaty
-      description: "Gang's quote on the importance to continue the research exchange and colloboration: “If the river freezes over, water will still flow underneath.”"
+      description: "Gang He on the importance to continue the research exchange and colloboration: “If the river freezes over, water will still flow underneath.”"
       date: "2024-03-12"
       categories: [Nature] 
 
@@ -123,7 +123,7 @@ listing:  #an example of listing external links
     - path: https://subscriber.politicopro.com/article/eenews/1059975774
       image: /files/images/media/ee-news.png
       title: "Beijing's record smog poses health nightmare as China plans 'green' energy future"
-      author: Kandy Wond
+      author: Kandy Wong
       description: "I see it as a system failure exposed in a bad weather condition, said Gang He. The government has to first figure out the sources of air pollutants in order to adopt the right measures."
       date: "2013-03-25"
       categories: [E&E News]
@@ -131,7 +131,7 @@ listing:  #an example of listing external links
     - path: https://subscriber.politicopro.com/article/eenews/1059961148
       image: /files/images/media/ee-news.png
       title: "Government conflicts could slow shale gas development"
-      author: Kandy Wond
+      author: Kandy Wong
       description: "The priorities between the central and local governments are often different, said Gang He, the top concern of the central government is energy security while economic growth matters most for local governments."
       date: "2012-05-09"
       categories: [E&E News]
@@ -139,7 +139,7 @@ listing:  #an example of listing external links
     - path: https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/
       image: /files/images/media/scientific-american.png
       title: "Beijing Emission Cuts May Underestimate Use of Coal"
-      author: Kandy Wond
+      author: Kandy Wong
       description: "It should be noted that the coal industry is gradualtly being opened to market, while the electricity industry is still highly regulated. The scattered management of energy issues within the central government makes the energy administration's mission very difficult one."
       date: "2012-05-07"
       categories: [Scientific American, E&E News]

@@ -57,7 +57,9 @@ Github [data and resources](https://github.com/drganghe/Rapid-and-Just-Coal-Tran
 
 ## Twitter Thread
 
+```{=html}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Perspective <a href="https://twitter.com/stonybrooku?ref_src=twsrc%5Etfw">@stonybrooku</a> with Dr. Lin <a href="https://twitter.com/BerkeleyLab?ref_src=twsrc%5Etfw">@BerkeleyLab</a>, <a href="https://twitter.com/WeiPeng_Pton?ref_src=twsrc%5Etfw">@WeiPeng_Pton</a>, Dr. Yang <a href="https://twitter.com/NRDC?ref_src=twsrc%5Etfw">@NRDC</a> and others in <a href="https://twitter.com/OneEarth_CP?ref_src=twsrc%5Etfw">@OneEarth_CP</a> : <br><br>Title: Enabling a rapid and just transition away from coal in China<br><br>Paper: <a href="https://t.co/m1V93ybazP">https://t.co/m1V93ybazP</a> <br>PDF: <a href="https://t.co/OZajVVgrx7">https://t.co/OZajVVgrx7</a><br>Release: <a href="https://t.co/JNgI9xJvoW">https://t.co/JNgI9xJvoW</a> <a href="https://t.co/UYrAIicsL6">pic.twitter.com/UYrAIicsL6</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1296912353917886464?ref_src=twsrc%5Etfw">August 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 ## SBU Press Release
 

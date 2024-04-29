@@ -60,7 +60,9 @@ Open access [pdf](https://www.nature.com/articles/s41467-020-16184-x.pdf)
 
 ## Twitter Thread
 
+```{=html}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’d like to share my new paper <a href="https://twitter.com/CEASSBU?ref_src=twsrc%5Etfw">@CEASSBU</a> <a href="https://twitter.com/stonybrooku?ref_src=twsrc%5Etfw">@stonybrooku</a> with colleagues <a href="https://twitter.com/BerkeleyLab?ref_src=twsrc%5Etfw">@BerkeleyLab</a> in <a href="https://twitter.com/NatureComms?ref_src=twsrc%5Etfw">@NatureComms</a> .<br><br>Title: “Rapid cost decrease of renewables and storage accelerates the decarbonization of China’s power system”.<br><br>Paper: <a href="https://t.co/ztHzSw572S">https://t.co/ztHzSw572S</a><br><br>PDF: <a href="https://t.co/MwTB27EicM">https://t.co/MwTB27EicM</a> <a href="https://t.co/DFihF3BmD5">pic.twitter.com/DFihF3BmD5</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1266101281472622603?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 ## SBU Press Release
 
