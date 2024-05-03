@@ -144,7 +144,7 @@ listing:  #an example of listing external links
       date: "2012-05-07"
       categories: [Scientific American, E&E News]
 
-    - path: https://news.nationalgeographic.com/news/energy/2011/10/111020-coal-port-pacific-northwest/
+    - path: https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest
       image: /files/images/media/national-geographic.png
       title: "Seeking a Pacific Northwest Gateway for U.S. Coal"
       author: Stacey Schultz

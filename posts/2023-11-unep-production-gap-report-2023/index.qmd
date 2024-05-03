@@ -23,9 +23,9 @@ css: /custom.css
 
 ## Links
 
-Check UNEP official [release](https://www.unep.org/news-and-stories/press-release/governments-plan-produce-double-fossil-fuels-2030-15degc-warming). 
+Check UNEP official [release](https://www.unep.org/news-and-stories/press-release/governments-plan-produce-double-fossil-fuels-2030-15degc-warming){.external target="_blank"}. 
 
-[Production Gap Report 2023](https://productiongap.org/2023report/)
+[Production Gap Report 2023](https://productiongap.org/2023report/){.external target="_blank"}
 
 
 ## Key messages

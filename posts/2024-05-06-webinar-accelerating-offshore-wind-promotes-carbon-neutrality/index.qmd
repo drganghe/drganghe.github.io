@@ -38,7 +38,7 @@ Join this webinar to find out more about our preliminary results, presented by L
 
 ## Webinar Link
 
-LBL [Event](https://emp.lbl.gov/news/research-webinar-accelerating-offshore-wind-development-enhances-energy-security-and)
+LBL [Event](https://emp.lbl.gov/news/research-webinar-accelerating-offshore-wind-development-enhances-energy-security-and){.external target="_blank"}
 
 
 <!--Include social share buttons-->

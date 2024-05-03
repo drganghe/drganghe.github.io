@@ -50,7 +50,7 @@
 </section>
 <section id="webinar-link" class="level2">
 <h2 class="anchored" data-anchor-id="webinar-link">Webinar Link</h2>
-<p>LBL <a href="https://emp.lbl.gov/news/research-webinar-accelerating-offshore-wind-development-enhances-energy-security-and">Event</a></p>
+<p>LBL <a href="https://emp.lbl.gov/news/research-webinar-accelerating-offshore-wind-development-enhances-energy-security-and" class="external" target="_blank">Event</a></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -218,7 +218,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail email">'
 </section>
 <section id="learn-more" class="level2">
 <h2 class="anchored" data-anchor-id="learn-more">Learn more</h2>
-<p><a href="https://www.sciencedirect.com/journal/the-electricity-journal/about/call-for-papers#achieving-carbon-neutrality-in-china-s-power-sector">Call for Papers: Achieving Carbon Neutrality in China’s Power Sector</a></p>
+<p><a href="https://www.sciencedirect.com/journal/the-electricity-journal/about/call-for-papers#achieving-carbon-neutrality-in-china-s-power-sector" class="external" target="_blank">Call for Papers: Achieving Carbon Neutrality in China’s Power Sector</a></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -279,7 +279,7 @@ https://quarto.org/docs/authoring/includes.html
 <p>In crafting a just, resilient, and sustainable framework, it is crucial to consider the social and environmental impact of the supply chain at every stage. This includes the extraction of raw materials, manufacturing processes, transportation, distribution, installation, operation, and end-of-life disposal. Transparency and standards can ensure accountability and enable consumers, investors, and policymakers to make informed decisions that align with ethical and sustainability considerations.</p>
 <p>Furthermore, a just framework should prioritize the empowerment of local communities and workers involved in the clean energy supply chain. This involves fostering skill development, creating job opportunities, and ensuring fair wages and working conditions. Community engagement should be a cornerstone of supply chain and clean energy investments and projects, allowing local residents to actively participate in decision-making processes and share the benefits of renewable energy development.</p>
 <p>In conclusion, the global clean energy supply chain stands at a critical intersection of immense benefits and pressing challenges. While it is a linchpin for achieving global climate goals, its vulnerabilities to disruptions, geopolitical tensions, and unequal distribution of costs and benefits cannot be ignored. Creating a just, resilient, and sustainable framework for the clean energy supply chain is not only an ethical imperative but also a pragmatic necessity. By doing so, we can ensure that the benefits of renewable energy are realized globally, leaving no one behind in the clean energy transition to achieve climate goals.</p>
-<p>Check the original post at <a href="https://www.climateworks.org/blog/advancing-a-just-resilient-and-sustainable-clean-energy-supply-chain/">ClimateWorks Foundation</a>, and the Chinese version <a href="https://mp.weixin.qq.com/s/7x4g4fygk_XCAjNGvO5pEg">here</a>.</p>
+<p>Check the original post at <a href="https://www.climateworks.org/blog/advancing-a-just-resilient-and-sustainable-clean-energy-supply-chain/" class="external" target="_blank">ClimateWorks Foundation</a>, and the Chinese version <a href="https://mp.weixin.qq.com/s/7x4g4fygk_XCAjNGvO5pEg" class="external" target="_blank">here</a>.</p>
 <section id="references" class="level3">
 <h3 class="anchored" data-anchor-id="references">References</h3>
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
@@ -412,8 +412,8 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Check UNEP official <a href="https://www.unep.org/news-and-stories/press-release/governments-plan-produce-double-fossil-fuels-2030-15degc-warming">release</a>.</p>
-<p><a href="https://productiongap.org/2023report/">Production Gap Report 2023</a></p>
+<p>Check UNEP official <a href="https://www.unep.org/news-and-stories/press-release/governments-plan-produce-double-fossil-fuels-2030-15degc-warming" class="external" target="_blank">release</a>.</p>
+<p><a href="https://productiongap.org/2023report/" class="external" target="_blank">Production Gap Report 2023</a></p>
 </section>
 <section id="key-messages" class="level2">
 <h2 class="anchored" data-anchor-id="key-messages">Key messages</h2>
