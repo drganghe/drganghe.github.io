@@ -45,6 +45,8 @@ css: /custom.css
 
 
 ### LinkedIn
+
+```{=html}
 <style>
   /* Style for screens with a width less than 550px */
   @media (max-width: 550px) {
@@ -55,10 +57,13 @@ css: /custom.css
   }
 </style>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7008437031106191362" height="1255" width="550" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
+```
 
 ### Twitter 
+
+```{=html}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A semester&#39;s effort to open my &quot;Energy Systems Analysis&quot; class.<br><br>15 Lectures, covering overview, economics, technologies, climate, power, transition, efficiency, access, justice, AI and big data, limitations ...<br><br>5 Real-world assignments.<br><br>And more:<a href="https://t.co/hK3uM7tik5">https://t.co/hK3uM7tik5</a> <a href="https://t.co/enxLzoS3HE">https://t.co/enxLzoS3HE</a> <a href="https://t.co/1r88HtOBRW">pic.twitter.com/1r88HtOBRW</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1602652144561274881?ref_src=twsrc%5Etfw">December 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 Many students do not have access to high-quality learning material in energy and climate change, especially in the underserved communities. If you like this work, you can help those in need to access the open-source course by spreading the word. 
 

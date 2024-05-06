@@ -46,6 +46,22 @@ listing:  #an example of listing external links
       date: "2022-04-20"
       categories: [Nikkei Asia]
 
+    - path: https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/
+      image: /files/images/media/carbon-brief.png
+      title: "Analysis: What does China’s coal push mean for its climate goals?"
+      author: Xiaoying You  
+      description: "Dr. He tells Carbon Brief that China has made clear its long-term climate pledges, but “when and at what scale” China peaks its emissions will have a “large” impact on how it and the world would achieve carbon neutrality."
+      date: "2022-03-29"
+      categories: [Carbon Brief]
+
+    - path: https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/
+      image: /files/images/media/carbon-brief.png
+      title: "New energy transition guidance; Five coal plants approved; Energy-efficiency targets raised"
+      author: Carbon Brief Staff  
+      description: "Gang He told Carbon Brief: “There are other and better options: renewables are achieving grid parity which could accelerate a renewable-dominant pathway. Such a pathway is both technically feasible and economically beneficial to China’s development.”"
+      date: "2022-02-17"
+      categories: [Carbon Brief]
+
     - path: https://www.nature.com/articles/d41586-021-03491-6
       image: /files/images/media/nature.png
       title: "China creates vast research infrastructure to support ambitious climate goals"
