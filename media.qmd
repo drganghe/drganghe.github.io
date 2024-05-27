@@ -30,6 +30,15 @@ listing:  #an example of listing external links
       date: "2023-11-16"
       categories: [Scientific American, E&E News]  
 
+    - path: https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/
+      image: /files/images/media/foreign-policy.png
+      title: "Can the U.S. and China Cooperate on Green Technology Again?"
+      author: 
+        - Lili Pike
+      description: "A study published in Nature last year found that if the United States, Germany, and China all decided to shift to fully domestic solar production starting in 2020, by 2030 global solar costs would be 20 percent to 30 percent higher."
+      date: "2023-09-21"
+      categories: [Foreign Policy]  
+
     - path: https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/
       image: /files/images/media/ee-news.png
       title: "How Biden’s made-in-America solar strategy may backfire"
