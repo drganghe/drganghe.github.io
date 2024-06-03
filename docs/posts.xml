@@ -15,7 +15,93 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.5.31</generator>
-<lastBuildDate>Mon, 06 May 2024 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 May 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Teaching Program Evaluation</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/posts/2024-06-teaching-program-evaluation/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://drganghe.github.io/program-evaluation/"><img src="https://drganghe.github.io/posts/2024-06-teaching-program-evaluation/nyc-is-your-classroom.jpeg" class="img-fluid figure-img" alt="NYC is our classroom"></a></p>
+<figcaption>NYC is our classroom</figcaption>
+</figure>
+</div>
+<p>I had the pleasure to teach the EMPA class Program Evaluation with Professor Samantha MacBride in Spring 2024. The goal of the class is to enable the students to do “sensible evaluation at reasonable costs”. Below is the teaching material for the class.</p>
+<section id="course-link" class="level2">
+<h2 class="anchored" data-anchor-id="course-link">Course Link</h2>
+<p><a href="https://drganghe.github.io/program-evaluation/" target="_blank">https://drganghe.github.io/program-evaluation/</a></p>
+</section>
+<section id="lectures" class="level2">
+<h2 class="anchored" data-anchor-id="lectures">Lectures</h2>
+<ul>
+<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture1.html" target="_blank">Introduction and Overview</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture2.html" target="_blank">Goals and Types of Evaluation</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture3.html" target="_blank">Logic and Causal Models</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture4.html" target="_blank">Stakeholder Engagement</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture5.html" target="_blank">Evaluation Designs</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture6.html" target="_blank">Data Collection</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture7.html" target="_blank">Data Analysis</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture8.html" target="_blank">Economic Evaluation and Performance Measurement</a><br>
+</li>
+<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture9.html" target="_blank">Ethics, Principles, and Standards</a></li>
+</ul>
+</section>
+<section id="stories" class="level2">
+<h2 class="anchored" data-anchor-id="stories">Stories</h2>
+<ul>
+<li><a href="https://drganghe.github.io/program-evaluation/stories/john-snow-and-evidence-based-analysis.html" target="_blank">John Snow</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/stories/high-line-park.html" target="_blank">High Line Park</a><br>
+</li>
+<li><a href="https://drganghe.github.io/program-evaluation/stories/bombing-heating-and-causal-models.html" target="_blank">Bombing, Heating, and Causal Models</a><br>
+</li>
+<li><a href="https://drganghe.github.io/program-evaluation/stories/john-muir-and-national-park.html" target="_blank">John Muir and National Park System</a><br>
+</li>
+<li><a href="https://drganghe.github.io/program-evaluation/stories/esther-duflo-and-rcts.html" target="_blank">Esther Duflo and RCTs</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/stories/feifei-li-imagenet-and-ai-revolution.html" target="_blank">Fei-fei Li and ImageNet</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/stories/hans-rosling-data-visualization-and-storystelling.html" target="_blank">Hans Rosling and Storytelling</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/stories/robert-bullard-and-environmental-justice.html" target="_blank">Robert Bullard and Environmental Justice</a></li>
+<li><a href="https://drganghe.github.io/program-evaluation/stories/the-moral-machine-and-ethics.html" target="_blank">The Moral Machine</a></li>
+</ul>
+</section>
+<section id="case-studies" class="level2">
+<h2 class="anchored" data-anchor-id="case-studies">Case studies</h2>
+<ul>
+<li>Case 1: Northwest Housing Alternatives</li>
+<li>Case 2: Jobs Plus in NYC</li>
+<li>Case 3: ARPA-E</li>
+<li>Case 4: NYC Gifted &amp; Talented Program</li>
+<li>Case 5: CBA of EPA Clean Air Act</li>
+</ul>
+</section>
+<section id="program-evaluation-mindmap" class="level2">
+<h2 class="anchored" data-anchor-id="program-evaluation-mindmap">Program evaluation mindmap</h2>
+<iframe width="800" height="800" src="https://drganghe.github.io/program-evaluation/lectures/program-evaluation-markmap.html" title="Program Evaluation Mindmap">
+</iframe>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://drganghe.github.io/posts/2024-06-teaching-program-evaluation/</guid>
+  <pubDate>Sat, 18 May 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2024-06-teaching-program-evaluation/nyc-is-your-classroom.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Research Webinar: Accelerating offshore wind development enhances energy security and promotes carbon neutrality in China’s coastal regions</title>
   <dc:creator>LBL ETA</dc:creator>
@@ -1608,88 +1694,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2022-04-nikkei-nuclear-delemma/</guid>
   <pubDate>Wed, 20 Apr 2022 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2022-04-nikkei-nuclear-delemma/featured.png" medium="image" type="image/png" height="78" width="144"/>
-</item>
-<item>
-  <title>Modeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization</title>
-  <dc:creator>Bo Li</dc:creator>
-  <dc:creator>Minyou Chen</dc:creator>
-  <dc:creator>Ziming Ma</dc:creator>
-  <dc:creator>Gang He</dc:creator>
-  <dc:creator>Wei Dai</dc:creator>
-  <dc:creator>Dongran Liu</dc:creator>
-  <dc:creator>Chi Zhang</dc:creator>
-  <dc:creator>Haiwang Zhong</dc:creator>
-  <link>https://drganghe.github.io/posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Paper
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Modeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization<br>
-Bo Li, Minyou Chen*, Ziming Ma, <strong>Gang He</strong>, Wei Dai, Dongran Liu, Chi Zhang, and Haiwang Zhong<br>
-<em>IEEE Transactions on Industry Applications</em> (2022)<br>
-DOI: <a href="https://doi.org/10.1109/TIA.2021.3116916">10.1109/TIA.2021.3116916</a></p>
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>The deployment of renewable energy sources, power-to-gas (P2G) systems, and zero-emission vehicles provide a synergistic opportunity to accelerate the decarbonization of both power and transportation system. This article investigates the prospects of implementing hydrogen P2G technology in coupling the power system and the transportation system. A novel coordinated long-term planning model of integrated power and transportation system (IPTS) at the regional scale is proposed to simulate the power system balance and travel demand balance simultaneously, while subject to a series of constraints, such as CO2 emission constraints. IPTS of Texas was investigated considering various CO2 emission cap scenarios. Results show unique decarbonization trajectories of the proposed coordinated planning model, in which IPTS prefers to decarbonizing the power sector firstly. When the power system reaches ultralow carbon intensity, the IPTS then focuses on the road transportation system decarbonization. The results show that with the P2G system, IPTS of Texas could achieve 100% CO2 emission reductions (relative 2018 emissions level) by adding a combination of approximately 143.5 GW of wind, 50 GW of solar PV, and 40 GW of P2G systems with 2.5% renewables curtailment. The integration of the P2G system can produce hydrogen by use of surplus RES generation to meet hydrogen demand of Fuel cell electric vehicles (FCEVs) and to meet multiday electricity supply imbalances.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://ieeexplore.ieee.org/document/9555251">paper</a></p>
-<p>Self-archiving <a href="../../files/papers/2022-IEEE-ModelingIntegratedPowerAndTransportationSystems.pdf">pdf</a></p>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TIA.2021.3116916" data-hide-zero-citations="true" data-style="small_circle"></span>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{li2022,
-  author = {Li, Bo and Chen, Minyou and Ma, Ziming and He, Gang and Dai,
-    Wei and Liu, Dongran and Zhang, Chi and Zhong, Haiwang},
-  title = {Modeling {Integrated} {Power} and {Transportation} {Systems:}
-    {Impacts} of {Power-to-Gas} on the {Deep} {Decarbonization}},
-  journal = {IEEE Transactions on Industry Applications},
-  volume = {58},
-  number = {2},
-  pages = {2677-2693},
-  date = {2022-04-15},
-  url = {https://ieeexplore.ieee.org/document/9555251},
-  doi = {10.1109/TIA.2021.3116916},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-li2022" class="csl-entry quarto-appendix-citeas">
-Li, Bo, Minyou Chen, Ziming Ma, Gang He, Wei Dai, Dongran Liu, Chi
-Zhang, and Haiwang Zhong. 2022. <span>“Modeling Integrated Power and
-Transportation Systems: Impacts of Power-to-Gas on the Deep
-Decarbonization.”</span> <em>IEEE Transactions on Industry Applications
-</em> 58 (2): 2677–93. <a href="https://doi.org/10.1109/TIA.2021.3116916">https://doi.org/10.1109/TIA.2021.3116916</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/</guid>
-  <pubDate>Fri, 15 Apr 2022 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/featured.png" medium="image" type="image/png" height="63" width="144"/>
 </item>
 </channel>
 </rss>
