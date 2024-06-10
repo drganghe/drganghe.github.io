@@ -58,6 +58,7 @@ I had the pleasure to teach the EMPA class Program Evaluation with Professor Sam
 
 <iframe width="800" height="800" src="https://drganghe.github.io/program-evaluation/lectures/program-evaluation-markmap.html" title="Program Evaluation Mindmap"></iframe>
 
+Open the mindmap in a new [tab](https://drganghe.github.io/program-evaluation/lectures/program-evaluation-markmap.html), or [download](program-evaluation-mindmap.png) the mindmap.
 
 <!--Include social share buttons-->
 
