@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gang He">
-<meta name="dcterms.date" content="2024-05-18">
+<meta name="dcterms.date" content="2024-06-24">
 <meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
 
-<title>Dr. Gang He – Teaching Program Evaluation</title>
+<title>Dr. Gang He – U.S.-China Working Group on Enhancing Climate Action in the 2020s</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,7 +23,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -33,6 +53,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,6 +90,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-uschina .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-uschina'] = new List('listing-uschina', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4DYZHP5J7"></script>
 
 <script type="text/javascript">
@@ -78,16 +129,45 @@ gtag('js', new Date());
 gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 <link rel="stylesheet" href="../../custom.css">
-<meta property="og:title" content="Dr.&nbsp;Gang He - Teaching Program Evaluation">
-<meta property="og:description" content="Lectures, stories, and case studies on Program Evaluation.">
-<meta property="og:image" content="https://drganghe.github.io/posts/2024-06-teaching-program-evaluation/nyc-is-your-classroom.jpeg">
+<meta property="og:title" content="Dr.&nbsp;Gang He - U.S.-China Working Group on Enhancing Climate Action in the 2020s">
+<meta property="og:description" content="Gang is invited to participate as an external expert in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s">
+<meta property="og:image" content="https://drganghe.github.io/files/images/handshake-sculpture.JPG">
 <meta property="og:site_name" content="Dr. Gang He">
-<meta name="twitter:title" content="Dr.&nbsp;Gang He - Teaching Program Evaluation">
-<meta name="twitter:description" content="Lectures, stories, and case studies on Program Evaluation.">
-<meta name="twitter:image" content="https://drganghe.github.io/posts/2024-06-teaching-program-evaluation/nyc-is-your-classroom.jpeg">
+<meta name="twitter:title" content="Dr.&nbsp;Gang He - U.S.-China Working Group on Enhancing Climate Action in the 2020s">
+<meta name="twitter:description" content="Gang is invited to participate as an external expert in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s">
+<meta name="twitter:image" content="https://drganghe.github.io/files/images/handshake-sculpture.JPG">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -208,11 +288,13 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#course-link" id="toc-course-link" class="nav-link active" data-scroll-target="#course-link">Course Link</a></li>
-  <li><a href="#lectures" id="toc-lectures" class="nav-link" data-scroll-target="#lectures">Lectures</a></li>
-  <li><a href="#stories" id="toc-stories" class="nav-link" data-scroll-target="#stories">Stories</a></li>
-  <li><a href="#case-studies" id="toc-case-studies" class="nav-link" data-scroll-target="#case-studies">Case studies</a></li>
-  <li><a href="#program-evaluation-mindmap" id="toc-program-evaluation-mindmap" class="nav-link" data-scroll-target="#program-evaluation-mindmap">Program evaluation mindmap</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link active" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#highlighted-research" id="toc-highlighted-research" class="nav-link" data-scroll-target="#highlighted-research">Highlighted research</a></li>
+  <li><a href="#previous-efforts-in-u.s.-china-collaboration-on-energy-and-climate" id="toc-previous-efforts-in-u.s.-china-collaboration-on-energy-and-climate" class="nav-link" data-scroll-target="#previous-efforts-in-u.s.-china-collaboration-on-energy-and-climate">Previous efforts in U.S.-China collaboration on energy and climate</a></li>
+  <li><a href="#learn-more" id="toc-learn-more" class="nav-link" data-scroll-target="#learn-more">Learn more</a>
+  <ul class="collapse">
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -221,7 +303,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Teaching Program Evaluation</h1>
+<h1 class="title">U.S.-China Working Group on Enhancing Climate Action in the 2020s</h1>
   <div class="quarto-categories">
     <div class="quarto-category">news</div>
   </div>
@@ -229,7 +311,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 
 <div>
   <div class="description">
-    Lectures, stories, and case studies on Program Evaluation.
+    Gang is invited to participate as an external expert in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s
   </div>
 </div>
 
@@ -246,7 +328,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">May 18, 2024</p>
+      <p class="date">June 24, 2024</p>
     </div>
   </div>
   
@@ -260,62 +342,160 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://drganghe.github.io/program-evaluation/"><img src="nyc-is-your-classroom.jpeg" class="img-fluid figure-img" alt="NYC is our classroom"></a></p>
-<figcaption>NYC is our classroom</figcaption>
+<p><img src="../../files/images/handshake-sculpture.JPG" class="img-fluid figure-img"></p>
+<figcaption>U.S.-China Collaborations</figcaption>
 </figure>
 </div>
-<p>I had the pleasure to teach the EMPA class Program Evaluation with Professor Samantha MacBride in Spring 2024. The goal of the class is to enable the students to do “sensible evaluation at reasonable costs”. Below is the teaching material for the class.</p>
-<section id="course-link" class="level2">
-<h2 class="anchored" data-anchor-id="course-link">Course Link</h2>
-<p><a href="https://drganghe.github.io/program-evaluation/" target="_blank">https://drganghe.github.io/program-evaluation/</a></p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>I have been invited to participate as an external expert in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s, which is co-led by Senior Advisor to the President for International Climate Policy John Podesta and China’s Special Envoy for Climate Change Liu Zhenmin and includes relevant officials from the two countries.</p>
+<p>As part of this sub-working group, I’ll be collaborating with experts from both the U.S. and China to conduct analysis on ensuring resource adequacy while rapidly integrating low and zero-emission energy sources to aid in the electricity sector transition. We will be meeting periodically to exchange analytical approaches, share preliminary results, and strive to reach a consensus where possible. We will present our findings to the subgroup.</p>
+<p>I’m looking forward to contributing to this important initiative.</p>
 </section>
-<section id="lectures" class="level2">
-<h2 class="anchored" data-anchor-id="lectures">Lectures</h2>
+<section id="highlighted-research" class="level2">
+<h2 class="anchored" data-anchor-id="highlighted-research">Highlighted research</h2>
+<div id="listing-uschina" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-categories="news,event,slides,video" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1710965585622" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
+<a href="../../posts/2023-11-switch-china-open-model/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="../../posts/2023-11-switch-china-open-model/featured.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+SWITCH-China: Open Source Model for the World Largest Power System
+</h5>
+<div class="card-text listing-description">
+Open model to study China’s clean power transition
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+SWITCH China
+</div>
+<div class="listing-date">
+Nov 13, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="paper,poster,slides" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1716806174528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3578">
+<a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Quantifying the cost savings of global solar photovoltaic supply chains
+</h5>
+<div class="card-text listing-description">
+Globalized supply chain has saved solar installers in the U.S., Germany…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+John Paul Helveston, Gang He, Michael R. Davidson
+</div>
+<div class="listing-date">
+Oct 26, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="paper" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1714309892688" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="851">
+<a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="../../posts/2020-05-ncomms-rapid-re-cost/featured.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System
+</h5>
+<div class="card-text listing-description">
+A renewable dominant pathway is not just technogical sound, but also cost…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Gang He, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, Amol Phadke
+</div>
+<div class="listing-date">
+May 15, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="paper" data-listing-date-sort="1421298000000" data-listing-file-modified-sort="1710965585568" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
+<a href="../../posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="../../posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ELITE cities: A low-carbon eco-city evaluation tool for China
+</h5>
+<div class="card-text listing-description">
+ELITE Cities is an Excel-based tool that measures city low-carbon…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Nan Zhou, Gang He, Christopher Williams, David Fridley
+</div>
+<div class="listing-date">
+Jan 15, 2015
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="uschina-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div>
+</section>
+<section id="previous-efforts-in-u.s.-china-collaboration-on-energy-and-climate" class="level2">
+<h2 class="anchored" data-anchor-id="previous-efforts-in-u.s.-china-collaboration-on-energy-and-climate">Previous efforts in U.S.-China collaboration on energy and climate</h2>
+<p>Central to my research ethos is the belief in the power of collaboration to enable transformative change. As the world’s top carbon emitters, China and the U.S. stand at the forefront of the climate challenge. Leveraging my engagement with the Asia Society, I’ve contributed to fostering dialogue to promote cooperation between these two nations, evidenced in a series of reports:</p>
 <ul>
-<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture1.html" target="_blank">Introduction and Overview</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture2.html" target="_blank">Goals and Types of Evaluation</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture3.html" target="_blank">Logic and Causal Models</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture4.html" target="_blank">Stakeholder Engagement</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture5.html" target="_blank">Evaluation Designs</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture6.html" target="_blank">Data Collection</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture7.html" target="_blank">Data Analysis</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture8.html" target="_blank">Economic Evaluation and Performance Measurement</a><br>
+<li>“<a href="https://asiasociety.org/center-us-china-relations/common-challenge-collaborative-response-roadmap-us-china-cooperation-energy-and-climate-change">Common Challenge, Collaborative Response: A Roadmap for U.S.-China Cooperation on Energy and Climate Change</a>” <span class="citation" data-cites="asia_society_common_2009">(<a href="#ref-asia_society_common_2009" role="doc-biblioref">Asia Society and C2ES 2009</a>)</span><br>
 </li>
-<li><a href="https://drganghe.github.io/program-evaluation/lectures/lecture9.html" target="_blank">Ethics, Principles, and Standards</a></li>
+<li>“<a href="https://asiasociety.org/center-us-china-relations/roadmap-us-china-collaboration-carbon-capture-and-sequestration">A Roadmap for U.S.-China Collaboration on Carbon Capture and Sequestration</a>” <span class="citation" data-cites="asia_society_roadmap_2009">(<a href="#ref-asia_society_roadmap_2009" role="doc-biblioref">Asia Society 2009</a>)</span><br>
+</li>
+<li>“<a href="https://asiasociety.org/center-us-china-relations/vital-partnership-california-and-china-collaborating-clean-energy-and-comb">A Vital Partnership: California and China Collaborating on Clean Energy and Combating Climate Change</a>” <span class="citation" data-cites="asia_society_vital_2014">(<a href="#ref-asia_society_vital_2014" role="doc-biblioref">Asia Society 2014</a>)</span></li>
 </ul>
+<p>I served as a student volunteer for the first report, then as a consulting expert for the second report, and as a contributing author for the third report. Those reports mark the enormous efforts to bring the two nations to work together, while also reflecting the growth of my career.</p>
 </section>
-<section id="stories" class="level2">
-<h2 class="anchored" data-anchor-id="stories">Stories</h2>
-<ul>
-<li><a href="https://drganghe.github.io/program-evaluation/stories/john-snow-and-evidence-based-analysis.html" target="_blank">John Snow</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/stories/high-line-park.html" target="_blank">High Line Park</a><br>
-</li>
-<li><a href="https://drganghe.github.io/program-evaluation/stories/bombing-heating-and-causal-models.html" target="_blank">Bombing, Heating, and Causal Models</a><br>
-</li>
-<li><a href="https://drganghe.github.io/program-evaluation/stories/john-muir-and-national-park.html" target="_blank">John Muir and National Park System</a><br>
-</li>
-<li><a href="https://drganghe.github.io/program-evaluation/stories/esther-duflo-and-rcts.html" target="_blank">Esther Duflo and RCTs</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/stories/feifei-li-imagenet-and-ai-revolution.html" target="_blank">Fei-fei Li and ImageNet</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/stories/hans-rosling-data-visualization-and-storystelling.html" target="_blank">Hans Rosling and Storytelling</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/stories/robert-bullard-and-environmental-justice.html" target="_blank">Robert Bullard and Environmental Justice</a></li>
-<li><a href="https://drganghe.github.io/program-evaluation/stories/the-moral-machine-and-ethics.html" target="_blank">The Moral Machine</a></li>
-</ul>
-</section>
-<section id="case-studies" class="level2">
-<h2 class="anchored" data-anchor-id="case-studies">Case studies</h2>
-<ul>
-<li>Case 1: Northwest Housing Alternatives</li>
-<li>Case 2: Jobs Plus in NYC</li>
-<li>Case 3: ARPA-E</li>
-<li>Case 4: NYC Gifted &amp; Talented Program</li>
-<li>Case 5: CBA of EPA Clean Air Act</li>
-</ul>
-</section>
-<section id="program-evaluation-mindmap" class="level2">
-<h2 class="anchored" data-anchor-id="program-evaluation-mindmap">Program evaluation mindmap</h2>
-<iframe width="800" height="800" src="https://drganghe.github.io/program-evaluation/lectures/program-evaluation-markmap.html" title="Program Evaluation Mindmap">
-</iframe>
-<p>Open the mindmap in a new <a href="https://drganghe.github.io/program-evaluation/lectures/program-evaluation-markmap.html">tab</a>, or <a href="program-evaluation-mindmap.png">download</a> the mindmap.</p>
+<section id="learn-more" class="level2">
+<h2 class="anchored" data-anchor-id="learn-more">Learn more</h2>
+<blockquote class="blockquote">
+<p>The two sides intend to establish a “Working Group on Enhancing Climate Action in the 2020s,” which will meet regularly to address the climate crisis and advance the multilateral process, focusing on enhancing concrete actions in this decade. This may include, inter alia, continued policy and technical exchanges, identification of programs and projects in areas of mutual interest, meetings of governmental and non-governmental experts, facilitating participation by local governments, enterprises, think tanks, academics, and other experts, exchanging updates on their respective national efforts, considering the need for additional efforts, and reviewing the implementation of the Joint Statement and this Joint Declaration.</p>
+</blockquote>
+<p><a href="https://www.state.gov/u-s-china-joint-glasgow-declaration-on-enhancing-climate-action-in-the-2020s/">U.S.-China Joint Glasgow Declaration on Enhancing Climate Action in the 2020s</a>, November 10, 2021.</p>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-asia_society_roadmap_2009" class="csl-entry" role="listitem">
+Asia Society. 2009. <span>“A <span>Roadmap</span> for <span>U</span>.<span>S</span>.-<span>China</span> <span>Collaboration</span> on <span>Carbon</span> <span>Capture</span> and <span>Sequestration</span>.”</span> Asia Society, Center for American Progress, Monitor. <a href="https://asiasociety.org/center-us-china-relations/roadmap-us-china-collaboration-carbon-capture-and-sequestration">https://asiasociety.org/center-us-china-relations/roadmap-us-china-collaboration-carbon-capture-and-sequestration</a>.
+</div>
+<div id="ref-asia_society_vital_2014" class="csl-entry" role="listitem">
+———. 2014. <span>“A <span>Vital</span> <span>Partnership</span>: <span>California</span> and <span>China</span> <span>Collaborating</span> on <span>Clean</span> <span>Energy</span> and <span>Combating</span> <span>Climate</span> <span>Change</span>.”</span> Asia Society. <a href="https://asiasociety.org/center-us-china-relations/vital-partnership-california-and-china-collaborating-clean-energy-and-comb">https://asiasociety.org/center-us-china-relations/vital-partnership-california-and-china-collaborating-clean-energy-and-comb</a>.
+</div>
+<div id="ref-asia_society_common_2009" class="csl-entry" role="listitem">
+Asia Society, and C2ES. 2009. <span>“Common <span>Challenge</span>, <span>Collaborative</span> <span>Response</span>: <span>A</span> <span>Roadmap</span> for <span>U</span>.<span>S</span>.-<span>China</span> <span>Cooperation</span> on <span>Energy</span> and <span>Climate</span> <span>Change</span>.”</span> Asia Society, Center for Climate; Energy Solutions. <a href="https://asiasociety.org/center-us-china-relations/common-challenge-collaborative-response-roadmap-us-china-cooperation">https://asiasociety.org/center-us-china-relations/common-challenge-collaborative-response-roadmap-us-china-cooperation</a>.
+</div>
+</div>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -328,6 +508,8 @@ https://quarto.org/docs/authoring/includes.html
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
+
+</section>
 </section>
 
 </main> <!-- /main -->
