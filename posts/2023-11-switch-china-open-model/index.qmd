@@ -1,5 +1,5 @@
 ---
-title: "SWITCH-China: Open Source Model for the World Largest Power System"
+title: "SWITCH-China: Open Source Model for the World's Largest Power System"
 description: "Open model to study China's clean power transition"
 author: "SWITCH China"
 date: "2023-11-13"

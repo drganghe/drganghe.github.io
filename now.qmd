@@ -70,11 +70,11 @@ My group would be happy to contribute on
 ## Teaching
 
 
-Fall semesters 
+Fall Semester: 
 
 - PAF 9199 [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy) 
 
-Spring semesters
+Spring Semester:
 
 - PAF 4199 [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society) 
 - PAF 9174 [Program Evaluation](https://drganghe.github.io/program-evaluation) 

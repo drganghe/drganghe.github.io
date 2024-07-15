@@ -14,7 +14,7 @@ listing:
         - "../2023-11-switch-china-open-model/index.qmd"
         - "../2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd"
         - "../2020-05-ncomms-rapid-re-cost/index.qmd"
-        - "../2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.qmd"
+        - "../2021-12-jcp-power-water-carbon/index.qmd"
     type: grid
     max-items: 4
     grid-columns: 2
@@ -37,10 +37,13 @@ As part of this sub-working group, I’ll be collaborating with experts from bot
 I’m looking forward to contributing to this important initiative.
 
 
-## Highlighted research
+## Highlighted relevant work
 
 :::{#uschina}
 :::
+
+<p align="right">[Other papers »](/posts.qmd#category=paper)</p>
+
 
 ## Previous efforts in U.S.-China collaboration on energy and climate
 
