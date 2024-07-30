@@ -1,0 +1,51 @@
+---
+title: "Workshop on Open Modeling Carbon Neutrality of the Power Sector"
+description: "Deveoping a community to enable open and safe modeling and data sharing"
+author: "Gang He"
+date: "2024-07-19"
+categories: [news, event]
+image: "featured.png"
+css: /custom.css
+#draft: true
+
+listing:
+  - id: power-sector
+    contents: 
+        - "../2023-11-switch-china-open-model/index.qmd"
+        - "../2024-01-special-issue-china-power-system-carbon-neutrality/index.qmd"
+    type: grid
+    max-items: 4
+    grid-columns: 2
+    page-size: 0 #set as 0 will remove the page setting
+    fields: [image, date, title, author, description]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+## Background
+ 
+Achieving China’s ambitious long-term climate goals will require fundamental transformations to the power sector. Many techno-economic uncertainties remain which will shape the pace and structure of this trajectory, including the costs of alternative energies, demand growth and electrification, flexibility of conventional generators, and deployment of firm low-carbon resources. In addition, policy evolution in the power sector, including provincial and regional electricity market developments and inter-provincial coordination, will have a large impact on which resources are selected and how they are operated. Open modeling efforts have been engaging with more open-source datasets, which if properly validated could provide a common framework for understanding the key features driving system evolution.
+ 
+## Objectives
+- Map the public domain scholarship on China’s power sector modeling in terms of models, data, and assumptions
+-	Identify the set of assumptions (and their ranges) that have the largest impact on mid-century (2050/2060) outcomes across power sector models
+- Catalog open-source datasets as well as data processed from open sources used in power sector models, including sources, coverage and validation
+- Scope a research agenda for key unanswered questions regarding China’s power sector evolution
+
+## Summary
+
+I have co-organizied the "Workshop on Open Modeling Carbon Neutrality of the Power Sector" with Dr. Jiang Lin and Dr. Michael Davidson. The workshop was successfully held from July 19 to 20, 2024 at 241 Giannini Hall, University of California, Berkeley. Fifteen participants, including organizers and guests, joined in person, four participants joined via Zoom. Seven power system modeling teams, from both in the U.S. and China, presenting their modeling results. Dean David Ackerly of the College of Natural Resources welcomed the participants and highlighted the importance of the U.S. China collaboration. Professor Daniel Kammen joined the workshop by offering a remark on clean power transition in California and the U.S. during lunch time on July 19. The workshop created a platform for major power system modeling teams to introduce their models and share results. The participants also take focused sessions to discuss common challenges and emerging issues. The participants have good agreement to move forward on a few action items including a review paper and developing basic data transparency infrastructure. 
+
+
+## Relevant posts
+
+:::{#power-sector}
+:::
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

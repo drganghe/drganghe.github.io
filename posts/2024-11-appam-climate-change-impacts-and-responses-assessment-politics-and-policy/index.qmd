@@ -1,0 +1,79 @@
+---
+title: "Participating APPAM 2024"
+description: "Gang will be organizing one session, presenting one paper and one poster"
+author: "Gang He"
+date: "2024-11-21"
+categories: [event]
+image: "featured.jpg"
+css: /custom.css
+#draft: true
+
+listing:
+  - id: appam2024
+    contents: 
+        - "../2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd"
+    type: grid
+    max-items: 4
+    grid-columns: 2
+    page-size: 0 #set as 0 will remove the page setting
+    fields: [image, date, title, author, description]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+## Summary
+
+I will be organizing one session, presenting one paper and one poster in the APPAM 2024 Annual Meeting, welcome to join us and hope to meet you there.
+
+
+### Session 
+
+**Climate Change Impacts and Responses: Assessment, Politics and Policy**
+
+Thursday, November 21, 2024: 8:30 AM - 10:00 AM   
+  
+Gaylord National Harbor, National Harbor 15   
+
+
+**Abstract**: Climate change presents a multifaceted challenge, impacting energy systems, urban infrastructure, and financial policies. This panel brings together three papers offering comprehensive insights into the assessment, politics, and policy responses to climate change impacts. Paper 1 examines the effects of climate change on the supply-demand match (SDM) in global wind and solar energy systems. Using state-of-the-art climate models, the paper reveals significant reductions in SDM across various regions by the end of the century, emphasizing the need for early adaptation measures in the energy sector. Paper 2 assesses the effectiveness of current conservation projects and funding allocation in meeting the water needs of the Colorado River Basin, particularly in light of ongoing droughts and climate change. Analyzed 593 projects across thirteen programs, the paper shows that while the majority of funds went to municipal projects, it did not result in high amounts of estimated water savings compared to other categories. Paper 3 studies urban stormwater flooding and policy solutions, focusing on marginalized populations in Chicago. Through socio-institutional network analysis and economic assessments, the paper highlights the importance of coordinated efforts at both local and national levels to address flooding disparities and integrate green infrastructure for sustainable urban development. Paper 4 investigates the carbon emission reduction effect of green financial policies in China. By analyzing data from green finance reform and innovation pilot cities, the paper uncovers significant reductions in carbon emission intensity, particularly through industrial structure optimization and green technology innovation, with regional variations in policy effectiveness. These papers collectively contribute valuable empirical evidence and policy implications for understanding and mitigating the complex impacts of climate change on energy systems, urban resilience, and sustainable finance.
+
+**Presentations**
+
+ID# 52932 Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems  
+Gang He, CUNY-Baruch College
+
+ID# 54815 Addressing Water Scarcity in the Colorado River Basin: Review of Conservation Policies  
+Paloma Avila, University of California, Riverside
+
+ID# 52935 Urban Stormwater Flooding: Policy Solutions Addressing Chicago’s Marginalized Sub-Populations  
+Matthew A. Shapiro, Illinois Institute of Technology
+
+ID# 52937 Carbon Emission Reduction Effect of Green Financial Policy: Empirical Evidence from the Green Finance Reform and Innovation Pilot Zones in China   
+Ting Guan, School of Government and Lishan Fu, Beijing Normal University
+
+
+### Poster
+
+Health and Climate Benefits of Imported Solar Photovoltaic in the United States 
+
+Session title: Friday Poster Reception
+
+Friday, November 22, 2024: 5:00 PM - 6:30 PM
+
+Gaylord National Harbor, Potomac AB
+
+
+## Relevant work
+
+:::{#appam2024}
+:::
+
+<p align="right">[Other papers »](/posts.qmd#category=paper)</p>
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
