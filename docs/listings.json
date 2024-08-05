@@ -50,10 +50,6 @@
     ]
   },
   {
-    "listing": "/media.html",
-    "items": []
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
@@ -104,12 +100,9 @@
     ]
   },
   {
-    "listing": "/posts/2024-07-us-china-working-group-on-enhancing-climate-action/index.html",
+    "listing": "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
     "items": [
-      "/posts/2023-11-switch-china-open-model/index.html",
-      "/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html",
-      "/posts/2020-05-ncomms-rapid-re-cost/index.html",
-      "/posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.html"
+      "/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"
     ]
   },
   {
@@ -129,9 +122,7 @@
     ]
   },
   {
-    "listing": "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
-    "items": [
-      "/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"
-    ]
+    "listing": "/media.html",
+    "items": []
   }
 ]

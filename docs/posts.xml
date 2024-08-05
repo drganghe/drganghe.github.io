@@ -14,7 +14,7 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.5.31</generator>
+<generator>quarto-1.5.56</generator>
 <lastBuildDate>Thu, 21 Nov 2024 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Participating APPAM 2024</title>
@@ -62,7 +62,7 @@
 <h2 class="anchored" data-anchor-id="relevant-work">Relevant work</h2>
 <div id="listing-appam2024" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="paper" data-listing-date-sort="1690171200000" data-listing-file-modified-sort="1714310220136" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
+<div class="g-col-1" data-index="0" data-categories="paper" data-listing-date-sort="1690171200000" data-listing-file-modified-sort="1722768855329" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
 <a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -275,7 +275,7 @@ Nov 13, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="paper,poster,slides" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1716806174528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3578">
+<div class="g-col-1" data-index="1" data-categories="paper,poster,slides" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1722768855329" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3578">
 <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -300,7 +300,7 @@ Oct 26, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="paper,poster" data-listing-date-sort="1639976400000" data-listing-file-modified-sort="1714309967250" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="318">
+<div class="g-col-1" data-index="2" data-categories="paper,poster" data-listing-date-sort="1639976400000" data-listing-file-modified-sort="1722768855328" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="318">
 <a href="../../posts/2021-12-jcp-power-water-carbon/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -325,7 +325,7 @@ Dec 20, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="paper" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1714309892688" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="851">
+<div class="g-col-1" data-index="3" data-categories="paper" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1722768855327" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="851">
 <a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1525,13 +1525,7 @@ https://quarto.org/docs/authoring/includes.html
 </div>
 <section id="twitter" class="level2">
 <h2 class="anchored" data-anchor-id="twitter">Twitter</h2>
-<blockquote class="twitter-tweet blockquote">
-<p lang="en" dir="ltr">
-Get your tickets to the MIT Energy Conference: <a href="https://t.co/k01jKefeaG">https://t.co/k01jKefeaG</a>. We are pleased to announce another panel discussion: US-China Energy Transition, which will discuss parallels between the US and China’s energy transition landscapes, with a focus on the innovation ecosystem. <a href="https://t.co/UFdLzeP54V">pic.twitter.com/UFdLzeP54V</a>
-</p>
-— MIT Energy Conference (<span class="citation" data-cites="MITEnergyConf">(<strong>MITEnergyConf?</strong>)</span>) <a href="https://twitter.com/MITEnergyConf/status/1631743482258939905?ref_src=twsrc%5Etfw">March 3, 2023</a>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet blockquote"><p lang="en" dir="ltr">Get your tickets to the MIT Energy Conference: <a href="https://t.co/k01jKefeaG">https://t.co/k01jKefeaG</a>. We are pleased to announce another panel discussion: US-China Energy Transition, which will discuss parallels between the US and China’s energy transition landscapes, with a focus on the innovation ecosystem. <a href="https://t.co/UFdLzeP54V">pic.twitter.com/UFdLzeP54V</a></p>— MIT Energy Conference (@MITEnergyConf) <a href="https://twitter.com/MITEnergyConf/status/1631743482258939905?ref_src=twsrc%5Etfw">March 3, 2023</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </section>
 <section id="related-papers" class="level2">
 <h2 class="anchored" data-anchor-id="related-papers">Related Papers</h2>

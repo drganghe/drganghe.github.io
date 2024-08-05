@@ -10,7 +10,7 @@ This is the source file of my website using [Quarto](https//quarto.org). And by 
 
 - Update _quarto.yml and add content to your blog posts
 
-- Publish it on Github Pages: <https://quarto.org/docs/websites/publishing-websites.html>
+- Publish it on Github Pages: <https://quarto.org/docs/publishing/>
 
 All very straightforward to set up. If you follow the steps, the website is running as expected.
 

@@ -12,6 +12,15 @@ listing:  #an example of listing external links
   sort-ui: true
   filter-ui: true
   contents:
+
+    - path: https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/
+      image: /files/images/media/ee-news.png
+      title: "In major shift, China moves toward hard carbon targets"
+      author: Sara Schonhardt
+      description: "“China has long been hesitant to specify a carbon cap,” said Gang He, “with all the data and implementations in place, China will feel more comfortable to say it will peak its emissions by 2030 at [XX] billion tons and aim to reduce emissions by [XX] percent by 2035.”"
+      date: "2024-08-05"
+      categories: [E&E News]  
+
     - path: https://www.nature.com/articles/d41586-024-00692-7
       image: /files/images/media/nature.png
       title: "China–US climate collaboration concerns as Xie and Kerry step down"
