@@ -1,5 +1,6 @@
 ---
 title: "Where, when and how much wind is available? A provincial-scale wind resource assessment for China"
+subtitle: "*Energy Policy*"
 description: "We utilized 200 representative locations for which 10 years of hourly wind speed data exist to develop provincial capacity factors from 2001 to 2010, and to build analytic wind speed profiles."
 author: 
   - name: Gang He

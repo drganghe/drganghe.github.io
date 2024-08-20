@@ -1,5 +1,6 @@
 ---
 title: "Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System"
+subtitle: "*Nature Communications*"
 description: "A renewable dominant pathway is not just technogical sound, but also cost effective."
 author: 
   - name: Gang He

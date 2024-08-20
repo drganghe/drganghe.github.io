@@ -1,5 +1,6 @@
 ---
 title: "Challenges and opportunities for carbon neutrality in China"
+subtitle: "*Nature Reviews Earth & Environment*"
 description: "In this Perspective, we summarize the key features of China’s CO2 emissions, its reduction processes and successes in meeting climate targets."
 author: 
   - name: Zhu Liu

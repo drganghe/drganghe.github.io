@@ -1,5 +1,6 @@
 ---
 title: "Experiences and lessons from China’s success in providing electricity for all"
+subtitle: "*Resources, Conservation and Recycling*"
 description: "Funding, coordination, and technology are key to deliver full electrification."
 author: 
   - name: Gang He

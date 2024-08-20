@@ -1,5 +1,6 @@
 ---
 title: "Large balancing areas and dispersed renewable investment enhance grid flexibility in a renewable-dominant power system in China"
+subtitle: "*iScience*"
 description: "Larger balancing area offers direct flexibility benefits."
 author: 
   - name: Jiang Lin

@@ -1,5 +1,6 @@
 ---
 title: "Modeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization"
+subtitle: "*IEEE Transactions on Industry Applications*"
 description: "Hydrogen could link power and transport systems and reduce costs of deep decarbonization for both sectors."
 author: 
   - name: Bo Li

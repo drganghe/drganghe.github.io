@@ -1,6 +1,7 @@
 ---
 title: "Quantifying the cost savings of global solar photovoltaic supply chains"
 description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."
+subtitle: "*Nature*"
 author: 
   - name: John Paul Helveston
   - name: Gang He

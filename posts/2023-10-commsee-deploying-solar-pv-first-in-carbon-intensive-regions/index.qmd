@@ -1,5 +1,6 @@
 ---
 title: "Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060"
+subtitle: "*Communications Earth & Environment*"
 description: "The results call for strategic international coordination of PV industrial chain to increase GHG net mitigation."
 author: 
   - name: Shi Chen

@@ -1,6 +1,7 @@
 ---
 title: "SWITCH-China: A Systems Approach to Decarbonizing China’s Power System"
 description: "SWITCH-China, an integrated model for power sector decarbonization."
+subtitle: "*Environmental Science & Technology*"
 author: 
   - name: Gang He
   - name: Anne-Perrine Avrin
@@ -14,7 +15,7 @@ categories: [paper, poster]
 image: "featured.png"
 citation:
   type: article-journal
-  container-title: "Enironmental Science and Technology"
+  container-title: "Enironmental Science & Technology"
   volume: 50
   issue: 11
   page: 5467-5473
@@ -29,7 +30,7 @@ css: /custom.css
 ## Paper
 SWITCH-China: A Systems Approach to Decarbonizing China’s Power System   
 **Gang He**\*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen\*  
-*Enironmental Science and Technology* (2016)  
+*Environmental Science & Technology* (2016)  
 DOI: [10.1021/acs.est.6b01345](https://doi.org/10.1021/acs.est.6b01345)
 :::
 

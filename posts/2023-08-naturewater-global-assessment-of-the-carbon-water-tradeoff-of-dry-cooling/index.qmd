@@ -1,5 +1,6 @@
 ---
 title: "Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation"
+subtitle: "*Nature Water*"
 description: "We build a global unit-level framework to investigate the CO2 emission and energy penalty due to the deployment of dry cooling."
 author: 
   - name: Yue Qin

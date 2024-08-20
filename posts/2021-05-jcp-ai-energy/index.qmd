@@ -1,5 +1,6 @@
 ---
 title: "An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017"
+subtitle: "*Journal of Cleaner Production*"
 description: "AI algorithms in wind power technology innovation."
 author: 
   - name: Mekyung Lee

@@ -41,7 +41,7 @@ Gaylord National Harbor, National Harbor 15
 
 **Organizer**: Gang He, CUNY-Baruch College
 
-**Panel Chair**: Yeong Jae Kim, KDI School of Public Policy and Management
+**Panel Chair**: Gang He, CUNY-Baruch College
 
 **Discussant**: 
 
@@ -87,8 +87,6 @@ Gaylord National Harbor, Potomac AB
 
 :::{#appam2024}
 :::
-
-<p align="right">[Other papers »](/posts.qmd#category=paper)</p>
 
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Long-term transition of China's power sector under carbon neutrality target and water withdrawal constraint"
+subtitle: "*Journal of Cleaner Production*"
 description: "Low cost renewables reduced the need for CCS by 80%, and water constraints nearly squeeze CCS out."
 author: 
   - name: Chao Zhang

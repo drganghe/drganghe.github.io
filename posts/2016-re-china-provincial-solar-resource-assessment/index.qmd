@@ -1,5 +1,6 @@
 ---
 title: "Where, when and how much solar is available? A provincial-scale solar resource assessment for China"
+subtitle: "*Renewable Energy*"
 description: "We utilized 10-year hourly solar irradiation data from 2001 to 2010 from 200 representative locations to develop provincial solar availability profiles. "
 author: 
   - name: Gang He

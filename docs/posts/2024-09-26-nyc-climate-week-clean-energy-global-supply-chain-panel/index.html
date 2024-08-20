@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gang He">
-<meta name="dcterms.date" content="2017-07-15">
+<meta name="dcterms.date" content="2024-09-26">
 <meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
 
-<title>Experiences and lessons from China’s success in providing electricity for all – Dr.&nbsp;Gang He</title>
+<title>NYC Climate Week: Clean Energy Global Supply Chains Panel – Dr.&nbsp;Gang He</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,6 +70,63 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-moderator .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image","listing-title","listing-subtitle"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-moderator'] = new List('listing-moderator', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-panelists .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image","listing-title","listing-subtitle"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-panelists'] = new List('listing-panelists', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4DYZHP5J7"></script>
 
 <script type="text/javascript">
@@ -78,32 +137,49 @@ gtag('js', new Date());
 gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
-<link rel="stylesheet" href="../../custom.css">
-<meta property="og:title" content="Experiences and lessons from China’s success in providing electricity for all – Dr.&nbsp;Gang He">
-<meta property="og:description" content="Funding, coordination, and technology are key to deliver full electrification.">
-<meta property="og:image" content="https://drganghe.github.io/posts/2017-china-electricity-for-all/featured.jpg">
+<meta property="og:title" content="NYC Climate Week: Clean Energy Global Supply Chains Panel – Dr.&nbsp;Gang He">
+<meta property="og:description" content="Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during NYC Climate Week.">
+<meta property="og:image" content="https://drganghe.github.io/files/flyers/20240926NYCClimateWeek.png">
 <meta property="og:site_name" content="Dr. Gang He">
-<meta name="twitter:title" content="Experiences and lessons from China’s success in providing electricity for all – Dr.&nbsp;Gang He">
-<meta name="twitter:description" content="Funding, coordination, and technology are key to deliver full electrification.">
-<meta name="twitter:image" content="https://drganghe.github.io/posts/2017-china-electricity-for-all/featured.jpg">
+<meta property="og:image:height" content="1080">
+<meta property="og:image:width" content="1080">
+<meta name="twitter:title" content="NYC Climate Week: Clean Energy Global Supply Chains Panel – Dr.&nbsp;Gang He">
+<meta name="twitter:description" content="Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during NYC Climate Week.">
+<meta name="twitter:image" content="https://drganghe.github.io/files/flyers/20240926NYCClimateWeek.png">
+<meta name="twitter:image-height" content="1080">
+<meta name="twitter:image-width" content="1080">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="citation_title" content="Experiences and lessons from China’s success in providing electricity for all">
-<meta name="citation_author" content="Gang He">
-<meta name="citation_author" content="David Victor">
-<meta name="citation_publication_date" content="2017-07-15">
-<meta name="citation_cover_date" content="2017-07-15">
-<meta name="citation_year" content="2017">
-<meta name="citation_online_date" content="2017-07-15">
-<meta name="citation_fulltext_html_url" content="https://doi.org/10.1016/j.resconrec.2017.03.011">
-<meta name="citation_doi" content="10.1016/j.resconrec.2017.03.011">
-<meta name="citation_volume" content="122">
-<meta name="citation_language" content="en">
-<meta name="citation_firstpage" content="335">
-<meta name="citation_lastpage" content="338">
-<meta name="citation_journal_title" content="Resources, Conservation and Recycling">
-<meta name="citation_reference" content="citation_title=Experiences and lessons from china’s success in providing electricity for all;,citation_author=G. He;,citation_author=D. G. Victor;,citation_publication_date=2017;,citation_cover_date=2017;,citation_year=2017;,citation_doi=10.1016/j.resconrec.2017.03.011;,citation_volume=122;,citation_journal_title=Resources, Conservation and Recycling;">
 </head>
 
 <body class="nav-fixed">
@@ -223,9 +299,15 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
-  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
-  <li><a href="#video" id="toc-video" class="nav-link" data-scroll-target="#video">Video</a></li>
+  <li><a href="#title" id="toc-title" class="nav-link active" data-scroll-target="#title">Title</a>
+  <ul class="collapse">
+  <li><a href="#time" id="toc-time" class="nav-link" data-scroll-target="#time">Time</a></li>
+  <li><a href="#venue" id="toc-venue" class="nav-link" data-scroll-target="#venue">Venue</a></li>
+  </ul></li>
+  <li><a href="#about" id="toc-about" class="nav-link" data-scroll-target="#about">About</a></li>
+  <li><a href="#moderator" id="toc-moderator" class="nav-link" data-scroll-target="#moderator">Moderator</a></li>
+  <li><a href="#panelists" id="toc-panelists" class="nav-link" data-scroll-target="#panelists">Panelists</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
@@ -234,17 +316,16 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Experiences and lessons from China’s success in providing electricity for all</h1>
-<p class="subtitle lead"><em>Resources, Conservation and Recycling</em></p>
+<h1 class="title">NYC Climate Week: Clean Energy Global Supply Chains Panel</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">paper</div>
-    <div class="quarto-category">video</div>
+    <div class="quarto-category">news</div>
+    <div class="quarto-category">event</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    Funding, coordination, and technology are key to deliver full electrification.
+    Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during NYC Climate Week.
   </div>
 </div>
 
@@ -252,17 +333,16 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <div class="quarto-title-meta">
 
     <div>
-    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Gang He </p>
-             <p>David Victor </p>
+             <p>Baruch We Are Climate Action </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">July 15, 2017</p>
+      <p class="date">September 26, 2024</p>
     </div>
   </div>
   
@@ -274,66 +354,164 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 </header>
 
 
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://baruch.zoom.us/meeting/register/tZApd-ivqzIiGt1Ch39rPPC_m1T8Sk9mlVy-#/registration"><img src="flyer.png" class="img-fluid figure-img" alt="Flyer Credit: Designed by Ruzdo Srdanovic"></a></p>
+<figcaption>Flyer Credit: Designed by Ruzdo Srdanovic</figcaption>
+</figure>
 </div>
-<div class="callout-title-container flex-fill">
-Paper
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Experiences and lessons from China’s success in providing electricity for all<br>
-<strong>Gang He</strong>*, and David Victor<br>
-<em>Resources, Conservation and Recycling</em> (2017)<br>
-DOI: <a href="https://doi.org/10.1016/j.resconrec.2017.03.011">10.1016/j.resconrec.2017.03.011</a></p>
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>In 2015 China provided access to electricity to its entire population—the first of the large emerging and developing countries to achieve that landmark goal that most advanced industrialized countries met decades earlier. We found some key experiences and lessons to be learned from China’s successful program to provide electricity for all. Substantial funding from the central government, delivered by mechanisms sensitive to local provincial needs, were essential to success. Also vital was use of off-grid solar home systems for the most remote users for whom grid connection would be quite costly.</p>
+<section id="title" class="level2">
+<h2 class="anchored" data-anchor-id="title">Title</h2>
+<p>Role of Clean Energy Global Supply Chains in Achieving Climate Goals</p>
+<section id="time" class="level3">
+<h3 class="anchored" data-anchor-id="time">Time</h3>
+<p>Thursday, September 26, 3:00PM - 4:15PM</p>
 </section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Paper <a href="../../posts/2017-china-electricity-for-all-summary/index.html">summary</a></p>
-<p>Published <a href="https://doi.org/10.1016/j.resconrec.2017.03.011">paper</a></p>
-<p>Preprint <a href="../../files/papers/2017-china-electricity-for-all.pdf">pdf</a></p>
+<section id="venue" class="level3">
+<h3 class="anchored" data-anchor-id="venue">Venue</h3>
+<p>Online via zoom. Please register <a href="https://baruch.zoom.us/meeting/register/tZApd-ivqzIiGt1Ch39rPPC_m1T8Sk9mlVy-#/registration">here</a>.</p>
 </section>
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/42hcIqtGEsA?start=166" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</section>
+<section id="about" class="level2">
+<h2 class="anchored" data-anchor-id="about">About</h2>
+<p>Global clean energy supply chains stand at a critical intersection of integration and decoupling. The panel will discuss the evolving landscape, benefits and challenges, and future directions of clean energy global supply chains, to meet climate goals while addressing growing international and domestic concerns.</p>
+</section>
+<section id="moderator" class="level2">
+<h2 class="anchored" data-anchor-id="moderator">Moderator</h2>
+<div id="listing-moderator" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0">
+<a href="https://drganghe.github.io" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="https://drganghe.github.io/files/profile/gang-he-cuny-profile.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gang HE
+</h5>
+<div class="card-subtitle listing-subtitle">
+Assistant Professor, CUNY-Baruch College
 </div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="panelists" class="level2">
+<h2 class="anchored" data-anchor-id="panelists">Panelists</h2>
+<div id="listing-panelists" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0">
+<a href="https://www.jhelvy.com/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="https://www.jhelvy.com/images/lab/john_helveston_circle.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+John HELVESTON
+</h5>
+<div class="card-subtitle listing-subtitle">
+Assistant Professor, George Washington University
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1">
+<a href="https://kaifangluo.com" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&amp;user=k90TPGUAAAAJ&amp;citpid=3" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kaifang LUO
+</h5>
+<div class="card-subtitle listing-subtitle">
+Post-doc, CUNY-Baruch College
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2">
+<a href="https://gps.ucsd.edu/faculty-directory/michael-davidson.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="https://gps.ucsd.edu/_images/people/faculty/faculty_davidson.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Michael DAVIDSON
+</h5>
+<div class="card-subtitle listing-subtitle">
+Assistant Professor, University of California, San Diego
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3">
+<a href="https://mhqiu.github.io/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="https://www.stonybrook.edu/commcms/somas/people/_profiles/images/minghao-qiu.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Minghao QIU
+</h5>
+<div class="card-subtitle listing-subtitle">
+Assistant Professor, Stony Brook University
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4">
+<a href="https://sustainablesolutions.stanford.edu/people/shi-chen" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="https://sustainablesolutions.stanford.edu/sites/g/files/sbiybj31186/files/styles/medium_square/public/media/image/chen_1.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Shi CHEN
+</h5>
+<div class="card-subtitle listing-subtitle">
+Post-doc, Carnegie Institution for Science
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<ul>
+<li><span class="citation" data-cites="helveston_he_davidson_2022">John Helveston, Gang He, and Michael Davidson <span>“Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains,”</span> <em>Nature</em> 612, no. 7938 (2022): 83–87, <a href="https://doi.org/10.1038/s41586-022-05316-6" role="doc-biblioref">https://doi.org/10.1038/s41586-022-05316-6</a>.</span></li>
+<li><span class="citation" data-cites="chen2023deploying">Shi Chen et al. <span>“Deploying Solar Photovoltaic Energy First in Carbon-Intensive Regions Brings Gigatons More Carbon Mitigations to 2060,”</span> <em>Communications Earth &amp; Environment</em> 4 (October 11, 2023): 369, <a href="https://doi.org/10.1038/s43247-023-01006-x" role="doc-biblioref">https://doi.org/10.1038/s43247-023-01006-x</a>.</span></li>
+<li><span class="citation" data-cites="davidson2022risks">Michael R Davidson et al. <span>“Risks of Decoupling from China on Low-Carbon Technologies,”</span> <em>Science</em> 377, no. 6612 (2022): 1266–69, <a href="https://doi.org/10.1126/science.abq5446" role="doc-biblioref">https://doi.org/10.1126/science.abq5446</a>.</span></li>
+<li><span class="citation" data-cites="helveston2019china">John Helveston and Jonas Nahm <span>“China’s Key Role in Scaling Low-Carbon Energy Technologies,”</span> <em>Science</em> 366, no. 6467 (2019): 794–96, <a href="https://doi.org/10.1126/science.aaz1014" role="doc-biblioref">https://doi.org/10.1126/science.aaz1014</a>.</span></li>
+</ul>
 
 
+
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{he2017,
-  author = {He, Gang and Victor, David},
-  title = {Experiences and Lessons from {China’s} Success in Providing
-    Electricity for All},
-  journal = {Resources, Conservation and Recycling},
-  volume = {122},
-  pages = {335-338},
-  date = {2017-07-15},
-  url = {https://doi.org/10.1016/j.resconrec.2017.03.011},
-  doi = {10.1016/j.resconrec.2017.03.011},
-  langid = {en}
-}
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-he2017" class="csl-entry quarto-appendix-citeas" role="listitem">
-He, Gang, and David Victor. 2017. <span>“Experiences and Lessons from
-China’s Success in Providing Electricity for All.”</span> <em>Resources,
-Conservation and Recycling</em> 122 (July): 335–38. <a href="https://doi.org/10.1016/j.resconrec.2017.03.011">https://doi.org/10.1016/j.resconrec.2017.03.011</a>.
-</div></div></section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -720,43 +898,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
           }
         });
       }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
-      });
-    }
-  }
 });
 </script>
 </div> <!-- /content -->

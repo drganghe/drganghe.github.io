@@ -12,6 +12,7 @@ Example Quarto websites I reference regularly
 | <https://www.andrewheiss.com/> | <https://github.com/andrewheiss/ath-quarto> |
 | <https://www.jhelvy.com/> | <https://github.com/jhelvy/jhelvy_quarto> |
 | <https://faculty.washington.edu/masiello/> | <https://github.com/MasielloGroup/MasielloGroupWebsite> |
+|<https://affcom.ku.edu/>|<https://github.com/jmgirard/affcomlab>|
 
 
 

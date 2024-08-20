@@ -19,7 +19,7 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2023](https://drganghe.github.io/energy-climate-policy/)
+[Fall 2024](https://drganghe.github.io/energy-climate-policy/), &nbsp; [Fall 2023](https://drganghe.github.io/energy-climate-policy/2023/schedule.html)
 
 The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future.
 

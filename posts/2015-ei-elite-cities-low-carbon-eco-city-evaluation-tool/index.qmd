@@ -1,6 +1,7 @@
 ---
 title: "ELITE cities: A low-carbon eco-city evaluation tool for China"
 description: "ELITE Cities is an Excel-based tool that measures city low-carbon development progress on 33 key indicators. "
+subtitle: "*Ecological Indicators*"
 author: 
   - name: Nan Zhou
   - name: Gang He
