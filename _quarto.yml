@@ -43,7 +43,9 @@ website:
         href: now.qmd       
       - text: Contact
         href: contact.qmd   
-    
+      - text: Deep Policy Lab
+        href: https://deeppolicylab.github.io/
+        target: _blank
     right: 
       - text: CV
         href: files/Gang-He-CV.pdf

@@ -13,8 +13,8 @@ about:
   image-width: 70%
   links:
     - icon: sun
-      text: Mainpage
-      href: https://www.ganghe.net
+      text: DeepPolicyLab
+      href: https://deeppolicylab.github.io
       target: _blank
     - icon: globe
       text: CUNYprofile
@@ -58,7 +58,9 @@ about:
 
 listing:
   - id: recent-posts
-    contents: /posts
+    contents: 
+      - posts
+      - posts/post-links.yml
     type: grid
     max-items: 3
     page-size: 0 #set as 0 will remove the page setting
