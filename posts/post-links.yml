@@ -5,10 +5,12 @@
       author: "Deep Policy Lab"
       description: "Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during NYC Climate Week."
       date: "2024-09-26"
+      categories: [event]
 
-#    - path: https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html
-#      image: /files/flyers/20240926NYCClimateWeek.png
-#      title: "Workshop on Open Modeling Carbon Neutrality of the Power Sector"
-#      author: "Deep Policy Lab"
-#      description: "Deveoping a community to enable open and safe modeling and data sharing."
-#      date: "2024-07-19"
+    - path: https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html 
+      image: https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/featured.png
+      title: "Workshop on Open Modeling Carbon Neutrality of the Power Sector"
+      author: "Deep Policy Lab"
+      description: "Deveoping a community to enable open and safe modeling and data sharing."
+      date: "2024-07-19"
+      categories: [event, news]

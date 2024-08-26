@@ -118,117 +118,20 @@ https://quarto.org/docs/authoring/includes.html
   <title>NYC Climate Week: Clean Energy Global Supply Chains Panel</title>
   <link>https://drganghe.github.io/</link>
   <description>Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during NYC Climate Week.</description>
+  <category>event</category>
   <guid>https://drganghe.github.io/</guid>
   <pubDate>Thu, 26 Sep 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/files/flyers/20240926NYCClimateWeek.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>Workshop on Open Modeling Carbon Neutrality of the Power Sector</title>
-  <dc:creator>Gang He</dc:creator>
-  <link>https://drganghe.github.io/posts/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="background" class="level2">
-<h2 class="anchored" data-anchor-id="background">Background</h2>
-<p>Achieving China’s ambitious long-term climate goals will require fundamental transformations to the power sector. Many techno-economic uncertainties remain which will shape the pace and structure of this trajectory, including the costs of alternative energies, demand growth and electrification, flexibility of conventional generators, and deployment of firm low-carbon resources. In addition, policy evolution in the power sector, including provincial and regional electricity market developments and inter-provincial coordination, will have a large impact on which resources are selected and how they are operated. Open modeling efforts have been engaging with more open-source datasets, which if properly validated could provide a common framework for understanding the key features driving system evolution.</p>
-</section>
-<section id="objectives" class="level2">
-<h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
-<ul>
-<li>Map the public domain scholarship on China’s power sector modeling in terms of models, data, and assumptions</li>
-<li>Identify the set of assumptions (and their ranges) that have the largest impact on mid-century (2050/2060) outcomes across power sector models</li>
-<li>Catalog open-source datasets as well as data processed from open sources used in power sector models, including sources, coverage and validation</li>
-<li>Scope a research agenda for key unanswered questions regarding China’s power sector evolution</li>
-</ul>
-</section>
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>I have co-organizied the “Workshop on Open Modeling Carbon Neutrality of the Power Sector” with Dr.&nbsp;Jiang Lin and Dr.&nbsp;Michael Davidson. The workshop was successfully held from July 19 to 20, 2024 at 241 Giannini Hall, University of California, Berkeley. Fifteen participants, including organizers and guests, joined in person, four participants joined via Zoom. Seven power system modeling teams, from both in the U.S. and China, presenting their modeling results. Dean David Ackerly of the College of Natural Resources welcomed the participants and highlighted the importance of the U.S. China collaboration. Professor Daniel Kammen joined the workshop by offering a remark on clean power transition in California and the U.S. during lunch time on July 19. The workshop created a platform for major power system modeling teams to introduce their models and share results. The participants also take focused sessions to discuss common challenges and emerging issues. The participants have good agreement to move forward on a few action items including a review paper and developing basic data transparency infrastructure.</p>
-</section>
-<section id="relevant-posts" class="level2">
-<h2 class="anchored" data-anchor-id="relevant-posts">Relevant posts</h2>
-<div id="listing-power-sector" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="news" data-listing-date-sort="1706590800000" data-listing-file-modified-sort="1714754150524" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="247">
-<a href="../../posts/2024-01-special-issue-china-power-system-carbon-neutrality/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="../../posts/2024-01-special-issue-china-power-system-carbon-neutrality/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Call for Papers: Achieving carbon neutrality in China’s power sector
-</h5>
-<div class="card-text listing-description">
-We are organizing an special issue in <em>The Electricty Journal</em>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-The Electricity Journal
-</div>
-<div class="listing-date">
-Jan 30, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="news,event,slides,video" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1720437616120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
-<a href="../../posts/2023-11-switch-china-open-model/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="../../posts/2023-11-switch-china-open-model/featured.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-SWITCH-China: Open Source Model for the World’s Largest Power System
-</h5>
-<div class="card-text listing-description">
-Open model to study China’s clean power transition
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-SWITCH China
-</div>
-<div class="listing-date">
-Nov 13, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-
-</div>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
+  <link>https://drganghe.github.io/</link>
+  <description>Deveoping a community to enable open and safe modeling and data sharing.</description>
   <category>event</category>
-  <guid>https://drganghe.github.io/posts/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/</guid>
+  <category>news</category>
+  <guid>https://drganghe.github.io/</guid>
   <pubDate>Fri, 19 Jul 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/featured.png" medium="image" type="image/png" height="108" width="144"/>
+  <media:content url="https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>U.S.-China Working Group on Enhancing Climate Action in the 2020s</title>

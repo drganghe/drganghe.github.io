@@ -3,7 +3,6 @@
     "listing": "/posts.html",
     "items": [
       "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
-      "/posts/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html",
       "/posts/2024-06-us-china-working-group-on-enhancing-climate-action/index.html",
       "/posts/2024-05-teaching-program-evaluation/index.html",
       "/posts/2024-05-06-webinar-accelerating-offshore-wind-promotes-carbon-neutrality/index.html",
@@ -53,7 +52,6 @@
     "listing": "/index.html",
     "items": [
       "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
-      "/posts/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html",
       "/posts/2024-06-us-china-working-group-on-enhancing-climate-action/index.html",
       "/posts/2024-05-teaching-program-evaluation/index.html",
       "/posts/2024-05-06-webinar-accelerating-offshore-wind-promotes-carbon-neutrality/index.html",
@@ -100,12 +98,6 @@
     ]
   },
   {
-    "listing": "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
-    "items": [
-      "/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"
-    ]
-  },
-  {
     "listing": "/posts/2024-06-us-china-working-group-on-enhancing-climate-action/index.html",
     "items": [
       "/posts/2023-11-switch-china-open-model/index.html",
@@ -115,10 +107,9 @@
     ]
   },
   {
-    "listing": "/posts/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html",
+    "listing": "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
     "items": [
-      "/posts/2024-01-special-issue-china-power-system-carbon-neutrality/index.html",
-      "/posts/2023-11-switch-china-open-model/index.html"
+      "/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"
     ]
   },
   {
