@@ -124,6 +124,35 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://drganghe.github.io/files/flyers/20240926NYCClimateWeek.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
+  <title>ICAE Keynote: Cost Saving, Climate, and Health Effects of Solar PV Global Supply Chains</title>
+  <dc:creator>ICAE2024 </dc:creator>
+  <link>https://drganghe.github.io/posts/2024-09-03-icae-key-note-speech-clean-energy-global-supply-chains/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://applied-energy.org/icae2024/#Program"><img src="https://drganghe.github.io/files/flyers/2024-09-03-ICAE-keynote.png" class="img-fluid" style="width:90.0%"></a></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <guid>https://drganghe.github.io/posts/2024-09-03-icae-key-note-speech-clean-energy-global-supply-chains/</guid>
+  <pubDate>Tue, 03 Sep 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2024-09-03-icae-key-note-speech-clean-energy-global-supply-chains/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Workshop on Open Modeling Carbon Neutrality of the Power Sector</title>
   <link>https://drganghe.github.io/</link>
   <description>Deveoping a community to enable open and safe modeling and data sharing.</description>
@@ -1461,102 +1490,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/</guid>
   <pubDate>Wed, 12 Apr 2023 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2023-04-12-mit-energy-conference-us-china-energy-transition/featured.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Open Course on Energy Systems Analysis</title>
-  <dc:creator>Gang He</dc:creator>
-  <link>https://drganghe.github.io/posts/2022-12-energy-systems-analysis-open-course/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="course-link" class="level2">
-<h2 class="anchored" data-anchor-id="course-link">Course Link</h2>
-<p><a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/" target="_blank">https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/</a></p>
-</section>
-<section id="fundamental-and-emerging-energy-topics" class="level2">
-<h2 class="anchored" data-anchor-id="fundamental-and-emerging-energy-topics">Fundamental and Emerging Energy Topics</h2>
-<ul>
-<li>Lecture 1: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture1/index.html" target="_blank">Introduction</a><br>
-</li>
-<li>Lecture 2: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture2/index.html" target="_blank">Make sense of energy numbers</a><br>
-</li>
-<li>Lecture 3: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture3/index.html" target="_blank">Energy systems overview</a></li>
-<li>Lecture 4: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture4/index.html" target="_blank">Economics for energy systems analysis</a></li>
-<li>Lecture 5: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture5/index.html" target="_blank">Energy sources</a><br>
-</li>
-<li>Lecture 6: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture6/index.html" target="_blank">Energy demand</a><br>
-</li>
-<li>Lecture 7: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture7/index.html" target="_blank">Energy, environment, and health</a><br>
-</li>
-<li>Lecture 8: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture8/index.html" target="_blank">Energy and climate change</a></li>
-<li>Lecture 9: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture9/index.html" target="_blank">Power sector analysis</a><br>
-</li>
-<li>Lecture 10: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture10/index.html" target="_blank">Energy transition</a></li>
-<li>Lecture 11: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture11/index.html" target="_blank">Energy efficiency, behavior, and sustainable consumption</a></li>
-<li>Lecture 12: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture12/index.html" target="_blank">Energy poverty, access, and justice</a><br>
-</li>
-<li>Lecture 13: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture13/index.html" target="_blank">Big data and AI for clean energy</a><br>
-</li>
-<li>Lecture 14: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture14/index.html" target="_blank">Limitations of models</a><br>
-</li>
-<li>Lecture 15: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture15/index.html" target="_blank">Review and summary</a></li>
-</ul>
-</section>
-<section id="real-world-energy-assignments" class="level2">
-<h2 class="anchored" data-anchor-id="real-world-energy-assignments">Real-world Energy Assignments</h2>
-<ul>
-<li>HW0: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw0.html" target="_blank">IRA emission reduction assessment</a><br>
-</li>
-<li>HW1: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw1.html" target="_blank">Air quality in China and India</a><br>
-</li>
-<li>HW2: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw2.html" target="_blank">Energy project economics</a><br>
-</li>
-<li>HW3: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw3.html" target="_blank">Energy technology and impacts</a><br>
-</li>
-<li>HW4: <a href="https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw4.html" target="_blank">Load forecast, energy justice</a></li>
-</ul>
-</section>
-<section id="social-media-posts" class="level2">
-<h2 class="anchored" data-anchor-id="social-media-posts">Social Media Posts</h2>
-<section id="linkedin" class="level3">
-<h3 class="anchored" data-anchor-id="linkedin">LinkedIn</h3>
-<style>
-  /* Style for screens with a width less than 550px */
-  @media (max-width: 550px) {
-    iframe {
-      width: 100%;
-      height: auto;
-    }
-  }
-</style>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7008437031106191362" height="1255" width="550" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</section>
-<section id="twitter" class="level3">
-<h3 class="anchored" data-anchor-id="twitter">Twitter</h3>
-<blockquote class="twitter-tweet blockquote"><p lang="en" dir="ltr">A semester's effort to open my "Energy Systems Analysis" class.<br><br>15 Lectures, covering overview, economics, technologies, climate, power, transition, efficiency, access, justice, AI and big data, limitations ...<br><br>5 Real-world assignments.<br><br>And more:<a href="https://t.co/hK3uM7tik5">https://t.co/hK3uM7tik5</a> <a href="https://t.co/enxLzoS3HE">https://t.co/enxLzoS3HE</a> <a href="https://t.co/1r88HtOBRW">pic.twitter.com/1r88HtOBRW</a></p>— Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1602652144561274881?ref_src=twsrc%5Etfw">December 13, 2022</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>Many students do not have access to high-quality learning material in energy and climate change, especially in the underserved communities. If you like this work, you can help those in need to access the open-source course by spreading the word.</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/posts/2022-12-energy-systems-analysis-open-course/</guid>
-  <pubDate>Thu, 15 Dec 2022 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2022-12-energy-systems-analysis-open-course/featured.png" medium="image" type="image/png" height="120" width="144"/>
 </item>
 </channel>
 </rss>
