@@ -6,13 +6,14 @@ title-block-banner: false
 
 Example Quarto websites I reference regularly
 
-| Web    | GitHub |
-| -------- | ------- |
-| <https://quarto.org/>    | <https://github.com/quarto-dev/quarto-web>    |
-| <https://www.andrewheiss.com/> | <https://github.com/andrewheiss/ath-quarto> |
-| <https://www.jhelvy.com/> | <https://github.com/jhelvy/jhelvy_quarto> |
+| Web                                        | GitHub                                                  |
+| ------------------------------------------ | ------------------------------------------------------- |
+| <https://quarto.org/>                      | <https://github.com/quarto-dev/quarto-web>              |
+| <https://www.andrewheiss.com/>             | <https://github.com/andrewheiss/ath-quarto>             |
+| <https://www.jhelvy.com/>                  | <https://github.com/jhelvy/jhelvy_quarto>               |
 | <https://faculty.washington.edu/masiello/> | <https://github.com/MasielloGroup/MasielloGroupWebsite> |
-|<https://affcom.ku.edu/>|<https://github.com/jmgirard/affcomlab>|
+| <https://affcom.ku.edu/>                   | <https://github.com/jmgirard/affcomlab>                 |
+| <https://silviacanelon.com/>               | <https://github.com/spcanelon/silvia>                   |
 
 
 
