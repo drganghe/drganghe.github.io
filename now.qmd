@@ -41,31 +41,6 @@ How to make the clean energy transition more:
 - Energy-water-carbon nexus  
 - Other interdisciplinary aspects of carbon neutrality 
 
-<!--
-### How to collaborate
-
-The best way to work with me is to join my research team as a post-doc, research assistant, and visiting scholar/student. 
-
-**1. Papers** 
-
-| Contribution                  | Acknowledgment                                                  |
-|-------------------------------|-----------------------------------------------------------------|
-| Sharing published data        | Cite published paper                                            |
-| Data involve further work     | Coauthorship is expected                                        |
-| Modeling                      | Coauthorship is expected                                        |
-| Original ideas and narratives | Shared corresponding author is expected if adapted in the paper |
-
-Please send your inqury together with paper summary or manuscript. I will confirm upon receipt and usually will turn around within about a week with initial contribution. No reponses do not imply quality and often reflect not aligning with my expertise and research priority. Read more about [Authorship](https://www.nature.com/nature-portfolio/editorial-policies/authorship).
-
-**2. Proposals** 
-
-My group would be happy to contribute on
-
-- Power systems modeling 
-- Energy systems analysis and integration 
-- Techno-economic analysis 
-
--->
 
 ## Teaching
 
@@ -79,3 +54,6 @@ Spring Semester:
 - PAF 4199 [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society) 
 - PAF 9174 [Program Evaluation](https://drganghe.github.io/program-evaluation) 
 
+I’m seeking guest speakers who are passionate about sharing their experiences and inspiring next generation of climate leaders:
+
+- [Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/about.html)
