@@ -1,0 +1,35 @@
+---
+title: "Gang He recognized as World's Top 2% Scientists in 2024"
+description: "Thank you students, mentors, and collaborators!"
+author: "Stanford/Elsevier"
+date: "2024-09-17"
+categories: [news]
+image: "Logo.png"
+css: /custom.css
+#draft: true
+---
+
+[![The database mistakenly references my former employer. I have since joined CUNY-Baruch College.](/files/awards/top2percentscientists.png){fig-align="center"}](https://topresearcherslist.com/Home/Profile/1081988)
+
+## Acknowledgment
+
+Grateful to be recognized on the **[Stanford/Elsevier Top 2% Scientists List 2024](https://topresearcherslist.com/Home/Profile/1081988)** in three subfileds:
+
+- Environmental Sciences
+- Energy
+- Enabling & Strategic Technologies
+
+I want to take a moment to thank my current and former students, visiting cholars, mentors, collaborators, funders, and colleagues for their invaluable support. 
+
+
+## About World's Top 2% Scientists
+
+>Stanford University's list of "World's Top 2%" scientists is based on a 2% or above percentile rank, or the top 100,000 by c-score (with and without self-citations). This prestigious list identifies the world's leading researchers, representing approximately 2% of all scientists worldwide. It encompasses standardised data on citations, h-index, and a wide range of bibliometric indicators. Researchers are classified into 22 scientific fields and 174 sub-fields, drawing from Scopus data provided by Elsevier through ICSR Lab.
+
+Learn more [here](https://topresearcherslist.com/Home/AboutUs).
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -4,7 +4,7 @@ title-block-banner: false
 ---
 
 
-Example Quarto websites I reference regularly
+Example Quarto academic websites I reference regularly:
 
 | Web                                        | GitHub                                                  |
 | ------------------------------------------ | ------------------------------------------------------- |
