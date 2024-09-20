@@ -91,116 +91,144 @@
     "text": "Discussed papers\n\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.” Nature Communications 11 (1): 2486. https://doi.org/10.1038/s41467-020-16184-x.\nZhang, Chao, Gang He, Josiah Johnston, and Lijin Zhong. 2021. “Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint.” Journal of Cleaner Production 329: 129765. https://doi.org/10.1016/j.jclepro.2021.129765.\nHe, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. “Enabling a Rapid and Just Transition Away from Coal in China.” One Earth 3 (2): 187–94. https://doi.org/10.1016/j.oneear.2020.07.012."
   },
   {
-    "objectID": "posts/2013-ep-carbon-offsetters-paradox/index.html",
-    "href": "posts/2013-ep-carbon-offsetters-paradox/index.html",
-    "title": "Addressing carbon Offsetters’ Paradox: Lessons from Chinese wind CDM",
+    "objectID": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html",
+    "href": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html",
+    "title": "Modeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization",
     "section": "",
-    "text": "Paper\n\n\n\nAddressing carbon Offsetters’ Paradox: Lessons from Chinese wind CDM\nGang He*, and Richard Morse\nEnergy Policy (2013)\nDOI: 10.1016/j.enpol.2013.09.021"
+    "text": "Paper\n\n\n\nModeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization\nBo Li, Minyou Chen*, Ziming Ma, Gang He, Wei Dai, Dongran Liu, Chi Zhang, and Haiwang Zhong\nIEEE Transactions on Industry Applications (2022)\nDOI: 10.1109/TIA.2021.3116916"
   },
   {
-    "objectID": "posts/2013-ep-carbon-offsetters-paradox/index.html#abstract",
-    "href": "posts/2013-ep-carbon-offsetters-paradox/index.html#abstract",
-    "title": "Addressing carbon Offsetters’ Paradox: Lessons from Chinese wind CDM",
+    "objectID": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html#abstract",
+    "href": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html#abstract",
+    "title": "Modeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization",
     "section": "Abstract",
-    "text": "Abstract\nThe clean development mechanism (CDM) has been a leading international carbon market and a driving force for sustainable development. But the eruption of controversy over offsets from Chinese wind power in 2009 exposed cracks at the core of how carbon credits are verified in the developing economies. The Chinese wind controversy therefore has direct implications for the design and negotiation of any successor to the Kyoto Protocol or future market-based carbon regimes. In order for carbon markets to avoid controversy and function effectively, the lessons from the Chinese wind controversy should be used to implement key reforms in current and future carbon policy design. The paper examines the application of additionality in the Chinese wind power market and draws implications for the design of effective global carbon offset policy. It demonstrates the causes of the wind power controversy, highlights underlying structural flaws, in how additionality is applied in China, the Offsetters’ Paradox, and charts a reform path that can strengthen the credibility of global carbon markets.\n\n\n\nThe Offsetters’ Paradox: if credits are given for the difference between BAU1 and target trajectories, any domestic policy that lowers baseline emissions to create BAU2 reduces carbon payments, and therefore disincentivizes domestic emissions-reducing policies that would shift BAU1 to BAU2."
+    "text": "Abstract\nThe deployment of renewable energy sources, power-to-gas (P2G) systems, and zero-emission vehicles provide a synergistic opportunity to accelerate the decarbonization of both power and transportation system. This article investigates the prospects of implementing hydrogen P2G technology in coupling the power system and the transportation system. A novel coordinated long-term planning model of integrated power and transportation system (IPTS) at the regional scale is proposed to simulate the power system balance and travel demand balance simultaneously, while subject to a series of constraints, such as CO2 emission constraints. IPTS of Texas was investigated considering various CO2 emission cap scenarios. Results show unique decarbonization trajectories of the proposed coordinated planning model, in which IPTS prefers to decarbonizing the power sector firstly. When the power system reaches ultralow carbon intensity, the IPTS then focuses on the road transportation system decarbonization. The results show that with the P2G system, IPTS of Texas could achieve 100% CO2 emission reductions (relative 2018 emissions level) by adding a combination of approximately 143.5 GW of wind, 50 GW of solar PV, and 40 GW of P2G systems with 2.5% renewables curtailment. The integration of the P2G system can produce hydrogen by use of surplus RES generation to meet hydrogen demand of Fuel cell electric vehicles (FCEVs) and to meet multiday electricity supply imbalances."
   },
   {
-    "objectID": "posts/2013-ep-carbon-offsetters-paradox/index.html#links",
-    "href": "posts/2013-ep-carbon-offsetters-paradox/index.html#links",
-    "title": "Addressing carbon Offsetters’ Paradox: Lessons from Chinese wind CDM",
+    "objectID": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html#links",
+    "href": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html#links",
+    "title": "Modeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization",
     "section": "Links",
-    "text": "Links\nPublished paper\nPaper summary: Overcoming Imperfections\nSelf-archiving pdf"
+    "text": "Links\nPublished paper\nSelf-archiving pdf"
   },
   {
-    "objectID": "posts/2022-04-nikkei-nuclear-delemma/index.html",
-    "href": "posts/2022-04-nikkei-nuclear-delemma/index.html",
-    "title": "The scale of China’s future nuclear will depend on how renewables evolve",
+    "objectID": "posts/2021-05-jcp-ai-energy/index.html",
+    "href": "posts/2021-05-jcp-ai-energy/index.html",
+    "title": "An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017",
     "section": "",
-    "text": "https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds"
+    "text": "Paper\n\n\n\nAn empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017\nMekyung Lee*, and Gang He\nJournal of Cleaner Production (2021)\nDOI: 10.1016/j.jclepro.2021.126536"
   },
   {
-    "objectID": "posts/2022-04-nikkei-nuclear-delemma/index.html#news-link",
-    "href": "posts/2022-04-nikkei-nuclear-delemma/index.html#news-link",
-    "title": "The scale of China’s future nuclear will depend on how renewables evolve",
-    "section": "",
-    "text": "https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds"
-  },
-  {
-    "objectID": "posts/2022-04-nikkei-nuclear-delemma/index.html#quotes",
-    "href": "posts/2022-04-nikkei-nuclear-delemma/index.html#quotes",
-    "title": "The scale of China’s future nuclear will depend on how renewables evolve",
-    "section": "Quotes",
-    "text": "Quotes\n\nThe only question is, how much nuclear power will be needed in the mix?\n“From my research, China’s future power system will be quite sensitive to how much nuclear [power] China can put online,” Gang He, assistant professor at Stony Brook University in the U.S., told Nikkei Asia. “I have seen the nuclear power projections by 2050 outlining an increase from 300 GW to 500 GW.”\nGang added that China’s need for nuclear power could be kept down at around 300 GW, “if China manages to accelerate the expansion and integration of solar, wind and other renewables,” but that would require an installed capacity of 800-1,000 GW in renewables to cope with generating fluctuations."
-  },
-  {
-    "objectID": "posts/2022-04-nikkei-nuclear-delemma/index.html#full-response",
-    "href": "posts/2022-04-nikkei-nuclear-delemma/index.html#full-response",
-    "title": "The scale of China’s future nuclear will depend on how renewables evolve",
-    "section": "Full Response",
-    "text": "Full Response\nQ: China, as we know has a long-term plan to increase the proportion of nuclear energy into its energy mix. What are the advantages and risks of such ambition?\nA: Energy strategy and policy are about trade-offs and fit in specific conditions and constraints. The political economy dynamics of different energy technologies will have a large impact on the outcomes.\nFrom my research, China’s future power system will be quite sensitive to how much nuclear can China put online. I have seen 2050 nuclear projections and plans range from about 300GW to 500GW, this 200GW differences will need about 800-1000GW more wind and solar capacity to fill the gap, as nuclear plants can run at 90% capacity factor with little or no impact from weather. However, if China manages to accelerate the expansion and integration of solar, wind, and other renewables, then the need for nuclear will be reduced to its lower end, with less pressure on nuclear risks and nuclear waste management.\nWe will see renewables and nuclear expand hand in hand in the short term to achieve carbon peak and carbon neutrality in the medium and long-term, but the comparative scale will be shaped by the changing political economy of those technologies."
-  },
-  {
-    "objectID": "posts/2022-04-nikkei-nuclear-delemma/index.html#featured-papers",
-    "href": "posts/2022-04-nikkei-nuclear-delemma/index.html#featured-papers",
-    "title": "The scale of China’s future nuclear will depend on how renewables evolve",
-    "section": "Featured Papers",
-    "text": "Featured Papers\n\nHe, Gang, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen. 2016. SWITCH-China: A Systems Approach to Decarbonizing China’s Power System. Environmental Science & Technology 50(11): 5467–5473.\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.” Nature Communications 11 (1): 2486. https://doi.org/10.1038/s41467-020-16184-x."
-  },
-  {
-    "objectID": "posts/2017-china-electricity-for-all/index.html",
-    "href": "posts/2017-china-electricity-for-all/index.html",
-    "title": "Experiences and lessons from China’s success in providing electricity for all",
-    "section": "",
-    "text": "Paper\n\n\n\nExperiences and lessons from China’s success in providing electricity for all\nGang He*, and David Victor\nResources, Conservation and Recycling (2017)\nDOI: 10.1016/j.resconrec.2017.03.011"
-  },
-  {
-    "objectID": "posts/2017-china-electricity-for-all/index.html#abstract",
-    "href": "posts/2017-china-electricity-for-all/index.html#abstract",
-    "title": "Experiences and lessons from China’s success in providing electricity for all",
+    "objectID": "posts/2021-05-jcp-ai-energy/index.html#abstract",
+    "href": "posts/2021-05-jcp-ai-energy/index.html#abstract",
+    "title": "An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017",
     "section": "Abstract",
-    "text": "Abstract\nIn 2015 China provided access to electricity to its entire population—the first of the large emerging and developing countries to achieve that landmark goal that most advanced industrialized countries met decades earlier. We found some key experiences and lessons to be learned from China’s successful program to provide electricity for all. Substantial funding from the central government, delivered by mechanisms sensitive to local provincial needs, were essential to success. Also vital was use of off-grid solar home systems for the most remote users for whom grid connection would be quite costly."
+    "text": "Abstract\nWe investigated the applications of artificial intelligence (AI) algorithms in wind power technology changes over time and found that AI accelerates the automation of wind power systems. This study shows evidence of the evolution of wind technology innovation following the advancement in AI algorithms using the patents data issued in four intellectual property (IP) offices from 1980 through 2017. Artificial intelligence and more advanced data analytics can be effectively applied to increase the efficiency of wind power systems and to optimize wind farm operations. This study empirically analyzes the evolution of applications of AI algorithms in wind power technology by employing machine learning-based text mining and network analysis, demonstrating the dynamic changing pattern of applications of AI algorithms in wind power technology innovation."
   },
   {
-    "objectID": "posts/2017-china-electricity-for-all/index.html#links",
-    "href": "posts/2017-china-electricity-for-all/index.html#links",
-    "title": "Experiences and lessons from China’s success in providing electricity for all",
+    "objectID": "posts/2021-05-jcp-ai-energy/index.html#links",
+    "href": "posts/2021-05-jcp-ai-energy/index.html#links",
+    "title": "An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017",
     "section": "Links",
-    "text": "Links\nPaper summary\nPublished paper\nPreprint pdf"
+    "text": "Links\nPublished paper\nSelf-archiving pdf"
   },
   {
-    "objectID": "posts/2017-china-electricity-for-all/index.html#video",
-    "href": "posts/2017-china-electricity-for-all/index.html#video",
-    "title": "Experiences and lessons from China’s success in providing electricity for all",
+    "objectID": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
+    "href": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
+    "title": "Participating APPAM 2024",
+    "section": "",
+    "text": "I will be organizing one session, presenting one paper and one poster in the APPAM 2024 Annual Meeting, welcome to join us and hope to meet you there.\n\n\nClimate Change Impacts and Responses: Assessment, Politics and Policy\nThursday, November 21, 2024: 8:30 AM - 10:00 AM\nGaylord National Harbor, National Harbor 15\nAbstract: Climate change presents a multifaceted challenge, impacting energy systems, urban infrastructure, and financial policies. This panel brings together three papers offering comprehensive insights into the assessment, politics, and policy responses to climate change impacts. Paper 1 examines the effects of climate change on the supply-demand match (SDM) in global wind and solar energy systems. Using state-of-the-art climate models, the paper reveals significant reductions in SDM across various regions by the end of the century, emphasizing the need for early adaptation measures in the energy sector. Paper 2 assesses the effectiveness of current conservation projects and funding allocation in meeting the water needs of the Colorado River Basin, particularly in light of ongoing droughts and climate change. Analyzed 593 projects across thirteen programs, the paper shows that while the majority of funds went to municipal projects, it did not result in high amounts of estimated water savings compared to other categories. Paper 3 studies urban stormwater flooding and policy solutions, focusing on marginalized populations in Chicago. Through socio-institutional network analysis and economic assessments, the paper highlights the importance of coordinated efforts at both local and national levels to address flooding disparities and integrate green infrastructure for sustainable urban development. Paper 4 investigates the carbon emission reduction effect of green financial policies in China. By analyzing data from green finance reform and innovation pilot cities, the paper uncovers significant reductions in carbon emission intensity, particularly through industrial structure optimization and green technology innovation, with regional variations in policy effectiveness. These papers collectively contribute valuable empirical evidence and policy implications for understanding and mitigating the complex impacts of climate change on energy systems, urban resilience, and sustainable finance.\nOrganizer: Gang He, CUNY-Baruch College\nPanel Chair: Gang He, CUNY-Baruch College\nDiscussant:\nMallory Flowers, University of Rhode Island\nEmre Hatipoglu, KAPSARC School of Public Policy\nPresentations\nID# 52932 Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems\nLaibao Liu1, Gang He2, Mengxi Wu3, Gang Liu4, Haoran Zhang5, Ying Chen6, Jiashu Shen4 and Shuangcheng Li4, (1)The University of Hong Kong, (2)CUNY-Baruch College, (3)The Hong Kong University of Science and Technology, (4)Peking University, (5)University College London, (6)University of Birmingham\nID# 54815 Addressing Water Scarcity in the Colorado River Basin: Review of Conservation Policies\nPaloma Avila, Mehdi Nemati, Daniel Crespo and Ariel Dinar, (1)University of California, Riverside\nID# 52935 Urban Stormwater Flooding: Policy Solutions Addressing Chicago’s Marginalized Sub-Populations\nDarren Christoper, Caleb Hadley, Ron Henderson, Hao Huang, David Lampert, Michael Sansone, Matthew A. Shapiro, Brent Stephens and Maria Villalobos Hernandez, Illinois Institute of Technology\nID# 52937 Carbon Emission Reduction Effect of Green Financial Policy: Empirical Evidence from the Green Finance Reform and Innovation Pilot Zones in China\nTing Guan, School of Government and Lishan Fu, Beijing Normal University\n\n\n\nHealth and Climate Benefits of Imported Solar Photovoltaic in the United States\nMinghao Qiu1, Gang He2, Peter Marcotullio3, (1)Stony Brook University, (2)CUNY-Baruch College, (3)CUNY-Hunter College\nFriday Poster Reception\nFriday, November 22, 2024: 5:00 PM - 6:30 PM\nGaylord National Harbor, Potomac AB"
+  },
+  {
+    "objectID": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html#summary",
+    "href": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html#summary",
+    "title": "Participating APPAM 2024",
+    "section": "",
+    "text": "I will be organizing one session, presenting one paper and one poster in the APPAM 2024 Annual Meeting, welcome to join us and hope to meet you there.\n\n\nClimate Change Impacts and Responses: Assessment, Politics and Policy\nThursday, November 21, 2024: 8:30 AM - 10:00 AM\nGaylord National Harbor, National Harbor 15\nAbstract: Climate change presents a multifaceted challenge, impacting energy systems, urban infrastructure, and financial policies. This panel brings together three papers offering comprehensive insights into the assessment, politics, and policy responses to climate change impacts. Paper 1 examines the effects of climate change on the supply-demand match (SDM) in global wind and solar energy systems. Using state-of-the-art climate models, the paper reveals significant reductions in SDM across various regions by the end of the century, emphasizing the need for early adaptation measures in the energy sector. Paper 2 assesses the effectiveness of current conservation projects and funding allocation in meeting the water needs of the Colorado River Basin, particularly in light of ongoing droughts and climate change. Analyzed 593 projects across thirteen programs, the paper shows that while the majority of funds went to municipal projects, it did not result in high amounts of estimated water savings compared to other categories. Paper 3 studies urban stormwater flooding and policy solutions, focusing on marginalized populations in Chicago. Through socio-institutional network analysis and economic assessments, the paper highlights the importance of coordinated efforts at both local and national levels to address flooding disparities and integrate green infrastructure for sustainable urban development. Paper 4 investigates the carbon emission reduction effect of green financial policies in China. By analyzing data from green finance reform and innovation pilot cities, the paper uncovers significant reductions in carbon emission intensity, particularly through industrial structure optimization and green technology innovation, with regional variations in policy effectiveness. These papers collectively contribute valuable empirical evidence and policy implications for understanding and mitigating the complex impacts of climate change on energy systems, urban resilience, and sustainable finance.\nOrganizer: Gang He, CUNY-Baruch College\nPanel Chair: Gang He, CUNY-Baruch College\nDiscussant:\nMallory Flowers, University of Rhode Island\nEmre Hatipoglu, KAPSARC School of Public Policy\nPresentations\nID# 52932 Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems\nLaibao Liu1, Gang He2, Mengxi Wu3, Gang Liu4, Haoran Zhang5, Ying Chen6, Jiashu Shen4 and Shuangcheng Li4, (1)The University of Hong Kong, (2)CUNY-Baruch College, (3)The Hong Kong University of Science and Technology, (4)Peking University, (5)University College London, (6)University of Birmingham\nID# 54815 Addressing Water Scarcity in the Colorado River Basin: Review of Conservation Policies\nPaloma Avila, Mehdi Nemati, Daniel Crespo and Ariel Dinar, (1)University of California, Riverside\nID# 52935 Urban Stormwater Flooding: Policy Solutions Addressing Chicago’s Marginalized Sub-Populations\nDarren Christoper, Caleb Hadley, Ron Henderson, Hao Huang, David Lampert, Michael Sansone, Matthew A. Shapiro, Brent Stephens and Maria Villalobos Hernandez, Illinois Institute of Technology\nID# 52937 Carbon Emission Reduction Effect of Green Financial Policy: Empirical Evidence from the Green Finance Reform and Innovation Pilot Zones in China\nTing Guan, School of Government and Lishan Fu, Beijing Normal University\n\n\n\nHealth and Climate Benefits of Imported Solar Photovoltaic in the United States\nMinghao Qiu1, Gang He2, Peter Marcotullio3, (1)Stony Brook University, (2)CUNY-Baruch College, (3)CUNY-Hunter College\nFriday Poster Reception\nFriday, November 22, 2024: 5:00 PM - 6:30 PM\nGaylord National Harbor, Potomac AB"
+  },
+  {
+    "objectID": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html#relevant-work",
+    "href": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html#relevant-work",
+    "title": "Participating APPAM 2024",
+    "section": "Relevant work",
+    "text": "Relevant work\n\n\n\n\n\n\n\n\n\n\nClimate change impacts on planned supply–demand match in global wind and solar energy systems\n\n\nUp to 32% or 44% of non-Antarctic land areas for wind or solar…\n\n\n\nLaibao Liu, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, Shuangcheng Li\n\n\nJul 24, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2023-11-switch-china-open-model/index.html",
+    "href": "posts/2023-11-switch-china-open-model/index.html",
+    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
+    "section": "",
+    "text": "SWITCH-China Open Model"
+  },
+  {
+    "objectID": "posts/2023-11-switch-china-open-model/index.html#summary",
+    "href": "posts/2023-11-switch-china-open-model/index.html#summary",
+    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
+    "section": "Summary",
+    "text": "Summary\nChina’s power sector in 2022 accounted for about 1/4 of global coal consumption, 1/8 of global energy related carbon emission, and at the same time, 40% of global solar and wind capaicity. This fast transiting sector is under pressure to lower its carbon emissions while strive to power the world’s largest manufacturer and fastest growing mid-class. The scale and scope of China’s clean power transition is unprecedented and its impacts are enormouse, yet its trojactories are uncertain. How can China’s power sector achieve carbon netrality will in large impact how can the world meet the net-zero goals. Modeling China’s power transition is both important and challenging. After years’ efforts, and collaboration, I decide to open-source SWITCH-China Model and make it SWITCH-China Open Model to facilitate the modeling integration and comparison, data sharing, policy discussion and debate."
+  },
+  {
+    "objectID": "posts/2023-11-switch-china-open-model/index.html#video",
+    "href": "posts/2023-11-switch-china-open-model/index.html#video",
+    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
     "section": "Video",
     "text": "Video"
   },
   {
-    "objectID": "posts/2019-nyclcpa-testimony/index.html",
-    "href": "posts/2019-nyclcpa-testimony/index.html",
-    "title": "Gang testified for the New York State Climate Leadership and Community Protection Act",
+    "objectID": "posts/2023-11-switch-china-open-model/index.html#slides",
+    "href": "posts/2023-11-switch-china-open-model/index.html#slides",
+    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
+    "section": "Slides",
+    "text": "Slides\n\n\n\n\nAbove are the video and slides of my presentation for Openmod meets USA 2023 online. Check the slides in a new tab."
+  },
+  {
+    "objectID": "posts/2023-11-switch-china-open-model/index.html#core-publications",
+    "href": "posts/2023-11-switch-china-open-model/index.html#core-publications",
+    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
+    "section": "Core publications",
+    "text": "Core publications\nHe, Gang*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen*. 2016. SWITCH-China: A Systems Approach to Decarbonizing China’s Power System. Environmental Science & Technology 50(11): 5467–5473. doi: 10.1021/acs.est.6b01345.\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x.\nZhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong. 2021. Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint. Journal of Cleaner Production 329: 129765. doi: 10.1016/j.jclepro.2021.129765.\nPeng, Liqun, Denise L. Mauzerall*, Yaofeng D. Zhong, and Gang He*. 2023. Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China. Nature Communications 14: 4858. doi:10.1038/s41467-023-40337-3."
+  },
+  {
+    "objectID": "posts/2023-11-switch-china-open-model/index.html#acknowledgment",
+    "href": "posts/2023-11-switch-china-open-model/index.html#acknowledgment",
+    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
+    "section": "Acknowledgment",
+    "text": "Acknowledgment\n\nSWITCH/EDF and EDF-China team: Matthias Fripp, Oleg Lugovoy, Suzi Kerr, and Ji Gao, Keyang Xue, Gray Zhuoran Li, and others\n\nUCB and RAEL: Daniel Kammen, Anne-Perrine Avrin, Jianwei Tian, James Nelson, Josiah Johnston, Ana Mileva, Bo Li, Patricia Hidalgo-Gonzalez, Juan Pablo Carvallo\n\nGridpath: Qian Luo, Haozhe Yang, Ana Mileva, and Ranjit Deshmukh\n\nCollaborators: Chao Zhang, Jiang Lin, Amol Phadke, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, Liqun Peng, Denise Mauzerall, Desmond Zhong, Wenjia Cai, Yu Chen, Yuang Chen, Shiyu Huang, Jingxuan Hui, Haoran Li, Hongyou Lu, Xiao Su, Yang Wang, Zheng Wang, Kate Yu, Shuyu Yang, Jiahai Yuan, Wenhua Zhang, Hongyang Zou, and many more"
+  },
+  {
+    "objectID": "posts/2023-11-switch-china-open-model/index.html#learn-more",
+    "href": "posts/2023-11-switch-china-open-model/index.html#learn-more",
+    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
+    "section": "Learn more",
+    "text": "Learn more\nhttps://www.ganghe.net/research/switch-china-model"
+  },
+  {
+    "objectID": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html",
+    "href": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html",
+    "title": "Webinar: Charting China’s Power Sector Coal Decarbonization",
     "section": "",
-    "text": "Gang testified in the New York State Senate Hearings On The Climate Leadership And Community Protection Act, Feb 2019 (Photo by Ann Parry)"
+    "text": "Agenda"
   },
   {
-    "objectID": "posts/2019-nyclcpa-testimony/index.html#news-link",
-    "href": "posts/2019-nyclcpa-testimony/index.html#news-link",
-    "title": "Gang testified for the New York State Climate Leadership and Community Protection Act",
-    "section": "News Link",
-    "text": "News Link\nNews by WSHU Public Radio\n\nQuotes\n\nGang He is an assistant professor at Stony Brook University who focuses on energy economics and climate policy. He told lawmakers at a public hearing on Long Island last week that educating people should be part of any legislation that hopes to have a meaningful impact on climate change.\n“In addition to policy, technology, there are also behavior components to that. How we incentivize people to change their behavior and their lifestyle.”"
+    "objectID": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#recorded-video",
+    "href": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#recorded-video",
+    "title": "Webinar: Charting China’s Power Sector Coal Decarbonization",
+    "section": "Recorded Video",
+    "text": "Recorded Video"
   },
   {
-    "objectID": "posts/2019-nyclcpa-testimony/index.html#testimony-transcript",
-    "href": "posts/2019-nyclcpa-testimony/index.html#testimony-transcript",
-    "title": "Gang testified for the New York State Climate Leadership and Community Protection Act",
-    "section": "Testimony Transcript",
-    "text": "Testimony Transcript\n\nTestimony of Dr. Gang He\nBefore the New York State Senate Environmental Conservation Committee Public Hearing on the Climate and Community Protection Act—S.2992/A.3876 February 15, 2019—Mineola, New York\nSenator Todd Kaminsky, and members of the Committee on Environmental Conservation, I am very pleased to have the opportunity to testify before the committee. I appreciate the attention your committee is giving to the vital issues of greenhouse gas emissions reduction and clean energy.\nI’m an assistant professor in the Department of Technology and Society at Stony Brook University. My research focuses on energy system modeling, energy economic, energy and climate policy.\n\n\nRenewable energy is achieving global momentum\nThe costs of solar photovoltaics (PV), wind, and battery storage have fallen by approximately 65% to 85% since 2010 and are projected to decline further in the near future—creating opportunities for deep decarbonization in the power sector and energy systems. According to the latest report from Green Tech Media Research, U.S. Residential Solar Economic Outlook: Grid Parity, Rate Design and Net Metering Risk, 20 U.S. states are currently at grid parity, including in New York.\n\n\nNew York’s opportunity to keep leadership in clean energy and climate action\nNew York State has an opportunity to lead in clean energy and climate action by introducing and implementing the renewable energy development and carbon mitigation targets. California, for example, is on the path and pace to achieve goals to reduce GHG to 40% below 1990 levels by 2030, benefit from a series of supporting policies1, including:\n\nA renewable energy portfolio standard (RPS) to increase renewable electricity production to 60% by 2030;\n\nA low-carbon fuel standard to reduce the carbon intensity of transportation fuels by 20 percent by 2030;\n\nAnd efficiency standards in building, appliance, water and others to double energy efficiency savings at existing buildings;\n\nSuite of other energy and climate policies to facilitate the transition.\n\nIn addition to California, New Jersey (50 percent by 2030), Connecticut (40 percent by 2030) and Massachusetts (35 percent by 2030) all adopted stronger targets for renewable energy, accelerating their states’ transitions away from fossil fuels and toward to a clean energy future. New York State has to choose to lead, or fall behind.\n\n\nGreen jobs and economic benefits\nSuch clean energy transition is not only generating renewable energy and reducing carbon emissions, but also creating jobs and economic benefits to New York State and local communities. My research group has worked with the offshore wind industry, to estimate the jobs and economic impact of offshore wind projects in New York State. We estimated that a typical 800MW offshore wind project could create more than 3000 direct and indirect clean full-time equivalent energy jobs and bring nearly 700 million economic impact to the New York State. About 40 percent of the jobs will be in Long Island area. Work in the Long Island region includes cable and converter station connections, and work on the onshore substation. There will also jobs related R&D spending, and community development.\n\n\nPaving the road for 21st century economic competitiveness\nEnergy technology innovation, together with other emerging technologies such as AI, big data, internet of things, block chain, and their applications to clean energy sector, are building the next frontiers of economic development and competition. The clean energy workforce, and the education of next generation energy leaders are the new pillars to support a sustainable future for New York State.\nThe key message I’d like to share is that leadership in clean energy development and climate action present an economic opportunity for New York State. The job creation and economic benefits through clean energy innovation and investment is a true opportunity, and New York could harvest those benefit as an earlier mover.\nThe transcprit is also available in pdf."
+    "objectID": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#remarks",
+    "href": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#remarks",
+    "title": "Webinar: Charting China’s Power Sector Coal Decarbonization",
+    "section": "Remarks",
+    "text": "Remarks\nThank you, Jessica, for the nice introduction.\nLet me start by congratulating Dr. Cui and the team for the release of such an important and timely report. I want to echo what Prof. Yuan have just shown the implications of China’s coal transition. The report lays down a ground break work to identify low hanging fruits of coal plants retirement and shows a feasible strategy to phase down coal power in China.\nI hope to add a few comments focusing on renewables. You may curious this is coal phase down event, why am I talking about renewables. Here is the thing, it’s good to phase down coal, then where will our electricity come from? The answer is: non-fossil sources, especially renewables! My rationale is that the more we can provide stable and secure renewables supply, the less we will rely on coal, and the better chance we can successfully phase down coal.\nFirst, China’s clean power transition needs two accelerations at the same time. While accelerating phase down of coal, we will need to accelerate renewable development and integration. Renewables will need to first feed all the new demand and then to replace coal. Let’s be real, coal generation is still growing, good news is the share of renewables grows too. In 2021, coal accounts about 62% of total generation, hydro about 16%, nuclear 5%, wind 8%, and solar 4%. Renewables (hydro, wind, and solar) overtook coal in new capacity in 2013, and renewable combined exceeded 50% of the new capacity in 2016, and in 2021, 78% of the new capacity are renewables. According to the latest data from the National Energy Administration, by the end of 2021, the country’s installed wind and solar capacity both exceeded 300 GW, wind 328GW and solar 306GW. To achieve carbon neutrality goal, we need 10x today’s solar and wind capacity by mid-century, that’s the scale of acceleration we are talking here.\nSecond, cheap renewables are a game changer, a renewable dominant path is not just technical feasible, but also cost effective, and with water saving and other co-benefits. This chart from Our World in Data shows that from 2009 to 2019 the cost of PV fell by 90 percent, onshore wind by 70%, and concentrated solar by 16%. The learning rate reaches 36% for PV and 23% for onshore wind, meaning that for every doubling of cumulative installed capacity, the cost of PV fell 36% and onshore wind 23%. 2021 can be described as the tipping point of grid parity or we say, “low-cost renewable era”. In China, the National Development and Reform Commission, canceled the subsidized tariff for new central PV and onshore wind projects, a milestone for renewables. The arrival of grid parity, relative to the 2000 forecast, about 50 years ahead of time; relative to the 2010 forecast, about 30 years ahead of time; relative to the 2015 forecast, about 10 years ahead of time. The early arrival of grid parity accelerates the development of renewable energy and opens new possibilities for achieving carbon neutrality to confront climate change.\nIn a collaborative Nature Communications paper with Lawrence Berkeley National Laboratory, we found that if the current trend of declining renewables costs continues, by 2030, wind and solar could provide 39% of electricity generation, together with hydro (14%) and nuclear (10%), the share of non-fossil electricity could be 62%, compared to 50% commonly discussed. What’s more, it will be 11% cheaper than in the reference scenario. Wind and solar together could exceed 1800GW of capacity, compared to the 1200GW national goal. In another collaborative paper with Tongji University, we find cheap renewables reduces the need for carbon capture and storage by 80% in 2050 and saves water consumption for cooling by 10 billion cubic meters annually compared with the reference scenario.\nThird, coal could play a facilitator’s role in integrating renewables, coal needs to reposition or repurpose itself from cornerstone to stepstone in clean power transition. Flexibility retrofitting and converting coal plants to reserved capacity could help to address the flexibility challenges in a renewable dominant grid, even though coal flexibility’s contribution to renewable integration is marginal comparing to building national electricity market and dispersed renewable investments, accordingly to a collaborative paper with LBL published in iScience.\nIn summary, accelerating coal transition and renewable development needs to go hand in hand, and renewable achieving grid parity not just make this technical feasible, but also economic effective, and coal could reposition and repurpose itself from footstone to stepstone in clean power transition."
   },
   {
-    "objectID": "posts/2019-nyclcpa-testimony/index.html#footnotes",
-    "href": "posts/2019-nyclcpa-testimony/index.html#footnotes",
-    "title": "Gang testified for the New York State Climate Leadership and Community Protection Act",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nCheck more about California’s climate policy at Berkeley Laws’s California Climate Policy Dashboard↩︎"
+    "objectID": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#related-papers",
+    "href": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#related-papers",
+    "title": "Webinar: Charting China’s Power Sector Coal Decarbonization",
+    "section": "Related Papers",
+    "text": "Related Papers\n\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x.\nLin, Jiang, Nikit Abhyankar, Gang He, Xu Liu, and Shengfei Yin. 2022. Large Balancing Areas and Dispersed Renewable Investment Enhances Grid Flexibility in a Renewable-Dominant Power System in China. iScience 25(2): 103749. doi: 10.1016/j.isci.2022.103749.\nZhang, Chao, Gang He, Josiah Johnston, and Lijin Zhong. 2021. Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint. Journal of Cleaner Production 329: 129765. doi: 10.1016/j.jclepro.2021.129765."
   },
   {
     "objectID": "posts/2014-ep-china-provincial-wind-resource-assessment/index.html",
@@ -1302,144 +1330,137 @@
     "text": "Clean energy transition and post-Covid recovery\nAs China drafts its 14th five-year plan (due next year) and deliberates its own post-Covid economic recovery measures, our research offers valuable insights into the cheapest ways to meet the country’s rising electricity demand.\nMost notably, we found that China could cut emissions from its power sector at lower overall cost than a business-as-usual approach, by relying more heavily on renewables and storage. This would have co-benefits including reducing harmful air pollution, cutting water use and creating green jobs.\nIn contrast, there are signs that some local governments are fast-tracking more new coal power plants this year, despite the fact that half of China’s existing capacity is already losing money and the entire fleet only operates half the time, a sign of overcapacity.\nWhile it should save money overall, the scale of the transformation implied by our work is significant and would require a very rapid acceleration of current progress. The capacity of renewables and storages, as well as transmission infrastructure, would need to be scaled up very quickly.\nNevertheless, our analysis shows that such a fast decarbonisation and clean power transition is both technically feasible and economically beneficial.\nOptions to bring such a transition about could include long-term targets for clean energy, such as a zero-emission power target, as well as electricity market reforms. This could create incentives to reduce institutional barriers to trading power across regions and to better integrate renewable energy.\nCheck the original post at Carbon Brief. Read more about our paper.\n\nReferences\n\n\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.” Nature Communications 11 (1): 2486. https://doi.org/10.1038/s41467-020-16184-x."
   },
   {
-    "objectID": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html",
-    "href": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html",
-    "title": "Webinar: Charting China’s Power Sector Coal Decarbonization",
+    "objectID": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html",
+    "href": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html",
+    "title": "Gang He recognized as World’s Top 2% Scientists in 2024",
     "section": "",
-    "text": "Agenda"
+    "text": "The database mistakenly references my former employer. I have since joined CUNY-Baruch College."
   },
   {
-    "objectID": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#recorded-video",
-    "href": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#recorded-video",
-    "title": "Webinar: Charting China’s Power Sector Coal Decarbonization",
-    "section": "Recorded Video",
-    "text": "Recorded Video"
+    "objectID": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html#acknowledgment",
+    "href": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html#acknowledgment",
+    "title": "Gang He recognized as World’s Top 2% Scientists in 2024",
+    "section": "Acknowledgment",
+    "text": "Acknowledgment\nGrateful to be recognized on the Stanford/Elsevier Top 2% Scientists List 2024 in three subfileds:\n\nEnvironmental Sciences\nEnergy\nEnabling & Strategic Technologies\n\nI want to take a moment to thank my current and former students, visiting scholars, mentors, collaborators, funders, and colleagues for their invaluable support."
   },
   {
-    "objectID": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#remarks",
-    "href": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#remarks",
-    "title": "Webinar: Charting China’s Power Sector Coal Decarbonization",
-    "section": "Remarks",
-    "text": "Remarks\nThank you, Jessica, for the nice introduction.\nLet me start by congratulating Dr. Cui and the team for the release of such an important and timely report. I want to echo what Prof. Yuan have just shown the implications of China’s coal transition. The report lays down a ground break work to identify low hanging fruits of coal plants retirement and shows a feasible strategy to phase down coal power in China.\nI hope to add a few comments focusing on renewables. You may curious this is coal phase down event, why am I talking about renewables. Here is the thing, it’s good to phase down coal, then where will our electricity come from? The answer is: non-fossil sources, especially renewables! My rationale is that the more we can provide stable and secure renewables supply, the less we will rely on coal, and the better chance we can successfully phase down coal.\nFirst, China’s clean power transition needs two accelerations at the same time. While accelerating phase down of coal, we will need to accelerate renewable development and integration. Renewables will need to first feed all the new demand and then to replace coal. Let’s be real, coal generation is still growing, good news is the share of renewables grows too. In 2021, coal accounts about 62% of total generation, hydro about 16%, nuclear 5%, wind 8%, and solar 4%. Renewables (hydro, wind, and solar) overtook coal in new capacity in 2013, and renewable combined exceeded 50% of the new capacity in 2016, and in 2021, 78% of the new capacity are renewables. According to the latest data from the National Energy Administration, by the end of 2021, the country’s installed wind and solar capacity both exceeded 300 GW, wind 328GW and solar 306GW. To achieve carbon neutrality goal, we need 10x today’s solar and wind capacity by mid-century, that’s the scale of acceleration we are talking here.\nSecond, cheap renewables are a game changer, a renewable dominant path is not just technical feasible, but also cost effective, and with water saving and other co-benefits. This chart from Our World in Data shows that from 2009 to 2019 the cost of PV fell by 90 percent, onshore wind by 70%, and concentrated solar by 16%. The learning rate reaches 36% for PV and 23% for onshore wind, meaning that for every doubling of cumulative installed capacity, the cost of PV fell 36% and onshore wind 23%. 2021 can be described as the tipping point of grid parity or we say, “low-cost renewable era”. In China, the National Development and Reform Commission, canceled the subsidized tariff for new central PV and onshore wind projects, a milestone for renewables. The arrival of grid parity, relative to the 2000 forecast, about 50 years ahead of time; relative to the 2010 forecast, about 30 years ahead of time; relative to the 2015 forecast, about 10 years ahead of time. The early arrival of grid parity accelerates the development of renewable energy and opens new possibilities for achieving carbon neutrality to confront climate change.\nIn a collaborative Nature Communications paper with Lawrence Berkeley National Laboratory, we found that if the current trend of declining renewables costs continues, by 2030, wind and solar could provide 39% of electricity generation, together with hydro (14%) and nuclear (10%), the share of non-fossil electricity could be 62%, compared to 50% commonly discussed. What’s more, it will be 11% cheaper than in the reference scenario. Wind and solar together could exceed 1800GW of capacity, compared to the 1200GW national goal. In another collaborative paper with Tongji University, we find cheap renewables reduces the need for carbon capture and storage by 80% in 2050 and saves water consumption for cooling by 10 billion cubic meters annually compared with the reference scenario.\nThird, coal could play a facilitator’s role in integrating renewables, coal needs to reposition or repurpose itself from cornerstone to stepstone in clean power transition. Flexibility retrofitting and converting coal plants to reserved capacity could help to address the flexibility challenges in a renewable dominant grid, even though coal flexibility’s contribution to renewable integration is marginal comparing to building national electricity market and dispersed renewable investments, accordingly to a collaborative paper with LBL published in iScience.\nIn summary, accelerating coal transition and renewable development needs to go hand in hand, and renewable achieving grid parity not just make this technical feasible, but also economic effective, and coal could reposition and repurpose itself from footstone to stepstone in clean power transition."
+    "objectID": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html#about-worlds-top-2-scientists",
+    "href": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html#about-worlds-top-2-scientists",
+    "title": "Gang He recognized as World’s Top 2% Scientists in 2024",
+    "section": "About World’s Top 2% Scientists",
+    "text": "About World’s Top 2% Scientists\n\nStanford University’s list of “World’s Top 2%” scientists is based on a 2% or above percentile rank, or the top 100,000 by c-score (with and without self-citations). This prestigious list identifies the world’s leading researchers, representing approximately 2% of all scientists worldwide. It encompasses standardised data on citations, h-index, and a wide range of bibliometric indicators. Researchers are classified into 22 scientific fields and 174 sub-fields, drawing from Scopus data provided by Elsevier through ICSR Lab.\n\nLearn more here."
   },
   {
-    "objectID": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#related-papers",
-    "href": "posts/2022-03-ccci-power-sector-coal-decarbonization/index.html#related-papers",
-    "title": "Webinar: Charting China’s Power Sector Coal Decarbonization",
-    "section": "Related Papers",
-    "text": "Related Papers\n\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x.\nLin, Jiang, Nikit Abhyankar, Gang He, Xu Liu, and Shengfei Yin. 2022. Large Balancing Areas and Dispersed Renewable Investment Enhances Grid Flexibility in a Renewable-Dominant Power System in China. iScience 25(2): 103749. doi: 10.1016/j.isci.2022.103749.\nZhang, Chao, Gang He, Josiah Johnston, and Lijin Zhong. 2021. Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint. Journal of Cleaner Production 329: 129765. doi: 10.1016/j.jclepro.2021.129765."
-  },
-  {
-    "objectID": "posts/2023-11-switch-china-open-model/index.html",
-    "href": "posts/2023-11-switch-china-open-model/index.html",
-    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
+    "objectID": "posts/2019-nyclcpa-testimony/index.html",
+    "href": "posts/2019-nyclcpa-testimony/index.html",
+    "title": "Gang testified for the New York State Climate Leadership and Community Protection Act",
     "section": "",
-    "text": "SWITCH-China Open Model"
+    "text": "Gang testified in the New York State Senate Hearings On The Climate Leadership And Community Protection Act, Feb 2019 (Photo by Ann Parry)"
   },
   {
-    "objectID": "posts/2023-11-switch-china-open-model/index.html#summary",
-    "href": "posts/2023-11-switch-china-open-model/index.html#summary",
-    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
-    "section": "Summary",
-    "text": "Summary\nChina’s power sector in 2022 accounted for about 1/4 of global coal consumption, 1/8 of global energy related carbon emission, and at the same time, 40% of global solar and wind capaicity. This fast transiting sector is under pressure to lower its carbon emissions while strive to power the world’s largest manufacturer and fastest growing mid-class. The scale and scope of China’s clean power transition is unprecedented and its impacts are enormouse, yet its trojactories are uncertain. How can China’s power sector achieve carbon netrality will in large impact how can the world meet the net-zero goals. Modeling China’s power transition is both important and challenging. After years’ efforts, and collaboration, I decide to open-source SWITCH-China Model and make it SWITCH-China Open Model to facilitate the modeling integration and comparison, data sharing, policy discussion and debate."
+    "objectID": "posts/2019-nyclcpa-testimony/index.html#news-link",
+    "href": "posts/2019-nyclcpa-testimony/index.html#news-link",
+    "title": "Gang testified for the New York State Climate Leadership and Community Protection Act",
+    "section": "News Link",
+    "text": "News Link\nNews by WSHU Public Radio\n\nQuotes\n\nGang He is an assistant professor at Stony Brook University who focuses on energy economics and climate policy. He told lawmakers at a public hearing on Long Island last week that educating people should be part of any legislation that hopes to have a meaningful impact on climate change.\n“In addition to policy, technology, there are also behavior components to that. How we incentivize people to change their behavior and their lifestyle.”"
   },
   {
-    "objectID": "posts/2023-11-switch-china-open-model/index.html#video",
-    "href": "posts/2023-11-switch-china-open-model/index.html#video",
-    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
+    "objectID": "posts/2019-nyclcpa-testimony/index.html#testimony-transcript",
+    "href": "posts/2019-nyclcpa-testimony/index.html#testimony-transcript",
+    "title": "Gang testified for the New York State Climate Leadership and Community Protection Act",
+    "section": "Testimony Transcript",
+    "text": "Testimony Transcript\n\nTestimony of Dr. Gang He\nBefore the New York State Senate Environmental Conservation Committee Public Hearing on the Climate and Community Protection Act—S.2992/A.3876 February 15, 2019—Mineola, New York\nSenator Todd Kaminsky, and members of the Committee on Environmental Conservation, I am very pleased to have the opportunity to testify before the committee. I appreciate the attention your committee is giving to the vital issues of greenhouse gas emissions reduction and clean energy.\nI’m an assistant professor in the Department of Technology and Society at Stony Brook University. My research focuses on energy system modeling, energy economic, energy and climate policy.\n\n\nRenewable energy is achieving global momentum\nThe costs of solar photovoltaics (PV), wind, and battery storage have fallen by approximately 65% to 85% since 2010 and are projected to decline further in the near future—creating opportunities for deep decarbonization in the power sector and energy systems. According to the latest report from Green Tech Media Research, U.S. Residential Solar Economic Outlook: Grid Parity, Rate Design and Net Metering Risk, 20 U.S. states are currently at grid parity, including in New York.\n\n\nNew York’s opportunity to keep leadership in clean energy and climate action\nNew York State has an opportunity to lead in clean energy and climate action by introducing and implementing the renewable energy development and carbon mitigation targets. California, for example, is on the path and pace to achieve goals to reduce GHG to 40% below 1990 levels by 2030, benefit from a series of supporting policies1, including:\n\nA renewable energy portfolio standard (RPS) to increase renewable electricity production to 60% by 2030;\n\nA low-carbon fuel standard to reduce the carbon intensity of transportation fuels by 20 percent by 2030;\n\nAnd efficiency standards in building, appliance, water and others to double energy efficiency savings at existing buildings;\n\nSuite of other energy and climate policies to facilitate the transition.\n\nIn addition to California, New Jersey (50 percent by 2030), Connecticut (40 percent by 2030) and Massachusetts (35 percent by 2030) all adopted stronger targets for renewable energy, accelerating their states’ transitions away from fossil fuels and toward to a clean energy future. New York State has to choose to lead, or fall behind.\n\n\nGreen jobs and economic benefits\nSuch clean energy transition is not only generating renewable energy and reducing carbon emissions, but also creating jobs and economic benefits to New York State and local communities. My research group has worked with the offshore wind industry, to estimate the jobs and economic impact of offshore wind projects in New York State. We estimated that a typical 800MW offshore wind project could create more than 3000 direct and indirect clean full-time equivalent energy jobs and bring nearly 700 million economic impact to the New York State. About 40 percent of the jobs will be in Long Island area. Work in the Long Island region includes cable and converter station connections, and work on the onshore substation. There will also jobs related R&D spending, and community development.\n\n\nPaving the road for 21st century economic competitiveness\nEnergy technology innovation, together with other emerging technologies such as AI, big data, internet of things, block chain, and their applications to clean energy sector, are building the next frontiers of economic development and competition. The clean energy workforce, and the education of next generation energy leaders are the new pillars to support a sustainable future for New York State.\nThe key message I’d like to share is that leadership in clean energy development and climate action present an economic opportunity for New York State. The job creation and economic benefits through clean energy innovation and investment is a true opportunity, and New York could harvest those benefit as an earlier mover.\nThe transcprit is also available in pdf."
+  },
+  {
+    "objectID": "posts/2019-nyclcpa-testimony/index.html#footnotes",
+    "href": "posts/2019-nyclcpa-testimony/index.html#footnotes",
+    "title": "Gang testified for the New York State Climate Leadership and Community Protection Act",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nCheck more about California’s climate policy at Berkeley Laws’s California Climate Policy Dashboard↩︎"
+  },
+  {
+    "objectID": "posts/2017-china-electricity-for-all/index.html",
+    "href": "posts/2017-china-electricity-for-all/index.html",
+    "title": "Experiences and lessons from China’s success in providing electricity for all",
+    "section": "",
+    "text": "Paper\n\n\n\nExperiences and lessons from China’s success in providing electricity for all\nGang He*, and David Victor\nResources, Conservation and Recycling (2017)\nDOI: 10.1016/j.resconrec.2017.03.011"
+  },
+  {
+    "objectID": "posts/2017-china-electricity-for-all/index.html#abstract",
+    "href": "posts/2017-china-electricity-for-all/index.html#abstract",
+    "title": "Experiences and lessons from China’s success in providing electricity for all",
+    "section": "Abstract",
+    "text": "Abstract\nIn 2015 China provided access to electricity to its entire population—the first of the large emerging and developing countries to achieve that landmark goal that most advanced industrialized countries met decades earlier. We found some key experiences and lessons to be learned from China’s successful program to provide electricity for all. Substantial funding from the central government, delivered by mechanisms sensitive to local provincial needs, were essential to success. Also vital was use of off-grid solar home systems for the most remote users for whom grid connection would be quite costly."
+  },
+  {
+    "objectID": "posts/2017-china-electricity-for-all/index.html#links",
+    "href": "posts/2017-china-electricity-for-all/index.html#links",
+    "title": "Experiences and lessons from China’s success in providing electricity for all",
+    "section": "Links",
+    "text": "Links\nPaper summary\nPublished paper\nPreprint pdf"
+  },
+  {
+    "objectID": "posts/2017-china-electricity-for-all/index.html#video",
+    "href": "posts/2017-china-electricity-for-all/index.html#video",
+    "title": "Experiences and lessons from China’s success in providing electricity for all",
     "section": "Video",
     "text": "Video"
   },
   {
-    "objectID": "posts/2023-11-switch-china-open-model/index.html#slides",
-    "href": "posts/2023-11-switch-china-open-model/index.html#slides",
-    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
-    "section": "Slides",
-    "text": "Slides\n\n\n\n\nAbove are the video and slides of my presentation for Openmod meets USA 2023 online. Check the slides in a new tab."
-  },
-  {
-    "objectID": "posts/2023-11-switch-china-open-model/index.html#core-publications",
-    "href": "posts/2023-11-switch-china-open-model/index.html#core-publications",
-    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
-    "section": "Core publications",
-    "text": "Core publications\nHe, Gang*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen*. 2016. SWITCH-China: A Systems Approach to Decarbonizing China’s Power System. Environmental Science & Technology 50(11): 5467–5473. doi: 10.1021/acs.est.6b01345.\nHe, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System. Nature Communications 11(1): 2486. doi: 10.1038/s41467-020-16184-x.\nZhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong. 2021. Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint. Journal of Cleaner Production 329: 129765. doi: 10.1016/j.jclepro.2021.129765.\nPeng, Liqun, Denise L. Mauzerall*, Yaofeng D. Zhong, and Gang He*. 2023. Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China. Nature Communications 14: 4858. doi:10.1038/s41467-023-40337-3."
-  },
-  {
-    "objectID": "posts/2023-11-switch-china-open-model/index.html#acknowledgment",
-    "href": "posts/2023-11-switch-china-open-model/index.html#acknowledgment",
-    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
-    "section": "Acknowledgment",
-    "text": "Acknowledgment\n\nSWITCH/EDF and EDF-China team: Matthias Fripp, Oleg Lugovoy, Suzi Kerr, and Ji Gao, Keyang Xue, Gray Zhuoran Li, and others\n\nUCB and RAEL: Daniel Kammen, Anne-Perrine Avrin, Jianwei Tian, James Nelson, Josiah Johnston, Ana Mileva, Bo Li, Patricia Hidalgo-Gonzalez, Juan Pablo Carvallo\n\nGridpath: Qian Luo, Haozhe Yang, Ana Mileva, and Ranjit Deshmukh\n\nCollaborators: Chao Zhang, Jiang Lin, Amol Phadke, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, Liqun Peng, Denise Mauzerall, Desmond Zhong, Wenjia Cai, Yu Chen, Yuang Chen, Shiyu Huang, Jingxuan Hui, Haoran Li, Hongyou Lu, Xiao Su, Yang Wang, Zheng Wang, Kate Yu, Shuyu Yang, Jiahai Yuan, Wenhua Zhang, Hongyang Zou, and many more"
-  },
-  {
-    "objectID": "posts/2023-11-switch-china-open-model/index.html#learn-more",
-    "href": "posts/2023-11-switch-china-open-model/index.html#learn-more",
-    "title": "SWITCH-China: Open Source Model for the World’s Largest Power System",
-    "section": "Learn more",
-    "text": "Learn more\nhttps://www.ganghe.net/research/switch-china-model"
-  },
-  {
-    "objectID": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
-    "href": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
-    "title": "Participating APPAM 2024",
+    "objectID": "posts/2022-04-nikkei-nuclear-delemma/index.html",
+    "href": "posts/2022-04-nikkei-nuclear-delemma/index.html",
+    "title": "The scale of China’s future nuclear will depend on how renewables evolve",
     "section": "",
-    "text": "I will be organizing one session, presenting one paper and one poster in the APPAM 2024 Annual Meeting, welcome to join us and hope to meet you there.\n\n\nClimate Change Impacts and Responses: Assessment, Politics and Policy\nThursday, November 21, 2024: 8:30 AM - 10:00 AM\nGaylord National Harbor, National Harbor 15\nAbstract: Climate change presents a multifaceted challenge, impacting energy systems, urban infrastructure, and financial policies. This panel brings together three papers offering comprehensive insights into the assessment, politics, and policy responses to climate change impacts. Paper 1 examines the effects of climate change on the supply-demand match (SDM) in global wind and solar energy systems. Using state-of-the-art climate models, the paper reveals significant reductions in SDM across various regions by the end of the century, emphasizing the need for early adaptation measures in the energy sector. Paper 2 assesses the effectiveness of current conservation projects and funding allocation in meeting the water needs of the Colorado River Basin, particularly in light of ongoing droughts and climate change. Analyzed 593 projects across thirteen programs, the paper shows that while the majority of funds went to municipal projects, it did not result in high amounts of estimated water savings compared to other categories. Paper 3 studies urban stormwater flooding and policy solutions, focusing on marginalized populations in Chicago. Through socio-institutional network analysis and economic assessments, the paper highlights the importance of coordinated efforts at both local and national levels to address flooding disparities and integrate green infrastructure for sustainable urban development. Paper 4 investigates the carbon emission reduction effect of green financial policies in China. By analyzing data from green finance reform and innovation pilot cities, the paper uncovers significant reductions in carbon emission intensity, particularly through industrial structure optimization and green technology innovation, with regional variations in policy effectiveness. These papers collectively contribute valuable empirical evidence and policy implications for understanding and mitigating the complex impacts of climate change on energy systems, urban resilience, and sustainable finance.\nOrganizer: Gang He, CUNY-Baruch College\nPanel Chair: Gang He, CUNY-Baruch College\nDiscussant:\nMallory Flowers, University of Rhode Island\nEmre Hatipoglu, KAPSARC School of Public Policy\nPresentations\nID# 52932 Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems\nLaibao Liu1, Gang He2, Mengxi Wu3, Gang Liu4, Haoran Zhang5, Ying Chen6, Jiashu Shen4 and Shuangcheng Li4, (1)The University of Hong Kong, (2)CUNY-Baruch College, (3)The Hong Kong University of Science and Technology, (4)Peking University, (5)University College London, (6)University of Birmingham\nID# 54815 Addressing Water Scarcity in the Colorado River Basin: Review of Conservation Policies\nPaloma Avila, Mehdi Nemati, Daniel Crespo and Ariel Dinar, (1)University of California, Riverside\nID# 52935 Urban Stormwater Flooding: Policy Solutions Addressing Chicago’s Marginalized Sub-Populations\nDarren Christoper, Caleb Hadley, Ron Henderson, Hao Huang, David Lampert, Michael Sansone, Matthew A. Shapiro, Brent Stephens and Maria Villalobos Hernandez, Illinois Institute of Technology\nID# 52937 Carbon Emission Reduction Effect of Green Financial Policy: Empirical Evidence from the Green Finance Reform and Innovation Pilot Zones in China\nTing Guan, School of Government and Lishan Fu, Beijing Normal University\n\n\n\nHealth and Climate Benefits of Imported Solar Photovoltaic in the United States\nMinghao Qiu1, Gang He2, Peter Marcotullio3, (1)Stony Brook University, (2)CUNY-Baruch College, (3)CUNY-Hunter College\nFriday Poster Reception\nFriday, November 22, 2024: 5:00 PM - 6:30 PM\nGaylord National Harbor, Potomac AB"
+    "text": "https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds"
   },
   {
-    "objectID": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html#summary",
-    "href": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html#summary",
-    "title": "Participating APPAM 2024",
+    "objectID": "posts/2022-04-nikkei-nuclear-delemma/index.html#news-link",
+    "href": "posts/2022-04-nikkei-nuclear-delemma/index.html#news-link",
+    "title": "The scale of China’s future nuclear will depend on how renewables evolve",
     "section": "",
-    "text": "I will be organizing one session, presenting one paper and one poster in the APPAM 2024 Annual Meeting, welcome to join us and hope to meet you there.\n\n\nClimate Change Impacts and Responses: Assessment, Politics and Policy\nThursday, November 21, 2024: 8:30 AM - 10:00 AM\nGaylord National Harbor, National Harbor 15\nAbstract: Climate change presents a multifaceted challenge, impacting energy systems, urban infrastructure, and financial policies. This panel brings together three papers offering comprehensive insights into the assessment, politics, and policy responses to climate change impacts. Paper 1 examines the effects of climate change on the supply-demand match (SDM) in global wind and solar energy systems. Using state-of-the-art climate models, the paper reveals significant reductions in SDM across various regions by the end of the century, emphasizing the need for early adaptation measures in the energy sector. Paper 2 assesses the effectiveness of current conservation projects and funding allocation in meeting the water needs of the Colorado River Basin, particularly in light of ongoing droughts and climate change. Analyzed 593 projects across thirteen programs, the paper shows that while the majority of funds went to municipal projects, it did not result in high amounts of estimated water savings compared to other categories. Paper 3 studies urban stormwater flooding and policy solutions, focusing on marginalized populations in Chicago. Through socio-institutional network analysis and economic assessments, the paper highlights the importance of coordinated efforts at both local and national levels to address flooding disparities and integrate green infrastructure for sustainable urban development. Paper 4 investigates the carbon emission reduction effect of green financial policies in China. By analyzing data from green finance reform and innovation pilot cities, the paper uncovers significant reductions in carbon emission intensity, particularly through industrial structure optimization and green technology innovation, with regional variations in policy effectiveness. These papers collectively contribute valuable empirical evidence and policy implications for understanding and mitigating the complex impacts of climate change on energy systems, urban resilience, and sustainable finance.\nOrganizer: Gang He, CUNY-Baruch College\nPanel Chair: Gang He, CUNY-Baruch College\nDiscussant:\nMallory Flowers, University of Rhode Island\nEmre Hatipoglu, KAPSARC School of Public Policy\nPresentations\nID# 52932 Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems\nLaibao Liu1, Gang He2, Mengxi Wu3, Gang Liu4, Haoran Zhang5, Ying Chen6, Jiashu Shen4 and Shuangcheng Li4, (1)The University of Hong Kong, (2)CUNY-Baruch College, (3)The Hong Kong University of Science and Technology, (4)Peking University, (5)University College London, (6)University of Birmingham\nID# 54815 Addressing Water Scarcity in the Colorado River Basin: Review of Conservation Policies\nPaloma Avila, Mehdi Nemati, Daniel Crespo and Ariel Dinar, (1)University of California, Riverside\nID# 52935 Urban Stormwater Flooding: Policy Solutions Addressing Chicago’s Marginalized Sub-Populations\nDarren Christoper, Caleb Hadley, Ron Henderson, Hao Huang, David Lampert, Michael Sansone, Matthew A. Shapiro, Brent Stephens and Maria Villalobos Hernandez, Illinois Institute of Technology\nID# 52937 Carbon Emission Reduction Effect of Green Financial Policy: Empirical Evidence from the Green Finance Reform and Innovation Pilot Zones in China\nTing Guan, School of Government and Lishan Fu, Beijing Normal University\n\n\n\nHealth and Climate Benefits of Imported Solar Photovoltaic in the United States\nMinghao Qiu1, Gang He2, Peter Marcotullio3, (1)Stony Brook University, (2)CUNY-Baruch College, (3)CUNY-Hunter College\nFriday Poster Reception\nFriday, November 22, 2024: 5:00 PM - 6:30 PM\nGaylord National Harbor, Potomac AB"
+    "text": "https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds"
   },
   {
-    "objectID": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html#relevant-work",
-    "href": "posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html#relevant-work",
-    "title": "Participating APPAM 2024",
-    "section": "Relevant work",
-    "text": "Relevant work\n\n\n\n\n\n\n\n\n\n\nClimate change impacts on planned supply–demand match in global wind and solar energy systems\n\n\nUp to 32% or 44% of non-Antarctic land areas for wind or solar…\n\n\n\nLaibao Liu, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, Shuangcheng Li\n\n\nJul 24, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "posts/2022-04-nikkei-nuclear-delemma/index.html#quotes",
+    "href": "posts/2022-04-nikkei-nuclear-delemma/index.html#quotes",
+    "title": "The scale of China’s future nuclear will depend on how renewables evolve",
+    "section": "Quotes",
+    "text": "Quotes\n\nThe only question is, how much nuclear power will be needed in the mix?\n“From my research, China’s future power system will be quite sensitive to how much nuclear [power] China can put online,” Gang He, assistant professor at Stony Brook University in the U.S., told Nikkei Asia. “I have seen the nuclear power projections by 2050 outlining an increase from 300 GW to 500 GW.”\nGang added that China’s need for nuclear power could be kept down at around 300 GW, “if China manages to accelerate the expansion and integration of solar, wind and other renewables,” but that would require an installed capacity of 800-1,000 GW in renewables to cope with generating fluctuations."
   },
   {
-    "objectID": "posts/2021-05-jcp-ai-energy/index.html",
-    "href": "posts/2021-05-jcp-ai-energy/index.html",
-    "title": "An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017",
+    "objectID": "posts/2022-04-nikkei-nuclear-delemma/index.html#full-response",
+    "href": "posts/2022-04-nikkei-nuclear-delemma/index.html#full-response",
+    "title": "The scale of China’s future nuclear will depend on how renewables evolve",
+    "section": "Full Response",
+    "text": "Full Response\nQ: China, as we know has a long-term plan to increase the proportion of nuclear energy into its energy mix. What are the advantages and risks of such ambition?\nA: Energy strategy and policy are about trade-offs and fit in specific conditions and constraints. The political economy dynamics of different energy technologies will have a large impact on the outcomes.\nFrom my research, China’s future power system will be quite sensitive to how much nuclear can China put online. I have seen 2050 nuclear projections and plans range from about 300GW to 500GW, this 200GW differences will need about 800-1000GW more wind and solar capacity to fill the gap, as nuclear plants can run at 90% capacity factor with little or no impact from weather. However, if China manages to accelerate the expansion and integration of solar, wind, and other renewables, then the need for nuclear will be reduced to its lower end, with less pressure on nuclear risks and nuclear waste management.\nWe will see renewables and nuclear expand hand in hand in the short term to achieve carbon peak and carbon neutrality in the medium and long-term, but the comparative scale will be shaped by the changing political economy of those technologies."
+  },
+  {
+    "objectID": "posts/2022-04-nikkei-nuclear-delemma/index.html#featured-papers",
+    "href": "posts/2022-04-nikkei-nuclear-delemma/index.html#featured-papers",
+    "title": "The scale of China’s future nuclear will depend on how renewables evolve",
+    "section": "Featured Papers",
+    "text": "Featured Papers\n\nHe, Gang, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen. 2016. SWITCH-China: A Systems Approach to Decarbonizing China’s Power System. Environmental Science & Technology 50(11): 5467–5473.\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.” Nature Communications 11 (1): 2486. https://doi.org/10.1038/s41467-020-16184-x."
+  },
+  {
+    "objectID": "posts/2013-ep-carbon-offsetters-paradox/index.html",
+    "href": "posts/2013-ep-carbon-offsetters-paradox/index.html",
+    "title": "Addressing carbon Offsetters’ Paradox: Lessons from Chinese wind CDM",
     "section": "",
-    "text": "Paper\n\n\n\nAn empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017\nMekyung Lee*, and Gang He\nJournal of Cleaner Production (2021)\nDOI: 10.1016/j.jclepro.2021.126536"
+    "text": "Paper\n\n\n\nAddressing carbon Offsetters’ Paradox: Lessons from Chinese wind CDM\nGang He*, and Richard Morse\nEnergy Policy (2013)\nDOI: 10.1016/j.enpol.2013.09.021"
   },
   {
-    "objectID": "posts/2021-05-jcp-ai-energy/index.html#abstract",
-    "href": "posts/2021-05-jcp-ai-energy/index.html#abstract",
-    "title": "An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017",
+    "objectID": "posts/2013-ep-carbon-offsetters-paradox/index.html#abstract",
+    "href": "posts/2013-ep-carbon-offsetters-paradox/index.html#abstract",
+    "title": "Addressing carbon Offsetters’ Paradox: Lessons from Chinese wind CDM",
     "section": "Abstract",
-    "text": "Abstract\nWe investigated the applications of artificial intelligence (AI) algorithms in wind power technology changes over time and found that AI accelerates the automation of wind power systems. This study shows evidence of the evolution of wind technology innovation following the advancement in AI algorithms using the patents data issued in four intellectual property (IP) offices from 1980 through 2017. Artificial intelligence and more advanced data analytics can be effectively applied to increase the efficiency of wind power systems and to optimize wind farm operations. This study empirically analyzes the evolution of applications of AI algorithms in wind power technology by employing machine learning-based text mining and network analysis, demonstrating the dynamic changing pattern of applications of AI algorithms in wind power technology innovation."
+    "text": "Abstract\nThe clean development mechanism (CDM) has been a leading international carbon market and a driving force for sustainable development. But the eruption of controversy over offsets from Chinese wind power in 2009 exposed cracks at the core of how carbon credits are verified in the developing economies. The Chinese wind controversy therefore has direct implications for the design and negotiation of any successor to the Kyoto Protocol or future market-based carbon regimes. In order for carbon markets to avoid controversy and function effectively, the lessons from the Chinese wind controversy should be used to implement key reforms in current and future carbon policy design. The paper examines the application of additionality in the Chinese wind power market and draws implications for the design of effective global carbon offset policy. It demonstrates the causes of the wind power controversy, highlights underlying structural flaws, in how additionality is applied in China, the Offsetters’ Paradox, and charts a reform path that can strengthen the credibility of global carbon markets.\n\n\n\nThe Offsetters’ Paradox: if credits are given for the difference between BAU1 and target trajectories, any domestic policy that lowers baseline emissions to create BAU2 reduces carbon payments, and therefore disincentivizes domestic emissions-reducing policies that would shift BAU1 to BAU2."
   },
   {
-    "objectID": "posts/2021-05-jcp-ai-energy/index.html#links",
-    "href": "posts/2021-05-jcp-ai-energy/index.html#links",
-    "title": "An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017",
+    "objectID": "posts/2013-ep-carbon-offsetters-paradox/index.html#links",
+    "href": "posts/2013-ep-carbon-offsetters-paradox/index.html#links",
+    "title": "Addressing carbon Offsetters’ Paradox: Lessons from Chinese wind CDM",
     "section": "Links",
-    "text": "Links\nPublished paper\nSelf-archiving pdf"
-  },
-  {
-    "objectID": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html",
-    "href": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html",
-    "title": "Modeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization",
-    "section": "",
-    "text": "Paper\n\n\n\nModeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization\nBo Li, Minyou Chen*, Ziming Ma, Gang He, Wei Dai, Dongran Liu, Chi Zhang, and Haiwang Zhong\nIEEE Transactions on Industry Applications (2022)\nDOI: 10.1109/TIA.2021.3116916"
-  },
-  {
-    "objectID": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html#abstract",
-    "href": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html#abstract",
-    "title": "Modeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization",
-    "section": "Abstract",
-    "text": "Abstract\nThe deployment of renewable energy sources, power-to-gas (P2G) systems, and zero-emission vehicles provide a synergistic opportunity to accelerate the decarbonization of both power and transportation system. This article investigates the prospects of implementing hydrogen P2G technology in coupling the power system and the transportation system. A novel coordinated long-term planning model of integrated power and transportation system (IPTS) at the regional scale is proposed to simulate the power system balance and travel demand balance simultaneously, while subject to a series of constraints, such as CO2 emission constraints. IPTS of Texas was investigated considering various CO2 emission cap scenarios. Results show unique decarbonization trajectories of the proposed coordinated planning model, in which IPTS prefers to decarbonizing the power sector firstly. When the power system reaches ultralow carbon intensity, the IPTS then focuses on the road transportation system decarbonization. The results show that with the P2G system, IPTS of Texas could achieve 100% CO2 emission reductions (relative 2018 emissions level) by adding a combination of approximately 143.5 GW of wind, 50 GW of solar PV, and 40 GW of P2G systems with 2.5% renewables curtailment. The integration of the P2G system can produce hydrogen by use of surplus RES generation to meet hydrogen demand of Fuel cell electric vehicles (FCEVs) and to meet multiday electricity supply imbalances."
-  },
-  {
-    "objectID": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html#links",
-    "href": "posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html#links",
-    "title": "Modeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization",
-    "section": "Links",
-    "text": "Links\nPublished paper\nSelf-archiving pdf"
+    "text": "Links\nPublished paper\nPaper summary: Overcoming Imperfections\nSelf-archiving pdf"
   },
   {
     "objectID": "posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html#abstract",
@@ -1566,47 +1587,5 @@
     "title": "Now",
     "section": "Teaching",
     "text": "Teaching\nFall Semester:\n\nPAF 9199 Energy and Climate Policy\n\nSpring Semester:\n\nPAF 4199 Energy, Climate, and Society\nPAF 9174 Program Evaluation\n\nI’m seeking guest speakers who are passionate about sharing their experiences and inspiring next generation of climate leaders:\n\nClimate Guest Speakers"
-  },
-  {
-    "objectID": "posts/2024-09-16-stanford-elsevier-top-2%-scientists/index.html",
-    "href": "posts/2024-09-16-stanford-elsevier-top-2%-scientists/index.html",
-    "title": "Gang He included in the Stanfod/Elsevier Top 2% Scientists List 2024",
-    "section": "",
-    "text": "Grateful to be included in the Stanford/Elsevier Top 2% Scientist Rankings 2024 in three subfileds:\n\nEnvironmental Science\nEnergy\nEmerging Deployment\n\nI want to take a moment to thank my current and former students, visiting cholars, mentors, collaborators, funders, and colleagues for their invaluable support."
-  },
-  {
-    "objectID": "posts/2024-09-16-stanford-elsevier-top-2%-scientists/index.html#acknowledgment",
-    "href": "posts/2024-09-16-stanford-elsevier-top-2%-scientists/index.html#acknowledgment",
-    "title": "Gang He included in the Stanfod/Elsevier Top 2% Scientists List 2024",
-    "section": "",
-    "text": "Grateful to be included in the Stanford/Elsevier Top 2% Scientist Rankings 2024 in three subfileds:\n\nEnvironmental Science\nEnergy\nEmerging Deployment\n\nI want to take a moment to thank my current and former students, visiting cholars, mentors, collaborators, funders, and colleagues for their invaluable support."
-  },
-  {
-    "objectID": "posts/2024-09-16-stanford-elsevier-top-2%-scientists/index.html#about-worlds-top-2-scientists",
-    "href": "posts/2024-09-16-stanford-elsevier-top-2%-scientists/index.html#about-worlds-top-2-scientists",
-    "title": "Gang He included in the Stanfod/Elsevier Top 2% Scientists List 2024",
-    "section": "About World’s Top 2% Scientists",
-    "text": "About World’s Top 2% Scientists\n\nStanford University’s list of “World’s Top 2%” scientists is based on a 2% or above percentile rank, or the top 100,000 by c-score (with and without self-citations). This prestigious list identifies the world’s leading researchers, representing approximately 2% of all scientists worldwide. It encompasses standardised data on citations, h-index, and a wide range of bibliometric indicators. Researchers are classified into 22 scientific fields and 174 sub-fields, drawing from Scopus data provided by Elsevier through ICSR Lab.\n\nLearn more."
-  },
-  {
-    "objectID": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html",
-    "href": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html",
-    "title": "Gang He recognized as World’s Top 2% Scientists in 2024",
-    "section": "",
-    "text": "The database mistakenly references my former employer. I have since joined CUNY-Baruch College."
-  },
-  {
-    "objectID": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html#acknowledgment",
-    "href": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html#acknowledgment",
-    "title": "Gang He recognized as World’s Top 2% Scientists in 2024",
-    "section": "Acknowledgment",
-    "text": "Acknowledgment\nGrateful to be recognized on the Stanford/Elsevier Top 2% Scientists List 2024 in three subfileds:\n\nEnvironmental Sciences\nEnergy\nEnabling & Strategic Technologies\n\nI want to take a moment to thank my current and former students, visiting cholars, mentors, collaborators, funders, and colleagues for their invaluable support."
-  },
-  {
-    "objectID": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html#about-worlds-top-2-scientists",
-    "href": "posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html#about-worlds-top-2-scientists",
-    "title": "Gang He recognized as World’s Top 2% Scientists in 2024",
-    "section": "About World’s Top 2% Scientists",
-    "text": "About World’s Top 2% Scientists\n\nStanford University’s list of “World’s Top 2%” scientists is based on a 2% or above percentile rank, or the top 100,000 by c-score (with and without self-citations). This prestigious list identifies the world’s leading researchers, representing approximately 2% of all scientists worldwide. It encompasses standardised data on citations, h-index, and a wide range of bibliometric indicators. Researchers are classified into 22 scientific fields and 174 sub-fields, drawing from Scopus data provided by Elsevier through ICSR Lab.\n\nLearn more here."
   }
 ]
