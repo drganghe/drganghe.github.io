@@ -1,5 +1,5 @@
 ---
-title: "Gang He recognized as World's Top 2% Scientists in 2024"
+title: "Gang is recognized as World's Top 2% Scientists in 2024"
 description: "Thank you students, mentors, and collaborators!"
 author: "Stanford/Elsevier"
 date: "2024-09-17"
@@ -9,17 +9,17 @@ css: /custom.css
 #draft: true
 ---
 
-[![The database mistakenly references my former employer. I have since joined CUNY-Baruch College.](/files/awards/top2percentscientists.png){fig-align="center"}](https://topresearcherslist.com/Home/Profile/1081988)
+[![The database mistakenly references my former employer where I'm still an Affiliated Faculty. I have since joined CUNY-Baruch College.](/files/awards/top2percentscientists.png){fig-align="center"}](https://topresearcherslist.com/Home/Profile/1081988)
 
 ## Acknowledgment
 
-Grateful to be recognized on the **[Stanford/Elsevier Top 2% Scientists List 2024](https://topresearcherslist.com/Home/Profile/1081988)** in three subfileds:
+Grateful to be recognized on the **[Stanford/Elsevier Top 2% Scientists List 2024](https://topresearcherslist.com/Home/Profile/1081988)** in three subfields:
 
 - Environmental Sciences
 - Energy
 - Enabling & Strategic Technologies
 
-I want to take a moment to thank my current and former students, visiting scholars, mentors, collaborators, funders, and colleagues for their invaluable support. 
+I want to take a moment to thank my family, current and former students, visiting scholars, mentors, collaborators, funders, and colleagues for their invaluable support. 
 
 
 ## About World's Top 2% Scientists
