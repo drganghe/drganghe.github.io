@@ -2,7 +2,7 @@
 title: "Call for Papers: Achieving carbon neutrality in China’s power sector"
 description: "We are organizing an special issue in *The Electricty Journal*"
 author: "The Electricity Journal"
-date: "2024-01-30"
+date: "2024-09-30"
 categories: [news]
 image: "featured.jpg"
 css: /custom.css
@@ -33,7 +33,7 @@ Xi’an Jiaotong University, Xi’an, China
 
 ## Manuscript submission information
 
-You are invited to submit your manuscript from Feb 15 to Aug 31, 2024. For any inquiries about the appropriateness of contribution topics, please contact Executive Guest Editor Gang He via <Gang.He@baruch.cuny.edu>
+You are invited to submit your manuscript before December 31, 2024. For any inquiries about the appropriateness of contribution topics, please contact Executive Guest Editor Gang He via <Gang.He@baruch.cuny.edu>
 
 The journal’s submission platform ([Editorial Manager®](https://www.editorialmanager.com/electr)) is available for receiving submissions to this Special Issue. Please refer to the Guide for Authors to prepare your manuscript. When submitting your manuscripts, please choose "**SI: China power sector**" from the dropdown menu.
 
