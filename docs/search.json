@@ -18,7 +18,7 @@
     "href": "quarto-academic-site-examples.html",
     "title": "Quarto Academic Site Examples",
     "section": "",
-    "text": "Example Quarto academic websites I reference regularly:\n\n\n\nWeb\nGitHub\n\n\n\n\nhttps://quarto.org/\nhttps://github.com/quarto-dev/quarto-web\n\n\nhttps://www.andrewheiss.com/\nhttps://github.com/andrewheiss/ath-quarto\n\n\nhttps://www.jhelvy.com/\nhttps://github.com/jhelvy/jhelvy_quarto\n\n\nhttps://faculty.washington.edu/masiello/\nhttps://github.com/MasielloGroup/MasielloGroupWebsite\n\n\nhttps://affcom.ku.edu/\nhttps://github.com/jmgirard/affcomlab\n\n\nhttps://silviacanelon.com/\nhttps://github.com/spcanelon/silvia"
+    "text": "Example Quarto academic websites I reference regularly:\nTemplates I adapt you may find useful:"
   },
   {
     "objectID": "index.html#recent-posts",
@@ -1587,5 +1587,19 @@
     "title": "Now",
     "section": "Teaching",
     "text": "Teaching\nFall Semester:\n\nPAF 9199 Energy and Climate Policy\n\nSpring Semester:\n\nPAF 4199 Energy, Climate, and Society\nPAF 9174 Program Evaluation\n\nI’m seeking guest speakers who are passionate about sharing their experiences and inspiring next generation of climate leaders:\n\nClimate Guest Speakers"
+  },
+  {
+    "objectID": "quarto-academic-site-examples.html#five-useful-tips-to-build-an-academic-quarto-site",
+    "href": "quarto-academic-site-examples.html#five-useful-tips-to-build-an-academic-quarto-site",
+    "title": "Quarto Academic Site Examples",
+    "section": "Five useful tips to build an academic quarto site",
+    "text": "Five useful tips to build an academic quarto site\n\nIncludes\nI use includes to reuse syllabus statements, social share, academic button and other reuse material. I then only need to update one place and rerender to update all locations.\n{{include _statement.qmd}}\nAdd a “_” before include file names will avoid quato render those files.\n\n\nAcademic badges\nYou may want to show the Dimension Citation badge and Altmetric badge.\n&lt;span class=\"__dimensions_badge_embed__\" data-doi=\"10.1038/s41586-022-05316-6\" data-style=\"large_rectangle\"&gt;&lt;/span&gt; &lt;div data-badge-popover=\"right\" data-badge-type=\"1\" data-doi=\"10.1038/s41586-022-05316-6\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"&gt;&lt;/div&gt;\nReplace it with your doi.\nMake sure you include below code in the same page:\n&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;\n\n&lt;script async src=\"https://badge.dimensions.ai/badge.js\" charset=\"utf-8\"&gt;&lt;/script&gt;\nYou can showcase your highly cited and hot papers too.\n \n![](/files/images/highly-cited-paper-badge.png \"ESI Highly Cited Paper\"){width=20 fig-alt=\"Highly cited paper\"} ![](/files/images/hot-paper-badge.png \"ESI Hot Paper\"){width=20 fig-alt=\"Hot paper\"}"
+  },
+  {
+    "objectID": "quarto-academic-site-examples.html#useful-tips-to-build-an-academic-quarto-site",
+    "href": "quarto-academic-site-examples.html#useful-tips-to-build-an-academic-quarto-site",
+    "title": "Quarto Academic Site Examples",
+    "section": "Useful tips to build an academic quarto site",
+    "text": "Useful tips to build an academic quarto site\n\nIncludes\nI use includes to reuse syllabus statements, social share, academic badges and other reuseable materials. I then only need to update one place and rerender to update all locations.\n{{include _statement.qmd}}\nAdd a “_” before include file names will avoid quato render those files.\n\n\nAcademic badges\nYou may want to show the Dimension Citation badge and Altmetric badge.\n&lt;span class=\"__dimensions_badge_embed__\" data-doi=\"10.1038/s41586-022-05316-6\" data-style=\"large_rectangle\"&gt;&lt;/span&gt; &lt;div data-badge-popover=\"right\" data-badge-type=\"1\" data-doi=\"10.1038/s41586-022-05316-6\" data-hide-no-mentions=\"true\" class=\"altmetric-embed\"&gt;&lt;/div&gt;\nReplace it with your doi would do it.\nMake sure you include below code in the same page:\n&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;\n\n&lt;script async src=\"https://badge.dimensions.ai/badge.js\" charset=\"utf-8\"&gt;&lt;/script&gt;\nYou can showcase your highly cited and hot papers too.\n \n![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png \"ESI Highly Cited Paper\"){width=20 fig-alt=\"Highly cited paper\"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png \"ESI Hot Paper\"){width=20 fig-alt=\"Hot paper\"}\n\n\nSocial share\nAddToAny is what I found the easiest to set up, check more here: https://www.addtoany.com/buttons/for/website\nUsing includes will make edits easier, you will only need to add or remove button in the include file if needed.\n\n\nListing external items\nSometimes you just need listing items to link external links, I found the external listing very useful.\n    - path: https://www.nature.com/articles/s41586-022-05316-6\n      image: /files/images/journal/nature.avif\n      title: \"Quantifying the cost savings of global solar photovoltaic supply chains\"\n      subtitle: \"*Nature*\"\n      description: \"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically.\"\n      date: \"2022-10-26\"\nHere is an example, and source code."
   }
 ]

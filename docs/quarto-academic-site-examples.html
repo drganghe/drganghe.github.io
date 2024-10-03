@@ -22,6 +22,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -205,8 +239,20 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#useful-tips-to-build-an-academic-quarto-site" id="toc-useful-tips-to-build-an-academic-quarto-site" class="nav-link active" data-scroll-target="#useful-tips-to-build-an-academic-quarto-site">Useful tips to build an academic quarto site</a>
+  <ul class="collapse">
+  <li><a href="#includes" id="toc-includes" class="nav-link" data-scroll-target="#includes">Includes</a></li>
+  <li><a href="#academic-badges" id="toc-academic-badges" class="nav-link" data-scroll-target="#academic-badges">Academic badges</a></li>
+  <li><a href="#social-share" id="toc-social-share" class="nav-link" data-scroll-target="#social-share">Social share</a></li>
+  <li><a href="#listing-external-items" id="toc-listing-external-items" class="nav-link" data-scroll-target="#listing-external-items">Listing external items</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -265,8 +311,90 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 </tr>
 </tbody>
 </table>
+<p><br></p>
+<p>Templates I adapt you may find useful:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Web</th>
+<th>GitHub</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Personal</td>
+<td><a href="https://drganghe.github.io/" class="uri">https://drganghe.github.io/</a></td>
+<td><a href="https://github.com/drganghe/drganghe.github.io" class="uri">https://github.com/drganghe/drganghe.github.io</a></td>
+</tr>
+<tr class="even">
+<td>Lab/Group</td>
+<td><a href="https://deeppolicylab.github.io/" class="uri">https://deeppolicylab.github.io/</a></td>
+<td><a href="https://github.com/deeppolicylab/deeppolicylab.github.io" class="uri">https://github.com/deeppolicylab/deeppolicylab.github.io</a></td>
+</tr>
+<tr class="odd">
+<td>Class</td>
+<td><a href="https://drganghe.github.io/energy-climate-policy/" class="uri">https://drganghe.github.io/energy-climate-policy/</a></td>
+<td><a href="https://github.com/drganghe/energy-climate-policy" class="uri">https://github.com/drganghe/energy-climate-policy</a></td>
+</tr>
+<tr class="even">
+<td>Events</td>
+<td><a href="https://drganghe.github.io/climate-guest-speakers/" class="uri">https://drganghe.github.io/climate-guest-speakers/</a></td>
+<td><a href="https://github.com/drganghe/climate-guest-speakers" class="uri">https://github.com/drganghe/climate-guest-speakers</a></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<section id="useful-tips-to-build-an-academic-quarto-site" class="level2">
+<h2 class="anchored" data-anchor-id="useful-tips-to-build-an-academic-quarto-site">Useful tips to build an academic quarto site</h2>
+<section id="includes" class="level3">
+<h3 class="anchored" data-anchor-id="includes"><a href="https://quarto.org/docs/authoring/includes.html">Includes</a></h3>
+<p>I use includes to reuse syllabus statements, social share, academic badges and other reuseable materials. I then only need to update one place and rerender to update all locations.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>{{include _statement.qmd}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Add a “_” before include file names will avoid quato render those files.</p>
+</section>
+<section id="academic-badges" class="level3">
+<h3 class="anchored" data-anchor-id="academic-badges">Academic badges</h3>
+<p>You may want to show the Dimension Citation badge and Altmetric badge.</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-overflow-wrap code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>&lt;span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"&gt;&lt;/span&gt; &lt;div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"&gt;&lt;/div&gt;</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Replace it with your doi would do it.</p>
+<p>Make sure you include below code in the same page:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"&gt;&lt;/script&gt;</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>You can showcase your highly cited and hot papers too.</p>
+<p><img src="./files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> <img src="./files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"></p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="al">![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper")</span>{width=20 fig-alt="Highly cited paper"} <span class="al">![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper")</span>{width=20 fig-alt="Hot paper"}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="social-share" class="level3">
+<h3 class="anchored" data-anchor-id="social-share">Social share</h3>
+<p>AddToAny is what I found the easiest to set up, check more here: <a href="https://www.addtoany.com/buttons/for/website" class="uri">https://www.addtoany.com/buttons/for/website</a></p>
+<p>Using includes will make edits easier, you will only need to add or remove button in the include file if needed.</p>
+</section>
+<section id="listing-external-items" class="level3">
+<h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
+<p>Sometimes you just need listing items to link external links, I found the external listing very useful.</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="in">    - path: https://www.nature.com/articles/s41586-022-05316-6</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="in">      image: /files/images/journal/nature.avif</span></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="in">      title: "Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="in">      subtitle: "*Nature*"</span></span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="in">      description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="in">      date: "2022-10-26"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Here is an <a href="https://deeppolicylab.github.io/publications.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd">source code</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

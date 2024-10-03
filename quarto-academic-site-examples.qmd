@@ -16,4 +16,79 @@ Example Quarto academic websites I reference regularly:
 | <https://silviacanelon.com/>               | <https://github.com/spcanelon/silvia>                   |
 
 
+<br>
 
+Templates I adapt you may find useful:
+
+| Type      | Web                                                  | GitHub                                                     |
+| --------- | ---------------------------------------------------- | ---------------------------------------------------------- |
+| Personal  | <https://drganghe.github.io/>                        | <https://github.com/drganghe/drganghe.github.io>           |
+| Lab/Group | <https://deeppolicylab.github.io/>                   | <https://github.com/deeppolicylab/deeppolicylab.github.io> |
+| Class     | <https://drganghe.github.io/energy-climate-policy/>  | <https://github.com/drganghe/energy-climate-policy>        |
+| Events    | <https://drganghe.github.io/climate-guest-speakers/> | <https://github.com/drganghe/climate-guest-speakers>       |
+
+
+<br>
+
+## Useful tips to build an academic quarto site
+
+### [Includes](https://quarto.org/docs/authoring/includes.html)
+
+I use includes to reuse syllabus statements, social share, academic badges and other reuseable materials. I then only need to update one place and rerender to update all locations.
+
+``` markdown
+{{include _statement.qmd}}
+```
+
+Add a "_" before include file names will avoid quato render those files. 
+
+### Academic badges
+
+You may want to show the Dimension Citation badge and Altmetric badge.
+
+``` markdown{.code-overflow-wrap}
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+```
+Replace it with your doi would do it.
+
+Make sure you include below code in the same page:
+
+```markdown
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
+
+You can showcase your highly cited and hot papers too.
+
+![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"}
+
+```markdown
+![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"}
+```
+
+### Social share
+
+AddToAny is what I found the easiest to set up, check more here: <https://www.addtoany.com/buttons/for/website> 
+
+Using includes will make edits easier, you will only need to add or remove button in the include file if needed.
+
+
+### Listing external items
+
+Sometimes you just need listing items to link external links, I found the external listing very useful.
+
+```markdown
+    - path: https://www.nature.com/articles/s41586-022-05316-6
+      image: /files/images/journal/nature.avif
+      title: "Quantifying the cost savings of global solar photovoltaic supply chains"
+      subtitle: "*Nature*"
+      description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."
+      date: "2022-10-26"
+```
+
+Here is an [example](https://deeppolicylab.github.io/publications.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd).
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
