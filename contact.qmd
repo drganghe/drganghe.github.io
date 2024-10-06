@@ -1,10 +1,10 @@
 ---
 title: "Contact"
-#description-meta: "{{< meta description-meta >}}"
+description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
-#comments:
-#  giscus: 
-#    repo: drganghe/drganghe.github.io
+comments:
+ giscus: 
+   repo: drganghe/drganghe.github.io
 ---
 
 <center>

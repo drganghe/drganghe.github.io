@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 subtitle: "I teach energy systems, energy and climate policy, energy innovations, and methods classes. Here I list classes which I start to open source teaching material."
-#description-meta: "{{< meta description-meta >}}"
+description-meta: "Open courses on energy and climate policy, energy, climate, and society, energy systems analysis, program evaluations."
 title-block-banner: false
 ---
 

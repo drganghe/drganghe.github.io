@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-#description-meta: "{{< meta description-meta >}}"
+description-meta: "Information, pdfs, and social metrics of papers"
 #page-layout: full
 title-block-banner: false
 css: /custom.css

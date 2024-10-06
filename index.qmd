@@ -1,6 +1,6 @@
 ---
 title: "Gang He, PhD"
-#description-meta: "{{<p meta description-meta >}}"
+description-meta: "Gang He is an energy scholar, researcher, and teacher."
 image: files/profile/gang-he-cuny-profile.jpg
 page-navigation: false
 toc: false
