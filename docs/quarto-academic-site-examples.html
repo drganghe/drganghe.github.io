@@ -277,6 +277,17 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 </header>
 
 
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
 <p>Example Quarto academic websites I reference regularly:</p>
 <table class="caption-top table">
 <thead>
@@ -360,14 +371,14 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="useful-tips-for-building-an-academic-quarto-site">Useful tips for building an academic Quarto site</h2>
 <section id="using-includes-for-reusable-content" class="level3">
 <h3 class="anchored" data-anchor-id="using-includes-for-reusable-content">Using “Includes” for reusable content</h3>
-<p>To streamline updates across your site, us Quatro’s <a href="https://quarto.org/docs/authoring/includes.html">include</a> feature for reusable elements lik syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.</p>
+<p>To streamline updates across your site, use Quarto’s <a href="https://quarto.org/docs/authoring/includes.html">includes</a> feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>{{include _statement.qmd}}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>Prefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.</p>
 <p>Here is an example course <a href="https://github.com/drganghe/energy-climate-policy/blob/main/files/includes/_coursedescription.qmd">description</a>, and reuse it in <a href="https://github.com/drganghe/energy-climate-policy/blob/main/index.qmd">mainpage</a> and <a href="https://github.com/drganghe/energy-climate-policy/blob/main/syllabus.qmd">syllabus</a>.</p>
 </section>
 <section id="academic-badges" class="level3">
 <h3 class="anchored" data-anchor-id="academic-badges">Academic badges</h3>
-<p>Display academic badges like the Dimension Citation badge and Altmetric badge. Here’s an example for embedding them:</p>
+<p>Display academic badges like the <a href="https://badges.dimensions.ai/">Dimension Citation badge</a> and <a href="https://badge-docs.altmetric.com/getting-started.html">Altmetric badge</a>. Here’s an example for embedding them:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-overflow-wrap code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>&lt;span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"&gt;&lt;/span&gt; &lt;div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"&gt;&lt;/div&gt;</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>Replace the doi with your own.</p>
 <p>Make sure to include below scripts in the same page to enable the badges:</p>
@@ -383,6 +394,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <h3 class="anchored" data-anchor-id="social-sharing">Social sharing</h3>
 <p>For easy setup of social sharing buttons, <a href="https://www.addtoany.com/buttons/for/website">AddToAny</a> is a simple solution.</p>
 <p>Using includes files here will make it easier to manage updates, as any changes to social buttons need only be made once.</p>
+<p>Here is an <a href="https://github.com/drganghe/drganghe.github.io/blob/main/files/includes/_socialshare.qmd">example</a>.</p>
 </section>
 <section id="the-art-of-listing" class="level3">
 <h3 class="anchored" data-anchor-id="the-art-of-listing">The art of listing</h3>
@@ -391,7 +403,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <p>Options: <code>grid-columns</code>, <code>image-height</code>, <code>grid-item-align</code></p>
 <p>Display: <code>fields</code> and <code>field-display-names</code></p>
 <p>By mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.</p>
-<p>Here is an <a href="https://deeppolicylab.github.io/people.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/people.qmd">source code</a>.</p>
+<p>Here is an <a href="https://deeppolicylab.github.io/research.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research.qmd">source code</a>; another <a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.qmd">source code</a>.</p>
 </section>
 <section id="listing-external-items" class="level3">
 <h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
@@ -402,7 +414,7 @@ gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
 <span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="in">      subtitle: "*Nature*"</span></span>
 <span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="in">      description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
 <span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="in">      date: "2022-10-26"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>If you have many items to list, then it’s helpful to add them into a yml file.</p>
+<p>If you have many items to list, it’s efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.</p>
 <p>Here is an <a href="https://deeppolicylab.github.io/publications.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd">source code</a>.</p>
 <!--Include social share buttons-->
 <!-- 

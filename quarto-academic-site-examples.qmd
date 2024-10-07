@@ -5,6 +5,8 @@ title-block-banner: false
 page-layout: full
 ---
 
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
 
 Example Quarto academic websites I reference regularly:
 
@@ -37,7 +39,7 @@ Templates I adapt you may find useful:
 
 ### Using "Includes" for reusable content
 
-To streamline updates across your site, us Quatro's [include](https://quarto.org/docs/authoring/includes.html) feature for reusable elements lik syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.
+To streamline updates across your site, use Quarto's [includes](https://quarto.org/docs/authoring/includes.html) feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.
 
 ``` markdown
 {{include _statement.qmd}}
@@ -50,7 +52,7 @@ Here is an example course [description](https://github.com/drganghe/energy-clima
 
 ### Academic badges
 
-Display academic badges like the Dimension Citation badge and Altmetric badge. Here's an example for embedding them:
+Display academic badges like the [Dimension Citation badge](https://badges.dimensions.ai/) and [Altmetric badge](https://badge-docs.altmetric.com/getting-started.html). Here's an example for embedding them:
 
 ``` markdown{.code-overflow-wrap}
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
@@ -82,6 +84,8 @@ For easy setup of social sharing buttons, [AddToAny](https://www.addtoany.com/bu
 
 Using includes files here will make it easier to manage updates, as any changes to social buttons need only be made once.
 
+Here is an [example](https://github.com/drganghe/drganghe.github.io/blob/main/files/includes/_socialshare.qmd).
+
 
 ### The art of listing
 
@@ -95,7 +99,7 @@ Display: `fields` and `field-display-names`
 
 By mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.
 
-Here is an [example](https://deeppolicylab.github.io/people.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/people.qmd).
+Here is an [example](https://deeppolicylab.github.io/research.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research.qmd); another [example](https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.qmd).
 
 
 ### Listing external items
@@ -111,7 +115,7 @@ If you need to list external resources with key metadata, you can use this forma
       date: "2022-10-26"
 ```
 
-If you have many items to list, then it's helpful to add them into a yml file.
+If you have many items to list, it's efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.
 
 Here is an [example](https://deeppolicylab.github.io/publications.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd).
 
