@@ -1,6 +1,6 @@
 ---
 title: "Quarto Academic Site Examples and Tips"
-description-meta: "Quarto academic site examples, site, class, poster, slides templates, and tips of building an academic website."
+description-meta: "Quarto academic site examples; Quarto website examples; Quarto website templates; Quarto academic websites; site, class, poster, slides templates; tips of building an academic website."
 title-block-banner: false
 page-layout: full
 ---
@@ -8,7 +8,7 @@ page-layout: full
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-Example Quarto academic websites I reference regularly:
+## Example Quarto academic websites I reference regularly
 
 | Web                                        | GitHub                                                  |
 | ------------------------------------------ | ------------------------------------------------------- |
@@ -19,10 +19,10 @@ Example Quarto academic websites I reference regularly:
 | <https://affcom.ku.edu/>                   | <https://github.com/jmgirard/affcomlab>                 |
 | <https://silviacanelon.com/>               | <https://github.com/spcanelon/silvia>                   |
 
-
 <br>
 
-Templates I adapt you may find useful:
+
+## Templates I adapt you may find useful
 
 | Type      | Web                                                                              | GitHub                                                     |
 | --------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -34,6 +34,7 @@ Templates I adapt you may find useful:
 | Poster    | <https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png> | <https://github.com/brentthorne/posterdown>                |
 
 <br>
+
 
 ## Useful tips for building an academic Quarto site
 
@@ -89,7 +90,7 @@ Here is an [example](https://github.com/drganghe/drganghe.github.io/blob/main/fi
 
 ### The art of listing
 
-Listings are a powerful tool in Quarto, offering flexibility for creating visually appealing and organized pages. By adjusting listing options, you can control how content is presented.
+[Listings](https://quarto.org/docs/websites/website-listings.html) are a powerful tool in Quarto, offering flexibility for creating visually appealing and organized pages. By adjusting listing options, you can control how content is presented.
 
 Type: `default`, `grid`, `table`
 
