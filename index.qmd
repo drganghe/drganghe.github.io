@@ -1,6 +1,6 @@
 ---
 title: "Gang He, PhD"
-description-meta: "Gang He is an energy scholar, researcher, and teacher."
+description-meta: "Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition."
 image: files/profile/gang-he-cuny-profile.jpg
 page-navigation: false
 toc: false

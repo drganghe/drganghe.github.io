@@ -53,7 +53,13 @@ Here is an example course [description](https://github.com/drganghe/energy-clima
 
 ### Academic badges
 
-Display academic badges like the [Dimension Citation badge](https://badges.dimensions.ai/) and [Altmetric badge](https://badge-docs.altmetric.com/getting-started.html). Here's an example for embedding them:
+Display academic badges like the [Dimension Citation badge](https://badges.dimensions.ai/) and [Altmetric badge](https://badge-docs.altmetric.com/getting-started.html). 
+
+```{=html}
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+```
+
+Here's an example for embedding them:
 
 ``` markdown{.code-overflow-wrap}
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
