@@ -13,13 +13,18 @@ css: /custom.css
 
 ## Acknowledgment
 
-Grateful to be included on the **[Stanford/Elsevier Top 2% Scientists List 2024](https://topresearcherslist.com/Home/Profile/858833)** in three subfields:
+Grateful to be included on the **[Stanford/Elsevier Top 2% Scientists List 2024](https://topresearcherslist.com/Home/Profile/858833){.external target="_blank"}** in three subfields:
 
 - Environmental Sciences
 - Energy
 - Enabling & Strategic Technologies
 
 I want to take a moment to thank my family, current and former students, visiting scholars, mentors, collaborators, funders, and colleagues for their invaluable support. 
+
+
+## Links
+
+Baruch News, [Baruch College Faculty Included in World’s Top Scientist List](https://newscenter.baruch.cuny.edu/news/baruch-college-faculty-included-in-worlds-top-scientist-list/){.external target="_blank"}
 
 
 ## About World's Top 2% Scientists
