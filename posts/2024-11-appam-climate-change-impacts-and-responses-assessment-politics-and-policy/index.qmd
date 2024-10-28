@@ -3,7 +3,7 @@ title: "Participating APPAM 2024"
 description: "Gang will be organizing one session, presenting one paper and one poster"
 author: "Gang He"
 date: "2024-11-21"
-categories: [event]
+categories: [event, presentation]
 image: "featured.jpg"
 css: /custom.css
 #draft: true

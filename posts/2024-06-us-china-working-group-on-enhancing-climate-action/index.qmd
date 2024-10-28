@@ -3,7 +3,7 @@ title: "U.S.-China Working Group on Enhancing Climate Action in the 2020s"
 description: "Gang is invited to serve as an external expert in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s"
 author: "Gang He"
 date: "2024-06-24"
-categories: [news]
+categories: [news, outreach]
 image: "/files/images/handshake-sculpture.JPG"
 css: /custom.css
 #draft: true

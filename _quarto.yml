@@ -100,10 +100,6 @@ website:
 
 bibliography: references.bib
 
-exclude:
-  - media.qmd
-  - /posts/2023-04-06-china-table-heads-he-gang-researches-the-energy-transition/index.qmd
-
 format:
   html:
     theme: cosmo
@@ -118,4 +114,5 @@ format:
     link-external-newwindow: true
     email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+    include-in-header: "files/includes/_academic.qmd"
 

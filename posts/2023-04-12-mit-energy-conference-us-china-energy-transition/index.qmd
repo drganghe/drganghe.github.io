@@ -3,7 +3,7 @@ title: "MIT Energy Conference U.S. China Energy Transition"
 description: "Gang joins experts to discuss U.S. China Energy Transition."
 author: "MIT Energy Conference"
 date: "2023-04-12"
-categories: [news, event]
+categories: [news, event, presentation]
 image: "featured.jpeg"
 css: /custom.css
 ---

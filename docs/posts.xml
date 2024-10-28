@@ -14,7 +14,7 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.5.56</generator>
+<generator>quarto-1.6.30</generator>
 <lastBuildDate>Thu, 21 Nov 2024 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Participating APPAM 2024</title>
@@ -110,9 +110,70 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>event</category>
+  <category>presentation</category>
   <guid>https://drganghe.github.io/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/</guid>
   <pubDate>Thu, 21 Nov 2024 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>China needs to optimise pumped hydro and battery storage mix</title>
+  <dc:creator>Liqun Peng</dc:creator>
+  <dc:creator>Gang He</dc:creator>
+  <dc:creator>Jiang Lin</dc:creator>
+  <link>https://drganghe.github.io/posts/2024-10-China-needs-to-optimise-pumped-hydro-and-battery-storage-mix /</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Pumped storage hydropower supports China’s transition to renewable energy by generating electricity when the sun is not shining nor the wind blowing.</p>
+<p>A pumped hydro facility pumps water uphill into a reservoir when electricity demand and prices are low, usually at night, then releases it back downhill through turbines to generate electricity when demand and prices are high.</p>
+<p>The cost of building pumped hydro is high, but a facility lasts for around 60 years, meaning the full life-cycle cost of its power is relatively low. This reliable method for energy storage has witnessed tremendous growth in recent years, linked to the rolling out of China’s carbon emission goals. Between 2015, the year China adopted the Paris Agreement, and 2023, pumped hydro’s installed capacity more than doubled, from 22.8 gigawatts (GW) to 51 GW.</p>
+<p>China wants to increase this to over 62 GW by 2025, and around 120 GW by 2030, according to a plan released by the National Energy Administration (NEA) in 2021. There is currently 167 GW of pumped hydro in planning or under construction.</p>
+<p>However, our recent <a href="https://international.lbl.gov/publications/role-pumped-hydro-storage-china-s" class="external" target="_blank">study</a> indicates that simply building more pumped hydro might not be the most cost-effective approach to achieve a zero-carbon power system.</p>
+<p>Instead, to ensure grid stability and best support the transition to carbon neutrality, existing pumped hydro systems should be optimised while the more economical option of battery storage is widely deployed.</p>
+<section id="pumped-hydro-versus-batteries" class="level2">
+<h2 class="anchored" data-anchor-id="pumped-hydro-versus-batteries">Pumped hydro versus batteries</h2>
+<p>China’s solar and wind installed capacity has been increasing dramatically, from 120 GW in 2012 to over 1,200 GW in 2024, NEA figures show. This presents challenges to power system reliability given the variable nature of those energy sources. Technologies like pumped hydro and batteries, which store large amounts of energy, are essential in balancing the grid and increasing the power system’s flexibility.</p>
+<p>Though pumped hydro has a longer operational lifespan and a lower cost per kilowatt-hour, battery storage is more suitable for widespread application due to its faster construction time (less than six months) compared to pumped hydro (4-5 years), and the fact it doesn’t need specific topography or water availability.</p>
+<p>Pumped hydro is cost-effective and efficient for large-scale, long-duration storage, while batteries offer greater flexibility and quicker response times. The two technologies can therefore play complementary roles. As of the end of 2023, China had 86 GW of energy storage in place, with pumped storage accounting for 59.3% and battery storage 40.6%.</p>
+<p>As battery costs have been dropping significantly, there has been a boom in the adoption of battery energy storage, leading to a significant uptick in new projects.</p>
+</section>
+<section id="the-falling-price-of-batteries-may-leave-pumped-hydro-behind" class="level2">
+<h2 class="anchored" data-anchor-id="the-falling-price-of-batteries-may-leave-pumped-hydro-behind">The falling price of batteries may leave pumped hydro behind</h2>
+<p>We wanted to examine the role of pumped hydro in China’s power system and consider its optimum capacity in 2025 to 2050. To do so we used open-source software called GridPath to build a detailed model of China’s electricity system, including hourly provincial loads, interprovincial transmission constraints, regional wind and solar profiles, and cost projections for renewables and energy storage.</p>
+<p>Our findings indicate the NEA’s target for 120 GW of pumped hydro by 2030 will be sufficient to balance variable renewable resources. Meanwhile, the cost of batteries, especially those with a four-hour capacity, will continue to decline and be competitive.</p>
+<p>The study therefore shows that from 2025 to 2050, battery-storage capacity could skyrocket from 21 GW to 858 GW. This positions battery storage as a more cost-effective approach to managing the variability of renewable-energy sources and meeting increasing energy demands in the longer term.</p>
+</section>
+<section id="the-path-forward-for-pumped-hydro-in-china" class="level2">
+<h2 class="anchored" data-anchor-id="the-path-forward-for-pumped-hydro-in-china">The path forward for pumped hydro in China</h2>
+<p>China has set ambitious targets to expand pumped hydro as part of its strategy to transition to a clean power system, introducing various supportive policies. For example, several provinces, such as Inner Mongolia, Beijing, and Shandong, have exempted pumped hydro storage from the water resource tax.</p>
+<p>At the central government level, the National Development and Reform Commission last year introduced a fixed payment for pumped hydro operators based on the capacity of their installations. These “capacity payments” are designed to help operators achieve reasonable returns.</p>
+<p>Under the current policies and goals in China, optimising pumped hydro projects has become increasingly important. Our analysis produced the following key findings and recommendations that might provide insight as China refines its pumped hydro strategy.</p>
+<p>Firstly, pumped hydro development policies and targets should be integrated in the overall planning of China’s electricity system. Currently, energy storage technologies including pumped hydro are not adequately examined in power system planning. Pumped hydro should be compared systematically with other storage options, generation technologies, and transmission solutions to find the appropriate scale and locations. If not, over-built or mismatched pumped hydro projects could increase power system costs and consumer electricity bills.</p>
+<p>Re-evaluating pricing is also important. The current pricing mechanism for pumped hydro, set by authorities based on investment costs, needs refinement as it could potentially lead to cost over-run and over-investment in projects, which could then raise electricity prices unnecessarily. Introducing competition through open bidding for pumped hydro projects can help control project costs and keep electricity tariffs lower.</p>
+<p>Furthermore, the wholesale electricity market mechanism needs further improvement. Although energy storage is supposedly allowed to participate in the wholesale electricity market, securing profits remains challenging, as the rules are not clear. Reforms could allow the price to be determined by supply and demand, and provide technology-neutral capacity payments, so that energy storage can compete on a level playing field with other technologies.</p>
+<p>Lastly, encouraging interprovincial collaborations for pumped hydro projects can enhance the sharing of electricity or storage and improve regional grid stability. Policymakers should work with their counterparts in neighbouring provinces to create a cooperative framework and align regulations. This will support the optimal deployment of pumped hydro and other system resources, resulting in cost savings for consumers.</p>
+<p>Check the original post at <a href="https://dialogue.earth/en/energy/china-needs-to-expand-both-pumped-hydro-and-battery-storage/" class="external" target="_blank">Dialogue Earth</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>commentary</category>
+  <guid>https://drganghe.github.io/posts/2024-10-China-needs-to-optimise-pumped-hydro-and-battery-storage-mix /</guid>
+  <pubDate>Mon, 28 Oct 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2024-10-China-needs-to-optimise-pumped-hydro-and-battery-storage-mix /featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Power Systems Decarbonization: Technology, Policy Responses, and Implications</title>
@@ -147,7 +208,7 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="relevant-posts">Relevant posts</h2>
 <div id="listing-papers" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="news,event,slides,video" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1720437616120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
+<div class="g-col-1" data-index="0" data-categories="news,event,slides,video,presentation" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1729966546521" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
 <a href="../../posts/2023-11-switch-china-open-model/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -282,6 +343,7 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>event</category>
+  <category>presentation</category>
   <guid>https://drganghe.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/</guid>
   <pubDate>Thu, 24 Oct 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/featured.jpeg" medium="image" type="image/jpeg"/>
@@ -408,6 +470,7 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
+  <category>award</category>
   <guid>https://drganghe.github.io/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/</guid>
   <pubDate>Tue, 17 Sep 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/Logo.png" medium="image" type="image/png" height="39" width="144"/>
@@ -437,6 +500,7 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>event</category>
+  <category>presentation</category>
   <guid>https://drganghe.github.io/posts/2024-09-03-icae-key-note-speech-clean-energy-global-supply-chains/</guid>
   <pubDate>Tue, 03 Sep 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-09-03-icae-key-note-speech-clean-energy-global-supply-chains/featured.jpg" medium="image" type="image/jpeg"/>
@@ -476,7 +540,7 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="highlighted-relevant-work">Highlighted relevant work</h2>
 <div id="listing-uschina" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="news,event,slides,video" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1720437616120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
+<div class="g-col-1" data-index="0" data-categories="news,event,slides,video,presentation" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1729966546521" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
 <a href="../../posts/2023-11-switch-china-open-model/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -635,6 +699,7 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
+  <category>outreach</category>
   <guid>https://drganghe.github.io/posts/2024-06-us-china-working-group-on-enhancing-climate-action/</guid>
   <pubDate>Mon, 24 Jun 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/files/images/handshake-sculpture.JPG" medium="image"/>
@@ -777,6 +842,7 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>event</category>
+  <category>presentation</category>
   <guid>https://drganghe.github.io/posts/2024-05-06-webinar-accelerating-offshore-wind-promotes-carbon-neutrality/</guid>
   <pubDate>Mon, 06 May 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-05-06-webinar-accelerating-offshore-wind-promotes-carbon-neutrality/featured.jpeg" medium="image" type="image/jpeg"/>
@@ -834,6 +900,7 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>event</category>
+  <category>presentation</category>
   <guid>https://drganghe.github.io/posts/2024-03-27-pku-lecture-role-of-global-clean-energy-supply-chains/</guid>
   <pubDate>Wed, 27 Mar 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-03-27-pku-lecture-role-of-global-clean-energy-supply-chains/featured.jpeg" medium="image" type="image/jpeg"/>
@@ -892,6 +959,7 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>news</category>
   <category>event</category>
+  <category>presentation</category>
   <guid>https://drganghe.github.io/posts/2024-02-22-baruch-climate-conference/</guid>
   <pubDate>Thu, 22 Feb 2024 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-02-22-baruch-climate-conference/featured.png" medium="image" type="image/png" height="59" width="144"/>
@@ -1040,6 +1108,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>event</category>
   <category>slides</category>
   <category>video</category>
+  <category>presentation</category>
   <guid>https://drganghe.github.io/posts/2023-11-switch-china-open-model/</guid>
   <pubDate>Mon, 13 Nov 2023 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2023-11-switch-china-open-model/featured.png" medium="image" type="image/png" height="66" width="144"/>
@@ -1105,6 +1174,7 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
+  <category>outreach</category>
   <guid>https://drganghe.github.io/posts/2023-11-unep-production-gap-report-2023/</guid>
   <pubDate>Wed, 08 Nov 2023 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2023-11-unep-production-gap-report-2023/featured.jpg" medium="image" type="image/jpeg"/>
@@ -1474,115 +1544,6 @@ Generation.”</span> <em>Nature Water</em> 1 (8): 682–93. <a href="https://do
   <guid>https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/</guid>
   <pubDate>Mon, 07 Aug 2023 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/featured.png" medium="image" type="image/png" height="86" width="144"/>
-</item>
-<item>
-  <title>Climate change impacts on planned supply–demand match in global wind and solar energy systems</title>
-  <dc:creator>Laibao Liu</dc:creator>
-  <dc:creator>Gang He</dc:creator>
-  <dc:creator>Mengxi Wu</dc:creator>
-  <dc:creator>Gang Liu</dc:creator>
-  <dc:creator>Haoran Zhang</dc:creator>
-  <dc:creator>Ying Chen</dc:creator>
-  <dc:creator>Jiashu Shen</dc:creator>
-  <dc:creator>Shuangcheng Li</dc:creator>
-  <link>https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/</link>
-  <description><![CDATA[ 
-
-
-
-
-<!--Include academic icons or bottons-->
-<!-- 
-Load Academicons v1: https://jpswalsh.github.io/academicons/
--->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
-<!---
-The following code are needed to show dimension citation and altmetrics.
-https://api.altmetric.com/embeds.html
-https://badge.dimensions.ai/
---->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/featured.png" class="img-fluid figure-img"></p>
-<figcaption>Climate change impacts on supply, demand, and supply-demand match</figcaption>
-</figure>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Paper
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Climate change impacts on planned supply–demand match in global wind and solar energy systems<br>
-Laibao Liu*, <strong>Gang He</strong>, Mengxi Wu*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, Shuangcheng Li<br>
-<em>Nature Energy</em> (2023)<br>
-DOI: <a href="https://doi.org/10.1038/s41560-023-01304-w">10.1038/s41560-023-01304-w</a></p>
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Climate change modulates both energy demand and wind/solar energy supply, but a globally synthetic analysis of supply-demand match (SDM) is lacking. Here we use 12 state-of-the-art climate models to assess climate change impacts on SDM, quantified by the fraction of demand met by local wind or solar supply. For energy systems with varying dependence on wind or solar supply, up to 32% or 44% of non-Antarctic land areas, respectively, are projected to experience robust SDM reductions by the end of this century under an intermediate emission scenario. Smaller and more variable supply reduces SDM at northern middle-to-high latitudes, whereas reduced heating demand alleviates or reverses SDM reductions remarkably. By contrast, despite supply increases somewhere at low latitudes, raised cooling demand reduces SDM substantially. Changes in climate extremes and climate mean make size-comparable contributions. Our results provide early warnings for energy sectors in climate change adaptation.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://www.nature.com/articles/s41560-023-01304-w">paper</a></p>
-<p>Open Access <a href="https://www.nature.com/articles/s41560-023-01304-w.pdf">pdf</a></p>
-<p>Zenodo: <a href="https://zenodo.org/record/6884124">Code and Data</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41560-023-01304-w">
-
-</div>
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-hide-zero-citations="true" data-style="small_circle"></span>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</section>
-<section id="twitter-thread" class="level2">
-<h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
-<blockquote class="twitter-tweet blockquote"><p lang="en" dir="ltr">Climate change impacts energy supply, it impacts demand too, what about supply and demand balance?<br><br>Our new <a href="https://twitter.com/NatureEnergyJnl?ref_src=twsrc%5Etfw">@NatureEnergyJnl</a> paper mapped out how climate change impacts wind solar supply demand match globally.<br><br>Paper: <a href="https://t.co/TgyvQW2GOc">https://t.co/TgyvQW2GOc</a><br>Code: <a href="https://t.co/EsM3wauMKZ">https://t.co/EsM3wauMKZ</a> <a href="https://t.co/RTT40YoZNJ">pic.twitter.com/RTT40YoZNJ</a></p>— Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1683500554809475072?ref_src=twsrc%5Etfw">July 24, 2023</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_x"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{liu2023,
-  author = {Liu, Laibao and He, Gang and Wu, Mengxi and Liu, Gang and
-    Zhang, Haoran and Chen, Ying and Shen, Jiashu and Li, Shuangcheng},
-  title = {Climate Change Impacts on Planned Supply–Demand Match in
-    Global Wind and Solar Energy Systems},
-  journal = {Nature Energy},
-  volume = {8},
-  number = {8},
-  pages = {870-880},
-  date = {2023-08-22},
-  url = {https://www.nature.com/articles/s41560-023-01304-w},
-  doi = {10.1038/s41560-023-01304-w},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-liu2023" class="csl-entry quarto-appendix-citeas">
-Liu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen,
-Jiashu Shen, and Shuangcheng Li. 2023. <span>“Climate Change Impacts on
-Planned Supply–Demand Match in Global Wind and Solar Energy
-Systems.”</span> <em>Nature Energy</em> 8 (8): 870–80. <a href="https://doi.org/10.1038/s41560-023-01304-w">https://doi.org/10.1038/s41560-023-01304-w</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/</guid>
-  <pubDate>Mon, 24 Jul 2023 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/featured.png" medium="image" type="image/png" height="123" width="144"/>
 </item>
 </channel>
 </rss>

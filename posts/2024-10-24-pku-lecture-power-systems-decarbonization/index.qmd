@@ -3,7 +3,7 @@ title: "Power Systems Decarbonization: Technology, Policy Responses, and Implica
 description: "Gang is invited to give an online guest lecture at Peking University"
 author: CESE
 date: "2024-10-24"
-categories: [event]
+categories: [event, presentation]
 image: "featured.jpeg"
 css: /custom.css
 csl: chicago-intext.csl

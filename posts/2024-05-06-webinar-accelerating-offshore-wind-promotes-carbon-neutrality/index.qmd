@@ -3,7 +3,7 @@ title: "Research Webinar: Accelerating offshore wind development enhances energy
 description: "New report explores the impacts of offshore wind development on the power generation, transmission networks in China’s power system and more importantly, energy independence of these coastal provinces. "
 author: "LBL ETA"
 date: "2024-05-06"
-categories: [event]
+categories: [event, presentation]
 image: "featured.jpeg"
 css: /custom.css
 #draft: true

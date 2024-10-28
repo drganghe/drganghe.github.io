@@ -3,7 +3,7 @@ title: "Role of Global Clean Energy Supply Chains in Achieving Climate Goals"
 description: "Gang is invited to give a guest lecture at Peking University"
 author: CESE
 date: "2024-03-27"
-categories: [event]
+categories: [event, presentation]
 image: "featured.jpeg"
 css: /custom.css
 #draft: true

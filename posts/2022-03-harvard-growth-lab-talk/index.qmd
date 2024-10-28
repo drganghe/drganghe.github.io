@@ -3,7 +3,7 @@ title: "Achieving power sector carbon neutrality in a low-cost renewable era"
 description: "Gang shares research at Harvard Growth Lab Research Seminar."
 author: "Growth Lab"
 date: "2022-03-14"
-categories: [event, video]
+categories: [event, video, presentation]
 image: "featured.png"
 ---
 

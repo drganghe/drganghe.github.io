@@ -3,7 +3,7 @@ title: "Webinar: Charting China’s Power Sector Coal Decarbonization"
 description: "Gang joins experts to discuss coal transition and decarbonization."
 author: "CCCI"
 date: "2022-03-08"
-categories: [news, event, video]
+categories: [news, event, video, presentation]
 image: "featured.jpeg"
 css: /custom.css
 ---

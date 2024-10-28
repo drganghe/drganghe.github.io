@@ -3,6 +3,7 @@
     "listing": "/posts.html",
     "items": [
       "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
+      "/posts/2024-10-China-needs-to-optimise-pumped-hydro-and-battery-storage-mix /index.html",
       "/posts/2024-10-24-pku-lecture-power-systems-decarbonization/index.html",
       "/posts/2024-01-special-issue-china-power-system-carbon-neutrality/index.html",
       "/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html",
@@ -55,6 +56,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
+      "/posts/2024-10-China-needs-to-optimise-pumped-hydro-and-battery-storage-mix /index.html",
       "/posts/2024-10-24-pku-lecture-power-systems-decarbonization/index.html",
       "/posts/2024-01-special-issue-china-power-system-carbon-neutrality/index.html",
       "/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html",
@@ -104,9 +106,12 @@
     ]
   },
   {
-    "listing": "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
+    "listing": "/posts/2024-10-24-pku-lecture-power-systems-decarbonization/index.html",
     "items": [
-      "/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"
+      "/posts/2023-11-switch-china-open-model/index.html",
+      "/posts/2021-12-jcp-power-water-carbon/index.html",
+      "/posts/2020-05-ncomms-rapid-re-cost/index.html",
+      "/posts/2016-est-switch-china/index.html"
     ]
   },
   {
@@ -119,16 +124,13 @@
     ]
   },
   {
-    "listing": "/media.html",
-    "items": []
+    "listing": "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
+    "items": [
+      "/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"
+    ]
   },
   {
-    "listing": "/posts/2024-10-24-pku-lecture-power-systems-decarbonization/index.html",
-    "items": [
-      "/posts/2023-11-switch-china-open-model/index.html",
-      "/posts/2021-12-jcp-power-water-carbon/index.html",
-      "/posts/2020-05-ncomms-rapid-re-cost/index.html",
-      "/posts/2016-est-switch-china/index.html"
-    ]
+    "listing": "/media.html",
+    "items": []
   }
 ]

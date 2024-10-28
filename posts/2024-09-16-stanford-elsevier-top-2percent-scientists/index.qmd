@@ -3,7 +3,7 @@ title: "Gang is recognized as World's Top 2% Scientists in 2024"
 description: "Thank you everyone for supporting our work!"
 author: "Stanford/Elsevier"
 date: "2024-09-17"
-categories: [news]
+categories: [news, award]
 image: "Logo.png"
 css: /custom.css
 #draft: true

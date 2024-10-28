@@ -27,6 +27,7 @@ How to make the clean energy transition more:
 
 :::
 
+- I'm working with Baruch colleagues on the SSA project Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities  
 - I'm working with EDF on the Multi-Country Electricity Transition Potential and Challenges Project   
 - I'm working on the climate, air pollution, and human health effect of imported solar PV supported by the ClimateWorks Foundation  
 - I'm collaborating with LBL on power system decarbonization: we are organizing an [Special Issue](/posts/2024-01-special-issue-china-power-system-carbon-neutrality/index.qmd) (*The Electricity Journal*) and a [Workshop](https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html)  

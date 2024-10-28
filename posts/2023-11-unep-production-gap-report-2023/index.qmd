@@ -3,7 +3,7 @@ title: "UNEP releases the Production Gap Report 2023"
 description: "Gang joins a global expert team that contributed to the Production Gap Report 2023"
 author: "SEI, Climate Analytics, E3G, IISD, UNEP"
 date: "2023-11-08"
-categories: [news]
+categories: [news, outreach]
 image: "featured.jpg"
 css: /custom.css
 #draft: true
