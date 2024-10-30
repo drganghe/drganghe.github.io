@@ -3,8 +3,8 @@ title: "China needs to optimise pumped hydro and battery storage mix"
 description: "Optimising existing pumped hydro installations, and accelerating battery storage buildout, is the most cost-effective approach, write three experts."
 author: 
   - name: Liqun Peng
-  - name: Gang He
   - name: Jiang Lin
+  - name: Gang He
 date: "2024-10-28"
 categories: [commentary]
 image: "featured.jpg"
