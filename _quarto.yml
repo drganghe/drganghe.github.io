@@ -23,22 +23,26 @@ website:
             href: posts.qmd#category=news
           - text: Events
             href: posts.qmd#category=event
-      - text: Publications
+      - text: Research
         menu:
+          - text: List of Publication
+            href: publications.qmd
           - text: Selected Papers
             href: posts.qmd#category=paper
           - text: Commentary
             href: posts.qmd#category=commentary
           - text: Testimony
             href: posts.qmd#category=testimony
-          - text: List of Publication
-            href: publications.qmd
+          - text: Awards
+            href: posts.qmd#category=award            
       - text: Teaching
         href: teaching.qmd
       - text: Media
         href: media.qmd        
       - text: Posts
         href: posts.qmd
+      - text: Notes
+        href: notes.qmd        
       - text: Now
         href: now.qmd       
       - text: Contact

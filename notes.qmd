@@ -1,0 +1,31 @@
+---
+title: "Notes"
+subtitle: "Misc notes about random stuff"
+description-meta: "Notes about tools and random stuff"
+listing: 
+  id: notes
+  sort: "date desc"
+  type: table
+  fields: [title, date]
+  page-size: 100
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  contents: 
+      - /quarto-academic-site-examples.qmd
+      - notes     
+page-layout: full
+draft-mode: unlinked
+page-navigation: false
+title-block-banner: false
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+:::{#notes}
+:::
+
+<!--Include social share buttons-->
+{{< include /files/includes/_socialshare.qmd >}}

@@ -14,3 +14,12 @@
       description: "Deveoping a community to enable open and safe modeling and data sharing."
       date: "2024-07-19"
       categories: [event, news]
+
+
+    - path: https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/
+      image: /files/images/energy-innovation-scholars.jpg
+      title: "2019 Energy Innovation Policy and Management Scholars"
+      author: "ITIF"
+      description: "Grateful to join a group of energy innovation scholars in the ITIF/Sloan Energy Innovation Policy and Management Scholars program"
+      date: "2019-05-20"
+      categories: [news, award]

@@ -1,6 +1,9 @@
 ---
 title: "Quarto Academic Site Examples and Tips"
 description-meta: "Quarto academic site examples; Quarto website examples; Quarto website templates; Quarto academic websites; site, class, poster, slides templates; tips of building an academic website."
+author: "Gang He"
+date: "2024-10-15"
+categories: [tools]
 title-block-banner: false
 page-layout: full
 ---

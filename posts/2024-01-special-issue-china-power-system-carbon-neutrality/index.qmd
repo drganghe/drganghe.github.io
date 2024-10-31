@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers: Achieving carbon neutrality in China’s power sector"
-description: "We are organizing an special issue in *The Electricty Journal*"
+description: "We are organizing an special issue in *The Electricity Journal*"
 author: "The Electricity Journal"
 date: "2024-09-30"
 categories: [news]
