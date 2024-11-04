@@ -17,7 +17,7 @@
 <generator>quarto-1.6.30</generator>
 <lastBuildDate>Fri, 01 Nov 2024 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>New York State Climate Policy Goals Explained</title>
+  <title>New York State Climate Policy Goals Clarified</title>
   <dc:creator>Gang He</dc:creator>
   <link>https://drganghe.github.io/notes/new-york-state-climate-policy.html</link>
   <description><![CDATA[ 
@@ -36,12 +36,12 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<p>New York State is recognized as a climate leader, yet navigating its policies can be challenging without a deep understanding of the policymaking landscape. Here, I’ve aimed to link key policy goals with relevant legislation, agencies, and provide direct access to the original legislative text. I’m proud to have contributed by testifying for the Climate Leadership and Community Protection Act (CLCPA) and advising on the Scoping Plan to achieve its ambitious goals. I hope you find these resources helpful. (Ongoing—more updates to come.)</p>
+<p>New York State is recognized as a climate leader, yet navigating its policies can be challenging without a deep understanding of the policymaking landscape. Here, I’ve aimed to link key policy goals with relevant legislation, agencies, and provide direct access to the original legislative text. I hope you find these resources helpful.</p>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 70%">
-<col style="width: 9%">
-<col style="width: 20%">
+<col style="width: 80%">
+<col style="width: 6%">
+<col style="width: 13%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -52,7 +52,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </thead>
 <tbody>
 <tr class="odd">
-<td>Emission reduction: 40%(2030); 85%(2050)</td>
+<td>Emission reduction: 40%(2030) and 85%(2050) on 1990 level</td>
 <td>CLCPA</td>
 <td>All</td>
 </tr>
@@ -62,12 +62,12 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <td>NYSERDA</td>
 </tr>
 <tr class="odd">
-<td>Capacity: 6GW Distributed PV(2025); 3GW storage(2030); 9GW offshore wind(2035)</td>
+<td>Capacity: 6GW Distributed PV(2025) <span class="emoji" data-emoji="ballot_box_with_check">☑️</span> ; 3GW ↑ 6GW storage(2030); 9GW offshore wind(2035)</td>
 <td>CLCPA</td>
 <td>NYSERDA</td>
 </tr>
 <tr class="even">
-<td>DAC: no less than 35% of benefits, strive for 40%</td>
+<td>DAC: no less than 35% of benefits, target for 40%</td>
 <td>CLCPA</td>
 <td>NYSERDA</td>
 </tr>
@@ -78,7 +78,8 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </tr>
 </tbody>
 </table>
-<p>Notes: emission reductin baseline: 1990 level; renewable energy: solar thermal, PV, land and offshore wind, hydroelctric, geothermal electric, geothermal ground source heat, tidal energy, wave energy, ocean thermal, and fuel cells which do not utilize a fossil fuel resource in the proces<sup>1</sup>; ZEV(zero emission vehicle): Battery Electric Vehicles, Fuel Cell Vehicles, Plug-in Hybrid Electric Vehicles (PHEV)<sup>2</sup>.</p>
+<p>Notes: ECL: Environmental Conservation Law; Emission reductin baseline: 1990 level; Renewable energy: solar thermal, PV, land and offshore wind, hydroelctric, geothermal electric, geothermal ground source heat, tidal energy, wave energy, ocean thermal, and fuel cells which do not utilize a fossil fuel resource in the process<sup>1</sup>; ZEV(zero emission vehicles): Battery Electric Vehicles, Fuel Cell Vehicles, Plug-in Hybrid Electric Vehicles (PHEV)<sup>2</sup>.</p>
+<p>Updates: Distributed PV: On October 17, 2024, Governor Kathy Hochul announced that 6 gigawatts (GW) of distributed solar have been installed across New York, a year ahead of schedule<sup>3</sup>. Storage: On June 20, 2024, the New York Public Service Commission approved the <a href="https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Programs/Energy-Storage/2024-06-6GW-Energy-Storage-Order.pdf"><em>Order Establishing Updated Energy Storage Goal and Deployment Policy</em></a> which expands the State’s goal to 6GW of energy storage to be installed by 2030<sup>4</sup>.</p>
 <section id="new-york-state-climate-leadership-and-community-protection-act" class="level2">
 <h2 class="anchored" data-anchor-id="new-york-state-climate-leadership-and-community-protection-act">New York State Climate Leadership and Community Protection Act</h2>
 <section id="ghg-emissions-goals" class="level3">
@@ -99,7 +100,8 @@ b. 2050: 15% of 1990 emissions.<br>
 <section id="power-sector-and-renewable-goals" class="level3">
 <h3 class="anchored" data-anchor-id="power-sector-and-renewable-goals">Power sector and renewable goals</h3>
 <ul>
-<li>2030: Generate 70% of electricity from renewable energy sources</li>
+<li>2030: Generate 70% of electricity from renewable energy sources<br>
+</li>
 <li>2040: Achieve 100% zero-emission electricity</li>
 </ul>
 <blockquote class="blockquote">
@@ -138,18 +140,21 @@ State agencies, authorities and entities, in consultation with the environmental
 <p>Source Document: <a href="https://legislation.nysenate.gov/pdf/bills/2019/S6599">Senate Bill S6599</a></p>
 </section>
 </section>
-<section id="amendaments-to-envirnment-coservation-law" class="level2">
-<h2 class="anchored" data-anchor-id="amendaments-to-envirnment-coservation-law">Amendaments to Envirnment Coservation Law</h2>
+<section id="amendaments-to-envirnmental-coservation-law" class="level2">
+<h2 class="anchored" data-anchor-id="amendaments-to-envirnmental-coservation-law">Amendaments to Envirnmental Coservation Law</h2>
 <section id="ev-sales-goals" class="level3">
 <h3 class="anchored" data-anchor-id="ev-sales-goals">EV sales goals</h3>
 <ul>
-<li>2035: 100% zero emission new sale of passager cars and trucks</li>
-<li>2045: 100% zero emission new sale of medium-duty and heavy-duty vehicles</li>
+<li>2035: 100% new sale of passager cars and trucks shall be zero emission</li>
+<li>2045: 100% new sale of medium-duty and heavy-duty vehicles shall be zero emission</li>
 </ul>
 <blockquote class="blockquote">
-Section 1. The environmental conservation law is amended by adding a new section 19-0306-b to read as follows: § 19-0306-b. Zero-emissions cars and trucks. 1. It shall be a goal of the state that one hundred percent of new passenger cars and trucks offered for sale or lease, or sold, or leased, for registration in the state shall be zero-emissions by two thousand thirty-five. It shall be a further goal of the state that one hundred percent of medium-duty and heavy-duty vehicles offered for sale or lease, or sold, or leased, for registration in the state be zero-emissions by two thousand forty-five for all operations where feasible. It shall be further a goal of the state to transition to one hundred percent zero-emissions off-road vehicles and equipment by two thousand thirty-five where feasible.
+Section 1. The environmental conservation law is amended by adding a new section 19-0306-b to read as follows:<br>
+§ 19-0306-b. Zero-emissions cars and trucks.<br>
+1. It shall be a goal of the state that one hundred percent of new passenger cars and trucks offered for sale or lease, or sold, or leased, for registration in the state shall be zero-emissions by two thousand thirty-five. It shall be a further goal of the state that one hundred percent of medium-duty and heavy-duty vehicles offered for sale or lease, or sold, or leased, for registration in the state be zero-emissions by two thousand forty-five for all operations where feasible. It shall be further a goal of the state to transition to one hundred percent zero-emissions off-road vehicles and equipment by two thousand thirty-five where feasible.
 </blockquote>
 <p>Source Document: <a href="https://legislation.nysenate.gov/pdf/bills/2021/S2758">Senate Bill S2758</a></p>
+<p>Note: This is an ongoing policy issue, more updates are expected.</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -169,8 +174,10 @@ https://quarto.org/docs/authoring/includes.html
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p>https://www.nysenate.gov/legislation/bills/2019/S6599↩︎</p></li>
-<li id="fn2"><p>https://dec.ny.gov/environmental-protection/air-quality/controlling-motor-vehicle-pollution/low-and-zero-emission-vehicles↩︎</p></li>
+<li id="fn1"><p><a href="https://www.nysenate.gov/legislation/bills/2019/S6599" class="uri">https://www.nysenate.gov/legislation/bills/2019/S6599</a>↩︎</p></li>
+<li id="fn2"><p><a href="https://dec.ny.gov/environmental-protection/air-quality/controlling-motor-vehicle-pollution/low-and-zero-emission-vehicles" class="uri">https://dec.ny.gov/environmental-protection/air-quality/controlling-motor-vehicle-pollution/low-and-zero-emission-vehicles</a>↩︎</p></li>
+<li id="fn3"><p><a href="https://www.nyserda.ny.gov/About/Newsroom/2024-Announcements/2024-10-17-Governor-Hochul-Announces-New-York-State-Has-Achieved-Major-Solar-Milestone" class="uri">https://www.nyserda.ny.gov/About/Newsroom/2024-Announcements/2024-10-17-Governor-Hochul-Announces-New-York-State-Has-Achieved-Major-Solar-Milestone</a>↩︎</p></li>
+<li id="fn4"><p><a href="https://www.nyserda.ny.gov/All-Programs/Energy-Storage-Program" class="uri">https://www.nyserda.ny.gov/All-Programs/Energy-Storage-Program</a>↩︎</p></li>
 </ol>
 </section></div> ]]></description>
   <category>policy</category>
@@ -363,7 +370,7 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 
  ]]></description>
-  <category>tools</category>
+  <category>tool</category>
   <guid>https://drganghe.github.io/quarto-academic-site-examples.html</guid>
   <pubDate>Tue, 15 Oct 2024 04:00:00 GMT</pubDate>
 </item>
