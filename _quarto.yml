@@ -61,9 +61,12 @@ website:
       - icon: github
         href: https://github.com/drganghe
         target: _blank
+      - text: "{{< iconify fa6-brands bluesky title='Bluesky' >}}"
+        href: https://bsky.app/profile/hegang.bsky.social
+        target: _blank
       - icon: twitter-x 
         href: https://twitter.com/DrGangHe
-        target: _blank
+        target: _blank        
       - icon: rss
         href: posts.xml
         target: _blank

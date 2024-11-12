@@ -12,7 +12,7 @@ author:
   - name: Ying Liu
   - name: Jianmin Ma
   - name: Shu Tao
-date: "2024-11-06"
+date: "2024-11-05"
 categories: [paper]
 image: "featured.jpg"
 citation:
@@ -48,6 +48,8 @@ Published [paper](https://www.sciencedirect.com/science/article/pii/S25903322240
 Open access [pdf](https://www.sciencedirect.com/science/article/pii/S259033222400530X/pdfft?md5=972ca74d333ab90204f8faf849efba7b&pid=1-s2.0-S259033222400530X-main.pdf)
 
 Figshare [data and resources](https://doi.org/10.6084/m9.figshare.27394602.v1)
+
+Release [summary](https://deeppolicylab.github.io/news/2024-11-06-one-earth-coal-jobs-transition.html)
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2024.10.006"></div>
 
