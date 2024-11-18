@@ -18,9 +18,9 @@ image: "featured.jpg"
 citation:
   type: article-journal
   container-title: "One Earth"
-#  volume: 3
-#  issue: 2
-#  page: 187-194
+  volume: 7
+  issue: 11
+  page: 1994-2007
   doi: "10.1016/j.oneear.2024.10.006"
   url: https://www.sciencedirect.com/science/article/pii/S259033222400530X
 google-scholar: true

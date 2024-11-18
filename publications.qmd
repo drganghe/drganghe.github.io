@@ -17,7 +17,7 @@ Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS<
 Total citations as of November 2024:
 
 - [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 2,900 (h-index = 26)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 4,600 (h-index = 33, i10-index = 56) 
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 4,700 (h-index = 33, i10-index = 56) 
 
 ## Selected Work
 
@@ -93,7 +93,7 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 
 ## Peer-reviewed Journal Paper
 
-Wu, Huihuang, Junfeng Liu, Xiurong Hu, **Gang He**, Yuhan Zhou, Xian Wang, Ying Liu, Jianmin Ma, and Shu Tao. 2024. [Fewer than 15% of Coal Power Plant Workers in China Can Easily Shift to Green Jobs by 2060](https://www.sciencedirect.com/science/article/pii/S259033222400530X). *One Earth*, November. doi: [10.1016/j.oneear.2024.10.006](https://doi.org/10.1016/j.oneear.2024.10.006). [[pdf](https://www.cell.com/action/showPdf?pii=S2590-3322%2824%2900530-X)]
+Wu, Huihuang, Junfeng Liu, Xiurong Hu, **Gang He**, Yuhan Zhou, Xian Wang, Ying Liu, Jianmin Ma, and Shu Tao. 2024. [Fewer than 15% of Coal Power Plant Workers in China Can Easily Shift to Green Jobs by 2060](https://www.sciencedirect.com/science/article/pii/S259033222400530X). *One Earth* 7(11): 1994-2007. doi: [10.1016/j.oneear.2024.10.006](https://doi.org/10.1016/j.oneear.2024.10.006). [[pdf](https://www.cell.com/action/showPdf?pii=S2590-3322%2824%2900530-X)]
 
 
 Yang, Haozhe, Qian Luo, **Gang He**, Jiang Lin, Jeremiah X. Johnson, Fernando Garcia-Menendez, Olivier Deschenes, Ana Mileva, Ranjit Deshmukh\*. 2024. [Regional disparities in health and employment outcomes of China’s transition to a low-carbon electricity system](https://iopscience.iop.org/article/10.1088/2753-3751/ad3bb8). *Environmental Research: Energy* 1(2): 025001. doi: [10.1088/2753-3751/ad3bb8](https://doi.org/10.1088/2753-3751/ad3bb8). [[pdf](https://iopscience.iop.org/article/10.1088/2753-3751/ad3bb8/pdf)]
