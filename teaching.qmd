@@ -39,7 +39,7 @@ The urgent challenge of climate change demands innovative solutions and comprehe
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2023](https://drganghe.github.io/energy-climate-society/)
+[Spring 2025](https://drganghe.github.io/energy-climate-society/), &nbsp; [Fall 2023](https://drganghe.github.io/energy-climate-society/2023/schedule.html)
 
 Climate change is one of the biggest challenges of our time. This undergraduate course offers a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. Ultimately, the goal of this class is to provide students with a broad understanding of the challenges and opportunities associated with the energy and climate crisis. We aim to empower the students with the knowledge and skills needed to make a positive impact on climate solutions.
 
@@ -59,7 +59,7 @@ Climate change is one of the biggest challenges of our time. This undergraduate 
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2024](https://drganghe.github.io/program-evaluation/)
+[Spring 2025](https://drganghe.github.io/program-evaluation/), &nbsp; [Spring 2024](https://drganghe.github.io/program-evaluation/2024/schedule.html)
 
 This course examines the practical aspects of program evaluation within public policy in domestic and international contexts. Emphasis is placed on the design and implementation of small- to medium-scale program evaluations under time and budget constraints using “best feasible” methods. Topics include the types and purposes of evaluation, theory-based evaluation, evaluability and planning, measurement and construct validity, data collection, evaluation design, estimation of program effects, experiments, qualitative and mixed methods, evaluation resistance, building organizational capacity, ethics, cost-effectiveness, and reporting and utilization. 
 

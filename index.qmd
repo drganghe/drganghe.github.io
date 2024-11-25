@@ -61,6 +61,8 @@ listing:
     contents: 
       - posts
       - posts/post-links.yml
+    exclude:
+      title: "Participating APPAM 2024"
     type: grid
     max-items: 3
 #    image-height: 150px
