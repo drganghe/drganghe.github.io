@@ -58,16 +58,12 @@
     "items": []
   },
   {
-    "listing": "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
+    "listing": "/posts/2024-10-24-pku-lecture-power-systems-decarbonization/index.html",
     "items": [
-      "/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"
-    ]
-  },
-  {
-    "listing": "/notes.html",
-    "items": [
-      "/notes/new-york-state-climate-policy.html",
-      "/quarto-academic-site-examples.html"
+      "/posts/2023-11-switch-china-open-model/index.html",
+      "/posts/2021-12-jcp-power-water-carbon/index.html",
+      "/posts/2020-05-ncomms-rapid-re-cost/index.html",
+      "/posts/2016-est-switch-china/index.html"
     ]
   },
   {
@@ -80,12 +76,16 @@
     ]
   },
   {
-    "listing": "/posts/2024-10-24-pku-lecture-power-systems-decarbonization/index.html",
+    "listing": "/notes.html",
     "items": [
-      "/posts/2023-11-switch-china-open-model/index.html",
-      "/posts/2021-12-jcp-power-water-carbon/index.html",
-      "/posts/2020-05-ncomms-rapid-re-cost/index.html",
-      "/posts/2016-est-switch-china/index.html"
+      "/notes/new-york-state-climate-policy.html",
+      "/quarto-academic-site-examples.html"
+    ]
+  },
+  {
+    "listing": "/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.html",
+    "items": [
+      "/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"
     ]
   },
   {

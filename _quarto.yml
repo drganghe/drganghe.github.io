@@ -37,22 +37,26 @@ website:
             href: posts.qmd#category=award  
           - text: Grants
             href: https://deeppolicylab.github.io/projects.html
-            target: _blank                      
+            target: _blank                                  
       - text: Teaching
         href: teaching.qmd
-      - text: Media
-        href: media.qmd        
-      - text: Posts
-        href: posts.qmd
-      - text: Notes
-        href: notes.qmd        
-      - text: Now
-        href: now.qmd       
-      - text: Contact
-        href: contact.qmd   
+      - text: More
+        menu:        
+        - text: Media
+          href: media.qmd        
+        - text: Posts
+          href: posts.qmd
+        - text: Notes
+          href: notes.qmd        
+        - text: Now
+          href: now.qmd       
+        - text: Contact
+          href: contact.qmd   
       - text: Deep Policy Lab
         href: https://deeppolicylab.github.io/
         target: _blank
+      - text: 中文
+        href: cn.qmd
 
     right: 
       - text: CV
