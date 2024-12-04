@@ -21,28 +21,28 @@ I had the pleasure to teach the EMPA class Program Evaluation with Professor Sam
 
 ## Lectures
 
-- [Introduction and Overview](https://drganghe.github.io/program-evaluation/lectures/lecture1.html){target="_blank"} 
-- [Goals and Types of Evaluation](https://drganghe.github.io/program-evaluation/lectures/lecture2.html){target="_blank"} 
-- [Logic and Causal Models](https://drganghe.github.io/program-evaluation/lectures/lecture3.html){target="_blank"} 
-- [Stakeholder Engagement](https://drganghe.github.io/program-evaluation/lectures/lecture4.html){target="_blank"} 
-- [Evaluation Designs](https://drganghe.github.io/program-evaluation/lectures/lecture5.html){target="_blank"} 
-- [Data Collection](https://drganghe.github.io/program-evaluation/lectures/lecture6.html){target="_blank"}
-- [Data Analysis](https://drganghe.github.io/program-evaluation/lectures/lecture7.html){target="_blank"} 
-- [Economic Evaluation and Performance Measurement](https://drganghe.github.io/program-evaluation/lectures/lecture8.html){target="_blank"}  
-- [Ethics, Principles, and Standards](https://drganghe.github.io/program-evaluation/lectures/lecture9.html){target="_blank"} 
+- [Introduction and Overview](https://drganghe.github.io/program-evaluation/2024/lecture1.html){target="_blank"} 
+- [Goals and Types of Evaluation](https://drganghe.github.io/program-evaluation/2024/lecture2.html){target="_blank"} 
+- [Logic and Causal Models](https://drganghe.github.io/program-evaluation/2024/lecture3.html){target="_blank"} 
+- [Stakeholder Engagement](https://drganghe.github.io/program-evaluation/2024/lecture4.html){target="_blank"} 
+- [Evaluation Designs](https://drganghe.github.io/program-evaluation/2024/lecture5.html){target="_blank"} 
+- [Data Collection](https://drganghe.github.io/program-evaluation/2024/lecture6.html){target="_blank"}
+- [Data Analysis](https://drganghe.github.io/program-evaluation/2024/lecture7.html){target="_blank"} 
+- [Economic Evaluation and Performance Measurement](https://drganghe.github.io/program-evaluation/2024/lecture8.html){target="_blank"}  
+- [Ethics, Principles, and Standards](https://drganghe.github.io/program-evaluation/2024/lecture9.html){target="_blank"} 
 
 
 ## Stories
 
-- [John Snow](https://drganghe.github.io/program-evaluation/stories/john-snow-and-evidence-based-analysis.html){target="_blank"} 
-- [High Line Park](https://drganghe.github.io/program-evaluation/stories/high-line-park.html){target="_blank"}  
-- [Bombing, Heating, and Causal Models](https://drganghe.github.io/program-evaluation/stories/bombing-heating-and-causal-models.html){target="_blank"}    
-- [John Muir and National Park System](https://drganghe.github.io/program-evaluation/stories/john-muir-and-national-park.html){target="_blank"}    
-- [Esther Duflo and RCTs](https://drganghe.github.io/program-evaluation/stories/esther-duflo-and-rcts.html){target="_blank"}
-- [Fei-fei Li and ImageNet](https://drganghe.github.io/program-evaluation/stories/feifei-li-imagenet-and-ai-revolution.html){target="_blank"} 
-- [Hans Rosling and Storytelling](https://drganghe.github.io/program-evaluation/stories/hans-rosling-data-visualization-and-storystelling.html){target="_blank"} 
-- [Robert Bullard and Environmental Justice](https://drganghe.github.io/program-evaluation/stories/robert-bullard-and-environmental-justice.html){target="_blank"} 
-- [The Moral Machine](https://drganghe.github.io/program-evaluation/stories/the-moral-machine-and-ethics.html){target="_blank"} 
+- [John Snow](https://drganghe.github.io/program-evaluation/2024/john-snow-and-evidence-based-analysis.html){target="_blank"} 
+- [High Line Park](https://drganghe.github.io/program-evaluation/2024/high-line-park.html){target="_blank"}  
+- [Bombing, Heating, and Causal Models](https://drganghe.github.io/program-evaluation/2024/bombing-heating-and-causal-models.html){target="_blank"}    
+- [John Muir and National Park System](https://drganghe.github.io/program-evaluation/2024/john-muir-and-national-park.html){target="_blank"}    
+- [Esther Duflo and RCTs](https://drganghe.github.io/program-evaluation/2024/esther-duflo-and-rcts.html){target="_blank"}
+- [Fei-fei Li and ImageNet](https://drganghe.github.io/program-evaluation/2024/feifei-li-imagenet-and-ai-revolution.html){target="_blank"} 
+- [Hans Rosling and Storytelling](https://drganghe.github.io/program-evaluation/2024/hans-rosling-data-visualization-and-storystelling.html){target="_blank"} 
+- [Robert Bullard and Environmental Justice](https://drganghe.github.io/program-evaluation/2024/robert-bullard-and-environmental-justice.html){target="_blank"} 
+- [The Moral Machine](https://drganghe.github.io/program-evaluation/2024/the-moral-machine-and-ethics.html){target="_blank"} 
 
 
 ## Case studies
@@ -56,9 +56,9 @@ I had the pleasure to teach the EMPA class Program Evaluation with Professor Sam
 
 ## Program evaluation mindmap
 
-<iframe width="800" height="800" src="https://drganghe.github.io/program-evaluation/lectures/program-evaluation-markmap.html" title="Program Evaluation Mindmap"></iframe>
+<iframe width="800" height="800" src="https://drganghe.github.io/program-evaluation/images/program-evaluation-markmap.html" title="Program Evaluation Mindmap"></iframe>
 
-Open the mindmap in a new [tab](https://drganghe.github.io/program-evaluation/lectures/program-evaluation-markmap.html), or [download](program-evaluation-mindmap.png) the mindmap.
+Open the mindmap in a new [tab](https://drganghe.github.io/program-evaluation/images/program-evaluation-markmap.html), or [download](program-evaluation-mindmap.png) the mindmap.
 
 <!--Include social share buttons-->
 
