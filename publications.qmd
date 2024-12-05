@@ -14,10 +14,10 @@ css: /custom.css
 
 Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
 
-Total citations as of November 2024:
+Total citations as of December 2024:
 
 - [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 2,900 (h-index = 26)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 4,700 (h-index = 33, i10-index = 56) 
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 4,800 (h-index = 33, i10-index = 56) 
 
 ## Selected Work
 

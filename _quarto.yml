@@ -17,12 +17,16 @@ website:
     left:
 #      - text: Home
 #        href: index.qmd
-      - text: News&Events
+      - text: About
         menu:
           - text: News
             href: posts.qmd#category=news
           - text: Events
             href: posts.qmd#category=event
+          - text: Now
+            href: now.qmd       
+          - text: Contact
+            href: contact.qmd             
       - text: Research
         menu:
           - text: List of Publication
@@ -40,18 +44,17 @@ website:
             target: _blank                                  
       - text: Teaching
         href: teaching.qmd
-      - text: More
-        menu:        
+      - text: Outreach
+        menu:
+        - text: Presentations
+          href: posts.qmd#category=presentation
+        - text: Policy Impact
+          href: posts.qmd#category=outreach        
         - text: Media
           href: media.qmd        
-        - text: Posts
-          href: posts.qmd
         - text: Notes
           href: notes.qmd        
-        - text: Now
-          href: now.qmd       
-        - text: Contact
-          href: contact.qmd   
+  
       - text: Deep Policy Lab
         href: https://deeppolicylab.github.io/
         target: _blank
@@ -68,9 +71,9 @@ website:
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/hegang.bsky.social
         target: _blank
-      - icon: twitter-x 
-        href: https://twitter.com/DrGangHe
-        target: _blank        
+#      - icon: twitter-x 
+#        href: https://twitter.com/DrGangHe
+#        target: _blank        
       - icon: rss
         href: posts.xml
         target: _blank
