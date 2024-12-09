@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.30">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-3a01e2046221230fdceeea94b1ec5d67.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-86f2aad09f5ba319f038109a5049f2f9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3146a0984a964146c28da0a2cf78b9ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -102,11 +102,17 @@ https://badge.dimensions.ai/
 <link rel="stylesheet" href="./custom.css">
 <meta property="og:title" content="Publications – Dr.&nbsp;Gang He">
 <meta property="og:description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition.">
-<meta property="og:image" content="https://drganghe.github.io/files/gang-he-profile.jpeg">
+<meta property="og:image" content="https://drganghe.github.io/files/images/highly-cited-paper-badge.png">
 <meta property="og:site_name" content="Dr. Gang He">
+<meta property="og:image:alt" content="Highly cited paper">
+<meta property="og:image:height" content="85">
+<meta property="og:image:width" content="85">
 <meta name="twitter:title" content="Publications – Dr.&nbsp;Gang He">
 <meta name="twitter:description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition.">
-<meta name="twitter:image" content="https://drganghe.github.io/files/gang-he-profile.jpeg">
+<meta name="twitter:image" content="https://drganghe.github.io/files/images/highly-cited-paper-badge.png">
+<meta name="twitter:image:alt" content="Highly cited paper">
+<meta name="twitter:image-height" content="85">
+<meta name="twitter:image-width" content="85">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -318,7 +324,7 @@ https://badge.dimensions.ai/
 <p>Notes: * corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; <img src="./files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> ESI <a href="https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html">Highly Cited Paper</a> (top 1%); <img src="./files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"> ESI <a href="https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html">Hot Paper</a> (top 0.1%)</p>
 <p>Total citations as of December 2024:</p>
 <ul>
-<li><a href="https://www.webofscience.com/wos/author/record/N-4549-2013">Web of Science</a>: 2,900 (h-index = 26)<br>
+<li><a href="https://www.webofscience.com/wos/author/record/N-4549-2013">Web of Science</a>: 3,000 (h-index = 26)<br>
 </li>
 <li><a href="https://scholar.google.com/citations?user=vf90AuEAAAAJ">Google Scholar</a>: 4,800 (h-index = 33, i10-index = 56)</li>
 </ul>
@@ -666,8 +672,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -783,7 +787,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

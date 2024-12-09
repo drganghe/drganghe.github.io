@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.30">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-3a01e2046221230fdceeea94b1ec5d67.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-86f2aad09f5ba319f038109a5049f2f9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3146a0984a964146c28da0a2cf78b9ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -313,7 +313,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="policy">policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="tool">tool <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cG9saWN5">policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dG9vbA==">tool <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -383,7 +383,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="policy" data-listing-date-sort="1730433600000" data-listing-file-modified-sort="1730725276763" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1493" data-listing-title-sort="New York State Climate Policy Goals Clarified" data-listing-filename-sort="new-york-state-climate-policy.qmd">
+<tr data-index="0" data-categories="cG9saWN5" data-listing-date-sort="1730433600000" data-listing-file-modified-sort="1730725276763" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1493" data-listing-title-sort="New York State Climate Policy Goals Clarified" data-listing-filename-sort="new-york-state-climate-policy.qmd">
 <td>
 <a href="./notes/new-york-state-climate-policy.html" class="title listing-title">New York State Climate Policy Goals Clarified</a>
 </td>
@@ -391,7 +391,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <span class="listing-date">Nov 1, 2024</span>
 </td>
 </tr>
-<tr data-index="1" data-categories="tool" data-listing-date-sort="1728964800000" data-listing-file-modified-sort="1730650937528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1145" data-listing-title-sort="Quarto Academic Site Examples and Tips" data-listing-filename-sort="quarto-academic-site-examples.qmd">
+<tr data-index="1" data-categories="dG9vbA==" data-listing-date-sort="1728964800000" data-listing-file-modified-sort="1730650937528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1145" data-listing-title-sort="Quarto Academic Site Examples and Tips" data-listing-filename-sort="quarto-academic-site-examples.qmd">
 <td>
 <a href="./quarto-academic-site-examples.html" class="title listing-title">Quarto Academic Site Examples and Tips</a>
 </td>
@@ -502,8 +502,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -619,7 +617,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
