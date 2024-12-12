@@ -1,5 +1,5 @@
 ---
-title: "Gang contributed to the NYS Climate Action Council Draft Scoping Plan"
+title: "Advising the NYS Climate Action Council Draft Scoping Plan"
 description: "Dr. Gang He served as a member of the technical advisory group for the scoping plan."
 author: "NYSERDA"
 date: "2021-12-20"
