@@ -1,5 +1,5 @@
 ---
-title: "Included on World's Top 2% Scientists List 2024"
+title: "Included in World's Top 2% Scientists List 2024"
 description: "Thank you everyone for supporting our work!"
 author: "Stanford/Elsevier"
 date: "2024-09-17"
@@ -13,7 +13,7 @@ css: /custom.css
 
 ## Acknowledgment
 
-Grateful to be included on the **[Stanford/Elsevier Top 2% Scientists List 2024](https://topresearcherslist.com/Home/Profile/858833){.external target="_blank"}** in three subfields:
+Grateful to be included in the **[Stanford/Elsevier Top 2% Scientists List 2024](https://topresearcherslist.com/Home/Profile/858833){.external target="_blank"}** in three subfields:
 
 - Environmental Sciences
 - Energy

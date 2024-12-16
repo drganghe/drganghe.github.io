@@ -85,7 +85,7 @@ Integrating electricity access into local economic development helps ensure more
 
 This article is adapted from @He2017efa co-authored paper “Experiences and lessons from China's success in providing electricity for all”, and presented at the 2017 IAEE International Conference at Singapore and 2017 EIA Energy Conference.
 
-Check the original post at <a href="https://chinadialogue.net/en/energy/9934-three-lessons-from-china-s-effort-to-bring-electricity-to-1-4-billion-people/" target="_blank">*China Dialogue*</a>. Read more about our [paper](/posts/2017-china-electricity-for-all/index.qmd).
+Check the original post at <a href="https://dialogue.earth/en/energy/9934-three-lessons-from-china-s-effort-to-bring-electricity-to-1-4-billion-people/" target="_blank">*Dialogue Earth*</a>. Read more about our [paper](/posts/2017-china-electricity-for-all/index.qmd).
 
 
 ### References
