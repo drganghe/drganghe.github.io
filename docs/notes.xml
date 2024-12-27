@@ -15,7 +15,141 @@
 <link>https://drganghe.github.io/notes.html</link>
 </image>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Fri, 01 Nov 2024 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Jan 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>CUNY Baruch College Visiting Scholar Paperwork Guide</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/notes/cuny-baruch-visiting-scholar-paperwork-guide.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
+<section id="paperwork-flow" class="level2">
+<h2 class="anchored" data-anchor-id="paperwork-flow">Paperwork flow</h2>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  A[Conditional Invitation] --&gt; 
+  B(Appointment Letter) --&gt;
+  C{{DS-2019}} --&gt;
+  D{{Visa Application}}  --&gt;
+  E(Visiting Baruch)
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<section id="step-1-conditional-invitation" class="level3">
+<h3 class="anchored" data-anchor-id="step-1-conditional-invitation">Step 1: Conditional Invitation</h3>
+<p>To begin, you need to secure a conditional invitation letter from a faculty member who will support your scholarship application. The following documents are usually helpful:</p>
+<ul>
+<li>CV</li>
+<li>Research Plan</li>
+<li>English Proficiency Certificate</li>
+</ul>
+<p>Your potential host may schedule an interview to discuss your proposal and assess the possibilities.</p>
+</section>
+<section id="step-2-appointment-letter" class="level3">
+<h3 class="anchored" data-anchor-id="step-2-appointment-letter">Step 2: Appointment Letter</h3>
+<p>Once you receive the fellowship or scholarship certificate, forward it to your host faculty member. The certificate is required for the department or school to issue an official invitation letter.</p>
+<ul>
+<li>The official letter, similar to the conditional invitation, will be signed by the Department Chair or Dean.</li>
+<li>This step formalizes your appointment and enables the next stages of paperwork.</li>
+</ul>
+</section>
+<section id="step-3-ds-2019-form" class="level3">
+<h3 class="anchored" data-anchor-id="step-3-ds-2019-form">Step 3: DS-2019 Form</h3>
+<p>The DS-2019 form involves several internal approval processes before the designated office can issue it. These include:</p>
+<ul>
+<li>Export Control Clearance<br>
+</li>
+<li>Approvals from the Department Chair, Dean, and Provost</li>
+</ul>
+<p>Required Documentation:</p>
+<ul>
+<li>Application for Prospective International J-1 Scholar<br>
+</li>
+<li>CUNY J-1 Export-Control Questionnaire<br>
+</li>
+<li>Scholar’s CV/Resume<br>
+</li>
+<li>CUNY Foreign Influence Due Diligence Form for J-1 Visiting Scholars<br>
+</li>
+<li>Application to Host International J-1 Research Scholar (filled by faculty host and approved by the Chair, Dean, and Provost)<br>
+</li>
+<li>Official Invitation Letter (signed by the Department Chair or Dean)</li>
+</ul>
+<p>Once all documents are verified, the SEVIS Responsible Officer (RO) will review the application and forward it to the College Provost for Preliminary Campus Review under the Export Clearance Process.</p>
+<p><strong>Note</strong>:<br>
+Requirements and forms evolve annually. Verify the latest guidelines with the designated office, currently overseen by Dr.&nbsp;Richard Mitten, Director of the Study Abroad Office.</p>
+</section>
+<section id="step-4-visa-application" class="level3">
+<h3 class="anchored" data-anchor-id="step-4-visa-application">Step 4: Visa Application</h3>
+<p>Check the latest information from the U.S. Embassy website to understand the requirements and materials needed for your visa application. Make sure to complete this step promptly after receiving your DS-2019 form.</p>
+</section>
+<section id="step-5-visiting-baruch" class="level3">
+<h3 class="anchored" data-anchor-id="step-5-visiting-baruch">Step 5: Visiting Baruch</h3>
+<p>Once all paperwork is completed, you can prepare for your arrival at Baruch College in New York City! New York City is Your Classroom and Office!</p>
+</section>
+<section id="important-notes" class="level3">
+<h3 class="anchored" data-anchor-id="important-notes">Important Notes</h3>
+<ul>
+<li>Timeline</li>
+</ul>
+<p>The entire process may take several months, particularly if additional documentation is requested. Begin early and allow flexibility in your start date to accommodate any delays.</p>
+<ul>
+<li>Proactive Communication</li>
+</ul>
+<p>Keep in close contact with your host faculty and administrative offices to ensure you stay updated on requirements and approvals.</p>
+<ul>
+<li>Unofficial Guide</li>
+</ul>
+<p>This is a information page for your reference only. You should always follow the official guide to prepare your documents.</p>
+</section>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<ul>
+<li><p>Baruch Faculty <a href="https://www.baruch.cuny.edu/profiles">Profiles</a></p></li>
+<li><p>Study Abroad <a href="https://zicklin.baruch.cuny.edu/faculty-research/centers-institutes/weissman-center-international-business/study-abroad/faculty-staff-resources/">Office</a></p></li>
+<li><p>CUNY <a href="https://www.cuny.edu/research/research-compliance/export-control/">Export Control</a></p></li>
+</ul>
+<p>Created: Januaray 3, 2025</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>guide</category>
+  <guid>https://drganghe.github.io/notes/cuny-baruch-visiting-scholar-paperwork-guide.html</guid>
+  <pubDate>Fri, 03 Jan 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>New York State Climate Policy Goals Clarified</title>
   <dc:creator>Gang He</dc:creator>

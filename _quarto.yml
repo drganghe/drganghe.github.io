@@ -48,7 +48,7 @@ website:
         menu:
         - text: Presentations
           href: posts.qmd#category=presentation
-        - text: Policy Impact
+        - text: Policy Impacts
           href: posts.qmd#category=outreach        
         - text: Media
           href: media.qmd        
