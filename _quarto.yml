@@ -46,10 +46,10 @@ website:
         href: teaching.qmd
       - text: Outreach
         menu:
-        - text: Presentations
-          href: posts.qmd#category=presentation
         - text: Policy Impacts
-          href: posts.qmd#category=outreach        
+          href: posts.qmd#category=outreach 
+        - text: Presentations
+          href: posts.qmd#category=presentation       
         - text: Media
           href: media.qmd        
         - text: Notes
