@@ -78,15 +78,7 @@ Coverage: [E&E News](https://www.eenews.net/articles/how-bidens-made-in-america-
 
 Notable policy citations:  
 
-- World Bank. 2024. [World Development Report 2024: The Middle-Income Trap](https://hdl.handle.net/10986/41919)
-
-- World Trade Organization. 2024. [Working together for better climate action: Carbon pricing, policy spillovers, and global climate goals](https://www.wto.org/english/res_e/publications_e/climate_action_e.htm)
-
-- Interanational Renewable Energy Agency. 2024. [Renewable energy and jobs: Annual review 2024](https://www.irena.org/Publications/2024/Oct/Renewable-energy-and-jobs-Annual-review-2024)
-
-- World Trade Organization. 2023. [Trade Policy Tools for Climate Action](https://www.wto.org/english/res_e/publications_e/tptforclimataction_e.htm)
-
-- World Trade Organization. 2023. [Global Value Chain Development Report 2023](https://www.wto.org/english/res_e/publications_e/gvc_dev_rep23_e.htm)
+{{< include /files/includes/policycitations/_nature2022.qmd >}}
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-022-05316-6"></div>
 

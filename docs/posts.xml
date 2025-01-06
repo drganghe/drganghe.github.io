@@ -62,7 +62,7 @@
 <h2 class="anchored" data-anchor-id="relevant-work">Relevant work</h2>
 <div id="listing-appam2024" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1690171200000" data-listing-file-modified-sort="1724076082794" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
+<div class="g-col-1" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1690171200000" data-listing-file-modified-sort="1736095373083" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="292">
 <a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -362,7 +362,7 @@ Dec 20, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1724076008474" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="851">
+<div class="g-col-1" data-index="2" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1736093252741" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="858">
 <a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -387,7 +387,7 @@ May 15, 2020
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="cGFwZXIlMkNwb3N0ZXI=" data-listing-date-sort="1462680000000" data-listing-file-modified-sort="1724075965851" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
+<div class="g-col-1" data-index="3" data-categories="cGFwZXIlMkNwb3N0ZXI=" data-listing-date-sort="1462680000000" data-listing-file-modified-sort="1736108560002" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="268">
 <a href="../../posts/2016-est-switch-china/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -674,7 +674,7 @@ Nov 13, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1733402634853" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3642">
+<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1736089716418" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3585">
 <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -724,7 +724,7 @@ Dec 20, 2021
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1724076008474" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="851">
+<div class="g-col-1" data-index="3" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1736093252741" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="858">
 <a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1319,6 +1319,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/featured.webp" class="img-fluid figure-img"></p>

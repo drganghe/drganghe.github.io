@@ -41,6 +41,10 @@ Published [paper](https://doi.org/10.1016/j.resconrec.2017.03.011)
 
 Preprint [pdf](/files/papers/2017-china-electricity-for-all.pdf)
 
+Notable policy citations:  
+
+{{< include /files/includes/policycitations/_energypolicy2017.qmd >}}
+
 
 ## Video
 

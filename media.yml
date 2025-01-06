@@ -1,0 +1,181 @@
+
+    - path: https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/
+      image: /files/images/media/ee-news.png
+      title: "In major shift, China moves toward hard carbon targets"
+      author: Sara Schonhardt
+      description: "“China has long been hesitant to specify a carbon cap,” said Gang He, “with all the data and implementations in place, China will feel more comfortable to say it will peak its emissions by 2030 at [XX] billion tons and aim to reduce emissions by [XX] percent by 2035.”"
+      date: "2024-08-05"
+      categories: [E&E News]  
+
+    - path: https://www.nature.com/articles/d41586-024-00692-7
+      image: /files/images/media/nature.png
+      title: "China–US climate collaboration concerns as Xie and Kerry step down"
+      author: Smriti Mallapaty
+      description: "Gang He on the importance to continue the research exchange and colloboration: “If the river freezes over, water will still flow underneath.”"
+      date: "2024-03-12"
+      categories: [Nature] 
+
+    - path: https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/
+      image: /files/images/media/scientific-american.png
+      title: "What the U.S.-China Agreement Means for Greenhouse Gas Emissions"
+      author: 
+        - Benjamin Storrow
+        - Sara Schonhardt
+      description: "The two nations announced limited steps to address climate change. But even a modest agreement could have far-reaching effects."
+      date: "2023-11-16"
+      categories: [Scientific American, E&E News]  
+
+    - path: https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/
+      image: /files/images/media/foreign-policy.png
+      title: "Can the U.S. and China Cooperate on Green Technology Again?"
+      author: 
+        - Lili Pike
+      description: "A study published in Nature last year found that if the United States, Germany, and China all decided to shift to fully domestic solar production starting in 2020, by 2030 global solar costs would be 20 percent to 30 percent higher."
+      date: "2023-09-21"
+      categories: [Foreign Policy]  
+
+    - path: https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/
+      image: /files/images/media/ee-news.png
+      title: "How Biden’s made-in-America solar strategy may backfire"
+      author: David Iaconangelo
+      description: "A new [study](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd) in *Nature* concludes that policies similar to ones the administration is considering could make solar panels 30 percent more expensive by the end of the decade."
+      date: "2022-10-27"
+      categories: [E&E News]
+
+    - path: https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds
+      image: /files/images/media/nikkei-asia.png
+      title: "Asia's nuclear power dilemma: Ukraine war drives energy turnarounds"
+      author: Dominic Faulder  
+      description: "From Japan to Singapore, Russia sanctions and carbon-zero targets push states to reconsider nuclear energy."
+      date: "2022-04-20"
+      categories: [Nikkei Asia]
+
+    - path: https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/
+      image: /files/images/media/carbon-brief.png
+      title: "Analysis: What does China’s coal push mean for its climate goals?"
+      author: Xiaoying You  
+      description: "Dr. He tells Carbon Brief that China has made clear its long-term climate pledges, but “when and at what scale” China peaks its emissions will have a “large” impact on how it and the world would achieve carbon neutrality."
+      date: "2022-03-29"
+      categories: [Carbon Brief]
+
+    - path: https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/
+      image: /files/images/media/carbon-brief.png
+      title: "New energy transition guidance; Five coal plants approved; Energy-efficiency targets raised"
+      author: Carbon Brief Staff  
+      description: "Gang He told Carbon Brief: “There are other and better options: renewables are achieving grid parity which could accelerate a renewable-dominant pathway. Such a pathway is both technically feasible and economically beneficial to China’s development.”"
+      date: "2022-02-17"
+      categories: [Carbon Brief]
+
+    - path: https://www.nature.com/articles/d41586-021-03491-6
+      image: /files/images/media/nature.png
+      title: "China creates vast research infrastructure to support ambitious climate goals"
+      author: Smriti Mallapaty
+      description: "Carbon-neutrality institutes, and other initiatives to support a pledge to achieve net zero by 2060, are popping up like mushrooms across China."
+      date: "2021-11-22"
+      categories: [Nature]
+
+    - path: https://www.nature.com/articles/d41586-020-02927-9
+      image: /files/images/media/nature.png
+      title: "How China could be carbon neutral by mid-century"
+      author: Smriti Mallapaty
+      description: "Nature special report examines the role of renewables, nuclear power and carbon capture in reaching this ambitious goal."
+      date: "2020-10-19"
+      categories: [Nature]
+
+    - path: https://www.scientificamerican.com/article/china-says-it-will-stop-releasing-co2-within-40-years/
+      image: /files/images/media/scientific-american.png
+      title: "China Says It Will Stop Releasing CO2 within 40 Years"
+      author: 
+        - Jean Chemnick
+        - Benjamin Storrow
+      description: "The surprise announcement vaults the country ahead of U.S. climate ambitions and could encourage developing countries to follow suit."
+      date: "2020-09-23"
+      categories: [Scientific American, E&E News]
+
+    - path: https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/
+      image: /files/images/media/forbes.png
+      title: "Plummeting Renewable Energy, Battery Prices Mean China Could Hit 62% Clean Power And Cut Costs 11% By 2030"
+      author: Energy Innovation
+      description: "New research shows plummeting clean energy prices mean China could reliably run its grids on at least 62% non-fossil electricity generation by 2030, while cutting costs 11% compared to a business-as-usual approach. Once again, it’s cheaper to save the climate than destroy it."
+      date: "2020-08-10"
+      categories: [Forbes]
+
+    - path: https://subscriber.politicopro.com/article/eenews/1063354565
+      image: /files/images/media/ee-news.png
+      title: "Surging coal use in China threatens global CO2 goals"
+      author: Benjamin Storrow
+      description: "The fast decrease in the cost of solar, wind and storage, and technological innovation has fundamentally changed the economics of renewables, said Gang He, our analysis shows that such a fast decarbonization and clean power transition is both technically feasible and economicallybeneficial."
+      date: "2020-06-09"
+      categories: [E&E News]
+
+    - path: https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/
+      image: /files/images/media/inside-climate-news.png
+      title: "China's Path to Clean Energy May Be Smoother than We Previously Thought"
+      author: Dan Gearino
+      description: "A new [paper](/posts/2020-05-ncomms-rapid-re-cost/index.qmd) in the journal *Nature Communications* says the probable reality is much better than we previously thought, largely because of falling costs of wind, solar and battery storage."
+      date: "2020-06-04"
+      categories: [Inside Climate News]
+
+    - path: https://www.wshu.org/government/2019-02-18/bill-calls-for-an-emissions-free-ny-by-2050
+      image: /files/images/media/wshu-public-radio.png
+      title: "Bill Calls For An Emissions-Free NY By 2050"
+      author: Jay Shah
+      description: "In addition to policy, technology, there are also behavior components to that. How we incentivize people to change their behavior and their lifestyle."
+      date: "2019-02-18"
+      categories: [WSHU Public Radio]
+
+    - path: https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly
+      image: /files/images/media/the-guardian.png
+      title: "Where is the world's greenest city?"
+      author: Hayley Birch
+      description: "In a 2015 [study](/posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.qmd) published in the journal Ecological Indicators, scientists based at the Lawrence Berkeley National Laboratory in California have fine-tuned a potential method for assessing Chinese “eco-cities” using 33 key indicators. "
+      date: "2015-04-02"
+      categories: [The Guardian]
+
+    - path: https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/
+      image: /files/images/media/the-seattle-times.png
+      title: "Western companies gave China power projects a boost"
+      author: Hal Bernton
+      description: "The rejections exposed cracks at the core of how carbon credits are verified in developing economies, according to a [study](/posts/2013-ep-carbon-offsetters-paradox/index.qmd) of the Chinese wind-power industry by Gang He and Richard Morse of Stanford University. "
+      date: "2014-05-05"
+      categories: [The Seattle Times]
+
+    - path: https://subscriber.politicopro.com/article/eenews/1059975774
+      image: /files/images/media/ee-news.png
+      title: "Beijing's record smog poses health nightmare as China plans 'green' energy future"
+      author: Kandy Wong
+      description: "I see it as a system failure exposed in a bad weather condition, said Gang He. The government has to first figure out the sources of air pollutants in order to adopt the right measures."
+      date: "2013-03-25"
+      categories: [E&E News]
+
+    - path: https://subscriber.politicopro.com/article/eenews/1059961148
+      image: /files/images/media/ee-news.png
+      title: "Government conflicts could slow shale gas development"
+      author: Kandy Wong
+      description: "The priorities between the central and local governments are often different, said Gang He, the top concern of the central government is energy security while economic growth matters most for local governments."
+      date: "2012-05-09"
+      categories: [E&E News]
+
+    - path: https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/
+      image: /files/images/media/scientific-american.png
+      title: "Beijing Emission Cuts May Underestimate Use of Coal"
+      author: Kandy Wong
+      description: "It should be noted that the coal industry is gradualtly being opened to market, while the electricity industry is still highly regulated. The scattered management of energy issues within the central government makes the energy administration's mission very difficult one."
+      date: "2012-05-07"
+      categories: [Scientific American, E&E News]
+
+    - path: https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest
+      image: /files/images/media/national-geographic.png
+      title: "Seeking a Pacific Northwest Gateway for U.S. Coal"
+      author: Stacey Schultz
+      description: "The middle kingdom's appetite for imported coal seems insatiable, wrote researchers Richard Morse and Gang He in a 2010 working paperm refering to China. And the China Factor appears to have ushered in a new paradigm for the global coal market."
+      date: "2011-10-20"
+      categories: [National Geographic]
+
+    - path: https://dotearth.blogs.nytimes.com/2009/05/21/drop-in-co2-output-in-us-power-use-in-china
+      image: /files/images/media/new-york-times.jpeg
+      title: "Drop in CO2 in U.S. and Power Use in China – for Now"
+      author: Andrew Revkin 
+      description: "Researchers at Stanford University say blazing growth in the generation of electricity in China ended last year as the global recession struck."
+      date: "2009-05-21"
+      categories: [The New York Times]

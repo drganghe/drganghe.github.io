@@ -52,9 +52,17 @@ Github [data and resources](https://github.com/drganghe/Rapid-and-Just-Coal-Tran
 
 [_Nature_ News](/posts/2020-10-nature-news-carbon-neutrality/index.qmd)
 
+Notable policy citations:  
+
+{{< include /files/includes/policycitations/_oneearth2020.qmd >}}
+
+
+```{=html}
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2020.07.012"></div>
 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2020.07.012" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
+
 
 ## Twitter Thread
 

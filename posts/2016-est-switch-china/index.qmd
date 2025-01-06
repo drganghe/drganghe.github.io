@@ -47,6 +47,10 @@ Self-archiving [pdf](/files/papers/2016-EST-SWITCH-China.pdf)
 
 [Supplementary Information](https://pubs.acs.org/doi/suppl/10.1021/acs.est.6b01345/suppl_file/es6b01345_si_001.pdf)
 
+Notable policy citations:  
+
+{{< include /files/includes/policycitations/_est2016.qmd >}}
+
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1021/acs.est.6b01345"></div>
 
 <span class="__dimensions_badge_embed__" data-doi="10.1021/acs.est.6b01345" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

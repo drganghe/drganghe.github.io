@@ -46,8 +46,10 @@ website:
         href: teaching.qmd
       - text: Outreach
         menu:
-        - text: Policy Impacts
+        - text: Policy Engagement
           href: posts.qmd#category=outreach 
+        - text: Policy Citations
+          href: notable-policy-citations.qmd          
         - text: Presentations
           href: posts.qmd#category=presentation       
         - text: Media
