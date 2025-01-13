@@ -54,6 +54,7 @@ Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jias
 
 {{< include /files/includes/policycitations/_energypolicy2013.qmd >}}
 
+Updated: December 2024
 
 <!--Include social share buttons-->
 
