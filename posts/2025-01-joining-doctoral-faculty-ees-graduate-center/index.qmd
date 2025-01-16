@@ -1,6 +1,6 @@
 ---
 title: "Joining the Doctoral Faculty of the Earth and Environmental Sciences Program at the Graduate Center"
-description: "I welcome motivated doctoral students to work with me through the EES program."
+description: "Welcome motivated doctoral students to work with us through the EES program."
 author: "Gang He"
 date: "2025-01-08"
 categories: [news]
@@ -13,7 +13,7 @@ css: /custom.css
 
 I'm joining the [Earth and Environmental Sciences](https://www.gc.cuny.edu/earth-and-environmental-sciences){.external target="_blank"} (EES) program at the Graduate Center, City University of New York, as a doctoral faculty. 
 
-I welcome motivated doctoral students to work with me through the EES program.
+Welcome motivated doctoral students to work with us through the EES program.
 
 ## About the EES Program
 
