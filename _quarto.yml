@@ -35,8 +35,6 @@ website:
             href: posts.qmd#category=paper
           - text: Commentary
             href: posts.qmd#category=commentary
-          - text: Testimony
-            href: posts.qmd#category=testimony
           - text: Awards
             href: posts.qmd#category=award  
           - text: Grants
@@ -52,11 +50,12 @@ website:
           href: notable-policy-citations.qmd          
         - text: Presentations
           href: posts.qmd#category=presentation       
+        - text: Testimony
+          href: posts.qmd#category=testimony
         - text: Media
           href: media.qmd        
         - text: Notes
-          href: notes.qmd        
-  
+          href: notes.qmd          
       - text: Deep Policy Lab
         href: https://deeppolicylab.github.io/
         target: _blank
@@ -114,7 +113,7 @@ website:
   site-url: "https://drganghe.github.io"
   
   google-analytics:
-    tracking-id: "G-G4DYZHP5J7"
+    tracking-id: "G-G4DYZHP5J7"  # Please delete or replace with your own tracking ID
     anonymize-ip: true 
 
 bibliography: references.bib

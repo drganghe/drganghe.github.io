@@ -14,7 +14,7 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.6.39</generator>
+<generator>quarto-1.6.40</generator>
 <lastBuildDate>Wed, 08 Jan 2025 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Joining the Doctoral Faculty of the Earth and Environmental Sciences Program at the Graduate Center</title>
@@ -114,32 +114,35 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 <section id="relevant-work" class="level2">
 <h2 class="anchored" data-anchor-id="relevant-work">Relevant work</h2>
-<div id="listing-appam2024" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1690171200000" data-listing-file-modified-sort="1736095373083" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="292">
-<a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/featured.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Climate change impacts on planned supply–demand match in global wind and solar energy systems
-</h5>
-<div class="card-text listing-description">
-Up to 32% or 44% of non-Antarctic land areas for wind or solar…
+<div id="listing-appam2024" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1690171200000" data-listing-file-modified-sort="1736095373083" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="292">
+<div class="thumbnail">
+<p><a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="no-external"></a></p><a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="no-external">
+<p><img loading="lazy" data-src="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/featured.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="no-external"></a></p>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Laibao Liu, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, Shuangcheng Li
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="no-external">Climate change impacts on planned supply–demand match in global wind and solar energy systems</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="no-external"><em>Nature Energy</em></a>
 </div>
+<div class="listing-description">
+<a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="no-external">Up to 32% or 44% of non-Antarctic land areas for wind or solar…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="no-external">
 <div class="listing-date">
 Jul 24, 2023
 </div>
-</div>
-</div>
+<div class="listing-author">
+Laibao Liu, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, Shuangcheng Li
 </div>
 </a>
+</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
@@ -666,7 +669,7 @@ Nov 13, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1736089716418" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3585">
+<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1736350995564" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3585">
 <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">

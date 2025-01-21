@@ -12,7 +12,7 @@ listing:
   - id: appam2024
     contents: 
         - "../2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd"
-    type: grid
+    type: default
     max-items: 4
     grid-columns: 2
     page-size: 0 #set as 0 will remove the page setting
