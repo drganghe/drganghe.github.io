@@ -2,7 +2,7 @@
 title: "Joining the Doctoral Faculty of the Earth and Environmental Sciences Program at the Graduate Center"
 description: "Welcome motivated doctoral students to work with us through the EES program."
 author: "Gang He"
-date: "2025-01-08"
+date: "2025-01-22"
 categories: [news]
 image: "featured.webp"
 css: /custom.css
