@@ -1,0 +1,160 @@
+---
+title: "Gang He, PhD"
+description-meta: "Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition."
+image: files/profile/gang-he-cuny-profile.jpg
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: custom
+css: custom.css
+
+about:
+  id: hero-heading
+  template: solana
+  image-width: 25%
+  links:
+#    - icon: sun
+#      text: DeepPolicyLab
+#      href: https://deeppolicylab.github.io
+#      target: _blank
+#    - icon: globe
+#      text: CUNYprofile
+#      href: https://www.baruch.cuny.edu/profiles/faculty/Gang-He
+#      target: _blank
+#    - icon: person-circle
+    - text: Bio
+      href: bio.qmd
+      target: _blank
+    - icon: envelope
+#      text: E-mail
+      href: mailto:gang.he@baruch.cuny.edu
+#    - icon: github
+#      text: Github
+#      href: https://github.com/drganghe
+#    - icon: twitter
+#      text: Twitter
+#      href: https://twitter.com/DrGangHe
+#    - icon: mastodon
+#      text: Mastodon
+#      href: https://mastodon.social/@hegang      
+    - icon: linkedin
+#      text: LinkedIn
+      href: https://linkedin.com/in/hegang
+      target: _blank
+    - icon: youtube
+#      text: YouTube
+      href: https://www.youtube.com/@DrGangHe     
+      target: _blank 
+    - text: "{{< ai orcid >}}"   # use academic icons, "" are needed
+      href: https://orcid.org/0000-0002-8416-1965
+      target: _blank
+    - text: "{{< ai clarivate >}}"
+      href: https://www.webofscience.com/wos/author/record/N-4549-2013  
+      target: _blank
+    - text: "{{< ai scopus >}}"
+      href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
+      target: _blank
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=vf90AuEAAAAJ
+      target: _blank
+    - text: "{{< ai researchgate >}}"
+      href: https://www.researchgate.net/profile/Gang-He-19
+      target: _blank
+
+listing:
+  - id: recent-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+#    include:
+#      categories: [news]   # filter by category, source:https://github.com/quarto-dev/quarto-cli/issues/2577
+    exclude:
+      title: "Participating APPAM 2024"
+    type: grid
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+
+  - id: featured-publications
+    contents: 
+      - posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd
+      - posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd
+      - posts/2020-05-ncomms-rapid-re-cost/index.qmd
+    type: grid
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"    
+---
+
+<link rel="me" href="https://mastodon.social/@hegang">
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+::: {.background-frame}
+::: {.content-block}
+
+:::{#hero-heading}
+
+I'm an energy and climate scholar, researcher, and teacher @
+
+**City University of New York**
+
+- Assistant Professor, [Marxe School of Public and International Affairs](https://www.baruch.cuny.edu/profiles/faculty/Gang-He){.external target="_blank"}, Baruch College 
+
+- Doctoral Faculty, [Earth and Environmental Sciences](https://www.gc.cuny.edu/people/gang-he){.external target="_blank"}, Graduate Center
+
+- Faculty Affiliate, [CUNY Institute for Demographic Research](https://www.cuny.edu/about/centers-and-institutes/demographic-research/){.external target="_blank"}
+
+**Lawrence Berkeley National Laboratory**
+
+- Affiliated Faculty, [Energy Technology Area](https://eta.lbl.gov/people/gang-he){.external target="_blank"}
+
+**Deep Policy Lab**
+
+- Founding Director, [Deep Energy and Climate Policy Lab](https://deeppolicylab.github.io){.external target="_blank"}
+
+:::
+
+:::
+:::
+
+::: {.background-frame .alt-background}
+::: {.content-block}
+
+<p align="center" style="font-size:32px; font-weight:bold;">Recent Posts</p>
+
+:::{#recent-posts}
+:::
+
+::: {.button}
+[More posts](posts.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::
+
+::: {.background-frame}
+::: {.content-block}
+
+<p align="center" style="font-size:32px; font-weight:bold;">Featured Publications</p>
+
+:::{#featured-publications}
+:::
+
+::: {.button}
+[Explore more](posts.qmd#category=paper){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::

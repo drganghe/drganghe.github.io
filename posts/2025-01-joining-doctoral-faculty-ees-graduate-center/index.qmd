@@ -9,11 +9,12 @@ css: /custom.css
 #draft: true
 ---
 
-[![EES Program](featured.webp)](https://www.gc.cuny.edu/earth-and-environmental-sciences)
+[![EES Program](featured.webp)](https://www.gc.cuny.edu/people/gang-he)
 
-I'm joining the [Earth and Environmental Sciences](https://www.gc.cuny.edu/earth-and-environmental-sciences){.external target="_blank"} (EES) program at the Graduate Center, City University of New York, as a doctoral faculty. 
+I'm joining the [Earth and Environmental Sciences](https://www.gc.cuny.edu/earth-and-environmental-sciences){.external target="_blank"} (EES) program at the Graduate Center, City University of New York, as a [doctoral faculty](https://www.gc.cuny.edu/people/gang-he). 
 
 Welcome motivated doctoral students to work with us through the EES program.
+
 
 ## About the EES Program
 
