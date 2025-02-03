@@ -1,6 +1,6 @@
 ---
 title: "Notable Policy Citations"
-description: "Selected policy reports and documents that cite our work"
+subtitle: "Selected policy reports and documents that cite our work"
 title-block-banner: false
 #page-layout: full
 ---
