@@ -25,7 +25,13 @@ page-layout: full
 <br>
 
 
-## Templates I adapt you may find useful
+## Template I adapt you may find useful
+
+| Template | Web                           | GitHub                                           |
+| -------- | ----------------------------- | ------------------------------------------------ |
+| Academic | <https://drganghe.github.io/quarto-academic-website-template/> | <https://github.com/drganghe/quarto-academic-website-template> |
+
+### Website examples of the template
 
 | Type      | Web                                                                              | GitHub                                                     |
 | --------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -36,7 +42,7 @@ page-layout: full
 | Slides    | <https://drganghe.github.io/files/slides/solar-supply-chains-slides.html>        | <https://quarto.org/docs/presentations/revealjs/>          |
 | Poster    | <https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png> | <https://github.com/brentthorne/posterdown>                |
 
-<br>
+Note: If you’d like to use the template, please avoid forking my actual websites directly, as you will receive notifications whenever I update it. If you choose to do so, please be sure to remove my personal Google Analytics ID and MS Clarity ID from your site. Instead, I recommend forking the [Quarto Academic website template](https://github.com/drganghe/quarto-academic-website-template) to build your own website.
 
 
 ## Useful tips for building an academic Quarto site

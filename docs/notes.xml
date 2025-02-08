@@ -437,8 +437,26 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </table>
 <p><br></p>
 </section>
-<section id="templates-i-adapt-you-may-find-useful" class="level2">
-<h2 class="anchored" data-anchor-id="templates-i-adapt-you-may-find-useful">Templates I adapt you may find useful</h2>
+<section id="template-i-adapt-you-may-find-useful" class="level2">
+<h2 class="anchored" data-anchor-id="template-i-adapt-you-may-find-useful">Template I adapt you may find useful</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Template</th>
+<th>Web</th>
+<th>GitHub</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Academic</td>
+<td><a href="https://drganghe.github.io/quarto-academic-website-template/" class="uri">https://drganghe.github.io/quarto-academic-website-template/</a></td>
+<td><a href="https://github.com/drganghe/quarto-academic-website-template" class="uri">https://github.com/drganghe/quarto-academic-website-template</a></td>
+</tr>
+</tbody>
+</table>
+<section id="website-examples-of-the-template" class="level3">
+<h3 class="anchored" data-anchor-id="website-examples-of-the-template">Website examples of the template</h3>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -480,7 +498,8 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </tr>
 </tbody>
 </table>
-<p><br></p>
+<p>Note: If you’d like to use the template, please avoid forking my actual websites directly, as you will receive notifications whenever I update it. If you choose to do so, please be sure to remove my personal Google Analytics ID and MS Clarity ID from your site. Instead, I recommend forking the <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic website template</a> to build your own website.</p>
+</section>
 </section>
 <section id="useful-tips-for-building-an-academic-quarto-site" class="level2">
 <h2 class="anchored" data-anchor-id="useful-tips-for-building-an-academic-quarto-site">Useful tips for building an academic Quarto site</h2>
