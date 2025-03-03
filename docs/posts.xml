@@ -15,7 +15,59 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 22 Jan 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Mar 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Third Annual Conference on Climate Research, Teaching, and Collaboration</title>
+  <dc:creator>Baruch Climate Conference</dc:creator>
+  <link>https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.baruch.cuny.edu/climateconference/"><img src="https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/featured.webp" class="img-fluid"></a></p>
+<section id="third-annual-conference-on-climate-research-teaching-and-collaboration" class="level2">
+<h2 class="anchored" data-anchor-id="third-annual-conference-on-climate-research-teaching-and-collaboration">Third Annual Conference on Climate Research, Teaching, and Collaboration</h2>
+<p>Thursday, Mar.&nbsp;6 10 am–4:30 pm Information and Technology Building Rackow Conference Center, Room 750</p>
+<p><strong>Multidisciplinary Climate Research and Teaching</strong></p>
+<blockquote class="blockquote">
+<p>We will highlight the innovative climate research of our Baruch and CUNY faculty from the Austin W. Marxe School of Public and International Affairs, Weissman School of Arts and Sciences, and Zicklin School of Business. Presenters will share their research about the many ways in which climate change is impacting our lives. A Dean’s Panel will highlight interdisciplinary coordination. Hear from Jessica Lang, Dean, Weissman School of Arts and Sciences; Sherry Ryan, Dean, Marxe School of Public and International Affairs; and Bruce Weber, Dean, Zicklin School of Business.</p>
+</blockquote>
+<p><strong>Group 4: Research Presentations</strong></p>
+<p>3:05–4:05 pm</p>
+<ul>
+<li><p>Health and Climate Benefits of Solar Photovoltaic in European Countries and the Role of Imports, Gange He, Assistant Professor, Public Affairs</p></li>
+<li><p>Understanding The World Bank’s Role in Climate Finance, Asli Leblebicioglu, Associate Professor, Public Affairs</p></li>
+<li><p>Saving the Environment Through Corporate Governance: “Real ESG” as a Cure for Democracy’s Failings, David Rosenberg, Associate Professor, Law</p></li>
+<li><p>Climate and the Food-Energy-Water-Waste Nexus: From the Viewpoint of Waste, Samantha McBride, Adjunct Assistant Professor, Public Affairs</p></li>
+</ul>
+<p>Welcome to join us to learn more about climate-related activities at CUNY.</p>
+</section>
+<section id="conference-website" class="level2">
+<h2 class="anchored" data-anchor-id="conference-website">Conference Website</h2>
+<p><a href="https://www.baruch.cuny.edu/climateconference/" class="uri">https://www.baruch.cuny.edu/climateconference/</a></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>presentation</category>
+  <guid>https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/</guid>
+  <pubDate>Thu, 06 Mar 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/featured.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>Joining the Doctoral Faculty of the Earth and Environmental Sciences Program at the Graduate Center</title>
   <dc:creator>Gang He</dc:creator>
@@ -1323,114 +1375,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2023-11-unep-production-gap-report-2023/</guid>
   <pubDate>Wed, 08 Nov 2023 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2023-11-unep-production-gap-report-2023/featured.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060</title>
-  <dc:creator>Shi Chen</dc:creator>
-  <dc:creator>Xi Lu</dc:creator>
-  <dc:creator>Chris P. Nielsen</dc:creator>
-  <dc:creator>Michael B. McElroy</dc:creator>
-  <dc:creator>Gang He</dc:creator>
-  <dc:creator>Shaohui Zhang</dc:creator>
-  <dc:creator>Kebin He</dc:creator>
-  <dc:creator>Xiu Yang</dc:creator>
-  <dc:creator>Fang Zhang</dc:creator>
-  <dc:creator>Jimin Hao</dc:creator>
-  <link>https://drganghe.github.io/posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/</link>
-  <description><![CDATA[ 
-
-
-
-
-<!--Include academic icons or bottons-->
-<!-- 
-Load Academicons v1: https://jpswalsh.github.io/academicons/
--->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
-<!---
-The following code are needed to show dimension citation and altmetrics.
-https://api.altmetric.com/embeds.html
-https://badge.dimensions.ai/
---->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/featured.webp" class="img-fluid figure-img"></p>
-<figcaption>Future GHG mitigation and emissions of PV industry by scenario from 2020 to 2060</figcaption>
-</figure>
-</div>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Paper
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060<br>
-Shi Chen, Xi Lu*, Chris P. Nielsen, Michael B. McElroy*, Gang He, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang &amp; Jiming Hao<br>
-<em>Communications Earth &amp; Environment</em> (2023)<br>
-DOI: <a href="https://doi.org/10.1038/s43247-023-01006-x">10.1038/s43247-023-01006-x</a></p>
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>The global surge in solar photovoltaic (PV) power has featured spatial specialization from manufacturing to installation along its industrial chain. Yet how to improve PV climate benefits are under-investigated. Here we explore the evolution of net greenhouse gas (GHG) mitigation of PV industry from 2009–2060 with a spatialized-dynamic life-cycle-analysis. Results suggest a net GHG mitigation of 1.29 Gt CO2-equivalent from 2009–2019, achieved by 1.97 Gt of mitigation from installation minus 0.68 Gt of emissions from manufacturing. The highest net GHG mitigation among future manufacturing-installation-scenarios to meet 40% global power demand in 2060 is as high as 204.7 Gt from 2020–2060, featuring manufacturing concentrated in Europe and North America and prioritized PV installations in carbon-intensive nations. This represents 97.5 Gt more net mitigation than the worst-case scenario, equivalent to 1.9 times 2020 global GHG emissions. The results call for strategic international coordination of PV industrial chain to increase GHG net mitigation.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://www.nature.com/articles/s43247-023-01006-x">paper</a></p>
-<p>Open-access <a href="https://www.nature.com/articles/s43247-023-01006-x.pdf">pdf</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s43247-023-01006-x">
-
-</div>
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s43247-023-01006-x" data-hide-zero-citations="true" data-style="small_circle"></span>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{chen2023,
-  author = {Chen, Shi and Lu, Xi and P. Nielsen, Chris and B. McElroy,
-    Michael and He, Gang and Zhang, Shaohui and He, Kebin and Yang, Xiu
-    and Zhang, Fang and Hao, Jimin},
-  title = {Deploying Solar Photovoltaic Energy First in Carbon-Intensive
-    Regions Brings Gigatons More Carbon Mitigations to 2060},
-  journal = {Communications Earth \&amp; Environment},
-  volume = {4},
-  pages = {369},
-  date = {2023-10-11},
-  url = {https://www.nature.com/articles/s43247-023-01006-x},
-  doi = {10.1038/s43247-023-01006-x},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-chen2023" class="csl-entry quarto-appendix-citeas">
-Chen, Shi, Xi Lu, Chris P. Nielsen, Michael B. McElroy, Gang He, Shaohui
-Zhang, Kebin He, Xiu Yang, Fang Zhang, and Jimin Hao. 2023.
-<span>“Deploying Solar Photovoltaic Energy First in Carbon-Intensive
-Regions Brings Gigatons More Carbon Mitigations to 2060.”</span>
-<em>Communications Earth &amp; Environment</em> 4 (October): 369. <a href="https://doi.org/10.1038/s43247-023-01006-x">https://doi.org/10.1038/s43247-023-01006-x</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/</guid>
-  <pubDate>Wed, 11 Oct 2023 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/featured.webp" medium="image" type="image/webp"/>
 </item>
 </channel>
 </rss>

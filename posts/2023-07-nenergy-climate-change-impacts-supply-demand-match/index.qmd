@@ -12,7 +12,7 @@ author:
   - name: Jiashu Shen
   - name: Shuangcheng Li 
 date: "2023-07-24"
-categories: [paper]
+categories: [paper, slides]
 image: "featured.png"
 citation:
   type: article-journal
@@ -70,6 +70,14 @@ Notable policy citations:
 ```{=html}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Climate change impacts energy supply, it impacts demand too, what about supply and demand balance?<br><br>Our new <a href="https://twitter.com/NatureEnergyJnl?ref_src=twsrc%5Etfw">@NatureEnergyJnl</a> paper mapped out how climate change impacts wind solar supply demand match globally.<br><br>Paper: <a href="https://t.co/TgyvQW2GOc">https://t.co/TgyvQW2GOc</a><br>Code: <a href="https://t.co/EsM3wauMKZ">https://t.co/EsM3wauMKZ</a> <a href="https://t.co/RTT40YoZNJ">pic.twitter.com/RTT40YoZNJ</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1683500554809475072?ref_src=twsrc%5Etfw">July 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
+
+## Slides
+
+<div class="container"> 
+<iframe src="/files/slides/climate-power-sdm.html" class="responsive-iframe" width="100%" title="slides"></iframe>
+</div>
+
+Above is the general slides of our paper, I presented it at [APPAM](/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.qmd). Check the [slides](/files/slides/climate-power-sdm.html) in a new tab.
 
 <!--Include social share buttons-->
 

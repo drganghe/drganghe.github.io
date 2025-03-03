@@ -28,7 +28,7 @@ css: /custom.css
 
 {{< include /files/includes/_academic.qmd >}}
 
-![*Nature* December 1, 2022 Issue Cover highlighted our paper in the same issue](featured.jpg)
+[![*Nature* December 1, 2022 Issue Cover highlighted our paper in the same issue](featured.jpg)](https://www.nature.com/nature/volumes/612/issues/7938)
 
 ::: {.callout-note}
 ## Paper

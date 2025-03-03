@@ -17,3 +17,9 @@ All very straightforward to set up. If you follow the steps, the website is runn
 You can check out the site at <https://drganghe.github.io>.
 
 And you can follow my updates by adding <https://drganghe.github.io/posts.xml> to your RSS reader.
+
+If you’d like the layout and would like to use for your website, please avoid forking this repository directly, as you will receive notifications whenever I update it. 
+
+If you choose to do so, please be sure to remove my personal Google Analytics ID and MS Clarity ID from your site. 
+
+Instead, I recommend forking the [Quarto Academic website template](https://github.com/drganghe/quarto-academic-website-template) to build your own website.
