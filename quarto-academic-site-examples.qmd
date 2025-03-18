@@ -11,7 +11,7 @@ page-layout: full
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-## Example Quarto academic websites I reference regularly
+## Example Quarto academic websites I reference occasionally
 
 | Web                                        | GitHub                                                  |
 | ------------------------------------------ | ------------------------------------------------------- |
