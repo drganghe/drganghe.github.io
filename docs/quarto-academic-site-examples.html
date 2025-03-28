@@ -306,7 +306,9 @@ https://badge.dimensions.ai/
   <li><a href="#academic-badges" id="toc-academic-badges" class="nav-link" data-scroll-target="#academic-badges">Academic badges</a></li>
   <li><a href="#social-sharing" id="toc-social-sharing" class="nav-link" data-scroll-target="#social-sharing">Social sharing</a></li>
   <li><a href="#the-art-of-listing" id="toc-the-art-of-listing" class="nav-link" data-scroll-target="#the-art-of-listing">The art of listing</a></li>
+  <li><a href="#listing-specific-categories" id="toc-listing-specific-categories" class="nav-link" data-scroll-target="#listing-specific-categories">Listing specific categories</a></li>
   <li><a href="#listing-external-items" id="toc-listing-external-items" class="nav-link" data-scroll-target="#listing-external-items">Listing external items</a></li>
+  <li><a href="#exporting-quarto-revealjs-slides-to-pdf" id="toc-exporting-quarto-revealjs-slides-to-pdf" class="nav-link" data-scroll-target="#exporting-quarto-revealjs-slides-to-pdf">Exporting Quarto revealjs slides to PDF</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -501,17 +503,38 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <p>By mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.</p>
 <p>Here is an <a href="https://deeppolicylab.github.io/research.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research.qmd">source code</a>; another <a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.qmd">source code</a>.</p>
 </section>
+<section id="listing-specific-categories" class="level3">
+<h3 class="anchored" data-anchor-id="listing-specific-categories">Listing specific categories</h3>
+<p>To display a subset of items, use the <code>include</code> and <code>exclude</code> <a href="https://quarto.org/docs/websites/website-listings.html#including-or-excluding-items">options</a>. Below is an example of listing publications by category:</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">content</span><span class="kw">:</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> publications.yml</span></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">include</span><span class="kw">:</span></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">categories</span><span class="kw">:</span><span class="at"> </span><span class="st">"featured"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Here, <code>publications.yml</code> is a YAML file containing a list of publications with predfined <code>categories</code>, and <code>categories</code> is the key used for filtering. The result will display only publications that match the specified category.</p>
+<p>Here is an <a href="https://deeppolicylab.github.io/publications.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd">source code</a>.</p>
+</section>
 <section id="listing-external-items" class="level3">
 <h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
-<p>If you need to list external resources with key metadata, you can use this format to create clear, linked listings.</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="in">    - path: https://www.nature.com/articles/s41586-022-05316-6</span></span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="in">      image: /files/images/journal/nature.avif</span></span>
-<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="in">      title: "Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
-<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="in">      subtitle: "*Nature*"</span></span>
-<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="in">      description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
-<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="in">      date: "2022-10-26"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>If you have many items to list, it’s efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.</p>
+<p>To list external resources with key metadata, you can use this format to create clear, linked listings.</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="in">    - path: https://www.nature.com/articles/s41586-022-05316-6</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="in">      image: /files/images/journal/nature.avif</span></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="in">      title: "Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a><span class="in">      subtitle: "*Nature*"</span></span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a><span class="in">      description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a><span class="in">      date: "2022-10-26"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>For efficiency, store multiple items in a YAML(.yml) file and reference it in Quarto.</p>
 <p>Here is an <a href="https://deeppolicylab.github.io/publications.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd">source code</a>.</p>
+</section>
+<section id="exporting-quarto-revealjs-slides-to-pdf" class="level3">
+<h3 class="anchored" data-anchor-id="exporting-quarto-revealjs-slides-to-pdf">Exporting Quarto revealjs slides to PDF</h3>
+<p>Revealjs’s default <a href="https://revealjs.com/pdf-export/">PDF Export</a> omits footnotes, which is not acceptable if citations and sources are used. A workaround is to use <a href="https://github.com/astefanutti/decktape">decktape</a>:</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="ex">decktape</span> automatic lecture1.html lecture1.pdf</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>If you encounter font errors when opening the PDF, use Adobe Acrobat:</p>
+<ol type="1">
+<li>Open the PDF in Adobe Acrobat.</li>
+<li>Go to <code>Use print production</code> &gt; <code>Preflight</code>.</li>
+<li>Apply the necessary font correction.</li>
+</ol>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 

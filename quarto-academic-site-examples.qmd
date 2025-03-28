@@ -117,10 +117,24 @@ By mastering these options, you can easily create pages that fit your content ne
 
 Here is an [example](https://deeppolicylab.github.io/research.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research.qmd); another [example](https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.qmd).
 
+### Listing specific categories
+
+To display a subset of items, use the `include` and `exclude` [options](https://quarto.org/docs/websites/website-listings.html#including-or-excluding-items). Below is an example of listing publications by category:
+
+```yaml
+  content:
+    - publications.yml
+  include:
+    categories: "featured"
+```
+Here, `publications.yml` is a YAML file containing a list of publications with predfined `categories`, and `categories` is the key used for filtering. The result will display only publications that match the specified category.
+
+Here is an [example](https://deeppolicylab.github.io/publications.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd).
+
 
 ### Listing external items
 
-If you need to list external resources with key metadata, you can use this format to create clear, linked listings.
+To list external resources with key metadata, you can use this format to create clear, linked listings.
 
 ```markdown
     - path: https://www.nature.com/articles/s41586-022-05316-6
@@ -131,9 +145,25 @@ If you need to list external resources with key metadata, you can use this forma
       date: "2022-10-26"
 ```
 
-If you have many items to list, it's efficient to store them in a YAML(.yml) file. You can then reference this YAML file in Quarto.
+For efficiency, store multiple items in a YAML(.yml) file and reference it in Quarto.
 
 Here is an [example](https://deeppolicylab.github.io/publications.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd).
+
+
+### Exporting Quarto revealjs slides to PDF
+
+Revealjs's default [PDF Export](https://revealjs.com/pdf-export/) omits footnotes, which is not acceptable if citations and sources are used. A workaround is to use [decktape](https://github.com/astefanutti/decktape): 
+
+```bash
+decktape automatic lecture1.html lecture1.pdf
+```
+
+If you encounter font errors when opening the PDF, use Adobe Acrobat:
+
+1. Open the PDF in Adobe Acrobat. 
+2. Go to `Use print production` > `Preflight`. 
+3. Apply the necessary font correction. 
+
 
 <!--Include social share buttons-->
 
