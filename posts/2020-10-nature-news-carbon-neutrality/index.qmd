@@ -1,0 +1,30 @@
+---
+title: "Nature News featured our studies on China's clean energy transition"
+description: "Our work is reported by *Nature*."
+author: "Smriti Mallapaty"
+date: "2020-10-19"
+categories: [news]
+image: "featured.png"
+---
+
+## News Link
+
+<https://www.nature.com/articles/d41586-020-02927-9>
+
+## Quotes
+
+> "But battery storage has become cheaper over the past decade, and that could bring costs down, says Gang He, an energy-systems modeller at Stony Brook University in New York. If trends in the cost of renewables technology continue, more than 60% of China’s electricity could come from non-fossil fuels by 2030, says (Gang) He. “That is quite encouraging.”
+
+......
+
+> "But in making the shift, says (Gang) He, China also needs to consider the well-being and economic security of some 3.5 million workers in the coal mining and power industry, as well as the many people who rely on cheap electricity and heating.
+
+## Featured Papers
+
+- He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “[Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System](/posts/2020-05-ncomms-rapid-re-cost/index.qmd).” *Nature Communications* 11 (1): 2486. <https://doi.org/10.1038/s41467-020-16184-x>.
+
+- He, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. “[Enabling a Rapid and Just Transition Away from Coal in China](/posts/2020-08-oneearth-coal-just-transition/index.qmd).” *One Earth* 3 (2): 187–94. <https://doi.org/10.1016/j.oneear.2020.07.012>.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

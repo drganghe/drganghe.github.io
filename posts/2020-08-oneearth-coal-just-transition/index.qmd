@@ -1,0 +1,100 @@
+---
+title: "Enabling a Rapid and Just Transition away from Coal in China"
+description: "Aggressive coal-transition pathway is needed to achieve carbon nutrality goal while achieving water saving, avoiding premature death."
+subtitle: "*One Earth*"
+author: 
+  - name: Gang He
+  - name: Jiang Lin
+  - name: Ying Zhang
+  - name: Wenhua Zhang
+  - name: Guilherme Larangeira
+  - name: Chao Zhang
+  - name: Wei Peng
+  - name: Manzhi Liu
+  - name: Fuqiang Yang
+date: "2020-08-21"
+categories: [paper]
+image: "featured.jpeg"
+citation:
+  type: article-journal
+  container-title: "One Earth"
+  volume: 3
+  issue: 2
+  page: 187-194
+  doi: "10.1016/j.oneear.2020.07.012"
+  url: https://www.cell.com/one-earth/fulltext/S2590-3322(20)30356-0
+bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+Enabling a Rapid and Just Transition away from Coal in China   
+**Gang He**\*, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang   
+*One Earth* (2020)   
+DOI: [10.1016/j.oneear.2020.07.012](https://doi.org/10.1016/j.oneear.2020.07.012)  
+:::
+
+## Abstract
+
+As the world's largest coal producer and consumer, China's transition from coal to cleaner energy sources is critical for achieving global decarbonization. Increasing regulations on air pollution and carbon emissions and decreasing costs of renewables drive China's transition away from coal; however, this transition also has implications for employment and social justice. Here, we assess China's current coal-transition policies, their barriers, and the potential for an accelerated transition, as well as the associated environmental, human health, and employment and social justice issues that may arise from the transition. We estimate that the most aggressive coal-transition pathway could reduce annual premature death related to coal combustion by 224,000 and reduce annual water consumption by 4.3 billion m3 in 2050 compared with business-as-usual. We highlight knowledge gaps and conclude with policy recommendations for an integrated approach to facilitate a rapid and just transition away from coal in China.
+
+## Links
+
+Published [paper](https://www.cell.com/one-earth/fulltext/S2590-3322(20)30356-0)
+
+Open access [pdf](https://www.cell.com/action/showPdf?pii=S2590-3322%2820%2930356-0)
+
+Github [data and resources](https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China)
+
+[SBU News](https://news.stonybrook.edu/homespotlight/study-shows-huge-benefits-of-transitioning-away-from-coal-in-china/)
+
+[_Nature_ News](/posts/2020-10-nature-news-carbon-neutrality/index.qmd)
+
+Notable policy citations:  
+
+{{< include /files/includes/policycitations/_oneearth2020.qmd >}}
+
+
+```{=html}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2020.07.012"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2020.07.012" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
+
+
+## Twitter Thread
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Perspective <a href="https://twitter.com/stonybrooku?ref_src=twsrc%5Etfw">@stonybrooku</a> with Dr. Lin <a href="https://twitter.com/BerkeleyLab?ref_src=twsrc%5Etfw">@BerkeleyLab</a>, <a href="https://twitter.com/WeiPeng_Pton?ref_src=twsrc%5Etfw">@WeiPeng_Pton</a>, Dr. Yang <a href="https://twitter.com/NRDC?ref_src=twsrc%5Etfw">@NRDC</a> and others in <a href="https://twitter.com/OneEarth_CP?ref_src=twsrc%5Etfw">@OneEarth_CP</a> : <br><br>Title: Enabling a rapid and just transition away from coal in China<br><br>Paper: <a href="https://t.co/m1V93ybazP">https://t.co/m1V93ybazP</a> <br>PDF: <a href="https://t.co/OZajVVgrx7">https://t.co/OZajVVgrx7</a><br>Release: <a href="https://t.co/JNgI9xJvoW">https://t.co/JNgI9xJvoW</a> <a href="https://t.co/UYrAIicsL6">pic.twitter.com/UYrAIicsL6</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1296912353917886464?ref_src=twsrc%5Etfw">August 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+## SBU Press Release
+
+>### [Study Shows Huge Benefits of Transitioning Away from Coal in China](https://news.stonybrook.edu/homespotlight/study-shows-huge-benefits-of-transitioning-away-from-coal-in-china/)
+>
+>August 21, 2020
+>
+>China is the world’s largest producer and consumer of coal. A team of international scientists led by Stony Brook University’s Gang He, contend that China needs to transition away from coal to help the world achieve global decarbonization and improve the nation’s environmental and human health. In a perspective paper published in One Earth, the team outlines steps that can be taken for an albeit difficult, yet just and quicker transition away from coal. 
+>
+>The study proposes a political-socio-economic perspective targeting an integrated value chain to highlight a few overarching strategies and implementing policies accelerating China’s transition away from coal. This is different from the conventional discussion on coal transition, which usually centers on air pollution, carbon emission and competition from renewables. 
+>
+>“Our paper is an effort to include in the overall discussion the employment and social justice impacts, including environmental justice, of such a transition,” said Dr. He, assistant professor in the Department of Technology and Society in the College of Engineering and Applied Sciences at Stony Brook University. 
+>
+>“The benefits of China’s transition away from coal is huge. We estimate that the most aggressive coal-transition pathway could reduce premature death related to coal combustion by 224,000 in 2050, compared to the business-as-usual scenario,” said Dr. He. “Similarly, our maximum estimated reduction in water consumption, arguably the most vital of all resources, is about 4.3 billion m3 in 2050.”
+>
+>The researchers argue that for a rapid transition away from coal, China needs to take these steps:
+>
+>- Retire coal generating plants earlier and cancel newly planned coal projects.
+>- Reduce the nation’s coal consumption beyond the massive power sector.
+>- A rapid transition presents economic and social challenges that should be met with new economic opportunities.
+>- Attempt to align the motivations and incentives of key business and government stakeholders, which are often not coordinated.
+>
+>Dr. He emphasizes that a successful coal transition would involve changes that must take into account the well-being and economic security of some three million people who work in coal mining-related jobs in China, as well as another 500,000 who work within the coal power industry. A just transition away from coal, the authors write, also needs to accommodate low-income groups that rely on abundant, cheap and readily available coal for basic electricity and heating service.
+>
+>To start the transition, the authors propose the creation of a dedicated task force charged with facilitating action plans to be carried out and a process that serves the best interests of affected stakeholders and China’s diverse population. 
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

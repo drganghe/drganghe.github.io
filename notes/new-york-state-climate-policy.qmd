@@ -1,0 +1,106 @@
+---
+title: "New York State Climate Policy Goals Clarified"
+description-meta: "New York State Climate Leadership and Community Protection Act, CLCPA goals, NYS 100% EV, What are the goals of the CLCPA? What types of vehicles qualify as zero emission vehicles? What counts as renewable energy in CLCPA?"
+author: "Gang He"
+categories: [policy]
+date: "2024-11-01"
+title-block-banner: false
+page-layout: full
+from: markdown+emoji
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+
+New York State is recognized as a climate leader, yet navigating its policies can be challenging without a deep understanding of the policymaking landscape. Here, I’ve aimed to link key policy goals with relevant legislation, agencies, and provide direct access to the original legislative text. I hope you find these resources helpful. 
+
+
+| Key goals                                                                                                          | Bill      | Agency              |
+| ------------------------------------------------------------------------------------------------------------------ | --------- | ------------------- |
+| Emission reduction: 40%(2030) and 85%(2050) on 1990 level                                                          | CLCPA     | All                 |
+| Electricity: 70% renewable (2030); 100% zero emission (2040)                                                       | CLCPA     | NYSERDA             |
+| Capacity: 6GW Distributed PV(2025) :ballot_box_with_check: ; 3GW &uarr; 6GW storage(2030); 9GW offshore wind(2035) | CLCPA     | NYSERDA             |
+| DAC: no less than 35% of benefits, target for 40%                                                                  | CLCPA     | NYSERDA             |
+| ZEVs: 100% ZEV LDV sales(2035); 100% ZEV HDV sales(2045)                                                           | ECL S2758 | NYDEC, NYSERDA, DMV |
+
+Notes: ECL: Environmental Conservation Law; Emission reductin baseline: 1990 level; Renewable energy: solar thermal, PV, land and offshore wind, hydroelctric, geothermal electric, geothermal ground source heat, tidal energy, wave energy, ocean thermal, and fuel cells which do not utilize a fossil fuel resource in the process^[<https://www.nysenate.gov/legislation/bills/2019/S6599>]; ZEV(zero emission vehicles): Battery Electric Vehicles, Fuel Cell Vehicles, Plug-in Hybrid Electric Vehicles (PHEV)^[<https://dec.ny.gov/environmental-protection/air-quality/controlling-motor-vehicle-pollution/low-and-zero-emission-vehicles>].
+
+Updates: Distributed PV: On October 17, 2024, Governor Kathy Hochul announced that 6 gigawatts (GW) of distributed solar have been installed across New York, a year ahead of schedule^[<https://www.nyserda.ny.gov/About/Newsroom/2024-Announcements/2024-10-17-Governor-Hochul-Announces-New-York-State-Has-Achieved-Major-Solar-Milestone>]. Storage: On June 20, 2024, the New York Public Service Commission approved the [*Order Establishing Updated Energy Storage Goal and Deployment Policy*](https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Programs/Energy-Storage/2024-06-6GW-Energy-Storage-Order.pdf) which expands the State’s goal to 6GW of energy storage to be installed by 2030^[<https://www.nyserda.ny.gov/All-Programs/Energy-Storage-Program>].
+
+
+
+## New York State Climate Leadership and Community Protection Act
+
+### GHG emissions goals
+
+- 2030: Reduce GHG by 40% below 1990 levels   
+- 2050: Reduce GHG by 85% below 1990 levels
+
+<blockquote>
+§ 75-0107. Statewide greenhouse gas emissions limits.  
+1. No later than one year after the effective date of this article, the department shall, pursuant to rules and regulations promulgated after at least one public hearing, establish a statewide greenhouse gas emissions limit as a percentage of 1990 emissions, as estimated pursuant to section 75-0105 of this article, as follows:  
+a. 2030: 60% of 1990 emissions.  
+b. 2050: 15% of 1990 emissions.  
+2. Greenhouse gas emission limits shall be measured in units of carbon dioxide equivalents and identified for each individual type of green-house gas. 
+</blockquote>
+
+### Power sector and renewable goals
+
+- 2030: Generate 70% of electricity from renewable energy sources  
+- 2040: Achieve 100% zero-emission electricity
+
+<blockquote>
+§ 66-p. Establishment of a renewable energy program.  
+1. As used in this section:   
+(a) "jurisdictional load serving entity" means any entity subject to the jurisdiction of the commission that secures energy to serve the electrical energy requirements of end-use customers in New York state;  
+(b) "renewable energy systems" means systems that generate electricity or thermal energy through use of the following technologies: solar thermal, photovoltaics, on land and offshore wind, hydroelectric, geothermal electric, geothermal ground source heat, tidal energy, wave energy, ocean thermal, and fuel cells which do not utilize a fossil fuel resource in the process of generating electricity.  
+2. No later than June thirtieth, two thousand twenty-one, the commission shall establish a program to require that: (a) a minimum of seventy percent of the state wide electric generation secured by jurisdictional load serving entities to meet the electrical energy requirements of all end-use customers in New York state in two thousand thirty shall be generated by renewable energy systems; and (b) that by the year two thousand forty (collectively, the "targets") the statewide electrical demand system will be zero emissions.
+</blockquote>
+
+- Technological specific goals:
+
+  - 2025: Install 6 GW solar PV  
+  - 2030: Install 3 GW energy storage  
+  - 2035: Install 9 GW of offshore wind
+
+
+<blockquote> 
+5. No later than July first, two thousand twenty-four, the commission shall establish programs to require the procurement by the state's load serving entities of at least nine gigawatts of offshore wind electricity generation by two thousand thirty-five and six gigawatts of photovoltaic solar generation by two thousand twenty-five, and to support three giga-watts of statewide energy storage capacity by two thousand thirty.
+</blockquote> 
+
+
+### What also in the bill?
+
+- Establish the New York state climate action council ("council")
+- At least 35% of the benefits directed to disadvantaged communities with a goal to achieve 40%
+
+<blockquote>
+75-0117. Investment of funds.  
+State agencies, authorities and entities, in consultation with the environmental justice working group and the climate action council, shall, to the extent practicable, invest or direct available and relevant programmatic resources in a manner designed to achieve a goal for disadvantaged communities to receive forty percent of overall benefits of spending on clean energy and energy efficiency programs, projects or investments in the areas of housing, workforce development, pollution reduction, low income energy assistance, energy, transportation and economic development, provided however, that disadvantaged communities shall receive no less than thirty-five percent of the overall benefits of spending on clean energy and energy efficiency programs, projects or investments and provided further that this section shall not alter funds already contracted or committed as of the effective date of this section.  
+</blockquote>
+
+Source Document: [Senate Bill S6599](https://legislation.nysenate.gov/pdf/bills/2019/S6599)
+
+
+## Amendaments to Envirnmental Coservation Law
+
+
+### EV sales goals
+
+- 2035: 100% new sale of passager cars and trucks shall be zero emission 
+- 2045: 100% new sale of medium-duty and heavy-duty vehicles shall be zero emission 
+
+<blockquote>
+Section 1. The environmental conservation law is amended by adding a new section 19-0306-b to read as follows:   
+§ 19-0306-b. Zero-emissions cars and trucks.   
+1. It shall be a goal of the state that one hundred percent of new passenger cars and trucks offered for sale or lease, or sold, or leased, for registration in the state shall be zero-emissions by two thousand thirty-five. It shall be a further goal of the state that one hundred percent of medium-duty and heavy-duty vehicles offered for sale or lease, or sold, or leased, for registration in the state be zero-emissions by two thousand forty-five for all operations where feasible. It shall be further a goal of the state to transition to one hundred percent zero-emissions off-road vehicles and equipment by two thousand thirty-five where feasible.  
+</blockquote>
+
+Source Document: [Senate Bill S2758](https://legislation.nysenate.gov/pdf/bills/2021/S2758)
+
+Note: This is an ongoing policy issue, more updates are expected.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

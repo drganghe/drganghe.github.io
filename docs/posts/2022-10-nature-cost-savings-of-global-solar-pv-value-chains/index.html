@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.40">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Gang He">
+<meta name="dcterms.date" content="2022-10-26">
+<meta name="description" content="Dr.&nbsp;Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Key words: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality">
+
+<title>Quantifying the cost savings of global solar photovoltaic supply chains – Dr.&nbsp;Gang He</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-3146a0984a964146c28da0a2cf78b9ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4DYZHP5J7"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-G4DYZHP5J7', { 'anonymize_ip': true});
+</script>
+
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="../../custom.css">
+<meta property="og:title" content="Quantifying the cost savings of global solar photovoltaic supply chains – Dr.&nbsp;Gang He">
+<meta property="og:description" content="Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically.">
+<meta property="og:image" content="https://drganghe.github.io/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/featured.jpg">
+<meta property="og:site_name" content="Dr. Gang He">
+<meta name="twitter:title" content="Quantifying the cost savings of global solar photovoltaic supply chains – Dr.&nbsp;Gang He">
+<meta name="twitter:description" content="Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically.">
+<meta name="twitter:image" content="https://drganghe.github.io/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/featured.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="citation_title" content="Quantifying the cost savings of global solar photovoltaic supply chains">
+<meta name="citation_author" content="John Paul Helveston">
+<meta name="citation_author" content="Gang He">
+<meta name="citation_author" content="Michael R. Davidson">
+<meta name="citation_publication_date" content="2022-12-01">
+<meta name="citation_cover_date" content="2022-12-01">
+<meta name="citation_year" content="2022">
+<meta name="citation_online_date" content="2022-10-26">
+<meta name="citation_fulltext_html_url" content="https://www.nature.com/articles/s41586-022-05316-6">
+<meta name="citation_issue" content="7938">
+<meta name="citation_doi" content="10.1038/s41586-022-05316-6">
+<meta name="citation_volume" content="612">
+<meta name="citation_language" content="en">
+<meta name="citation_firstpage" content="83">
+<meta name="citation_lastpage" content="87">
+<meta name="citation_journal_title" content="Nature">
+<meta name="citation_reference" content="citation_title=Quantifying the cost savings of global solar photovoltaic supply chains;,citation_author=John Helveston;,citation_author=Gang He;,citation_author=Michael Davidson;,citation_publication_date=2022;,citation_cover_date=2022;,citation_year=2022;,citation_issue=7938;,citation_doi=10.1038/s41586-022-05316-6;,citation_volume=612;,citation_journal_title=Nature;">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Dr.&nbsp;Gang He</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../posts.html#category=news">
+ <span class="dropdown-text">News</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../posts.html#category=event">
+ <span class="dropdown-text">Events</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../now.html">
+ <span class="dropdown-text">Now</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../contact.html">
+ <span class="dropdown-text">Contact</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+        <li>
+    <a class="dropdown-item" href="../../publications.html">
+ <span class="dropdown-text">List of Publication</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../posts.html#category=paper">
+ <span class="dropdown-text">Selected Papers</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../posts.html#category=commentary">
+ <span class="dropdown-text">Commentary</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../posts.html#category=award">
+ <span class="dropdown-text">Awards</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://deeppolicylab.github.io/projects.html" target="_blank">
+ <span class="dropdown-text">Grants</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../../teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-outreach" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Outreach</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
+        <li>
+    <a class="dropdown-item" href="../../posts.html#category=outreach">
+ <span class="dropdown-text">Policy Engagement</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../notable-policy-citations.html">
+ <span class="dropdown-text">Policy Citations</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../posts.html#category=presentation">
+ <span class="dropdown-text">Presentations</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../posts.html#category=testimony">
+ <span class="dropdown-text">Testimony</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../media.html">
+ <span class="dropdown-text">Media</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../notes.html">
+ <span class="dropdown-text">Notes</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="https://deeppolicylab.github.io/" target="_blank"> 
+<span class="menu-text">Deep Policy Lab</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../cn.html"> 
+<span class="menu-text">中文</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../files/Gang-He-CV.pdf" target="_blank"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/drganghe" target="_blank"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app/profile/hegang.bsky.social" target="_blank"> 
+<span class="menu-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
+  <li><a href="#impact" id="toc-impact" class="nav-link" data-scroll-target="#impact">Impact</a></li>
+  <li><a href="#twitter-thread" id="toc-twitter-thread" class="nav-link" data-scroll-target="#twitter-thread">Twitter Thread</a></li>
+  <li><a href="#poster" id="toc-poster" class="nav-link" data-scroll-target="#poster">Poster</a></li>
+  <li><a href="#slides" id="toc-slides" class="nav-link" data-scroll-target="#slides">Slides</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Quantifying the cost savings of global solar photovoltaic supply chains</h1>
+<p class="subtitle lead"><em>Nature</em></p>
+  <div class="quarto-categories">
+    <div class="quarto-category">paper</div>
+    <div class="quarto-category">poster</div>
+    <div class="quarto-category">slides</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically.
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-contents">
+             <p>John Paul Helveston </p>
+             <p>Gang He </p>
+             <p>Michael R. Davidson </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 26, 2022</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.nature.com/nature/volumes/612/issues/7938"><img src="featured.jpg" class="img-fluid figure-img" alt="Nature December 1, 2022 Issue Cover highlighted our paper in the same issue"></a></p>
+<figcaption><em>Nature</em> December 1, 2022 Issue Cover highlighted our paper in the same issue</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Quantifying the cost savings of global solar photovoltaic supply chains<br>
+John Paul Helveston, <strong>Gang He</strong>*, and Michael R. Davidson<br>
+<em>Nature</em> (2022)<br>
+DOI: <a href="https://doi.org/10.1038/s41586-022-05316-6">10.1038/s41586-022-05316-6</a><br>
+<!--<i class="fa fa-download"></i> [PDF](/files/papers/nature-solar-supply-chains-preprint.pdf) &nbsp; <i class="fa-brands fa-github"></i> [Code & Data](https://github.com/jhelvy/solar-learning-2021)--></p>
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, yet countries sometimes implement policies that increase costs by restricting the free flow of capital, talent and innovation in favour of localizing benefits such as economic growth, employment and trade surpluses. Here we assess the cost savings from a globalized solar photovoltaic (PV) module supply chain. We develop a two-factor learning model using historical capacity, component and input material price data of solar PV deployment in the United States, Germany and China. We estimate that the globalized PV module market has saved PV installers US$24 (19–31) billion in the United States, US$7 (5–9) billion in Germany and US$36 (26–45) billion in China from 2008 to 2020 compared with a counterfactual scenario where domestic manufacturers supply an increasing proportion of installed capacities over a ten-year period. Projecting the same scenario forwards from 2020 results in estimated solar module prices that are approximately 20–30 per cent higher in 2030 compared with a future with globalized supply chains. International climate policy benefits from a globalized low-carbon value chain, and these results point to the need for complementary policies to mitigate welfare distribution effects and potential impacts on technological crowding out.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.nature.com/articles/s41586-022-05316-6">paper</a></p>
+<p>Paper summary: <a href="../../posts/2022-11-nature-solar-paper-summary/index.html">The Cost of Going Solo in Solar</a></p>
+<p>ResearchGate <a href="https://www.researchgate.net/publication/364757014_Quantifying_the_cost_savings_of_global_solar_photovoltaic_supply_chains">pdf</a> provided by <em>Nature</em></p>
+<p>Preprint <a href="../../files/papers/2022-nature-solar-supply-chains-preprint.pdf">pdf</a></p>
+<p>Author Correction <a href="https://www.nature.com/articles/s41586-023-06262-7">pdf</a>, <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06262-7/MediaObjects/41586_2023_6262_MOESM1_ESM.pdf">SI</a></p>
+<p>Github: <a href="https://github.com/jhelvy/solar-learning-2021">solar-learning-2021</a></p>
+<p>Zenodo: <a href="https://doi.org/10.5281/zenodo.6989075">Code and Data</a></p>
+<p>Shinyapps: <a href="https://jhelvy.shinyapps.io/solar-learning-2021/">Sensitivity visualization</a></p>
+</section>
+<section id="impact" class="level2">
+<h2 class="anchored" data-anchor-id="impact">Impact</h2>
+<p>Award: Integrated Assessment Modeling Consortium 2022 <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a></p>
+<p><em>Nature</em> Highlights: <a href="https://web.archive.org/web/20230603073317/https://www.natureasia.com/en/research/highlight/14262">Climate policy: Solar energy expected to be cheaper through globalization</a></p>
+<p><em>Joule</em> Preview: <a href="https://doi.org/10.1016/j.joule.2022.12.003">The cost of risk mitigation—Diversifying the global solar PV supply chain</a> by Nathan L.Chang, Mohammad Dehghanimadvar, and Renate Egan</p>
+<p>Press release: <a href="https://news.stonybrook.edu/newsroom/global-collaboration-is-key-to-saving-billions-for-solar-module-production/">SBU News</a>, <a href="https://mediarelations.gwu.edu/global-collaboration-saved-countries-67-billion-solar-panel-production-costs">GWU News</a>, <a href="https://today.ucsd.edu/story/open-trade-saves-countries-billions-in-solar-panel-production">UCSD News</a></p>
+<p>Coverage: <a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/">E&amp;E News</a>, <a href="https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/"><em>Foreign Policy</em></a>, <a href="https://web.archive.org/web/20240106093827/https://themessenger.com/grid/the-us-is-reducing-its-reliance-on-china-for-green-technology-could-that-slow-progress-on-climate-change">GRID News</a>, <a href="https://pv-magazine-usa.com/2022/10/26/a-globalized-supply-chain-is-key-to-cutting-costs-in-solar-module-manufacturing/">PV Magazine</a>, <a href="https://dot.la/deglobalization-2658510850.html">dot.LA</a>, <a href="https://pvbuzz.com/new-study-quantifies-cost-savings-solar-industry-globalized-supply-chains/">pvbuzz</a>, <a href="https://www.innovateli.com/no-736-on-immigrants-solar-energy-supplies-and-other-american-strengths-with-lots-of-candy-to-share/">InnovateLongIsland</a>, <a href="https://mercomindia.com/imposing-import-tariffs-hamper-of-solar-energy-study/">Mercom India</a>, <a href="https://www.chinanews.com.cn/cj/2022/10-27/9881042.shtml">China News</a>, <a href="http://www.stdaily.com/index/kejixinwen/202210/e38ea5c3a3054d87a43996d39a2924ab.shtml">Science and Technology Daily</a></p>
+<p><a href="https://mp.weixin.qq.com/s/CuyHGblyLcMfMo13VBXaFA">Nature Portfolio Chinese summary</a></p>
+<p>Notable policy citations:</p>
+<ul>
+<li><p>UN, OECD, The World Bank, WTO and IMF. 2024. <a href="https://unctad.org/publication/working-together-better-climate-action">Working Together for Better Climate Action: Carbon pricing, policy spillovers, and global climate goals</a>.</p></li>
+<li><p>UK Parliament Select Committee Publications. 2024. <a href="https://committees.parliament.uk/writtenevidence/129843/pdf/">Written evidence submitted by UK Trade for Net Zero</a>.</p></li>
+<li><p>World Bank. 2024. <a href="https://hdl.handle.net/10986/41919">World Development Report 2024: The Middle-Income Trap</a>.</p></li>
+<li><p>International Renewable Energy Agency. 2024. <a href="https://www.irena.org/Publications/2024/Oct/Renewable-energy-and-jobs-Annual-review-2024">Renewable energy and jobs: Annual review 2024</a>.</p></li>
+<li><p>World Trade Organization. 2023. <a href="https://www.wto.org/english/res_e/publications_e/tptforclimataction_e.htm">Trade Policy Tools for Climate Action</a>.</p></li>
+<li><p>World Trade Organization. 2023. <a href="https://www.wto.org/english/res_e/publications_e/gvc_dev_rep23_e.htm">Global Value Chain Development Report 2023</a>.</p></li>
+</ul>
+<p>Source: <a href="https://nature.altmetric.com/details/137703061/policy-documents">Altmetric</a> and <a href="https://plu.mx/plum/a/policy_citation?doi=10.1038/s41586-022-05316-6">PlumX</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-022-05316-6"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</section>
+<section id="twitter-thread" class="level2">
+<h2 class="anchored" data-anchor-id="twitter-thread">Twitter Thread</h2>
+<blockquote class="twitter-tweet blockquote"><p lang="en" dir="ltr">Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%5Etfw">@nature</a> with <a href="https://twitter.com/JohnHelveston?ref_src=twsrc%5Etfw">@JohnHelveston</a> and <a href="https://twitter.com/east_winds?ref_src=twsrc%5Etfw">@east_winds</a> on “Quantifying the cost savings of global solar photovoltaic supply chains”.<br><br>Paper: <a href="https://t.co/2DpBh4huDj">https://t.co/2DpBh4huDj</a><br><br>pdf: <a href="https://t.co/F7oPjA67LR">https://t.co/F7oPjA67LR</a> <br><br>Vis: <a href="https://t.co/a8Q306vnbq">https://t.co/a8Q306vnbq</a> <br><br>More: <a href="https://t.co/OVmdOUHIfZ">https://t.co/OVmdOUHIfZ</a> <a href="https://t.co/oFg4hGf9YK">pic.twitter.com/oFg4hGf9YK</a></p>— Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1585303259975061504?ref_src=twsrc%5Etfw">October 26, 2022</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>
+<section id="poster" class="level2">
+<h2 class="anchored" data-anchor-id="poster">Poster</h2>
+<p>Here is the poster for <a href="https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/">IAMC2022</a> which won the <a href="../../posts/2022-12-iamc-2022-best-poster-award/index.html">Best Poster Award</a>. The <a href="../../files/posters/nature-solar-supply-chains-poster.pdf">pdf</a> is also available.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="../../files/posters/nature-solar-supply-chains-poster.png" class="img-fluid quarto-figure quarto-figure-left figure-img" style="width:95.0%"></p>
+</figure>
+</div>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<div class="container">
+<iframe src="../../files/slides/solar-supply-chains-slides.html" class="responsive-iframe" width="100%" title="slides">
+</iframe>
+</div>
+<p>Above is the general slides of our paper, I presented it at <a href="https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g">Tsinghua University</a>. Check the <a href="../../files/slides/solar-supply-chains-slides.html">slides</a> in a new tab.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<!---
+## Timeline
+
+The following timeline from Researchsquare might provide a reference point when tracking submitted manuscript.
+
+| Version | Date     | Status                                       | Days since this submission | Days since first submission |
+|---------|----------|----------------------------------------------|----------------------------|-----------------------------|
+| 1       | 8/16/21  | First submitted to Nature                    |                            |                             |
+| 1       | 8/16/21  | Editor assigned                              | 0                          | 0                           |
+| 1       | 8/29/21  | 8 reviewer(s) invited                        | 13                         | 13                          |
+| 1       | 8/31/21  | Reviewer #1 agreed                           | 15                         | 15                          |
+| 1       | 9/1/21   | Reviewer #2 agreed                           | 16                         | 16                          |
+| 1       | 9/15/21  | Review #1 received                           | 30                         | 30                          |
+| 1       | 9/17/21  | Review #2 received                           | 32                         | 32                          |
+| 1       | 10/13/21 | Reviewer #3 agreed                           | 58                         | 58                          |
+| 1       | 10/13/21 | Review #3 received                           | 58                         | 58                          |
+| 1       | 11/10/21 | Editorial decision: Reject                   | 86                         | 86                          |
+| 2       | 3/28/22  | Version 2 submitted to Nature                |                            | 224                         |
+| 2       | 3/31/22  | 3 reviewer(s) invited                        | 3                          | 227                         |
+| 2       | 4/1/22   | Reviewer #1 agreed                           | 4                          | 228                         |
+| 2       | 4/7/22   | Reviewer #2 agreed                           | 10                         | 234                         |
+| 2       | 4/19/22  | Review #2 received                           | 22                         | 246                         |
+| 2       | 4/24/22  | Review #1 received                           | 27                         | 251                         |
+| 2       | 4/24/22  | Editorial decision: Reject                   | 27                         | 251                         |
+| 3       | 6/11/22  | Version 3 submitted to Nature                |                            | 299                         |
+| 3       | 6/14/22  | 4 reviewer(s) invited                        | 3                          | 320                         |
+| 3       | 7/5/22   | Reviewer #1 agreed                           | 24                         | 323                         |
+| 3       | 7/6/22   | Review #1 received                           | 25                         | 324                         |
+| 3       | 7/20/22  | Reviewer #2 agreed                           | 39                         | 338                         |
+| 3       | 7/28/22  | Review #2 received                           | 47                         | 346                         |
+| 3       | 7/29/22  | Reviewer #3 agreed                           | 48                         | 347                         |
+| 3       | 8/8/22   | Review #3 received                           | 58                         | 357                         |
+| 3       | 8/9/22   | Editorial decision: Revise                   | 59                         | 358                         |
+| 4       | 8/15/22  | Version 4 submitted to Nature                |                            | 364                         |
+| 4       | 8/16/22  | 1 reviewer(s) invited                        | 1                          | 365                         |
+| 4       | 8/16/22  | Reviewer #1 agreed                           | 1                          | 365                         |
+| 4       | 8/17/22  | Review #1 received                           | 2                          | 366                         |
+| 4       | 9/2/22   | Editorial decision: Accept                   | 18                         | 382                         |
+| 5       | 9/28/22  | Proofs received                              |                            | 408                         |
+| 6       | 10/26/22 | Published online                             |                            | 436                         |
+--->
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{paul_helveston2022,
+  author = {Paul Helveston, John and He, Gang and R. Davidson, Michael},
+  title = {Quantifying the Cost Savings of Global Solar Photovoltaic
+    Supply Chains},
+  journal = {Nature},
+  volume = {612},
+  number = {7938},
+  pages = {83-87},
+  date = {2022-12-01},
+  url = {https://www.nature.com/articles/s41586-022-05316-6},
+  doi = {10.1038/s41586-022-05316-6},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-paul_helveston2022" class="csl-entry quarto-appendix-citeas" role="listitem">
+Paul Helveston, John, Gang He, and Michael R. Davidson. 2022.
+<span>“Quantifying the Cost Savings of Global Solar Photovoltaic Supply
+Chains.”</span> <em>Nature</em> 612 (7938): 83–87. <a href="https://doi.org/10.1038/s41586-022-05316-6">https://doi.org/10.1038/s41586-022-05316-6</a>.
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<a href="http://drganghe.github.io">Gang He</a> ©
+<script>document.write(new Date().getFullYear())</script>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/drganghe/drganghe.github.io" target="_blank">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app/profile/hegang.bsky.social" target="_blank">
+<p><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></p>
+</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="../../posts.xml" target="_blank">
+      <i class="bi bi-rss" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

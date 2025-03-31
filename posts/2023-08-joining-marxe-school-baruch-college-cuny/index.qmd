@@ -1,0 +1,40 @@
+---
+title: "Joining the Marxe School of Public and International Affairs"
+description: "Welcome new collaborations"
+author: "Gang He"
+date: "2023-08-25"
+categories: [news]
+image: "featured.jpeg"
+css: /custom.css
+#draft: true
+---
+
+I'm joining the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/){.external target="_blank"}, Baruch College, City University of New York, as an assistant professor on energy and climate policy. 
+
+[![](/posts/2023-08-joining-marxe-school-baruch-college-cuny/New-Faculty_Webslider.jpeg)](https://marxe.baruch.cuny.edu/homepage/fall-2023-new-faculty/)
+
+I'm grateful for Marxe School's warm welcome messages in the [August 2023 Faculty Spotlight](https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/){.external target="_blank"}.
+
+[![](/posts/2023-08-joining-marxe-school-baruch-college-cuny/MarxeSpotlights_WebSlider_August2023.jpeg)](https://marxe.baruch.cuny.edu/spotlight-archive/august-2023-faculty-spotlight/)
+
+> We welcome Assistant Professor Gang He to the Marxe School and discuss his research, experiences, recent projects, two courses he will be teaching, and more.
+>
+> ### Welcome joining the Marxe School. Could you tell us more about your research?
+> My research focuses on using data-driven, evidence-based analysis to inform energy and climate policy, I call it DEEP policy research. My overall research goal is to enable a rapid, sustainable, resilient, and just energy transition to achieve carbon neutrality and address climate challenges. I have been developing my research on deep decarbonization pathways of the electric power sector, role and impacts of global clean energy supply chains, energy systems adaptation to climate change, and justice implications of energy transition. My work has been published in high-impact journals such as *Nature*, *Nature Communications*, *One Earth*, *Environmental Science and Technology*. Engaging in the policymaking process is crucial to me, as it allows for real-world impact. I have had the opportunity to testify for the New York State Climate Leadership and Community Protection Act, offering insights before it become law. Additionally, I have advised the New York State Climate Action Council’s Scoping Plan. I’m excited to join the Marxe School and be surrounded by such a dynamic, diverse, and dedicated community of scholars and students. I’m eager to collaborate and contribute to the policy analysis, research, discussions, and debates aimed at fostering a better climate and society.
+>
+> ### What drew you to climate change policy?
+>
+> As a first-generation college student and academic in my family, my journey began unexpectedly. When I was accepted into Peking University to study geography, I was working on a construction site. It was during my studies that I discovered my passion for geography, as it trained me to develop a systematic understanding of the big picture and allowed me to explore various places, people, and cultures through my fieldwork. During a project in southwest China, I observed firsthand the consequences of climate change. Due to increased rainfall and deforestation, the thin layer of topsoil is literally eroding from under the feet of local mountain residents, and with it their livelihoods. One event shaped my career trajectory significantly. After participating in the UN Climate Change Conference COP 11 in Montreal in 2005 as a youth delegate, I became increasingly involved in climate protection. I worked with fellow students and founded the first student climate club at Peking University, raising climate awareness among students and promoting environmental initiatives on campus. This experience propelled me to pursue a master’s degree in Climate and Society at Columbia University, followed by research work in the Program on Energy and Sustainable Development at Stanford University and a Ph.D. on Energy and Resources from the University of California, Berkeley. Over my lifetime, I have witnessed global annual carbon emissions double in forty years, reaching about 37 billion tons in 2021. Urgent actions are needed to reduce carbon emissions to net-zero by mid-century. I firmly believe that evidence-based policy can incentivize, leverage, and cultivate the necessary changes to achieve carbon neutrality.
+>
+> ### Can you share more about your ongoing research project on clean energy supply chain?
+>
+> Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, yet countries sometimes implement decoupling policies that might impede continuous cost declining. International climate policy and renewable energy deployment policy now face a crossroads: continue relying on global supply chains, or pivot towards domestic technology development and production. In a collaborative paper published in Nature, our research team found globalized supply chain has saved solar installers in the United States, Germany, and China $67 Billion from 2008 to 2020, and solar prices would be 20-30% higher in 2030 if countries move to produce domestically. Build on the findings of the Nature paper, we are studying the carbon mitigation, air quality, and human health benefits of global solar PV supply chains, with support from the Global Energy Initiative at ClimateWorks Foundation. In addition, we are actively exploring opportunities and collaboration to address the challenges and implications to enable a sustainable, resilient, and just global clean energy supply chain to achieve climate goals.
+>
+>### What will you be teaching in the Fall?
+>
+>The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. In the Fall 2023 semester, I will be teaching two courses focused on energy and climate change policy. The undergraduate course, “Energy, Climate, and Society”, takes a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. The graduate-level course, “Energy and Climate Policy”, adopts a systems approach to delve into the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. In both classes, we aim to inspire and equip students, especially those from underrepresented groups and underserved communities, to pursue careers in the energy and climate field. We strive to empower them with the knowledge and skills needed to make a positive impact on climate solutions.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

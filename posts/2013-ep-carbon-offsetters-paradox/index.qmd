@@ -1,0 +1,57 @@
+---
+title: "Addressing carbon Offsetters’ Paradox: Lessons from Chinese wind CDM"
+subtitle: "*Energy Policy*"
+description: "The paper examines the application of additionality in the Chinese wind power market and draws implications for the design of effective global carbon offset policy."
+author: 
+  - name: Gang He
+  - name: Richard Morse
+date: "2013-12-15"
+categories: [paper]
+image: "featured.jpg"
+citation:
+  type: article-journal
+  container-title: "Energy Policy"
+  volume: 63
+  page: 1051-1055
+  doi: "10.1016/j.enpol.2013.09.021"
+  url: https://doi.org/10.1016/j.enpol.2013.09.021
+#bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+Addressing carbon Offsetters’ Paradox: Lessons from Chinese wind CDM   
+**Gang He**\*, and Richard Morse  
+*Energy Policy* (2013)   
+DOI: [10.1016/j.enpol.2013.09.021](https://doi.org/10.1016/j.enpol.2013.09.021)
+:::
+
+## Abstract
+
+The clean development mechanism (CDM) has been a leading international carbon market and a driving force for sustainable development. But the eruption of controversy over offsets from Chinese wind power in 2009 exposed cracks at the core of how carbon credits are verified in the developing economies. The Chinese wind controversy therefore has direct implications for the design and negotiation of any successor to the Kyoto Protocol or future market-based carbon regimes. In order for carbon markets to avoid controversy and function effectively, the lessons from the Chinese wind controversy should be used to implement key reforms in current and future carbon policy design. The paper examines the application of additionality in the Chinese wind power market and draws implications for the design of effective global carbon offset policy. It demonstrates the causes of the wind power controversy, highlights underlying structural flaws, in how additionality is applied in China, the Offsetters' Paradox, and charts a reform path that can strengthen the credibility of global carbon markets.
+
+
+![The Offsetters' Paradox: if credits are given for the difference between BAU~1~ and target trajectories, any domestic policy that lowers baseline emissions to create BAU~2~ reduces carbon payments, and therefore disincentivizes domestic emissions-reducing policies that would shift BAU~1~ to BAU~2~.](featured.jpg){width=80%}
+
+
+## Links
+
+Published [paper](https://doi.org/10.1016/j.enpol.2013.09.021)
+
+Paper summary: [Overcoming Imperfections](/files/papers/2010-point-carbon-overcoming-imperfections.pdf)
+
+Self-archiving [pdf](/files/papers/2013-EP-ChinaWindCDM.pdf)
+
+Notable policy citations:  
+
+{{< include /files/includes/policycitations/_energypolicy2013.qmd >}}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.enpol.2013.09.021"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enpol.2013.09.021" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

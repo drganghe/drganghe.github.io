@@ -1,0 +1,43 @@
+---
+title: "Joining the Doctoral Faculty of the Earth and Environmental Sciences Program at the Graduate Center"
+description: "Welcome motivated doctoral students to work with us through the EES program."
+author: "Gang He"
+date: "2025-01-22"
+categories: [news]
+image: "featured.webp"
+css: /custom.css
+#draft: true
+---
+
+[![EES Program](featured.webp)](https://www.gc.cuny.edu/people/gang-he)
+
+I'm joining the [Earth and Environmental Sciences](https://www.gc.cuny.edu/earth-and-environmental-sciences){.external target="_blank"} (EES) program at the Graduate Center, City University of New York, as a [doctoral faculty](https://www.gc.cuny.edu/people/gang-he). 
+
+Welcome motivated doctoral students to work with us through the EES program.
+
+
+## About the EES Program
+
+> From its inception in 1983, the Ph.D. Program in Earth and Environmental Sciences has identified itself with "promoting teaching and research in the study of the earth." With faculty in atmospheric sciences, environmental sciences, environmental psychology, geography, and geology, the Earth and Environmental Sciences program at the CUNY Graduate Center spans a broad array of subjects focusing on the earth, its environments, human activities, and the linkages between them.
+>
+> Our students have the unique opportunity to study both the physical and human environments simultaneously, or to focus on specific subjects within the program's specializations. The faculty has a strong commitment to education and research in Environmental and Geological Sciences, Environmental Psychology, and Geography.
+
+Source: <https://www.gc.cuny.edu/earth-and-environmental-sciences>
+
+### More Information
+
+- [Curriculum and Degree Information](https://www.gc.cuny.edu/earth-and-environmental-sciences/curriculum-and-degree-information)
+
+- [Faculty](https://www.gc.cuny.edu/earth-and-environmental-sciences/faculty)
+
+- [Events](https://www.gc.cuny.edu/events?program=264)
+
+- [Current Students](https://www.gc.cuny.edu/earth-and-environmental-sciences/students)
+
+- [How to Apply](https://www.gc.cuny.edu/earth-and-environmental-sciences/admissions-and-aid)
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

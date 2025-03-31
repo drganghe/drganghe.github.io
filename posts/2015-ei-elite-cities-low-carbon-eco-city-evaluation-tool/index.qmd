@@ -1,0 +1,52 @@
+---
+title: "ELITE cities: A low-carbon eco-city evaluation tool for China"
+description: "ELITE Cities is an Excel-based tool that measures city low-carbon development progress on 33 key indicators. "
+subtitle: "*Ecological Indicators*"
+author: 
+  - name: Nan Zhou
+  - name: Gang He
+  - name: Christopher Williams
+  - name: David Fridley
+date: "2015-01-15"
+categories: [paper]
+image: "featured.jpg"
+citation:
+  type: article-journal
+  container-title: "Ecological Indicators"
+  volume: 48
+  page: 448-456
+  doi: "10.1016/j.ecolind.2014.09.018"
+  url: https://doi.org/10.1016/j.ecolind.2014.09.018
+#bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+ELITE cities: A low-carbon eco-city evaluation tool for China   
+Nan Zhou\*, **Gang He**, Christopher Williams, and David Fridley    
+*Ecological Indicators* (2015)   
+DOI: [10.1016/j.ecolind.2014.09.018](https://doi.org/10.1016/j.ecolind.2014.09.018)
+:::
+
+## Abstract
+
+China is pursuing the development of low-carbon eco-cities to limit carbon dioxide and other greenhouse gases emissions; however, it is unclear what constitutes a low-carbon eco-city and how to evaluate it. The eco and low-carbon indicator tool for evaluating cities (ELITE cities) was developed by researchers at the Lawrence Berkeley National Laboratory in 2012 to evaluate cities’ performance by comparing them against benchmark performance goals as well as rank them against other cities in China. ELITE cities measures progress on 33 key indicators selected to represent priority issues within eight primary categories. An excel-based tool was then developed to package the key indicators, indicator benchmarks, explanation of indicators, point calculation functions and transparency-oriented data recording instructions. ELITE cities could be a useful and effective tool for local city government in defining the broad outlines of a low-carbon eco-city and assessing the progress of cities’ efforts towards this goal. ELITE cities can also be used by higher-level governments to assess city performance and discern best practices. This paper explains the general framework of the ELITE cities tool, the methods by which the indicators and indicator benchmarks were established, and a detailed guide on tool applications.
+
+
+## Links
+
+Published [paper](https://doi.org/10.1016/j.ecolind.2014.09.018)
+
+Self-archiving [pdf](/files/papers/2015-EI-ELITE-Cities.pdf)
+
+Download the [tool](/files/tools/elite-cities-final-en.zip)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ecolind.2014.09.018"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecolind.2014.09.018" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

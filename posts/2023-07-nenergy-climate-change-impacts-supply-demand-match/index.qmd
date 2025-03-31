@@ -1,0 +1,85 @@
+---
+title: "Climate change impacts on planned supply–demand match in global wind and solar energy systems"
+subtitle: "*Nature Energy*"
+description: "Up to 32% or 44% of non-Antarctic land areas for wind or solar, respectively, are projected to experience supply demand match reductions by the end of this century under an intermediate emission scenario."
+author: 
+  - name: Laibao Liu
+  - name: Gang He
+  - name: Mengxi Wu
+  - name: Gang Liu
+  - name: Haoran Zhang
+  - name: Ying Chen
+  - name: Jiashu Shen
+  - name: Shuangcheng Li 
+date: "2023-07-24"
+categories: [paper, slides]
+image: "featured.png"
+citation:
+  type: article-journal
+  container-title: "Nature Energy"
+  doi: "10.1038/s41560-023-01304-w"
+  available-date: "2023-07-24"
+  issued: "2023-08-22"
+  volume: 8
+  issue: 8
+  page: 870-880
+  url: https://www.nature.com/articles/s41560-023-01304-w
+google-scholar: true
+css: /custom.css
+#draft: true
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+![Climate change impacts on supply, demand, and supply-demand match](featured.png)
+
+::: {.callout-note}
+## Paper
+Climate change impacts on planned supply–demand match in global wind and solar energy systems   
+Laibao Liu\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, Shuangcheng Li   
+*Nature Energy* (2023)   
+DOI: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w)     
+:::
+
+## Abstract
+
+Climate change modulates both energy demand and wind/solar energy supply, but a globally synthetic analysis of supply-demand match (SDM) is lacking. Here we use 12 state-of-the-art climate models to assess climate change impacts on SDM, quantified by the fraction of demand met by local wind or solar supply. For energy systems with varying dependence on wind or solar supply, up to 32% or 44% of non-Antarctic land areas, respectively, are projected to experience robust SDM reductions by the end of this century under an intermediate emission scenario. Smaller and more variable supply reduces SDM at northern middle-to-high latitudes, whereas reduced heating demand alleviates or reverses SDM reductions remarkably. By contrast, despite supply increases somewhere at low latitudes, raised cooling demand reduces SDM substantially. Changes in climate extremes and climate mean make size-comparable contributions. Our results provide early warnings for energy sectors in climate change adaptation.
+
+
+## Links
+
+Published [paper](https://www.nature.com/articles/s41560-023-01304-w)
+
+Open Access [pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)
+
+Zenodo: [Code and Data](https://zenodo.org/record/6884124)
+
+Notable policy citations:  
+
+{{< include /files/includes/policycitations/_natureenergy2023.qmd >}}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41560-023-01304-w"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+## Twitter Thread
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Climate change impacts energy supply, it impacts demand too, what about supply and demand balance?<br><br>Our new <a href="https://twitter.com/NatureEnergyJnl?ref_src=twsrc%5Etfw">@NatureEnergyJnl</a> paper mapped out how climate change impacts wind solar supply demand match globally.<br><br>Paper: <a href="https://t.co/TgyvQW2GOc">https://t.co/TgyvQW2GOc</a><br>Code: <a href="https://t.co/EsM3wauMKZ">https://t.co/EsM3wauMKZ</a> <a href="https://t.co/RTT40YoZNJ">pic.twitter.com/RTT40YoZNJ</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1683500554809475072?ref_src=twsrc%5Etfw">July 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+## Slides
+
+<div class="container"> 
+<iframe src="/files/slides/climate-power-sdm.html" class="responsive-iframe" width="100%" title="slides"></iframe>
+</div>
+
+Above is the general slides of our paper, I presented it at [APPAM](/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.qmd). Check the [slides](/files/slides/climate-power-sdm.html) in a new tab.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+

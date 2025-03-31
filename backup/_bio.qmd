@@ -1,0 +1,81 @@
+---
+title: "Gang He, PhD"
+description-meta: "Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition."
+image: files/profile/gang-he-cuny-profile.jpg
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: jolla
+  image-width: 30%
+  links:
+    - icon: sun
+      text: DeepPolicyLab
+      href: https://deeppolicylab.github.io
+      target: _blank
+    - icon: globe
+      text: CUNYprofile
+      href: https://www.baruch.cuny.edu/profiles/faculty/Gang-He
+      target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:gang.he@baruch.cuny.edu
+#    - icon: github
+#      text: Github
+#      href: https://github.com/drganghe
+#    - icon: twitter
+#      text: Twitter
+#      href: https://twitter.com/DrGangHe
+#    - icon: mastodon
+#      text: Mastodon
+#      href: https://mastodon.social/@hegang      
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/hegang
+      target: _blank
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@DrGangHe     
+      target: _blank 
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed
+      href: https://orcid.org/0000-0002-8416-1965
+      target: _blank
+    - text: "{{< ai clarivate >}} Web of Science"
+      href: https://www.webofscience.com/wos/author/record/N-4549-2013  
+      target: _blank
+    - text: "{{< ai scopus >}} Scopus"
+      href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=vf90AuEAAAAJ
+      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Gang-He-19
+      target: _blank
+
+---
+
+<link rel="me" href="https://mastodon.social/@hegang">
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+
+:::{#hero-heading}
+
+Gang He is an energy scholar, researcher, and teacher.  He is an Assistant Professor in the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/){.external target="_blank"}, Baruch College, City University of New York. He studies and teaches energy systems, energy and climate policy, and clean energy transition. His work advances [data-driven, evidence-based energy and climate policy research](https://deeppolicylab.github.io) and offers policy insights into energy decisions and climate actions to achieve carbon neutrality. 
+
+His leading and collaborative work has appeared in high-impact interdisciplinary and field journals such as *Nature* ([Clean Energy Global Supply Chains](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd)), *Nature Communications* ([Low-cost Renewable Implications](/posts/2020-05-ncomms-rapid-re-cost/index.qmd), [Battery Deployment Strategies](/posts/2023-08-ncomms-heterogeneous-effects-of-battery-storage-deployment-strategies/index.qmd)), *Nature Energy* ([Climate Impacts on Energy Systems](/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd)), *Nature Water* ([Electricity-Water-Carbon Nexus](/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/index.qmd)),  *One Earth* ([Just Coal Transition](/posts/2020-08-oneearth-coal-just-transition/index.qmd)), *Environmental Science \& Technology* ([Power Systems Decarbonization Modeling](/posts/2016-est-switch-china/index.qmd)), and *Energy Policy* ([Offsetters' Paradox and Carbon Markets](/posts/2013-ep-carbon-offsetters-paradox/index.qmd)). 
+
+His research has been [supported](https://deeppolicylab.github.io/projects.html) by a diverse range of sources, including federal and state agencies, NGOs, foundations, and industry partners. His work has been [reported](/media.qmd) by leading platforms such as *Nature*, *Scientific American*, *Carbon Brief*, *National Geographic*, and *E\&E News*. 
+
+His work has informed policy discussions and processes. His research findings have been [cited](notable-policy-citations.qmd) in notable reports by global institutions such as the IPCC(AR6), IIASA, World Bank, UNEP, IRENA, WTO, SEI, IISD, CSIS, and Brookings. He testified for the [New York State Climate Leadership and Community Protection Act](/posts/2019-nyclcpa-testimony/index.qmd) and has advised the New York State Climate Action Council’s [Scoping Plan](/posts/2021-12-nysclcpa-scoping-plan-draft/index.qmd). He has also been involved in the [U.S.-China collaboration on energy and climate change](/posts/2024-06-us-china-working-group-on-enhancing-climate-action/index.qmd). 
+
+He has been selected as Youth Delegate to UNFCCC CoP11 (2005), Asia 21 Young Leaders (2007), Aspen Environment Forum Scholars (2011), Young Scholar of Institute for New Economic Thinking (2013), [ITIF Energy Innovation Policy and Management Scholar](https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/){.external target="_blank"} (2019), and recognized as [World's Top 2% Scientists in 2024](/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.qmd) on the Stanford/Elsevier Top 2% Scientists List 2024. 
+
+He has worked for the [Department of Technology and Society](https://www.stonybrook.edu/commcms/est/people/affiliated_faculty/GangHe.php){.external target="_blank"} at Stony Brook University, and the [Program on Energy and Sustainable Development](https://pesd.fsi.stanford.edu/people/Gang_He){.external target="_blank"} at Stanford University. He received his Ph.D. in [Energy and Resources](https://erg.berkeley.edu/people/gang-he/){.external target="_blank"} from University of California, Berkeley. He also holds an M.A. in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.
+
+:::

@@ -1,0 +1,58 @@
+---
+title: "SWITCH-China: Open Source Model for the World's Largest Power System"
+description: "Open model to study China's clean power transition"
+author: "SWITCH China"
+date: "2023-11-13"
+categories: [news, event, slides, video, presentation]
+image: "featured.png"
+css: /custom.css
+#draft: true
+---
+
+[![SWITCH-China Open Model](featured.png)](https://github.com/switch-model/switch-china-open-model)
+
+
+## Summary
+
+China's power sector in 2022 accounted for about 1/4 of global coal consumption, 1/8 of global energy related carbon emission, and at the same time, 40% of global solar and wind capaicity. This fast transiting sector is under pressure to lower its carbon emissions while strive to power the world's largest manufacturer and fastest growing mid-class. The scale and scope of China's clean power transition is unprecedented and its impacts are enormouse, yet its trojactories are uncertain. How can China's power sector achieve carbon netrality will in large impact how can the world meet the net-zero goals. Modeling China's power transition is both important and challenging. After years' efforts, and collaboration, I decide to open-source SWITCH-China Model and make it SWITCH-China Open Model to facilitate the modeling integration and comparison, data sharing, policy discussion and debate. 
+
+
+## Video
+
+{{< video https://www.youtube.com/watch?v=JXkUuYRQvU0 >}}
+
+
+## Slides
+
+<div class="container"> 
+<iframe src="/files/slides/switch-china.html" class="responsive-iframe" width="100%" title="slides"></iframe>
+</div>
+
+Above are the video and slides of my presentation for [Openmod meets USA 2023](https://forum.openmod.org/t/openmod-meets-usa-2023/4148) online. Check the [slides](/files/slides/switch-china.html) in a new tab.
+
+
+## Core publications
+
+He, Gang\*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen\*. 2016. [SWITCH-China: A Systems Approach to Decarbonizing China’s Power System](/posts/2016-est-switch-china/index.qmd). *Environmental Science & Technology* 50(11): 5467–5473. doi: [10.1021/acs.est.6b01345](https://doi.org/10.1021/acs.est.6b01345).
+
+He, Gang\*, Jiang Lin\*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke\*. 2020. [Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System](/posts/2020-05-ncomms-rapid-re-cost/index.qmd). *Nature Communications* 11(1): 2486. doi: [10.1038/s41467-020-16184-x](https://doi.org/10.1038/s41467-020-16184-x).
+
+Zhang, Chao, Gang He\*, Josiah Johnston, and Lijin Zhong. 2021. [Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint](/posts/2021-12-jcp-power-water-carbon/index.qmd). *Journal of Cleaner Production* 329: 129765. doi: [10.1016/j.jclepro.2021.129765](https://doi.org/10.1016/j.jclepro.2021.129765).
+
+Peng, Liqun, Denise L. Mauzerall\*, Yaofeng D. Zhong, and Gang He\*. 2023. [Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China](https://www.nature.com/articles/s41467-023-40337-3). *Nature Communications* 14: 4858. doi:[10.1038/s41467-023-40337-3](https://doi.org/10.1038/s41467-023-40337-3).
+
+## Acknowledgment
+
+- SWITCH/EDF and EDF-China team: Matthias Fripp, Oleg Lugovoy, Suzi Kerr, and Ji Gao, Keyang Xue, Gray Zhuoran Li, and others   
+- UCB and RAEL: Daniel Kammen, Anne-Perrine Avrin, Jianwei Tian, James Nelson, Josiah Johnston, Ana Mileva, Bo Li, Patricia Hidalgo-Gonzalez, Juan Pablo Carvallo    
+- Gridpath:  Qian Luo, Haozhe Yang, Ana Mileva, and Ranjit Deshmukh   
+- Collaborators: Chao Zhang, Jiang Lin, Amol Phadke, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, Liqun Peng, Denise Mauzerall, Desmond Zhong, Wenjia Cai, Yu Chen, Yuang Chen, Shiyu Huang, Jingxuan Hui, Haoran Li, Hongyou Lu, Xiao Su, Yang Wang, Zheng Wang, Kate Yu, Shuyu Yang, Jiahai Yuan, Wenhua Zhang, Hongyang Zou, and many more   
+ 
+
+## Learn more
+
+<https://www.ganghe.net/research/switch-china-model>
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

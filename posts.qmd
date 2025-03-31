@@ -1,0 +1,25 @@
+---
+title: "What’s New & Updated"
+subtitle: "Posts about papers, events, news, and more"
+description-meta: "Posts about papers, events, news, and more"
+listing: 
+  sort: "date desc"
+  type: default
+  page-size: 100
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  contents: 
+      - posts
+      - posts/post-links.yml
+#      categories: [] 
+
+#page-layout: full
+draft-mode: unlinked
+page-navigation: false
+title-block-banner: false
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}

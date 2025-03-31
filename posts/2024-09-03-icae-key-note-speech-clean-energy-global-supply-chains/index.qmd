@@ -1,0 +1,17 @@
+---
+title: "ICAE Keynote: Cost Saving, Climate, and Health Effects of Solar PV Global Supply Chains"
+description: "Gang is invited to give an online keynote speech in the International Conference on Applied Energy 2024."
+author: ICAE2024
+date: "2024-09-03"
+categories: [event, presentation]
+image: "featured.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](/files/flyers/2024-09-03-ICAE-keynote.png){width="90%"}](https://applied-energy.org/icae2024/#Program)
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

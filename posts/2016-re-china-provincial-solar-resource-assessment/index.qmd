@@ -1,0 +1,50 @@
+---
+title: "Where, when and how much solar is available? A provincial-scale solar resource assessment for China"
+subtitle: "*Renewable Energy*"
+description: "We utilized 10-year hourly solar irradiation data from 2001 to 2010 from 200 representative locations to develop provincial solar availability profiles. "
+author: 
+  - name: Gang He
+  - name: Daniel M. Kammen
+date: "2016-01-15"
+categories: [paper]
+image: "featured.jpg"
+citation:
+  type: article-journal
+  container-title: "Renewable Energy"
+  volume: 85
+  page: 74-82
+  doi: "10.1016/j.renene.2015.06.027"
+  url: https://doi.org/10.1016/j.renene.2015.06.027
+#bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+Where, when and how much solar is available? A provincial-scale solar resource assessment for China   
+**Gang He**\*, and Daniel M. Kammen\*  
+*Renewable Energy* (2016)   
+DOI: [10.1016/j.renene.2015.06.027](https://doi.org/10.1016/j.renene.2015.06.027)
+:::
+
+## Abstract
+
+Integrating variable energy resources, notably solar and wind, requires better understanding of where, when and how much of variable resources are available. China's ambitious solar energy development goal will be greatly facilitated by the resources assessment at higher spatial and temporal resolution. We utilized 10-year hourly solar irradiation data from 2001 to 2010 from 200 representative locations to develop provincial solar availability profiles. We found that China has a potential stationary solar capacity from 4700 GW to 39300 GW, distributed solar about 200 GW, and the annual solar output could reach 6900 TWh to 70100 TWh. Resources are most concentrated in northwest provinces, topped by Inner Mongolia, Xinjiang and Gansu. The challenge of solar development in China is integration rather than resources. The spatial and temporal variation of the solar resource show an efficient, robust, and inter-connected national grid and sound energy planning would be necessary to facilitate the integration of these vastly available but variable solar resources.
+
+
+## Links
+
+Published [paper](https://doi.org/10.1016/j.renene.2015.06.027)
+
+Self-archiving [pdf](/files/papers/2016-RE-ChinaProvincialSolar.pdf)
+
+Download table and figure [data](https://www.researchgate.net/publication/278679097_Where_when_and_how_much_solar_is_available_A_provincial-scale_solar_resource_assessment_for_China_Dataset)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.renene.2015.06.027"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2015.06.027" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

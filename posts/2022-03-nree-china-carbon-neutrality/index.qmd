@@ -1,0 +1,59 @@
+---
+title: "Challenges and opportunities for carbon neutrality in China"
+subtitle: "*Nature Reviews Earth & Environment*"
+description: "In this Perspective, we summarize the key features of China’s CO2 emissions, its reduction processes and successes in meeting climate targets."
+author: 
+  - name: Zhu Liu
+  - name: Zhu Deng
+  - name: Gang He
+  - name: Hailin Wang
+  - name: Xian Zhang
+  - name: Jiang Lin
+  - name: Ye Qi
+  - name: Xi Liang
+date: "2022-03-01"
+categories: [paper]
+image: "featured.png"
+citation:
+  type: article-journal
+  container-title: "Nature Reviews Earth & Environment"
+  volume: 3
+  issue: 2
+  page: 141–155
+  available-date: "2021-12-21"
+  issued: "2022-02-01"
+  doi: "10.1038/s43017-021-00244-x"
+  url: https://www.nature.com/articles/s43017-021-00244-x
+bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+Challenges and opportunities for carbon neutrality in China    
+Zhu Liu\*, Zhu Deng, **Gang He**, Hailin Wang, Xian Zhang, Jiang Lin, Ye Qi, and Xi Liang  
+*Nature Reviews Earth & Environment* (2022)  
+DOI: [10.1038/s43017-021-00244-x](https://doi.org/10.1038/s43017-021-00244-x)
+:::
+
+## Abstract
+
+China is currently the world's largest emitter of carbon dioxide (CO2). China therefore has a key role in global climate change mitigation. Policies and commitments are required to enable decarbonization. In this Perspective, we summarize the key features of China's CO2 emissions, its reduction processes and successes in meeting climate targets. China's CO2 emissions reductions have been substantial by 2020, carbon intensity decreased by 48.4 percent compared to 2005 levels, achieving objectives outlined in the Nationally Appropriate Mitigation Actions and Nationally Determined Contributions. These reductions rely on the achievements of sectoral and sub-national targets outlined by China's Five-Year Plans. However, China still faces the challenges of reaching its peak total CO2 emissions before 2030 and achieving carbon neutrality before 2060. Key steps towards China's carbon neutrality include increasing its non-fossil energy share, deploying negative-emission technologies at large scale, promoting regional low-carbon development and establishing a nationwide 'green market'. To achieve these steps, top-down socio-economic development plans must coincide with bottom-up economic incentives and technology development.
+
+## Links
+
+Published [paper](https://www.nature.com/articles/s43017-021-00244-x)
+
+Open access [pdf](https://www.nature.com/articles/s43017-021-00244-x.pdf)
+
+[Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs43017-021-00244-x/MediaObjects/43017_2021_244_MOESM1_ESM.pdf)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s43017-021-00244-x"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s43017-021-00244-x" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

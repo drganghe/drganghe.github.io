@@ -1,0 +1,133 @@
+---
+title: "China’s power sector could be ‘10% cheaper in 2030’ with more renewables"
+description: "A post explaining our 2020 _Nature Communications_ paper."
+author: 
+    - name: Jiang Lin
+    - name: Gang He
+date: "2020-06-03"
+categories: [commentary]
+image: "featured.png"
+bibliography: cite.bib
+fig-cap-location: bottom
+---
+
+## Summary
+
+In a new [study](/posts/2020-05-ncomms-rapid-re-cost/index.qmd) @he_rapid_2020 published in [_Nature Communications_](https://www.nature.com/articles/s41467-020-16184-x), we explore the implications of clean-energy cost trends for the electricity system in China over the next decade. We found that if China uses the most cost-effective renewable energy resources, it could generate more than 60% of its electricity from “non-fossil” sources by 2030 – including wind, solar, hydro and nuclear – at a cost that is around 10% lower than under business-as-usual.
+
+## Background
+
+The costs for solar, wind and battery storage have dropped markedly since 2010 and are expected to decline further in the near future. This rapid fall in costs could have a large effect on energy system investment and policies, but has not been fully captured in energy modelling. 
+
+This is particularly relevant for China, which is now debating whether to build hundreds of new coal-fired power plants in the 2020s, despite overcapacity and financial distress in the sector.
+
+In a new study, published in Nature Communications, we worked with my colleagues to explore the implications of clean-energy cost trends for the electricity system in China over the next decade.
+
+We found that if China uses the most cost-effective renewable energy resources, it could generate more than 60% of its electricity from “non-fossil” sources by 2030 – including wind, solar, hydro and nuclear – at a cost that is around 10% lower than under business-as-usual.
+
+This cleaner electricity mix would still reliably meet rising demand. This suggests China could raise its target to get 50% of its electricity from non-fossil sources by 2030, while saving money.
+
+## Balancing priorities
+
+It is often said that renewable sources of electricity, such as wind and solar, are variable and expensive. However, the recent innovation in technology and operation of electricity grids – and, in particular, the availability of cheaper storage – have changed the industry outlook.
+
+In this study, we used an electricity system capacity expansion model (SWITCH-China) to explore how the Chinese power system could be expanded to meet rising electricity demand. We developed four scenarios for 2030 to explore the implications of a continued, rapid decrease in renewable energy costs.
+
+The scenarios are:
+
+1) Business-as-usual scenario (BAU), which assumes the continuation of current policies and moderate cost decreases in future renewable costs;
+
+2) Low-cost renewables scenario (R), which assumes the rapid recent decrease in costs for renewables and storage will continue;
+
+3) Carbon constraints scenario (C50), which has a power-sector carbon cap of 50% below 2015 levels in 2030, on top of the R scenario;
+
+4) Deep carbon constraints scenario (C80), which further constrain the carbon emissions from the power sector to be 80% lower than the 2015 level by 2030.
+
+All scenarios assume the same electricity demand projection, which reaches 8,757 terawatt hours (TWh) in 2030, up from 7,225TWh today.
+
+Our modeling results show that, as expected, rapid decreases in the costs of renewable energy sources lead to more wind and solar capacity being installed. If the levelised cost of energy (LCOE) for solar, wind and storage follows recent global trends then, by 2030, China could meet expected demand with 62% of its electricity from non-fossil sources under the R scenario with the lowest overall cost.
+
+This “R” scenario is shown in @fig-electricity-generation-by-fuel, in the second column on the right-hand side, with wind (green) and solar (yellow) providing 39% of the total. As a result of higher non-fossil output, coal-based generation (black) could be just 3,700TWh in 2030 under the R scenario, some 30% lower than under BAU (4,900TWh). Battery storage (orange) and small amounts of gas (purple) generation would supplement the increasing wind and solar supplies.
+
+
+![Electricity generation by fuel, terawatt hours, in 2020 (left), 2025 (centre) and 2030 (right), under each of the four modelled scenarios. Source: @he_rapid_2020.](electricity-generation-by-fuel.jpeg){#fig-electricity-generation-by-fuel fig-align="left" width="95%"}
+
+<!---
+<img src="electricity-generation-by-fuel.jpeg" title="Electricity generation by fuel, terawatt hours, in 2020 (left), 2025 (centre) and 2030 (right), under each of the four modelled scenarios. Source: He et al. (2020).">
+--->
+
+## Wind, solar and storage growth
+
+Non-fossil sources of electricity would need to grow their capacity dramatically over the next decade if they are to meet such significant shares of electricity demand in China. @fig-mix-of-installed-power-capacity shows the capacity of each source, in gigawatts (GW), under the four scenarios.
+
+By 2030, wind and solar capacity would reach 660GW and 1,260GW under the “R” scenario, respectively. These figures can be compared with current wind and solar capacity of 210GW and 204GW, respectively.
+
+![Mix of installed power capacity, gigawatts, in each of the four scenarios in 2020 (left), 2025 (centre), and 2030 (right). Source: @he_rapid_2020.](mix-of-installed-power-capacity.jpeg){#fig-mix-of-installed-power-capacity fig-align="left" width="95%"}
+
+<!--
+<img src="mix-of-installed-power-capacity.jpeg" caption="Mix of installed power capacity, gigawatts, in each of the four scenarios in 2020 (left), 2025 (centre), and 2030 (right). Source: He et al. (2020)." >
+-->
+
+With wind and solar generating increasing shares of China’s electricity, there would be a growing need for system flexibility and storage capacity to help integrate their variable output, while reliably meeting demand at all times.
+
+By 2030, storage capacity – including from batteries – is just 34GW under BAU, but needs to grow to as much as 307GW in the R scenario, as shown in orange in @fig-mix-of-installed-power-capacity above.
+
+To put this in context, pumped hydro capacity in China in 2015 was about 25GW and has been expanding very quickly. In our scenarios, it is estimated to reach up to 130GW by 2030, with the remaining 177GW coming from battery storage or other storage technology.
+
+This large capacity would be very ambitious to deploy in a comparatively short time, requiring about 11.8GW annually during the period we modelled. If battery efficiency and performance were to improve more quickly than we assumed, the needed storage capacity would be smaller.
+
+## Cost of carbon mitigation
+
+In the next part of our research, we evaluate the CO2 emissions impact due to increasing generation from renewable energy and decreasing generation from fossil fuels. Our results show that a low-cost renewables (R) scenario would result in 25% lower emissions, at 2,970 million metric tonnes of CO2 (MtCO2) in 2030 versus 3,980MtCO2 under the BAU scenario.
+
+This is shown in the left-hand chart in @fig-co2-and-power-costs, where power-sector CO2 emissions would be expected to remain relatively constant under BAU (blue line), but would fall rapidly over the next decade under the “R” low-cost renewables pathway (orange).
+
+![Power-sector CO2 emissions 2015-2030 (a, left, millions of tonnes) and electricity generation costs, including the cost of storage and other grid infrastructure (b, right, dollars per megawatt hour) under the four scenarios. Source: @he_rapid_2020.](co2-and-power-costs.jpeg){#fig-co2-and-power-costs fig-align="left" width="95%"}
+
+<!--
+<img src="co2-and-power-costs.jpeg" title="Power-sector CO2 emissions 2015-2030 (a, left, millions of tonnes) and electricity generation costs, including the cost of storage and other grid infrastructure (b, right, dollars per megawatt hour) under the four scenarios. Source: He et al. (2020)." >
+-->
+
+Given the remarkable and ongoing reductions in the cost of renewable power, the 25% reduction in carbon emissions could be achieved for a lower cost of power under the R scenario than under the BAU scenario, as shown in @fig-co2-and-power-costs right.
+
+In 2030, total costs under the R scenario are 11% lower than those under the BAU scenario. As a result, the implied cost of carbon reduction would be -$36 per tonne of CO2. Even under the carbon cap (C50) scenario, China could eliminate half of its 2015 emissions from the power sector by 2030 at 6% lower cost, while delivering 77% of electricity from non-fossil sources.
+
+## Regional power trade
+
+In the final part of our work, we examined the regional implications of rising renewable output for the power system in 2030. In particular, we found regional disparities in the location of the most cost-effective renewable energy resources in China.
+
+With the assumed decrease in costs for solar, wind and storage technologies, the northwest region could emerge as a national supplier of carbon-neutral electricity, while the eastern grid could become increasingly import-dependent to meet its demand.
+
+Such a regional imbalance would become larger with greater penetration of renewables, as would the need for inter-provincial transmission lines. For each region on the map, @fig-regional-transmission shows electricity generation from each fuel in 2030, under the four different scenarios that we studied. The dotted lines show that region’s electricity demand and the magenta arrows represent electricity flows from one region to another in the R scenario.
+
+![Regional generation, demand and interregional transmission map for the R scenario in 2030, in terawatt hours. Each region shows a graph, with bars representing generation from each fuel for the four different scenarios, in order of increased carbon reduction (from left to right: BAU, RE, C50 and C80). The dotted line across all bars in each set of generation graphs represents the yearly demand in 2030 in each region, which stays constant across the four scenarios. The magenta arrows point in the direction of the transmission flow between two regions. Source: @he_rapid_2020.](regional-transmission.jpeg){#fig-regional-transmission fig-align="left" width="95%"}
+
+<!--
+<img src="regional-transmission.jpeg" title="Regional generation, demand and interregional transmission map for the R scenario in 2030, in terawatt hours. Each region shows a graph, with bars representing generation from each fuel for the four different scenarios, in order of increased carbon reduction (from left to right: BAU, RE, C50 and C80). The dotted line across all bars in each set of generation graphs represents the yearly demand in 2030 in each region, which stays constant across the four scenarios. The magenta arrows point in the direction of the transmission flow between two regions. Source: He et al. (2020)." >
+--->
+
+## Clean energy transition and post-Covid recovery
+
+As China drafts its 14th five-year plan (due next year) and deliberates its own post-Covid economic recovery measures, our research offers valuable insights into the cheapest ways to meet the country’s rising electricity demand.
+
+Most notably, we found that China could cut emissions from its power sector at lower overall cost than a business-as-usual approach, by relying more heavily on renewables and storage. This would have co-benefits including reducing harmful air pollution, cutting water use and creating green jobs.
+
+In contrast, there are signs that some local governments are fast-tracking more new coal power plants this year, despite the fact that half of China’s existing capacity is already losing money and the entire fleet only operates half the time, a sign of overcapacity.
+
+While it should save money overall, the scale of the transformation implied by our work is significant and would require a very rapid acceleration of current progress. The capacity of renewables and storages, as well as transmission infrastructure, would need to be scaled up very quickly.
+
+Nevertheless, our analysis shows that such a fast decarbonisation and clean power transition is both technically feasible and economically beneficial.
+
+Options to bring such a transition about could include long-term targets for clean energy, such as a zero-emission power target, as well as electricity market reforms. This could create incentives to reduce institutional barriers to trading power across regions and to better integrate renewable energy.
+
+Check the original post at <a href="https://www.carbonbrief.org/guest-post-chinas-power-sector-could-be-10-per-cent-cheaper-in-2030-with-more-renewables" target="_blank">Carbon Brief</a>. Read more about our [paper](/posts/2020-05-ncomms-rapid-re-cost/index.qmd).
+
+
+### References
+
+::: {#refs}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

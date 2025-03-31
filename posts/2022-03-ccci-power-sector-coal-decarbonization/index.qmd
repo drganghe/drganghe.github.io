@@ -1,0 +1,50 @@
+---
+title: "Webinar: Charting China’s Power Sector Coal Decarbonization"
+description: "Gang joins experts to discuss coal transition and decarbonization."
+author: "CCCI"
+date: "2022-03-08"
+categories: [news, event, video, presentation]
+image: "featured.jpeg"
+css: /custom.css
+---
+
+[![](featured.jpeg){fig-align="center"}](https://ccci.berkeley.edu/events/2022/02/webinar-charting-china-s-power-sector-coal-decarbonization)
+
+[**Agenda**](https://spp.umd.edu/events/webinar-charting-chinas-power-sector-coal-decarbonization-1)
+
+## Recorded Video
+
+{{< video https://www.youtube.com/embed/b9GlmPZvAIc start="2170" >}}
+
+
+## Remarks
+
+Thank you, Jessica, for the nice introduction.
+
+Let me start by congratulating Dr. Cui and the team for the release of such an important and timely report. I want to echo what Prof. Yuan have just shown the implications of China’s coal transition. The report lays down a ground break work to identify low hanging fruits of coal plants retirement and shows a feasible strategy to phase down coal power in China. 
+
+I hope to add a few comments focusing on renewables. You may curious this is coal phase down event, why am I talking about renewables. Here is the thing, it’s good to phase down coal, then where will our electricity come from? The answer is: non-fossil sources, especially renewables! My rationale is that the more we can provide stable and secure renewables supply, the less we will rely on coal, and the better chance we can successfully phase down coal. 
+
+First, China’s clean power transition needs two accelerations at the same time. While accelerating phase down of coal, we will need to accelerate renewable development and integration. Renewables will need to first feed all the new demand and then to replace coal. Let’s be real, coal generation is still growing, good news is the share of renewables grows too. In [2021](https://www.cec.org.cn/upload/1/editor/1642758964482.pdf), coal accounts about 62% of total generation, hydro about 16%, nuclear 5%, wind 8%, and solar 4%. Renewables (hydro, wind, and solar) overtook coal in new capacity in [2013](https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China), and renewable combined exceeded 50% of the new capacity in 2016, and in 2021, 78% of the new capacity are renewables. According to the latest data from the National Energy Administration, by the end of 2021, the country's installed wind and solar capacity both exceeded 300 GW, wind 328GW and solar 306GW. To achieve carbon neutrality goal, we need 10x today’s solar and wind capacity by mid-century, that’s the scale of acceleration we are talking here.
+
+Second, cheap renewables are a game changer, a renewable dominant path is not just technical feasible, but also cost effective, and with water saving and other co-benefits. This chart from [Our World in Data](https://ourworldindata.org/cheap-renewables-growth) shows that from 2009 to 2019 the cost of PV fell by 90 percent, onshore wind by 70%, and concentrated solar by 16%. The learning rate reaches 36% for PV and 23% for onshore wind, meaning that for every doubling of cumulative installed capacity, the cost of PV fell 36% and onshore wind 23%. 2021 can be described as the tipping point of grid parity or we say, “low-cost renewable era”. In China, the [National Development and Reform Commission](https://www.ndrc.gov.cn/xwdt/tzgg/202106/t20210611_1283089.html), canceled the subsidized tariff for new central PV and onshore wind projects, a milestone for renewables. The arrival of grid parity, relative to the 2000 forecast, about 50 years ahead of time; relative to the 2010 forecast, about 30 years ahead of time; relative to the 2015 forecast, about 10 years ahead of time. The early arrival of grid parity accelerates the development of renewable energy and opens new possibilities for achieving carbon neutrality to confront climate change.
+
+In a collaborative [*Nature Communications*](https://www.nature.com/articles/s41467-020-16184-x) paper with Lawrence Berkeley National Laboratory, we found that if the current trend of declining renewables costs continues, by 2030, wind and solar could provide 39% of electricity generation, together with hydro (14%) and nuclear (10%), the share of non-fossil electricity could be 62%, compared to 50% commonly discussed. What’s more, it will be 11% cheaper than in the reference scenario. Wind and solar together could exceed 1800GW of capacity, compared to the 1200GW national goal. In another collaborative [paper](https://www.sciencedirect.com/science/article/pii/S095965262103941X) with Tongji University, we find cheap renewables reduces the need for carbon capture and storage by 80% in 2050 and saves water consumption for cooling by 10 billion cubic meters annually compared with the reference scenario. 
+
+Third, coal could play a facilitator’s role in integrating renewables, coal needs to reposition or repurpose itself from cornerstone to stepstone in clean power transition. Flexibility retrofitting and converting coal plants to reserved capacity could help to address the flexibility challenges in a renewable dominant grid, even though coal flexibility’s contribution to renewable integration is marginal comparing to building national electricity market and dispersed renewable investments, accordingly to a collaborative paper with LBL published in [*iScience*](https://www.cell.com/iscience/fulltext/S2589-0042(22)00019-0). 
+
+In summary, accelerating coal transition and renewable development needs to go hand in hand, and renewable achieving grid parity not just make this technical feasible, but also economic effective, and coal could reposition and repurpose itself from footstone to stepstone in clean power transition. 
+
+
+## Related Papers
+
+- He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. [Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System](/posts/2020-05-ncomms-rapid-re-cost/index.qmd). *Nature Communications* 11(1): 2486. doi: [10.1038/s41467-020-16184-x](https://doi.org/10.1038/s41467-020-16184-x).  
+
+- Lin, Jiang, Nikit Abhyankar, Gang He, Xu Liu, and Shengfei Yin. 2022. [Large Balancing Areas and Dispersed Renewable Investment Enhances Grid Flexibility in a Renewable-Dominant Power System in China](/posts/2022-01-iscience-renewable-flexibility/index.qmd). *iScience* 25(2): 103749. doi: [10.1016/j.isci.2022.103749](https://doi.org/10.1016/j.isci.2022.103749). 
+
+- Zhang, Chao, Gang He, Josiah Johnston, and Lijin Zhong. 2021. [Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint](/posts/2021-12-jcp-power-water-carbon/index.qmd). *Journal of Cleaner Production* 329: 129765. doi: [10.1016/j.jclepro.2021.129765](https://doi.org/10.1016/j.jclepro.2021.129765).
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

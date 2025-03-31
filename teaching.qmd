@@ -1,0 +1,108 @@
+---
+title: "Teaching"
+subtitle: "I teach energy systems, energy and climate policy, energy innovations, and methods classes. Here I list classes which I start to open source teaching material."
+description-meta: "Open courses on energy and climate policy, energy, climate, and society, energy systems analysis, program evaluations."
+title-block-banner: false
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+## Energy and Climate Policy
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/hex-Energy-Climate-Policy.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2024](https://drganghe.github.io/energy-climate-policy/), &nbsp; [Fall 2023](https://drganghe.github.io/energy-climate-policy/2023/schedule.html)
+
+The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future.
+
+:::
+
+:::
+
+
+## Energy, Climate, and Society
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/hex-Energy-Climate-Society.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Spring 2025](https://drganghe.github.io/energy-climate-society/), &nbsp; [Fall 2023](https://drganghe.github.io/energy-climate-society/2023/schedule.html)
+
+Climate change is one of the biggest challenges of our time. This undergraduate course offers a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. Ultimately, the goal of this class is to provide students with a broad understanding of the challenges and opportunities associated with the energy and climate crisis. We aim to empower the students with the knowledge and skills needed to make a positive impact on climate solutions.
+
+:::
+
+:::
+
+
+## Program Evaluation
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/hex-Program-Evaluation.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Spring 2025](https://drganghe.github.io/program-evaluation/), &nbsp; [Spring 2024](https://drganghe.github.io/program-evaluation/2024/schedule.html)
+
+This course examines the practical aspects of program evaluation within public policy in domestic and international contexts. Emphasis is placed on the design and implementation of small- to medium-scale program evaluations under time and budget constraints using “best feasible” methods. Topics include the types and purposes of evaluation, theory-based evaluation, evaluability and planning, measurement and construct validity, data collection, evaluation design, estimation of program effects, experiments, qualitative and mixed methods, evaluation resistance, building organizational capacity, ethics, cost-effectiveness, and reporting and utilization. 
+
+:::
+
+:::
+
+
+## Energy Systems Analysis
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+[![](/files/images/hex-EnergySystemsAnalysis.png)](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2022](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/)
+
+“All models are wrong, but some are useful”. This class offers a systems approach and introduces useful modeling tools and skillsets to capture and reveal the grand challenges and opportunities of energy systems. The scope of this class includes energy systems overview, make sense of energy numbers, energy project economics, energy sources and technologies, energy demand, energy, environment, and human health, energy and climate change, power system analysis, energy transition, energy efficiency, behavior, and sustainable consumption, energy poverty, access, and justice, big data and AI for clean energy, limitations of models, and other emerging topics for the energy systems to achieve carbon neutrality.
+
+:::
+
+:::
+
+
+##  Advanced Science, Technology, and Innovation Policy
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+[![](/files/images/hex-STIP.png)](https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Spring 2023](https://www.ganghe.net/teaching/EST625-2023-Advanced-Science-Technology-and-Innovation-Policy){.external target="_blank"} &nbsp; | &nbsp;  [Spring 2022](https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy){.external target="_blank"}
+
+This PhD seminar evaluates ideas and applications of science, technology, policy and innovation systems by drawing from a wide range of early and current literature and case studies. Emphasis is placed on deconstructing seminal ideas and practices in the context of policy and technology change. Students will refine analytical and communication skills that are relevant for working in positions at the interface of technology, policy, and innovation.
+
+:::
+
+:::

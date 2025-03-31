@@ -1,0 +1,43 @@
+---
+title: "Stony Brook Receives $4.25M Grant from State to Help NY Improve Recycling"
+description: "Sorting garbage is messy, but important."
+author: "SBU News"
+date: "2021-01-28"
+categories: [news]
+image: "featured.jpg"
+---
+
+## Summary
+
+Sorting garbage is messy, but important. Finding means to recover recyclable material from waste and putting it back into the product stream is critical to our sustainable future. That is why the Department of Technology and Society has been awarded $4.25 million by New York State to “characterize” its solid waste and improve its recycling.
+
+## SBU News
+
+>The five-year contract is with the New York State Department of Environmental Conservation (NYSDEC), Division of Materials Management. The project is led by Principal Investigators (PI) Professors David Tonjes and Elizabeth Hewitt, Co-PI Professor Gang He, and Research Professor Krista Thyberg. The primary task is to sample a set of municipal waste systems statewide to determine the composition of managed wastes and recyclables.
+>
+>Professor Tonjes has worked on New York solid waste issues for 30 years, in both technical and policy applications. Professor Hewitt is a planner with a strong background in researching human behavior and motivations in environmental settings. Professor He has conducted extensive research on recent energy and environmental management in China in terms of both infrastructure and policy changes. Professor Thyberg has been working on solid waste issues for about 10 years, including iconic work on managing food waste. They will be supported by teams of graduate students enrolled in doctoral and masters programs in the Department, and undergraduate students drawn mostly from the Technological Systems Management major. 
+>
+>Student teams get the job of sorting garbage into more than 20 categories to determine variations across the State and within different kinds of management programs. Data will provide characterizations at a variety of scales, from individual truck routes to the State as a whole. The first year’s work, which was impacted by the pandemic, was restricted to sorting wastes at a number of recycling facilities and at two Long Island locations. The students found time during lock down to assemble data from nearly 200 waste sorts done by others across the country over the past several decades to put the New York work into context.
+>
+>“Similarities and differences across data sets will help refine State policies and regulations regarding solid waste management,” said Tonjes, associate research professor in the Department of Technology & Society in Stony Brook’s College of Engineering and Applied Sciences (CEAS). “Our ultimate goal is to enable municipal waste managers to better target recovery and other management efforts while leading to refined or new means to promote more environmentally favorable behaviors.”
+>
+>This summer the sampling teams will fan out across the State and analyze samples at a number of disposal and recycling facilities. The data will not only be used to measure the effectiveness and efficiency of current programs but also to support other NYSDEC-funded recycling research programs, including work at the New York State Pollution Prevention Institute in Rochester, the University at Buffalo, SUNY College of Environmental Science and Forestry, and Alfred University. 
+>
+>Year one also saw the completion of other related research projects supported by the NYSDEC grant by two smaller teams of student researchers: 
+>
+>- The first created an interactive web-based model to allow local planners to determine which materials are economically favored for recycling. This will allow for potential expansion of municipal recycling menus in sustainable directions. The model has been created and tested, and now the project report is being finalized for release later this spring.
+>- The second project investigated the interplay between market specifications and economics, recycling facility engineering choices, and policies adopted in China and by other jurisdictions that affect recycling. In 2017-2018, these factors merged to catastrophically collapse global recyclables markets. This research has explored the drivers for these intertwined forces and will help those proposing recycling regulations and planning technology implementations to mitigate the potential for similar events, and potentially to provide direction for recyclables processing for more long-term market sustainability. The reports detailing the findings are being prepared and will also be available in Spring 2021.
+>- A third related recycling research project will analyze the principles of the “circular economy” and determine the potential for recycling (especially “first order” recycling, which is when old newspaper is turned into new newspaper, not toilet paper, for instance) to play an important role in creating sustainable materials management. The project will focus on the classic set of recyclable materials (newspaper, cardboard, glass, metals, plastics) to determine what kinds of factors may limit first order recycling, which can lead to better expectations for market development and pursuit of innovative uses of collected materials destined for reuse. This project has just started and is expected to take two years to complete.
+>
+>“The Department of Technology & Society blends engineering principles with social responsibility to help ensure that advances in technology truly benefit the community,” said Robert Kukta, acting dean, CEAS. “With population growth and increasing waste production, effective recycling is a critical issue for global sustainability. This project is a large step in the right direction not only for New York, but as a model for other locales.”
+
+
+## Links
+
+Check Stony Brook University's [news page](https://news.stonybrook.edu/environmental-stewardship/stony-brook-receives-4-25m-grant-from-state-to-help-ny-improve-recycling/) for official release.
+
+Project Website: <https://wastedata.info/>
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

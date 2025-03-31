@@ -1,0 +1,63 @@
+---
+title: "Heterogeneous effects of battery storage deployment strategies on decarbonization of provincial power systems in China"
+subtitle: "*Nature Communications*"
+description: "We find heterogeneous strategy provides the lowest system costs, however, carbon emissions depend on carbon prices."
+author: 
+  - name: Liqun Peng
+  - name: Denise L. Mauzerall
+  - name: Yaofeng D. Zhong
+  - name: Gang He    
+date: "2023-08-11"
+categories: [paper]
+image: "featured.png"
+citation:
+  type: article-journal
+  container-title: "Nature Communications"
+  doi: "10.1038/s41467-023-40337-3"
+  available-date: "2023-08-11"
+  issued: "2023-08-11"
+  volume: 14 
+#  issue: 7938
+  page: 4858
+#  page-first: 4858 
+  url: https://www.nature.com/articles/s41467-023-40337-3 
+google-scholar: true
+css: /custom.css
+#draft: true
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+![Three battery storage deployment strategies](featured.png)
+
+::: {.callout-note}
+## Paper
+Heterogeneous effects of battery storage deployment strategies on decarbonization of provincial power systems in China   
+Liqun Peng, Denise L. Mauzerall\*, Yaofeng D. Zhong, **Gang He**\*   
+*Nature Communications* (2023)   
+DOI: [10.1038/s41467-023-40337-3](https://doi.org/10.1038/s41467-023-40337-3)     
+:::
+
+## Abstract
+
+Battery storage is critical for integrating variable renewable generation, yet how the location, scale, and timing of storage deployment affect system costs and carbon dioxide (CO2) emissions is uncertain. We improve a power system model, SWITCH-China, to examine three nationally uniform battery deployment strategies (Renewable-connected, Grid-connected, and Demand-side) and a heterogeneous battery deployment strategy where each province is allowed to utilize any of the three battery strategies. Here, we find that the heterogeneous strategy always provides the lowest system costs among all four strategies, where provinces with abundant renewable resources dominantly adopt Renewable-connected batteries while those with limited renewables dominantly adopt Demand-side batteries. However, which strategy achieves the lowest CO2 emissions depends on carbon prices. The Renewable-connected strategy achieves the lowest CO2 emissions when carbon prices are relatively low, and the heterogeneous strategy results in the lowest CO2 emissions only at extremely high carbon prices.
+
+
+## Links
+
+Published [paper](https://www.nature.com/articles/s41467-023-40337-3)
+
+Open-access [pdf](https://www.nature.com/articles/s41467-023-40337-3.pdf)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-40337-3"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-40337-3" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+

@@ -1,0 +1,78 @@
+---
+title: "The Cost of Going Solo in Solar"
+description: "A summary of our 2022 _Nature_ paper."
+author: 
+  - name: John Paul Helveston
+  - name: Gang He
+  - name: Michael R. Davidson
+date: "2022-11-21"
+categories: [commentary]
+image: "featured.jpeg"
+bibliography: cite.bib
+fig-cap-location: bottom
+---
+
+## Summary
+
+In a new [study](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd) @helveston_he_davidson_2022 published in [_Nature_](https://www.nature.com/articles/s41586-022-05316-6), we quantify the cost savings from globalized solar module supply chains. We found globalized supply chain has saved installers in the U.S., Germany, and China 67 billion USD from 2008 to 2020. Unit solar module prices would be approximately 20-30% higher in 2030 if countries move to manufacture domestically compared with a future with globalized supply chains.
+
+## Background
+
+Three decades. That is how much time is left to decarbonize the world's energy systems to limit global warming to 1.5°C, according to the latest [Intergovernmental Panel on Climate Change (IPCC) report](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf#page=33). Achieving this feat requires renewable energy systems be deployed at an unprecedented speed and scale. While daunting, the good news is that this transformation may not cost as much as many expected just a decade ago, thanks to rapid cost declines in renewable energy technologies. Solar photovoltaics (PV) is a prime example. In the last decade, the price of solar modules has [dropped 88 percent](https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021), making solar cost-competitive with fossil fuels in many parts of the world.
+
+This [remarkable success story](https://www.howsolargotcheap.com/) was made possible by the decades-long free flow of goods, talent and capital across multiple countries involved in the solar industry. But the learning processes that have led to these rapid declines are increasingly at risk from policies aimed at localizing production to within national borders and moving away from global supply chains. Such policies have become increasingly popular, in part due to supply chain disruptions experienced during the COVID-19 pandemic and, perhaps more notably, in response to the concentration of the solar PV supply chain in China, which now comprises [78% of global PV module production](https://doi.org/10.1051/epjpv/2022010) (see @fig-pv-by-origin).
+
+![Annual solar PV cell production by origin, 2010–2021.](fig-1-solar-production-by-origin.png){#fig-pv-by-origin fig-align="left" width="90%"}
+
+We have been studying this phenomenon for years, trying to understand the cost of erecting barriers to international cooperation when it comes to the development and deployment of low carbon energy technologies (LCETs) like solar PV. In our recent paper published in [_Nature_](https://www.nature.com/articles/s41586-022-05316-6), we model the cost of moving away from global supply chains for solar PV modules, concluding that tens of billions of dollars have been saved in solar deployment over the past decade thanks to global supply chains.
+
+## Learning in Global Versus National Markets
+
+In our paper, we use historical deployment and price data in the U.S., Germany, and China—the three largest solar-deploying countries—to model the cost savings from historical global cooperation in the solar PV industry. Using the classic [learning curve](https://en.wikipedia.org/wiki/Learning_curve) model, we model historical learning rates in each country from 2006 to 2020, which we call a period of learning in "global market" conditions. We then simulate a counterfactual "national markets" scenario, in which these countries adopt nationalistic trade policies that limit cross-border learning over the same period.
+
+Our results show a total of $67 billion was saved in solar deployment from 2008 to 2020 thanks to global supply chains ($24 billion, $36 billion, and $7 billion in the U.S., China, and Germany, respectively). We also estimate that under the "national markets" scenario, solar panel prices in 2020 would have been significantly higher—107% higher in the U.S., 83% higher in Germany, and 54% higher in China (see @fig-prices-national-vs-global).
+
+![Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).](fig-2-prices-in-national-global-markets.png){#fig-prices-national-vs-global fig-align="left" width="95%"}
+
+
+We also compare how these two scenarios might play out going forward. Assuming that capacity grows at a constant annual growth rate (CAGR), we estimate that solar module prices could be 20-30%^[This number was updated from 20-25% to reflect an [Author Correction](https://www.nature.com/articles/s41586-023-06262-7).] higher in 2030 than they otherwise would be if countries move to complete domestic manufacturing over a ten-year time frame.
+
+## What About Jobs?
+
+While we focus on cost in our paper, we offer a discussion of other important issues in the solar PV industry. Jobs is a politically salient issue that is often used to motivate moving solar manufacturing to the U.S. (or another country). But this motivation is inconsistent with industry realities.
+
+The National Renewable Energy Laboratory estimates that there are [ten times](https://www.nrel.gov/docs/fy21osti/79758.pdf) more annual jobs in system installation compared with those in the entire manufacturing supply chain. As a result, higher module prices associated with nationalistic policies could lead to lower total deployment, costing potentially thousands more jobs than those gained in manufacturing, which is highly automated in most modern module manufacturing plants.
+
+This reality has already played out under the tariffs on imported solar PV modules from China, which have been in place over the past three U.S. administrations. The Solar Energy Industries Association estimated that Section 201 tariffs implemented under the Trump administration has cost the industry [60,000 jobs](https://www.seia.org/research-resources/high-cost-tariffs), and if new tariffs are added that number could [rise to 100,000](https://www.seia.org/news/tariff-case-cuts-solar-deployment-forecasts-nearly-half-100000-jobs-risk). Lowering or completely removing these tariffs would almost certainly accelerate solar deployment (and job growth) in the U.S., especially with the tax credit incentives put in place under the Inflation Reduction Act.
+
+## What About Diversification?
+
+Reliance on a single set of countries in critical supply chains introduces risks to global disruptions, and a diversified solar PV manufacturing base can provide a layer of resilience. A related article in [_Science_](https://www.science.org/doi/epdf/10.1126/science.abq5446), @davidson2022risks provides a framework for balancing the economic and national security risks from decoupling from China in mature and emerging low-carbon technologies. Nonetheless, it is also important to consider the risks associated with continued dependence on fossil fuels for energy. While fossil energy prices are highly susceptible to global disruptions, renewable energy systems have no fuel cost. Furthermore, a dependency now on a country like China for solar panels may not exist forever as manufacturing can shift over time; in contrast, fossil energy sources are geographically fixed, limiting potential future trade partners.
+
+Of course, countries may choose to diversify for ethical reasons too. The Xinjiang region of China has been come under increased scrutiny from allegations of forced labor. Most of the world's solar-grade polysilicon is produced in Xinjiang, and policies such as the Biden Administration's [Uyghur Forced Labor Prevention Act](https://www.cbp.gov/trade/forced-labor/UFLPA) are aimed at limiting trade with products made in this region. The solar industry has responded with proposed protocols for tracing upstream material supplies, which is an initial step in addressing the issue, but more needs to be done.
+
+## Policy Implications
+
+In a related [article in _Science_](https://www.science.org/doi/10.1126/science.aaz1014), @helveston2019china highlighted China's critical role in scaling up manufacturing in LCET sectors, including solar, wind, electric vehicles and batteries. Global trade will be critical for scaling up the deployment of these technologies all over the world. While efforts to boost domestic manufacturing of and demand for renewable energy technologies are steps in the right direction, we must not lose site of the timeline left to decarbonize. Erecting barriers to the free flow of goods, talent, and capital in LCET sectors will limit the ability to address the looming climate crisis.
+
+This does not mean the U.S. should abandon solar manufacturing. The world will need more supply to meet the scale of deployment necessary for climate goals, and more solar manufacturers adds resiliency to disruptive events such as pandemics and conflicts. As an R&D leader, the U.S. could very likely lead in developing (and potentially manufacturing) the next-generation of solar PV technology. But the U.S. should not penalize firms for buying low-cost, high-quality panels from abroad, not when cost is still a barrier to greater solar adoption.
+
+There is a Chinese idiom that has a close corollary in the English-speaking world: 同舟共济(tóng zhōu gòng jì), which roughly translates to "same boat, work together." Time is not on our side. Countries like the U.S. and China must find a way to address their geopolitical differences while simultaneously working together to lower the cost of LCETs, close [the emissions gap](https://www.unep.org/resources/emissions-gap-report-2022?gclid=Cj0KCQiA37KbBhDgARIsAIzce16RWcYDSbNbHM1nHzd4z6GMPt6Xexx1bMzhVGGbV46LPAxH74NqJw8aAmwVEALw_wcB) and combat climate change.
+
+[_John Paul Helveston_](https://jhelvy.com/) _is an assistant professor at the George Washington University's School of Engineering & Applied Science. His area of expertise includes understanding the factors that shape technological change, with a particular focus on transitioning to more sustainable and energy-saving technologies._
+
+[_Gang He_](https://drganghe.github.io) _is an assistant professor in the Department of Technology and Society at Stony Brook University. His work focuses on energy modeling, energy and climate policy, energy and environment, domestic coal and power sectors and their key role in both the global energy supply and in international climate policy framework._
+
+[_Michael R. Davidson_](https://gps.ucsd.edu/faculty-directory/michael-davidson.html) _is an assistant professor at University of California San Diego's School of Global Policy and Strategy and the Jacobs School of Engineering. His research focuses on the engineering implications and institutional conflicts inherent in deploying renewable energy at scale, with a particular interest in China, India, and the U.S._
+
+Check the original post at <a href="https://www.newsecuritybeat.org/2022/11/cost-solo-solar/" target="_blank">New Security Beat</a>. Learn more about our [paper](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd).
+
+
+### References
+
+::: {#refs}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

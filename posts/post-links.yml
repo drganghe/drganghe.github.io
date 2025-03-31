@@ -1,0 +1,34 @@
+
+    - path: https://deeppolicylab.github.io/projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html
+      image: "/files/images/nyc-mid-town.webp"
+      title: "New Grant: Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities"
+      author: "NYRDRC"
+      description: "Gang He, Kaifang Luo, Hilary Botein, and Frank Heiland were awarded a SSA grant"
+      date: "2024-11-01"
+      categories: [news] 
+
+
+    - path: https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html
+      image: /files/images/climate-week-logo.png
+      title: "NYC Climate Week: Clean Energy Global Supply Chains Panel"
+      author: "Deep Policy Lab"
+      description: "Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during NYC Climate Week."
+      date: "2024-09-26"
+      categories: [event]
+
+    - path: https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/index.html 
+      image: https://deeppolicylab.github.io/events/2024-07-19-workshop-on-open-modeling-carbon-neutrality-of-the-power-sector/featured.png
+      title: "Workshop on Open Modeling Carbon Neutrality of the Power Sector"
+      author: "Deep Policy Lab"
+      description: "Deveoping a community to enable open and safe modeling and data sharing."
+      date: "2024-07-19"
+      categories: [event, news]
+
+
+    - path: https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/
+      image: /files/images/energy-innovation-scholars.jpg
+      title: "2019 Energy Innovation Policy and Management Scholars"
+      author: "ITIF"
+      description: "Grateful to join a group of energy innovation scholars in the ITIF/Sloan Energy Innovation Policy and Management Scholars program"
+      date: "2019-05-20"
+      categories: [news, award]

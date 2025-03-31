@@ -1,0 +1,74 @@
+---
+title: "Open Course on Energy Systems Analysis"
+description: "Gang opens his Energy Systems Analysis class and hope the energy community find it resourceful."
+author: "Gang He"
+date: "2022-12-15"
+categories: [news]
+image: "featured.png"
+css: /custom.css
+---
+
+## Course Link
+
+<https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>{target="_blank"}
+
+
+## Fundamental and Emerging Energy Topics
+
+- Lecture 1: [Introduction](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture1/index.html){target="_blank"}  
+- Lecture 2: [Make sense of energy numbers](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture2/index.html){target="_blank"}  
+- Lecture 3: [Energy systems overview](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture3/index.html){target="_blank"} 
+- Lecture 4: [Economics for energy systems analysis](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture4/index.html){target="_blank"} 
+- Lecture 5: [Energy sources](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture5/index.html){target="_blank"}  
+- Lecture 6: [Energy demand](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture6/index.html){target="_blank"}  
+- Lecture 7: [Energy, environment, and health](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture7/index.html){target="_blank"}   
+- Lecture 8: [Energy and climate change](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture8/index.html){target="_blank"} 
+- Lecture 9: [Power sector analysis](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture9/index.html){target="_blank"}  
+- Lecture 10: [Energy transition](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture10/index.html){target="_blank"} 
+- Lecture 11: [Energy efficiency, behavior, and sustainable consumption](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture11/index.html){target="_blank"} 
+- Lecture 12: [Energy poverty, access, and justice](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture12/index.html){target="_blank"}  
+- Lecture 13: [Big data and AI for clean energy](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture13/index.html){target="_blank"}   
+- Lecture 14: [Limitations of models](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture14/index.html){target="_blank"}  
+- Lecture 15: [Review and summary](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture15/index.html){target="_blank"}  
+
+
+## Real-world Energy Assignments
+
+- HW0: [IRA emission reduction assessment](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw0.html){target="_blank"}  
+- HW1: [Air quality in China and India](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw1.html){target="_blank"}   
+- HW2: [Energy project economics](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw2.html){target="_blank"}    
+- HW3: [Energy technology and impacts](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw3.html){target="_blank"}  
+- HW4: [Load forecast, energy justice](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw4.html){target="_blank"}  
+
+
+## Social Media Posts
+
+
+### LinkedIn
+
+```{=html}
+<style>
+  /* Style for screens with a width less than 550px */
+  @media (max-width: 550px) {
+    iframe {
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7008437031106191362" height="1255" width="550" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+```
+
+### Twitter 
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A semester&#39;s effort to open my &quot;Energy Systems Analysis&quot; class.<br><br>15 Lectures, covering overview, economics, technologies, climate, power, transition, efficiency, access, justice, AI and big data, limitations ...<br><br>5 Real-world assignments.<br><br>And more:<a href="https://t.co/hK3uM7tik5">https://t.co/hK3uM7tik5</a> <a href="https://t.co/enxLzoS3HE">https://t.co/enxLzoS3HE</a> <a href="https://t.co/1r88HtOBRW">pic.twitter.com/1r88HtOBRW</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1602652144561274881?ref_src=twsrc%5Etfw">December 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+Many students do not have access to high-quality learning material in energy and climate change, especially in the underserved communities. If you like this work, you can help those in need to access the open-source course by spreading the word. 
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+
+

@@ -1,0 +1,50 @@
+---
+title: "Third Annual Conference on Climate Research, Teaching, and Collaboration"
+description: "Gang speaks in the Baruch Climate Conference on Benefits of Solar PV for Health and Climate in EU"
+author: "Baruch Climate Conference"
+date: "2025-03-06"
+categories: [news, event, presentation]
+image: "featured.webp"
+css: /custom.css
+#draft: true
+---
+
+[![](featured.webp)](https://www.baruch.cuny.edu/climateconference/)
+
+
+## Third Annual Conference on Climate Research, Teaching, and Collaboration
+
+Thursday, Mar. 6
+10 am–4:30 pm
+Information and Technology Building
+Rackow Conference Center, Room 750
+
+**Multidisciplinary Climate Research and Teaching**
+
+>We will highlight the innovative climate research of our Baruch and CUNY faculty from the Austin W. Marxe School of Public and International Affairs, Weissman School of Arts and Sciences, and Zicklin School of Business. Presenters will share their research about the many ways in which climate change is impacting our lives. A Dean’s Panel will highlight interdisciplinary coordination. Hear from Jessica Lang, Dean, Weissman School of Arts and Sciences; Sherry Ryan, Dean, Marxe School of Public and International Affairs; and Bruce Weber, Dean, Zicklin School of Business.
+
+
+**Group 4: Research Presentations**
+
+3:05–4:05 pm
+
+- Health and Climate Benefits of Solar Photovoltaic in European Countries and the Role of Imports, Gange He, Assistant Professor, Public Affairs
+
+- Understanding The World Bank’s Role in Climate Finance, Asli Leblebicioglu, Associate Professor, Public Affairs
+
+- Saving the Environment Through Corporate Governance: “Real ESG” as a Cure for Democracy’s Failings, David Rosenberg, Associate Professor, Law
+
+- Climate and the Food-Energy-Water-Waste Nexus: From the Viewpoint of Waste, Samantha McBride, Adjunct Assistant Professor, Public Affairs
+
+
+Welcome to join us to learn more about climate-related activities at CUNY.
+
+
+## Conference Website
+
+<https://www.baruch.cuny.edu/climateconference/>
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

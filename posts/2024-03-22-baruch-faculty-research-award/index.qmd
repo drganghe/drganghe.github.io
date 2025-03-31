@@ -1,0 +1,29 @@
+---
+title: "Winning the Baruch Faculty Research Award"
+description: "Dr. Gang He won the Baruch Faculty Research Award in the Third Annual Faculty Cross-College Faculty Research Symposium for his collaborative work on climate impact on energy systems."
+author: "Provost’s Newsletter"
+date: "2024-03-22"
+categories: [news, award]
+image: "featured.jpeg"
+css: /custom.css
+---
+
+## Summary
+
+Research Awards Presented at the Cross-College Faculty Research Symposium
+
+> The Third Annual Cross-College Faculty Research Symposium, held on Mar. 22 at the Newman Conference Center, was a huge success. The Joint Committee on Research selected four projects authored by Allison Hahn (Communication Studies), Gang He (Marxe), Angie Beeman (Marxe) and Tsedale Melaku (Management) (joint project), and Chul Kim (Marketing) for the Research Awards. 
+
+Source: [Provost’s Newsletter: News and Updates from the Division of Academic Affairs for April 3, 2024](https://provost.baruch.cuny.edu/messages/provosts-newsletter-news-and-updates-from-the-division-of-academic-affairs-for-april-3-2024/)
+
+
+## Twitter 
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to <a href="https://twitter.com/DrGangHe?ref_src=twsrc%5Etfw">@DrGangHe</a> on winning the Baruch Faculty Research Award in the Third Annual Faculty Cross-College Faculty Research Symposium for his collaborative work on climate impact on energy systems.<a href="https://twitter.com/hashtag/MarxeSchool?src=hash&amp;ref_src=twsrc%5Etfw">#MarxeSchool</a> <a href="https://twitter.com/hashtag/MarxeFaculty?src=hash&amp;ref_src=twsrc%5Etfw">#MarxeFaculty</a> <a href="https://twitter.com/hashtag/MarxePride?src=hash&amp;ref_src=twsrc%5Etfw">#MarxePride</a> <a href="https://twitter.com/hashtag/FacultyResearch?src=hash&amp;ref_src=twsrc%5Etfw">#FacultyResearch</a> <a href="https://twitter.com/hashtag/ClimateImpact?src=hash&amp;ref_src=twsrc%5Etfw">#ClimateImpact</a> <a href="https://t.co/DOI5s1ywJ5">pic.twitter.com/DOI5s1ywJ5</a></p>&mdash; Marxe School (@BaruchMarxe) <a href="https://twitter.com/BaruchMarxe/status/1773446270759145856?ref_src=twsrc%5Etfw">March 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

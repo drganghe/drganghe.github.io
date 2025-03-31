@@ -1,0 +1,156 @@
+---
+title: "Quantifying the cost savings of global solar photovoltaic supply chains"
+description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."
+subtitle: "*Nature*"
+author: 
+  - name: John Paul Helveston
+  - name: Gang He
+  - name: Michael R. Davidson
+date: "2022-10-26"
+categories: [paper, poster, slides]
+image: "featured.jpg"
+citation:
+  type: article-journal
+  container-title: "Nature"
+  doi: "10.1038/s41586-022-05316-6"
+  available-date: "2022-10-26"
+  issued: "2022-12-01"
+  volume: 612
+  issue: 7938
+  page: 83-87
+  url: https://www.nature.com/articles/s41586-022-05316-6
+bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+[![*Nature* December 1, 2022 Issue Cover highlighted our paper in the same issue](featured.jpg)](https://www.nature.com/nature/volumes/612/issues/7938)
+
+::: {.callout-note}
+## Paper
+Quantifying the cost savings of global solar photovoltaic supply chains   
+John Paul Helveston, **Gang He**\*, and Michael R. Davidson   
+*Nature* (2022)   
+DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)   
+<!--<i class="fa fa-download"></i> [PDF](/files/papers/nature-solar-supply-chains-preprint.pdf) &nbsp; <i class="fa-brands fa-github"></i> [Code & Data](https://github.com/jhelvy/solar-learning-2021)-->   
+:::
+
+## Abstract
+
+Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, yet countries sometimes implement policies that increase costs by restricting the free flow of capital, talent and innovation in favour of localizing benefits such as economic growth, employment and trade surpluses. Here we assess the cost savings from a globalized solar photovoltaic (PV) module supply chain. We develop a two-factor learning model using historical capacity, component and input material price data of solar PV deployment in the United States, Germany and China. We estimate that the globalized PV module market has saved PV installers US\$24 (19–31) billion in the United States, US\$7 (5–9) billion in Germany and US\$36 (26–45) billion in China from 2008 to 2020 compared with a counterfactual scenario where domestic manufacturers supply an increasing proportion of installed capacities over a ten-year period. Projecting the same scenario forwards from 2020 results in estimated solar module prices that are approximately 20–30 per cent higher in 2030 compared with a future with globalized supply chains. International climate policy benefits from a globalized low-carbon value chain, and these results point to the need for complementary policies to mitigate welfare distribution effects and potential impacts on technological crowding out.
+
+
+## Links
+
+Published [paper](https://www.nature.com/articles/s41586-022-05316-6)
+
+Paper summary: [The Cost of Going Solo in Solar](/posts/2022-11-nature-solar-paper-summary/index.qmd)
+
+ResearchGate [pdf](https://www.researchgate.net/publication/364757014_Quantifying_the_cost_savings_of_global_solar_photovoltaic_supply_chains) provided by *Nature*
+
+Preprint [pdf](/files/papers/2022-nature-solar-supply-chains-preprint.pdf)
+
+Author Correction [pdf](https://www.nature.com/articles/s41586-023-06262-7), [SI](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06262-7/MediaObjects/41586_2023_6262_MOESM1_ESM.pdf)
+
+Github: [solar-learning-2021](https://github.com/jhelvy/solar-learning-2021)
+
+Zenodo: [Code and Data](https://doi.org/10.5281/zenodo.6989075)
+
+Shinyapps: [Sensitivity visualization](https://jhelvy.shinyapps.io/solar-learning-2021/)
+
+## Impact
+
+Award: Integrated Assessment Modeling Consortium 2022 [Best Poster Award](/posts/2022-12-iamc-2022-best-poster-award/index.qmd)
+
+*Nature* Highlights: [Climate policy: Solar energy expected to be cheaper through globalization](https://web.archive.org/web/20230603073317/https://www.natureasia.com/en/research/highlight/14262)
+
+*Joule* Preview: [The cost of risk mitigation—Diversifying the global solar PV supply chain](https://doi.org/10.1016/j.joule.2022.12.003) by Nathan L.Chang, Mohammad Dehghanimadvar, and Renate Egan
+
+Press release: [SBU News](https://news.stonybrook.edu/newsroom/global-collaboration-is-key-to-saving-billions-for-solar-module-production/), [GWU News](https://mediarelations.gwu.edu/global-collaboration-saved-countries-67-billion-solar-panel-production-costs), [UCSD News](https://today.ucsd.edu/story/open-trade-saves-countries-billions-in-solar-panel-production)
+
+Coverage: [E&E News](https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/), [*Foreign Policy*](https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/), [GRID News](https://web.archive.org/web/20240106093827/https://themessenger.com/grid/the-us-is-reducing-its-reliance-on-china-for-green-technology-could-that-slow-progress-on-climate-change), [PV Magazine](https://pv-magazine-usa.com/2022/10/26/a-globalized-supply-chain-is-key-to-cutting-costs-in-solar-module-manufacturing/), [dot.LA](https://dot.la/deglobalization-2658510850.html), [pvbuzz](https://pvbuzz.com/new-study-quantifies-cost-savings-solar-industry-globalized-supply-chains/), [InnovateLongIsland](https://www.innovateli.com/no-736-on-immigrants-solar-energy-supplies-and-other-american-strengths-with-lots-of-candy-to-share/), [Mercom India](https://mercomindia.com/imposing-import-tariffs-hamper-of-solar-energy-study/), [China News](https://www.chinanews.com.cn/cj/2022/10-27/9881042.shtml), [Science and Technology Daily](http://www.stdaily.com/index/kejixinwen/202210/e38ea5c3a3054d87a43996d39a2924ab.shtml)
+
+[Nature Portfolio Chinese summary](https://mp.weixin.qq.com/s/CuyHGblyLcMfMo13VBXaFA)
+
+Notable policy citations:  
+
+{{< include /files/includes/policycitations/_nature2022.qmd >}}
+
+```{=html}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-022-05316-6"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
+
+## Twitter Thread
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited to share new paper in <a href="https://twitter.com/Nature?ref_src=twsrc%5Etfw">@nature</a> with <a href="https://twitter.com/JohnHelveston?ref_src=twsrc%5Etfw">@JohnHelveston</a> and <a href="https://twitter.com/east_winds?ref_src=twsrc%5Etfw">@east_winds</a> on “Quantifying the cost savings of global solar photovoltaic supply chains”.<br><br>Paper: <a href="https://t.co/2DpBh4huDj">https://t.co/2DpBh4huDj</a><br><br>pdf: <a href="https://t.co/F7oPjA67LR">https://t.co/F7oPjA67LR</a> <br><br>Vis: <a href="https://t.co/a8Q306vnbq">https://t.co/a8Q306vnbq</a> <br><br>More: <a href="https://t.co/OVmdOUHIfZ">https://t.co/OVmdOUHIfZ</a> <a href="https://t.co/oFg4hGf9YK">pic.twitter.com/oFg4hGf9YK</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1585303259975061504?ref_src=twsrc%5Etfw">October 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+
+## Poster
+
+Here is the poster for [IAMC2022](https://www.iamconsortium.org/event/fifteenth-iamc-annual-meeting-2022/) which won the [Best Poster Award](/posts/2022-12-iamc-2022-best-poster-award/index.qmd). The [pdf](/files/posters/nature-solar-supply-chains-poster.pdf) is also available.
+
+![](/files/posters/nature-solar-supply-chains-poster.png){fig-align="left" width=95%}
+
+
+
+## Slides
+
+<div class="container"> 
+<iframe src="/files/slides/solar-supply-chains-slides.html" class="responsive-iframe" width="100%" title="slides"></iframe>
+</div>
+
+Above is the general slides of our paper, I presented it at [Tsinghua University](https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g). Check the [slides](/files/slides/solar-supply-chains-slides.html) in a new tab.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+
+<!---
+## Timeline
+
+The following timeline from Researchsquare might provide a reference point when tracking submitted manuscript.
+
+| Version | Date     | Status                                       | Days since this submission | Days since first submission |
+|---------|----------|----------------------------------------------|----------------------------|-----------------------------|
+| 1       | 8/16/21  | First submitted to Nature                    |                            |                             |
+| 1       | 8/16/21  | Editor assigned                              | 0                          | 0                           |
+| 1       | 8/29/21  | 8 reviewer(s) invited                        | 13                         | 13                          |
+| 1       | 8/31/21  | Reviewer #1 agreed                           | 15                         | 15                          |
+| 1       | 9/1/21   | Reviewer #2 agreed                           | 16                         | 16                          |
+| 1       | 9/15/21  | Review #1 received                           | 30                         | 30                          |
+| 1       | 9/17/21  | Review #2 received                           | 32                         | 32                          |
+| 1       | 10/13/21 | Reviewer #3 agreed                           | 58                         | 58                          |
+| 1       | 10/13/21 | Review #3 received                           | 58                         | 58                          |
+| 1       | 11/10/21 | Editorial decision: Reject                   | 86                         | 86                          |
+| 2       | 3/28/22  | Version 2 submitted to Nature                |                            | 224                         |
+| 2       | 3/31/22  | 3 reviewer(s) invited                        | 3                          | 227                         |
+| 2       | 4/1/22   | Reviewer #1 agreed                           | 4                          | 228                         |
+| 2       | 4/7/22   | Reviewer #2 agreed                           | 10                         | 234                         |
+| 2       | 4/19/22  | Review #2 received                           | 22                         | 246                         |
+| 2       | 4/24/22  | Review #1 received                           | 27                         | 251                         |
+| 2       | 4/24/22  | Editorial decision: Reject                   | 27                         | 251                         |
+| 3       | 6/11/22  | Version 3 submitted to Nature                |                            | 299                         |
+| 3       | 6/14/22  | 4 reviewer(s) invited                        | 3                          | 320                         |
+| 3       | 7/5/22   | Reviewer #1 agreed                           | 24                         | 323                         |
+| 3       | 7/6/22   | Review #1 received                           | 25                         | 324                         |
+| 3       | 7/20/22  | Reviewer #2 agreed                           | 39                         | 338                         |
+| 3       | 7/28/22  | Review #2 received                           | 47                         | 346                         |
+| 3       | 7/29/22  | Reviewer #3 agreed                           | 48                         | 347                         |
+| 3       | 8/8/22   | Review #3 received                           | 58                         | 357                         |
+| 3       | 8/9/22   | Editorial decision: Revise                   | 59                         | 358                         |
+| 4       | 8/15/22  | Version 4 submitted to Nature                |                            | 364                         |
+| 4       | 8/16/22  | 1 reviewer(s) invited                        | 1                          | 365                         |
+| 4       | 8/16/22  | Reviewer #1 agreed                           | 1                          | 365                         |
+| 4       | 8/17/22  | Review #1 received                           | 2                          | 366                         |
+| 4       | 9/2/22   | Editorial decision: Accept                   | 18                         | 382                         |
+| 5       | 9/28/22  | Proofs received                              |                            | 408                         |
+| 6       | 10/26/22 | Published online                             |                            | 436                         |
+--->

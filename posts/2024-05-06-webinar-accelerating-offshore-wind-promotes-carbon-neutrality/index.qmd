@@ -1,0 +1,46 @@
+---
+title: "Research Webinar: Accelerating offshore wind development enhances energy security and promotes carbon neutrality in China’s coastal regions"
+description: "New report explores the impacts of offshore wind development on the power generation, transmission networks in China’s power system and more importantly, energy independence of these coastal provinces. "
+author: "LBL ETA"
+date: "2024-05-06"
+categories: [event, presentation]
+image: "featured.jpeg"
+css: /custom.css
+#draft: true
+---
+
+## Organizers
+
+Lawrence Berkeley National Laboratory, Energy Technology Area <https://eta.lbl.gov>
+
+University of California, Berkeley, Department of Agricultural and Resource Economics <https://are.berkeley.edu> 
+
+## Time
+
+6-7pm US Pacific Time, May 6, 2024 (Monday)
+
+## Language
+
+English
+
+## Registration 
+
+Please [register](https://lbnl.zoom.us/webinar/register/WN_gPl0DbtSTam41KXqHcLqAg) in advance for this meeting. After registering, you will receive an email containing information about joining the meeting.
+
+## Background
+
+As the world’s largest carbon emitter, China has committed to achieve carbon neutrality by 2060. The power sector will play a pivotal role in meeting this target. However, due to the uneven distribution of renewable energy resources in China, the mature renewable energy sources, such as solar and onshore wind are located in the western and northwestern regions of China. The eastern coastal regions in China face significant challenges in decarbonizing their energy systems due to the absence of local renewable energy sources and high electricity demand. As electricity demand grows in the future, the gap between their local energy supply and high electricity needs will become more obvious. Rapid development of offshore wind power offers a promising solution to the decarbonization challenge in China’s coastal regions. Furthermore, the cost of offshore wind has decreased rapidly in recent years, making it economically feasible for large-scale deployment.
+
+Berkeley Lab and UC Berkeley conduct a new analysis, “Accelerating offshore wind development enhances energy independence and promotes carbon neutrality in China’s coastal regions.” This study is being conducted by Liqun Peng, Gang He, and Jiang Lin and explores the impacts of offshore wind development on the power generation, transmission networks in China’s power system and more importantly, energy independence of these coastal provinces. The analysis offers insights on what could be done to support offshore wind development to further accelerate power system transition and enhance energy self-sufficiency and economic development in the coastal provinces.
+
+Join this webinar to find out more about our preliminary results, presented by Liqun Peng and Jiang Lin of Berkeley Lab, followed by feedback and comments from a panel of experts moderated by Prof. Gang He of CUNY-Baruch College, Michael O’Boyle from Energy Innovation, Yuan Bo from State Grid Energy Research Institute and Yujing Liu from RMI.
+
+
+## Webinar Link
+
+LBL [Event](https://emp.lbl.gov/news/research-webinar-accelerating-offshore-wind-development-enhances-energy-security-and){.external target="_blank"}
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

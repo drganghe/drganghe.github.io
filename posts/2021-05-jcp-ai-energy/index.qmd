@@ -1,0 +1,48 @@
+---
+title: "An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017"
+subtitle: "*Journal of Cleaner Production*"
+description: "AI algorithms in wind power technology innovation."
+author: 
+  - name: Mekyung Lee
+  - name: Gang He
+date: "2021-05-15"
+categories: [paper]
+image: "featured.jpg"
+citation:
+  type: article-journal
+  container-title: "Journal of Cleaner Production"
+  volume: 297
+  page: 126536
+#  page-first: 126536
+  doi: "10.1016/j.jclepro.2021.126536"
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0959652621007563
+bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017   
+Mekyung Lee\*, and **Gang He**   
+*Journal of Cleaner Production* (2021)   
+DOI: [10.1016/j.jclepro.2021.126536](https://doi.org/10.1016/j.jclepro.2021.126536)  
+:::
+
+## Abstract 
+
+We investigated the applications of artificial intelligence (AI) algorithms in wind power technology changes over time and found that AI accelerates the automation of wind power systems. This study shows evidence of the evolution of wind technology innovation following the advancement in AI algorithms using the patents data issued in four intellectual property (IP) offices from 1980 through 2017. Artificial intelligence and more advanced data analytics can be effectively applied to increase the efficiency of wind power systems and to optimize wind farm operations. This study empirically analyzes the evolution of applications of AI algorithms in wind power technology by employing machine learning-based text mining and network analysis, demonstrating the dynamic changing pattern of applications of AI algorithms in wind power technology innovation.
+
+## Links  
+
+Published [paper](https://www.sciencedirect.com/science/article/abs/pii/S0959652621007563)
+
+Self-archiving [pdf](/files/papers/2021-JCP-AIandWindTechnologyInnovation.pdf)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jclepro.2021.126536"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jclepro.2021.126536" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,75 @@
+---
+title: "Power Systems Decarbonization: Technology, Policy Responses, and Implications"
+description: "Gang is invited to give an online guest lecture at Peking University"
+author: CESE
+date: "2024-10-24"
+categories: [event, presentation]
+image: "featured.jpeg"
+css: /custom.css
+csl: chicago-intext.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
+#draft: true
+listing:
+  - id: papers
+    contents: 
+        - "../2023-11-switch-china-open-model/index.qmd"
+        - "../2020-05-ncomms-rapid-re-cost/index.qmd"
+        - "../2021-12-jcp-power-water-carbon/index.qmd"
+        - "../2016-est-switch-china/index.qmd"
+    type: grid
+    max-items: 4
+    grid-columns: 2
+    page-size: 0 #set as 0 will remove the page setting
+    fields: [image, date, title, author, description]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+## Title
+
+Power Systems Decarbonization: Technology, Policy Responses, and Implications        
+
+
+## Speaker
+
+HE Gang, Baruch College, City University of New York
+
+
+## Abstract
+
+“Electrifying energy and decarbonizing electricity” lies at the core of global clean energy transition. In this talk, I will first provide an overview of the current global landscape of electrification and power system transitions. I will then focus on China, which hosts the world’s largest power system, to deep dive into the technological, policy, and systemic challenges of achieving carbon neutrality in the power sector. I will also discuss the technological and policy responses designed to address these challenges. The goal is to explore the complexity of clean power transition under climate change, and examine potential pathways to net-zero emissions, and their environmental, climate, human health, and socio-economic implications.
+
+
+## Bio
+
+Gang He’s work focuses on energy systems, energy and climate policy, and energy transition. His research advances data-driven, evidence-based energy and climate policy research and offers policy insights for energy decisions and climate actions to achieve carbon neutrality. His leading and collaborative work has appeared in high-impact interdisciplinary and field journals such as Nature, Nature Communications, Nature Energy, One Earth, Environmental Science & Technology, and Energy Policy. His research has been reported by Nature, Scientific American, Carbon Brief, National Geographic, New York Times, E&E News, among others. His work has informed policy processes. He testified for the New York State Climate Leadership and Community Protection Act and has advised the New York State Climate Action Council’s Scoping Plan. He has also been involved in the U.S.-China collaboration on energy and climate change. He received his Ph.D. in Energy and Resources from the University of California, Berkeley. He also holds an M.A. in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.
+
+
+## Flyer
+
+[![](/files/flyers/20241024PKU.jpg){width="90%"}](https://cese.pku.edu.cn/images/content/2024-10/20241022124634828698.jpg)
+
+
+## Relevant posts
+
+:::{#papers}
+:::
+
+
+## References
+
+- @he_rapid_2020
+- @heSWITCHChinaSystemsApproach2016
+- @zhangLongtermTransitionChina2021
+- @linLargeBalancingAreas2022
+- @pengHeterogeneousEffectsBattery2023
+- @luoAcceleratingChinaPower2023
+- @yangRegionalDisparitiesHealth2024
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,169 @@
+---
+title: "CUNY Baruch College Visiting Scholar Paperwork Guide"
+description-meta: "An unofficial paperwork guide for visiting CUNY Baruch College"
+author: "Gang He"
+categories: [guide]
+date: "2025-01-03"
+title-block-banner: false
+page-layout: full
+from: markdown+emoji
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+
+## Paperwork flow
+
+```{mermaid}
+flowchart LR
+  A[Conditional Invitation] --> 
+  B(Appointment Letter) -->
+  C{{DS-2019}} -->
+  D{{Visa Application}}  -->
+  E(Visiting Baruch)
+```
+
+### Step 1: Conditional Invitation
+
+To begin, you need to secure a conditional invitation letter from a faculty member who will support your scholarship application. The following documents are usually helpful:
+
+- CV
+- Research Plan
+- English Proficiency Certificate
+
+Your potential host may schedule an interview to discuss your proposal and assess the possibilities.
+
+### Step 2: Appointment Letter
+
+Once you receive the fellowship or scholarship certificate, forward it to your host faculty member. The certificate is useful for the department or school to issue an official invitation letter. You may ignore the first step if you were hired or support by your host faculty.
+
+- The official letter, similar to the conditional invitation, will be signed by the Department Chair or Dean.
+- This step formalizes your appointment and enables the next stages of paperwork.
+
+
+### Step 3: DS-2019 Form
+
+The DS-2019 form involves several internal approval processes before the designated office can issue it. These include:  
+
+- Approvals from the Department Chair, Dean, and Provost  
+- Export Control Clearance  
+
+
+Overview of the Process from the Baruch College Export Control Clearance for J-1 Research Scholar 
+
+<blockquote>
+
+To comply with the “[Guidance on Onboarding J-1 Researchers and Scholars Exchange Visitors](https://www.cuny.edu/wp-content/uploads/sites/4/media-assets/CUNYIntStudentGuidelines-Fall24-03-06-24.pdf)” memorandum dated July 26, 2021 from Robert T. Maruca, CUNY Associate University Provost for Planning, and Tamera Schneider, CUNY Associate Vice Chancellor & University Provost for Research, the Weissman Center for International Business has devised the following procedure for obtaining export control clearance for all prospective J-1 Research Scholars.* 
+
+The process involves several steps.
+
+The process begins whenever a Baruch department or other College office (“Department”) receives an inquiry from someone requesting to be hosted as a prospective international J-1 Research Scholar (“Scholar”). If the Department decides it wishes to host this Scholar, these steps must be taken:
+
+Phase I: Departmental Preparation
+
+1. The Department sends two forms to the Scholar:  
+- Application for Prospective International J-1 Scholar 
+- CUNY J-1 Export-Control Questionnaire 
+
+2. The Scholar returns the completed and signed forms along with certified scanned copies of the required documentation, plus a current CV/Resume, to the Department.
+
+3. The Department completes and signs these two forms:   
+- Baruch College Application to Host International J-1 Scholar  
+- CUNY Foreign Influence due Diligence Form for J1-Visiting Scholar  
+
+4. The Department submits the following materials (completed and with all required signatures) to the SEVIS Responsible Officer (RO) for this J-1 program (currently Dr. Richard Mitten):
+
+- Application for Prospective International J-1 Scholar and accompanying documentation (completed by Scholar)  
+- CUNY J-1 Export-Control Questionnaire (completed by Scholar)  
+- CV/Resume of the Scholar (completed by Scholar)  
+- Baruch College Application to Host International J-1 Scholar with required signatures (completed by Department)  
+- CUNY Foreign Influence due Diligence Form for J1-Visiting Scholar (completed by Department)
+- An original official letter of invitation (completed by Department)  
+
+Phase II: Preliminary Campus Review
+
+5. The RO reviews documents and submits them to the Baruch College Provost for preliminary campus review. 
+
+6. After consulting with the “appropriate stakeholders” (per CUNY regulations), the Provost returns the entire dossier to the SEVIS RO, recording the decision with a signature and date on page 2 of this form (Provisional Approval-Provost). 
+
+Phase III: CUNY Screening 
+
+7. If the Provost approves the request to host the Scholar, the RO forwards the dossier to the CUNY Office of International Student and Scholar Services (“CUNY ISSS”) for “Visual Compliance Screening” (per CUNY regulations). 
+
+8. After completing its screening, the CUNY ISSS returns the dossier to the RO with its findings. 
+
+9. The RO forwards the dossier to the Provost for final campus review. 
+
+Phase IV: Final Campus Review
+
+10. The Provost approves, or withholds final approval to the request to host the Scholar, and conveys this decision, along with the dossier of documents, to the RO, recording the decision with a signature and date on Export Control Clearance Form for Prospective J-1 Research Scholar.
+
+11. If the Provost approves the request, the RO notifies the Department, issues the DS-2019 for the Scholar, and sends it and additional documentation needed to apply for a J-1 visa to the Scholar, with a copy to the Department. 
+
+*Please note: The process for described below applies to any prospective J-1 Research Scholar only (Short-Term Scholars are processed by the International Student Service Center).
+
+</blockquote>
+
+Additional documents:
+
+Financial ability to cover the living expenses for J-1 exchange visitors & J-2 dependents:  
+
+- J-1 exchange visitor $32,000/year; $2,700/month (research scholar, professor, short-term scholar & student)  
+- J-2 spouse $7,200/year; $600/month  
+- J-2 child (under 21) $4,800/year per child; $400/month per child  
+
+If the scholarship amount is less than the listed requirement, you may need to provide a bank certificate of personal savings to cover the difference.
+
+
+Minimum insurance coverage must provide:  
+
+1. Medical benefits of at least $100,000 per accident or illness;  
+1. Repatriation of remains in the amount of $25,000;  
+1. Expenses associated with the medical evacuation of exchange visitors to his or her home country in the amount of $50,000; and  
+1. Deductibles not to exceed $500 per accident or illness.
+
+
+### Step 4: Visa Application
+
+Check the latest information from the U.S. Embassy website to understand the requirements and materials needed for your visa application. Make sure to complete this step promptly after receiving your DS-2019 form.
+
+
+### Step 5: Visiting Baruch
+
+Once all paperwork is completed, you can prepare for your arrival at Baruch College in New York City! New York City is Your Classroom and Office!
+
+### Important Notes
+
+- Timeline  
+
+The entire process may take several months, particularly if additional documentation is requested. Begin early and allow flexibility in your start date to accommodate any delays.
+
+- Proactive Communication
+
+Keep in close contact with your host faculty and administrative offices to ensure you stay updated on requirements and approvals.
+
+- Unofficial Guide
+
+This is an information page for your reference only. You should always follow the official guide to prepare your documents. 
+
+
+## Links
+
+- Baruch Faculty [Profiles](https://www.baruch.cuny.edu/profiles)
+
+- Study Abroad [Office](https://zicklin.baruch.cuny.edu/faculty-research/centers-institutes/weissman-center-international-business/study-abroad/faculty-staff-resources/)
+
+- CUNY International Student & Scholar Services ([ISSS](https://www.cuny.edu/academics/academic-programs/international-education/isss/))
+
+- CUNY [Export Control](https://www.cuny.edu/research/research-compliance/export-control/)
+
+
+
+
+
+Created: Januaray 3, 2025
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

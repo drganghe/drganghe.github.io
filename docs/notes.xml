@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Dr. Gang He</title>
+<link>https://drganghe.github.io/notes.html</link>
+<atom:link href="https://drganghe.github.io/notes.xml" rel="self" type="application/rss+xml"/>
+<description>Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition.</description>
+<image>
+<url>https://drganghe.github.io/files/gang-he-profile.jpeg</url>
+<title>Dr. Gang He</title>
+<link>https://drganghe.github.io/notes.html</link>
+</image>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Fri, 03 Jan 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>CUNY Baruch College Visiting Scholar Paperwork Guide</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/notes/cuny-baruch-visiting-scholar-paperwork-guide.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
+<section id="paperwork-flow" class="level2">
+<h2 class="anchored" data-anchor-id="paperwork-flow">Paperwork flow</h2>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  A[Conditional Invitation] --&gt; 
+  B(Appointment Letter) --&gt;
+  C{{DS-2019}} --&gt;
+  D{{Visa Application}}  --&gt;
+  E(Visiting Baruch)
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<section id="step-1-conditional-invitation" class="level3">
+<h3 class="anchored" data-anchor-id="step-1-conditional-invitation">Step 1: Conditional Invitation</h3>
+<p>To begin, you need to secure a conditional invitation letter from a faculty member who will support your scholarship application. The following documents are usually helpful:</p>
+<ul>
+<li>CV</li>
+<li>Research Plan</li>
+<li>English Proficiency Certificate</li>
+</ul>
+<p>Your potential host may schedule an interview to discuss your proposal and assess the possibilities.</p>
+</section>
+<section id="step-2-appointment-letter" class="level3">
+<h3 class="anchored" data-anchor-id="step-2-appointment-letter">Step 2: Appointment Letter</h3>
+<p>Once you receive the fellowship or scholarship certificate, forward it to your host faculty member. The certificate is useful for the department or school to issue an official invitation letter. You may ignore the first step if you were hired or support by your host faculty.</p>
+<ul>
+<li>The official letter, similar to the conditional invitation, will be signed by the Department Chair or Dean.</li>
+<li>This step formalizes your appointment and enables the next stages of paperwork.</li>
+</ul>
+</section>
+<section id="step-3-ds-2019-form" class="level3">
+<h3 class="anchored" data-anchor-id="step-3-ds-2019-form">Step 3: DS-2019 Form</h3>
+<p>The DS-2019 form involves several internal approval processes before the designated office can issue it. These include:</p>
+<ul>
+<li>Approvals from the Department Chair, Dean, and Provost<br>
+</li>
+<li>Export Control Clearance</li>
+</ul>
+<p>Overview of the Process from the Baruch College Export Control Clearance for J-1 Research Scholar</p>
+<blockquote class="blockquote">
+<p>To comply with the “<a href="https://www.cuny.edu/wp-content/uploads/sites/4/media-assets/CUNYIntStudentGuidelines-Fall24-03-06-24.pdf">Guidance on Onboarding J-1 Researchers and Scholars Exchange Visitors</a>” memorandum dated July 26, 2021 from Robert T. Maruca, CUNY Associate University Provost for Planning, and Tamera Schneider, CUNY Associate Vice Chancellor &amp; University Provost for Research, the Weissman Center for International Business has devised the following procedure for obtaining export control clearance for all prospective J-1 Research Scholars.*</p>
+<p>The process involves several steps.</p>
+<p>The process begins whenever a Baruch department or other College office (“Department”) receives an inquiry from someone requesting to be hosted as a prospective international J-1 Research Scholar (“Scholar”). If the Department decides it wishes to host this Scholar, these steps must be taken:</p>
+<p>Phase I: Departmental Preparation</p>
+<ol type="1">
+<li>The Department sends two forms to the Scholar:<br>
+</li>
+</ol>
+<ul>
+<li>Application for Prospective International J-1 Scholar</li>
+<li>CUNY J-1 Export-Control Questionnaire</li>
+</ul>
+<ol start="2" type="1">
+<li><p>The Scholar returns the completed and signed forms along with certified scanned copies of the required documentation, plus a current CV/Resume, to the Department.</p></li>
+<li><p>The Department completes and signs these two forms:<br>
+</p></li>
+</ol>
+<ul>
+<li>Baruch College Application to Host International J-1 Scholar<br>
+</li>
+<li>CUNY Foreign Influence due Diligence Form for J1-Visiting Scholar</li>
+</ul>
+<ol start="4" type="1">
+<li>The Department submits the following materials (completed and with all required signatures) to the SEVIS Responsible Officer (RO) for this J-1 program (currently Dr.&nbsp;Richard Mitten):</li>
+</ol>
+<ul>
+<li>Application for Prospective International J-1 Scholar and accompanying documentation (completed by Scholar)<br>
+</li>
+<li>CUNY J-1 Export-Control Questionnaire (completed by Scholar)<br>
+</li>
+<li>CV/Resume of the Scholar (completed by Scholar)<br>
+</li>
+<li>Baruch College Application to Host International J-1 Scholar with required signatures (completed by Department)<br>
+</li>
+<li>CUNY Foreign Influence due Diligence Form for J1-Visiting Scholar (completed by Department)</li>
+<li>An original official letter of invitation (completed by Department)</li>
+</ul>
+<p>Phase II: Preliminary Campus Review</p>
+<ol start="5" type="1">
+<li><p>The RO reviews documents and submits them to the Baruch College Provost for preliminary campus review.</p></li>
+<li><p>After consulting with the “appropriate stakeholders” (per CUNY regulations), the Provost returns the entire dossier to the SEVIS RO, recording the decision with a signature and date on page 2 of this form (Provisional Approval-Provost).</p></li>
+</ol>
+<p>Phase III: CUNY Screening</p>
+<ol start="7" type="1">
+<li><p>If the Provost approves the request to host the Scholar, the RO forwards the dossier to the CUNY Office of International Student and Scholar Services (“CUNY ISSS”) for “Visual Compliance Screening” (per CUNY regulations).</p></li>
+<li><p>After completing its screening, the CUNY ISSS returns the dossier to the RO with its findings.</p></li>
+<li><p>The RO forwards the dossier to the Provost for final campus review.</p></li>
+</ol>
+<p>Phase IV: Final Campus Review</p>
+<ol start="10" type="1">
+<li><p>The Provost approves, or withholds final approval to the request to host the Scholar, and conveys this decision, along with the dossier of documents, to the RO, recording the decision with a signature and date on Export Control Clearance Form for Prospective J-1 Research Scholar.</p></li>
+<li><p>If the Provost approves the request, the RO notifies the Department, issues the DS-2019 for the Scholar, and sends it and additional documentation needed to apply for a J-1 visa to the Scholar, with a copy to the Department.</p></li>
+</ol>
+<p>*Please note: The process for described below applies to any prospective J-1 Research Scholar only (Short-Term Scholars are processed by the International Student Service Center).</p>
+</blockquote>
+<p>Additional documents:</p>
+<p>Financial ability to cover the living expenses for J-1 exchange visitors &amp; J-2 dependents:</p>
+<ul>
+<li>J-1 exchange visitor $32,000/year; $2,700/month (research scholar, professor, short-term scholar &amp; student)<br>
+</li>
+<li>J-2 spouse $7,200/year; $600/month<br>
+</li>
+<li>J-2 child (under 21) $4,800/year per child; $400/month per child</li>
+</ul>
+<p>If the scholarship amount is less than the listed requirement, you may need to provide a bank certificate of personal savings to cover the difference.</p>
+<p>Minimum insurance coverage must provide:</p>
+<ol type="1">
+<li>Medical benefits of at least $100,000 per accident or illness;<br>
+</li>
+<li>Repatriation of remains in the amount of $25,000;<br>
+</li>
+<li>Expenses associated with the medical evacuation of exchange visitors to his or her home country in the amount of $50,000; and<br>
+</li>
+<li>Deductibles not to exceed $500 per accident or illness.</li>
+</ol>
+</section>
+<section id="step-4-visa-application" class="level3">
+<h3 class="anchored" data-anchor-id="step-4-visa-application">Step 4: Visa Application</h3>
+<p>Check the latest information from the U.S. Embassy website to understand the requirements and materials needed for your visa application. Make sure to complete this step promptly after receiving your DS-2019 form.</p>
+</section>
+<section id="step-5-visiting-baruch" class="level3">
+<h3 class="anchored" data-anchor-id="step-5-visiting-baruch">Step 5: Visiting Baruch</h3>
+<p>Once all paperwork is completed, you can prepare for your arrival at Baruch College in New York City! New York City is Your Classroom and Office!</p>
+</section>
+<section id="important-notes" class="level3">
+<h3 class="anchored" data-anchor-id="important-notes">Important Notes</h3>
+<ul>
+<li>Timeline</li>
+</ul>
+<p>The entire process may take several months, particularly if additional documentation is requested. Begin early and allow flexibility in your start date to accommodate any delays.</p>
+<ul>
+<li>Proactive Communication</li>
+</ul>
+<p>Keep in close contact with your host faculty and administrative offices to ensure you stay updated on requirements and approvals.</p>
+<ul>
+<li>Unofficial Guide</li>
+</ul>
+<p>This is an information page for your reference only. You should always follow the official guide to prepare your documents.</p>
+</section>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<ul>
+<li><p>Baruch Faculty <a href="https://www.baruch.cuny.edu/profiles">Profiles</a></p></li>
+<li><p>Study Abroad <a href="https://zicklin.baruch.cuny.edu/faculty-research/centers-institutes/weissman-center-international-business/study-abroad/faculty-staff-resources/">Office</a></p></li>
+<li><p>CUNY International Student &amp; Scholar Services (<a href="https://www.cuny.edu/academics/academic-programs/international-education/isss/">ISSS</a>)</p></li>
+<li><p>CUNY <a href="https://www.cuny.edu/research/research-compliance/export-control/">Export Control</a></p></li>
+</ul>
+<p>Created: Januaray 3, 2025</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>guide</category>
+  <guid>https://drganghe.github.io/notes/cuny-baruch-visiting-scholar-paperwork-guide.html</guid>
+  <pubDate>Fri, 03 Jan 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New York State Climate Policy Goals Clarified</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/notes/new-york-state-climate-policy.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
+<p>New York State is recognized as a climate leader, yet navigating its policies can be challenging without a deep understanding of the policymaking landscape. Here, I’ve aimed to link key policy goals with relevant legislation, agencies, and provide direct access to the original legislative text. I hope you find these resources helpful.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 80%">
+<col style="width: 6%">
+<col style="width: 13%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Key goals</th>
+<th>Bill</th>
+<th>Agency</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Emission reduction: 40%(2030) and 85%(2050) on 1990 level</td>
+<td>CLCPA</td>
+<td>All</td>
+</tr>
+<tr class="even">
+<td>Electricity: 70% renewable (2030); 100% zero emission (2040)</td>
+<td>CLCPA</td>
+<td>NYSERDA</td>
+</tr>
+<tr class="odd">
+<td>Capacity: 6GW Distributed PV(2025) <span class="emoji" data-emoji="ballot_box_with_check">☑️</span> ; 3GW ↑ 6GW storage(2030); 9GW offshore wind(2035)</td>
+<td>CLCPA</td>
+<td>NYSERDA</td>
+</tr>
+<tr class="even">
+<td>DAC: no less than 35% of benefits, target for 40%</td>
+<td>CLCPA</td>
+<td>NYSERDA</td>
+</tr>
+<tr class="odd">
+<td>ZEVs: 100% ZEV LDV sales(2035); 100% ZEV HDV sales(2045)</td>
+<td>ECL S2758</td>
+<td>NYDEC, NYSERDA, DMV</td>
+</tr>
+</tbody>
+</table>
+<p>Notes: ECL: Environmental Conservation Law; Emission reductin baseline: 1990 level; Renewable energy: solar thermal, PV, land and offshore wind, hydroelctric, geothermal electric, geothermal ground source heat, tidal energy, wave energy, ocean thermal, and fuel cells which do not utilize a fossil fuel resource in the process<sup>1</sup>; ZEV(zero emission vehicles): Battery Electric Vehicles, Fuel Cell Vehicles, Plug-in Hybrid Electric Vehicles (PHEV)<sup>2</sup>.</p>
+<p>Updates: Distributed PV: On October 17, 2024, Governor Kathy Hochul announced that 6 gigawatts (GW) of distributed solar have been installed across New York, a year ahead of schedule<sup>3</sup>. Storage: On June 20, 2024, the New York Public Service Commission approved the <a href="https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Programs/Energy-Storage/2024-06-6GW-Energy-Storage-Order.pdf"><em>Order Establishing Updated Energy Storage Goal and Deployment Policy</em></a> which expands the State’s goal to 6GW of energy storage to be installed by 2030<sup>4</sup>.</p>
+<section id="new-york-state-climate-leadership-and-community-protection-act" class="level2">
+<h2 class="anchored" data-anchor-id="new-york-state-climate-leadership-and-community-protection-act">New York State Climate Leadership and Community Protection Act</h2>
+<section id="ghg-emissions-goals" class="level3">
+<h3 class="anchored" data-anchor-id="ghg-emissions-goals">GHG emissions goals</h3>
+<ul>
+<li>2030: Reduce GHG by 40% below 1990 levels<br>
+</li>
+<li>2050: Reduce GHG by 85% below 1990 levels</li>
+</ul>
+<blockquote class="blockquote">
+§ 75-0107. Statewide greenhouse gas emissions limits.<br>
+1. No later than one year after the effective date of this article, the department shall, pursuant to rules and regulations promulgated after at least one public hearing, establish a statewide greenhouse gas emissions limit as a percentage of 1990 emissions, as estimated pursuant to section 75-0105 of this article, as follows:<br>
+a. 2030: 60% of 1990 emissions.<br>
+b. 2050: 15% of 1990 emissions.<br>
+2. Greenhouse gas emission limits shall be measured in units of carbon dioxide equivalents and identified for each individual type of green-house gas.
+</blockquote>
+</section>
+<section id="power-sector-and-renewable-goals" class="level3">
+<h3 class="anchored" data-anchor-id="power-sector-and-renewable-goals">Power sector and renewable goals</h3>
+<ul>
+<li>2030: Generate 70% of electricity from renewable energy sources<br>
+</li>
+<li>2040: Achieve 100% zero-emission electricity</li>
+</ul>
+<blockquote class="blockquote">
+§ 66-p.&nbsp;Establishment of a renewable energy program.<br>
+1. As used in this section:<br>
+(a) “jurisdictional load serving entity” means any entity subject to the jurisdiction of the commission that secures energy to serve the electrical energy requirements of end-use customers in New York state;<br>
+(b) “renewable energy systems” means systems that generate electricity or thermal energy through use of the following technologies: solar thermal, photovoltaics, on land and offshore wind, hydroelectric, geothermal electric, geothermal ground source heat, tidal energy, wave energy, ocean thermal, and fuel cells which do not utilize a fossil fuel resource in the process of generating electricity.<br>
+2. No later than June thirtieth, two thousand twenty-one, the commission shall establish a program to require that: (a) a minimum of seventy percent of the state wide electric generation secured by jurisdictional load serving entities to meet the electrical energy requirements of all end-use customers in New York state in two thousand thirty shall be generated by renewable energy systems; and (b) that by the year two thousand forty (collectively, the “targets”) the statewide electrical demand system will be zero emissions.
+</blockquote>
+<ul>
+<li><p>Technological specific goals:</p>
+<ul>
+<li>2025: Install 6 GW solar PV<br>
+</li>
+<li>2030: Install 3 GW energy storage<br>
+</li>
+<li>2035: Install 9 GW of offshore wind</li>
+</ul></li>
+</ul>
+<blockquote class="blockquote">
+<ol start="5" type="1">
+<li>No later than July first, two thousand twenty-four, the commission shall establish programs to require the procurement by the state’s load serving entities of at least nine gigawatts of offshore wind electricity generation by two thousand thirty-five and six gigawatts of photovoltaic solar generation by two thousand twenty-five, and to support three giga-watts of statewide energy storage capacity by two thousand thirty.</li>
+</ol>
+</blockquote>
+</section>
+<section id="what-also-in-the-bill" class="level3">
+<h3 class="anchored" data-anchor-id="what-also-in-the-bill">What also in the bill?</h3>
+<ul>
+<li>Establish the New York state climate action council (“council”)</li>
+<li>At least 35% of the benefits directed to disadvantaged communities with a goal to achieve 40%</li>
+</ul>
+<blockquote class="blockquote">
+75-0117. Investment of funds.<br>
+State agencies, authorities and entities, in consultation with the environmental justice working group and the climate action council, shall, to the extent practicable, invest or direct available and relevant programmatic resources in a manner designed to achieve a goal for disadvantaged communities to receive forty percent of overall benefits of spending on clean energy and energy efficiency programs, projects or investments in the areas of housing, workforce development, pollution reduction, low income energy assistance, energy, transportation and economic development, provided however, that disadvantaged communities shall receive no less than thirty-five percent of the overall benefits of spending on clean energy and energy efficiency programs, projects or investments and provided further that this section shall not alter funds already contracted or committed as of the effective date of this section.
+</blockquote>
+<p>Source Document: <a href="https://legislation.nysenate.gov/pdf/bills/2019/S6599">Senate Bill S6599</a></p>
+</section>
+</section>
+<section id="amendaments-to-envirnmental-coservation-law" class="level2">
+<h2 class="anchored" data-anchor-id="amendaments-to-envirnmental-coservation-law">Amendaments to Envirnmental Coservation Law</h2>
+<section id="ev-sales-goals" class="level3">
+<h3 class="anchored" data-anchor-id="ev-sales-goals">EV sales goals</h3>
+<ul>
+<li>2035: 100% new sale of passager cars and trucks shall be zero emission</li>
+<li>2045: 100% new sale of medium-duty and heavy-duty vehicles shall be zero emission</li>
+</ul>
+<blockquote class="blockquote">
+Section 1. The environmental conservation law is amended by adding a new section 19-0306-b to read as follows:<br>
+§ 19-0306-b. Zero-emissions cars and trucks.<br>
+1. It shall be a goal of the state that one hundred percent of new passenger cars and trucks offered for sale or lease, or sold, or leased, for registration in the state shall be zero-emissions by two thousand thirty-five. It shall be a further goal of the state that one hundred percent of medium-duty and heavy-duty vehicles offered for sale or lease, or sold, or leased, for registration in the state be zero-emissions by two thousand forty-five for all operations where feasible. It shall be further a goal of the state to transition to one hundred percent zero-emissions off-road vehicles and equipment by two thousand thirty-five where feasible.
+</blockquote>
+<p>Source Document: <a href="https://legislation.nysenate.gov/pdf/bills/2021/S2758">Senate Bill S2758</a></p>
+<p>Note: This is an ongoing policy issue, more updates are expected.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p><a href="https://www.nysenate.gov/legislation/bills/2019/S6599" class="uri">https://www.nysenate.gov/legislation/bills/2019/S6599</a>↩︎</p></li>
+<li id="fn2"><p><a href="https://dec.ny.gov/environmental-protection/air-quality/controlling-motor-vehicle-pollution/low-and-zero-emission-vehicles" class="uri">https://dec.ny.gov/environmental-protection/air-quality/controlling-motor-vehicle-pollution/low-and-zero-emission-vehicles</a>↩︎</p></li>
+<li id="fn3"><p><a href="https://www.nyserda.ny.gov/About/Newsroom/2024-Announcements/2024-10-17-Governor-Hochul-Announces-New-York-State-Has-Achieved-Major-Solar-Milestone" class="uri">https://www.nyserda.ny.gov/About/Newsroom/2024-Announcements/2024-10-17-Governor-Hochul-Announces-New-York-State-Has-Achieved-Major-Solar-Milestone</a>↩︎</p></li>
+<li id="fn4"><p><a href="https://www.nyserda.ny.gov/All-Programs/Energy-Storage-Program" class="uri">https://www.nyserda.ny.gov/All-Programs/Energy-Storage-Program</a>↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>policy</category>
+  <guid>https://drganghe.github.io/notes/new-york-state-climate-policy.html</guid>
+  <pubDate>Fri, 01 Nov 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Quarto Academic Website Examples and Tips</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-site-examples.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
+<section id="example-quarto-academic-websites-i-reference-occasionally" class="level2">
+<h2 class="anchored" data-anchor-id="example-quarto-academic-websites-i-reference-occasionally">Example Quarto academic websites I reference occasionally</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Web</th>
+<th>GitHub</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://quarto.org/" class="uri">https://quarto.org/</a></td>
+<td><a href="https://github.com/quarto-dev/quarto-web" class="uri">https://github.com/quarto-dev/quarto-web</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://www.andrewheiss.com/" class="uri">https://www.andrewheiss.com/</a></td>
+<td><a href="https://github.com/andrewheiss/ath-quarto" class="uri">https://github.com/andrewheiss/ath-quarto</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://www.jhelvy.com/" class="uri">https://www.jhelvy.com/</a></td>
+<td><a href="https://github.com/jhelvy/jhelvy_quarto" class="uri">https://github.com/jhelvy/jhelvy_quarto</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://faculty.washington.edu/masiello/" class="uri">https://faculty.washington.edu/masiello/</a></td>
+<td><a href="https://github.com/MasielloGroup/MasielloGroupWebsite" class="uri">https://github.com/MasielloGroup/MasielloGroupWebsite</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://affcom.ku.edu/" class="uri">https://affcom.ku.edu/</a></td>
+<td><a href="https://github.com/jmgirard/affcomlab" class="uri">https://github.com/jmgirard/affcomlab</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://silviacanelon.com/" class="uri">https://silviacanelon.com/</a></td>
+<td><a href="https://github.com/spcanelon/silvia" class="uri">https://github.com/spcanelon/silvia</a></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+</section>
+<section id="template-i-adapt-you-may-find-useful" class="level2">
+<h2 class="anchored" data-anchor-id="template-i-adapt-you-may-find-useful">Template I adapt you may find useful</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Template</th>
+<th>Web</th>
+<th>GitHub</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Academic</td>
+<td><a href="https://drganghe.github.io/quarto-academic-website-template/" class="uri">https://drganghe.github.io/quarto-academic-website-template/</a></td>
+<td><a href="https://github.com/drganghe/quarto-academic-website-template" class="uri">https://github.com/drganghe/quarto-academic-website-template</a></td>
+</tr>
+</tbody>
+</table>
+<section id="website-examples-of-the-template" class="level3">
+<h3 class="anchored" data-anchor-id="website-examples-of-the-template">Website examples of the template</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Web</th>
+<th>GitHub</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Personal</td>
+<td><a href="https://drganghe.github.io/" class="uri">https://drganghe.github.io/</a></td>
+<td><a href="https://github.com/drganghe/drganghe.github.io" class="uri">https://github.com/drganghe/drganghe.github.io</a></td>
+</tr>
+<tr class="even">
+<td>Lab/Group</td>
+<td><a href="https://deeppolicylab.github.io/" class="uri">https://deeppolicylab.github.io/</a></td>
+<td><a href="https://github.com/deeppolicylab/deeppolicylab.github.io" class="uri">https://github.com/deeppolicylab/deeppolicylab.github.io</a></td>
+</tr>
+<tr class="odd">
+<td>Class</td>
+<td><a href="https://drganghe.github.io/energy-climate-policy/" class="uri">https://drganghe.github.io/energy-climate-policy/</a></td>
+<td><a href="https://github.com/drganghe/energy-climate-policy" class="uri">https://github.com/drganghe/energy-climate-policy</a></td>
+</tr>
+<tr class="even">
+<td>Events</td>
+<td><a href="https://drganghe.github.io/climate-guest-speakers/" class="uri">https://drganghe.github.io/climate-guest-speakers/</a></td>
+<td><a href="https://github.com/drganghe/climate-guest-speakers" class="uri">https://github.com/drganghe/climate-guest-speakers</a></td>
+</tr>
+<tr class="odd">
+<td>Slides</td>
+<td><a href="https://drganghe.github.io/files/slides/solar-supply-chains-slides.html" class="uri">https://drganghe.github.io/files/slides/solar-supply-chains-slides.html</a></td>
+<td><a href="https://quarto.org/docs/presentations/revealjs/" class="uri">https://quarto.org/docs/presentations/revealjs/</a></td>
+</tr>
+<tr class="even">
+<td>Poster</td>
+<td><a href="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="uri">https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png</a></td>
+<td><a href="https://github.com/brentthorne/posterdown" class="uri">https://github.com/brentthorne/posterdown</a></td>
+</tr>
+</tbody>
+</table>
+<p>Note: If you’d like to use the template, please avoid forking my actual websites directly, as you will receive notifications whenever I update it. If you choose to do so, please be sure to remove my personal Google Analytics ID and MS Clarity ID from your site. Instead, I recommend forking the <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic website template</a> to build your own website.</p>
+</section>
+</section>
+<section id="useful-tips-for-building-an-academic-quarto-site" class="level2">
+<h2 class="anchored" data-anchor-id="useful-tips-for-building-an-academic-quarto-site">Useful tips for building an academic Quarto site</h2>
+<section id="using-includes-for-reusable-content" class="level3">
+<h3 class="anchored" data-anchor-id="using-includes-for-reusable-content">Using “Includes” for reusable content</h3>
+<p>To streamline updates across your site, use Quarto’s <a href="https://quarto.org/docs/authoring/includes.html">includes</a> feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.</p>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">{{include _statement.qmd}}</span></code></pre></div>
+<p>Prefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.</p>
+<p>Here is an example course <a href="https://github.com/drganghe/energy-climate-policy/blob/main/files/includes/_coursedescription.qmd">description</a>, and reuse it in <a href="https://github.com/drganghe/energy-climate-policy/blob/main/index.qmd">mainpage</a> and <a href="https://github.com/drganghe/energy-climate-policy/blob/main/syllabus.qmd">syllabus</a>.</p>
+</section>
+<section id="academic-badges" class="level3">
+<h3 class="anchored" data-anchor-id="academic-badges">Academic badges</h3>
+<p>Display academic badges like the <a href="https://badges.dimensions.ai/">Dimension Citation badge</a> and <a href="https://badge-docs.altmetric.com/getting-started.html">Altmetric badge</a>.</p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<p>Here’s an example for embedding them:</p>
+<div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-overflow-wrap code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">&lt;span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"&gt;&lt;/span&gt; &lt;div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"&gt;&lt;/div&gt;</span></code></pre></div>
+<p>Replace the doi with your own.</p>
+<p>Make sure to include below scripts in the same page to enable the badges:</p>
+<div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1">&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;</span>
+<span id="cb3-2"></span>
+<span id="cb3-3">&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"&gt;&lt;/script&gt;</span></code></pre></div>
+<p>You can also showcase your highly cited and hot papers using custom badges.</p>
+<p><img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> <img src="https://drganghe.github.io/files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"></p>
+<div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><span class="al" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper")</span>{width=20 fig-alt="Highly cited paper"} <span class="al" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper")</span>{width=20 fig-alt="Hot paper"}</span></code></pre></div>
+<p>Here is an <a href="https://drganghe.github.io/publications.html">example</a>, and the <a href="https://github.com/drganghe/drganghe.github.io/blob/main/publications.qmd">source code</a>.</p>
+</section>
+<section id="social-sharing" class="level3">
+<h3 class="anchored" data-anchor-id="social-sharing">Social sharing</h3>
+<p>For easy setup of social sharing buttons, <a href="https://www.addtoany.com/buttons/for/website">AddToAny</a> is a simple solution.</p>
+<p>Using includes files here will make it easier to manage updates, as any changes to social buttons need only be made once.</p>
+<p>Here is an <a href="https://github.com/drganghe/drganghe.github.io/blob/main/files/includes/_socialshare.qmd">example</a>.</p>
+</section>
+<section id="the-art-of-listing" class="level3">
+<h3 class="anchored" data-anchor-id="the-art-of-listing">The art of listing</h3>
+<p><a href="https://quarto.org/docs/websites/website-listings.html">Listings</a> are a powerful tool in Quarto, offering flexibility for creating visually appealing and organized pages. By adjusting listing options, you can control how content is presented.</p>
+<p>Type: <code>default</code>, <code>grid</code>, <code>table</code></p>
+<p>Options: <code>grid-columns</code>, <code>image-height</code>, <code>grid-item-align</code></p>
+<p>Display: <code>fields</code> and <code>field-display-names</code></p>
+<p>By mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.</p>
+<p>Here is an <a href="https://deeppolicylab.github.io/research.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research.qmd">source code</a>; another <a href="https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.qmd">source code</a>.</p>
+</section>
+<section id="listing-specific-categories" class="level3">
+<h3 class="anchored" data-anchor-id="listing-specific-categories">Listing specific categories</h3>
+<p>To display a subset of items, use the <code>include</code> and <code>exclude</code> <a href="https://quarto.org/docs/websites/website-listings.html#including-or-excluding-items">options</a>. Below is an example of listing publications by category:</p>
+<div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb5-1"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">  </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">content</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span></span>
+<span id="cb5-2"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">-</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> publications.yml</span></span>
+<span id="cb5-3"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">  </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">include</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span></span>
+<span id="cb5-4"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">categories</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"supply-chain"</span></span></code></pre></div>
+<p>Here, <code>publications.yml</code> is a YAML file containing a list of publications with predfined <code>categories</code>, and <code>categories</code> is the key used for filtering. The result will display only publications that match the specified category.</p>
+<p>Here is an <a href="https://deeppolicylab.github.io/research/clean-energy-supply-chains/index.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research/clean-energy-supply-chains/index.qmd">source code</a>.</p>
+</section>
+<section id="listing-external-items" class="level3">
+<h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
+<p>To list external resources with key metadata, you can use this format to create clear, linked listings.</p>
+<div class="sourceCode" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb6-1"><span class="in" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">    - path: https://www.nature.com/articles/s41586-022-05316-6</span></span>
+<span id="cb6-2"><span class="in" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">      image: /files/images/journal/nature.avif</span></span>
+<span id="cb6-3"><span class="in" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">      title: "Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
+<span id="cb6-4"><span class="in" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">      subtitle: "*Nature*"</span></span>
+<span id="cb6-5"><span class="in" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">      description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
+<span id="cb6-6"><span class="in" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">      date: "2022-10-26"</span></span></code></pre></div>
+<p>For efficiency, store multiple items in a YAML(.yml) file and reference it in Quarto.</p>
+<p>Here is an <a href="https://deeppolicylab.github.io/publications.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd">source code</a>.</p>
+</section>
+<section id="exporting-quarto-revealjs-slides-to-pdf" class="level3">
+<h3 class="anchored" data-anchor-id="exporting-quarto-revealjs-slides-to-pdf">Exporting Quarto Revealjs slides to PDF</h3>
+<p>Revealjs’s default <a href="https://revealjs.com/pdf-export/">PDF Export</a> omits footnotes, which is not acceptable if citations and sources are used. A workaround is to use <a href="https://github.com/astefanutti/decktape">decktape</a>:</p>
+<div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">decktape</span> automatic lecture1.html lecture1.pdf</span></code></pre></div>
+<p>If you encounter font error when opening the PDF:</p>
+<blockquote class="blockquote">
+<p>Cannot extract the embedded font ‘BAAAAA+SourceSansPro-Regular’. Some characters may not display or print correctly.”</p>
+</blockquote>
+<p>Use Adobe Acrobat tools to fix it:</p>
+<ol type="1">
+<li>Open the PDF in Adobe Acrobat.</li>
+<li>Go to <code>Use print production</code> &gt; <code>Preflight</code>.</li>
+<li>Apply the necessary font correction.</li>
+</ol>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>tool</category>
+  <guid>https://drganghe.github.io/quarto-academic-site-examples.html</guid>
+  <pubDate>Tue, 15 Oct 2024 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

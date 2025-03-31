@@ -1,0 +1,107 @@
+---
+title: "Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System"
+subtitle: "*Nature Communications*"
+description: "A renewable dominant pathway is not just technogical sound, but also cost effective."
+author: 
+  - name: Gang He
+  - name: Jiang Lin
+  - name: Froylan Sifuentes
+  - name: Xu Liu
+  - name: Nikit Abhyankar
+  - name: Amol Phadke
+date: "2020-05-15"
+categories: [paper]
+image: "featured.png"
+citation:
+  type: article-journal
+  container-title: "Nature Communications"
+  volume: 11
+  issue: 1
+  page: 2486
+#  page-first: 2486
+  doi: "10.1038/s41467-020-16184-x"
+  url: https://www.nature.com/articles/s41467-020-16184-x
+bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+#include-in-header: 
+#  - canonical.html
+---
+
+::: {.callout-note}
+## Paper
+Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System   
+**Gang He**\*, Jiang Lin\*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke\*    
+*Nature Communications* (2020)   
+DOI: [10.1038/s41467-020-16184-x](https://doi.org/10.1038/s41467-020-16184-x)
+:::
+
+## Abstract
+
+The costs for solar photovoltaics, wind, and battery storage have dropped markedly since 2010, however, many recent studies and reports around the world have not adequately captured such dramatic decrease. Those costs are projected to decline further in the near future, bringing new prospects for the widespread penetration of renewables and extensive power-sector decarbonization that previous policy discussions did not fully consider. Here we show if cost trends for renewables continue, 62% of China’s electricity could come from non-fossil sources by 2030 at a cost that is 11% lower than achieved through a business-as-usual approach. Further, China’s power sector could cut half of its 2015 carbon emissions at a cost about 6% lower compared to business-as-usual conditions.
+
+## Links
+
+Published [paper](https://www.nature.com/articles/s41467-020-16184-x)
+
+Paper [summary](/posts/2020-06-ncomms-paper-summary/index.qmd)
+
+Open access [pdf](https://www.nature.com/articles/s41467-020-16184-x.pdf)
+
+[Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-020-16184-x/MediaObjects/41467_2020_16184_MOESM1_ESM.pdf)
+
+[SBU News](https://news.stonybrook.edu/newsroom/study-shows-decrease-in-renewable-energy-costs-may-serve-as-an-accelerator-for-clean-energy-expansion/)
+
+[_Nature_ News](/posts/2020-10-nature-news-carbon-neutrality/index.qmd)
+
+Notable policy citations:  
+
+{{< include /files/includes/policycitations/_naturecomms2020.qmd >}}
+
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-020-16184-x" data-hide-zero-citations="true" data-style="small_circle"></span> 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-020-16184-x"></div>
+
+
+## Twitter Thread
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’d like to share my new paper <a href="https://twitter.com/CEASSBU?ref_src=twsrc%5Etfw">@CEASSBU</a> <a href="https://twitter.com/stonybrooku?ref_src=twsrc%5Etfw">@stonybrooku</a> with colleagues <a href="https://twitter.com/BerkeleyLab?ref_src=twsrc%5Etfw">@BerkeleyLab</a> in <a href="https://twitter.com/NatureComms?ref_src=twsrc%5Etfw">@NatureComms</a> .<br><br>Title: “Rapid cost decrease of renewables and storage accelerates the decarbonization of China’s power system”.<br><br>Paper: <a href="https://t.co/ztHzSw572S">https://t.co/ztHzSw572S</a><br><br>PDF: <a href="https://t.co/MwTB27EicM">https://t.co/MwTB27EicM</a> <a href="https://t.co/DFihF3BmD5">pic.twitter.com/DFihF3BmD5</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1266101281472622603?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+## SBU Press Release
+
+>### [Study Shows Decrease in Renewable Energy Costs May Serve as an Accelerator for Clean Energy Expansion](https://news.stonybrook.edu/newsroom/study-shows-decrease-in-renewable-energy-costs-may-serve-as-an-accelerator-for-clean-energy-expansion/)
+>
+>June 1, 2020
+>
+>The News in Brief:
+>
+>- This study is the first to reveal the implications of cost decrease on power systems and new perspectives on clean power transition.
+>- The analysis uses China’s power system as a case study to demonstrate the impact of a fast cost decrease of renewable and storage source, a scenario that could apply to the United States.
+>- The study reveals fast decarbonization is both technically feasible and economically beneficial, which offers the prospect of large emissions mitigation with a global environmental impact.
+>
+>STONY BROOK, NY, June 1, 2020 – The costs for solar photovoltaics, wind, and battery storage have dropped markedly since 2010. A new study led by Stony Brook University and Lawrence Berkeley National Laboratory analyses the cost of renewable energy in China and reveals that costs are projected to decline further, thereby bringing new possibilities for the widespread penetration of renewable energy and extensive power-sector decarbonization. The findings, published in Nature Communications, may serve as a model for the United States and worldwide illustrating that decreases in renewable costs may help drive clean energy growth.
+>
+>Previous studies and reports globally have not adequately captured the dramatic decrease in costs of renewable energy and storage and therefore have underestimated the development of renewables. The authors contend that incorporating the new downward trend in costs of renewable energy into models is invaluable for modeling scenarios that are required for developing appropriate energy policies in countries.
+>
+>“For too long relying on variable wind and solar resources for electricity generation has been considered a challenge to system operations and as having no economic advantage,” said Gang He, Assistant Professor in the Department of Technology and Society in the College of Engineering and Applied Sciences at Stony Brook University.
+>
+>“Now rapid technological developments and falling costs in renewable energy and storage are undermining this assumption. Our paper is an effort to reveal the implications of such changes for China’s clean power transition.”
+>
+>Global weighted-average cost of electricity of utility-scale solar PV, onshore wind, and battery storage in China plummeted by 77, 35, and 85 percent, respectively, between 2010 and 2018. The researchers incorporated these falling costs into models for the development of China’s power sector, a factor often overlooked in power sector modelling.
+>
+>The modelling showed four scenarios for China’s power sector up to 2030, the business as usual approach, low cost renewable use, carbon constraints, and deep carbon constraints. Their findings with the models revealed that if cost trends continue, 62 percent of China’s electricity would come from non-fossil sources by 2030 at a cost that is 11 percent lower than achieved through a business-as-usual approach.
+>
+>The authors emphasize that expansion of renewables under the low-cost scenario would require significant infrastructure support in the form of transmission lines and storage capacity to allow grid stability.
+>
+>“The large-scale decarbonization of the power sector requires that several processes take place simultaneously,” explains Dr. He. “Both the renewable and storage capacity and transmission infrastructure must be scaled up quickly. The investment needed for the infrastructure transformation must be acquired and dedicated. And social and economic equity must be addressed during the transition to lower carbon power systems.”
+>
+>If such processes can be achieved simultaneously, added Dr. He, China will be able to increase renewables in an increasingly cost-effective manner. Such a model may show that fast decarbonization is both technically feasible and economically beneficial, a scenario that offers the prospect of large emissions mitigation with a global environmental impact.
+>
+>The research was supported by the Energy Foundation China, and the Hewlett and MJS Foundation through the U.S. Department of Energy under Contract Number No. DE-AC02-05CH11231.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

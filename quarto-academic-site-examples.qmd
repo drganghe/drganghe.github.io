@@ -1,0 +1,174 @@
+---
+title: "Quarto Academic Website Examples and Tips"
+description-meta: "Quarto academic site examples; Quarto website examples; Quarto website templates; Quarto academic websites; site, class, poster, slides templates; tips of building an academic website."
+author: "Gang He"
+date: "2024-10-15"
+categories: [tool]
+title-block-banner: false
+page-layout: full
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+## Example Quarto academic websites I reference occasionally
+
+| Web                                        | GitHub                                                  |
+| ------------------------------------------ | ------------------------------------------------------- |
+| <https://quarto.org/>                      | <https://github.com/quarto-dev/quarto-web>              |
+| <https://www.andrewheiss.com/>             | <https://github.com/andrewheiss/ath-quarto>             |
+| <https://www.jhelvy.com/>                  | <https://github.com/jhelvy/jhelvy_quarto>               |
+| <https://faculty.washington.edu/masiello/> | <https://github.com/MasielloGroup/MasielloGroupWebsite> |
+| <https://affcom.ku.edu/>                   | <https://github.com/jmgirard/affcomlab>                 |
+| <https://silviacanelon.com/>               | <https://github.com/spcanelon/silvia>                   |
+
+<br>
+
+
+## Template I adapt you may find useful
+
+| Template | Web                           | GitHub                                           |
+| -------- | ----------------------------- | ------------------------------------------------ |
+| Academic | <https://drganghe.github.io/quarto-academic-website-template/> | <https://github.com/drganghe/quarto-academic-website-template> |
+
+### Website examples of the template
+
+| Type      | Web                                                                              | GitHub                                                     |
+| --------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Personal  | <https://drganghe.github.io/>                                                    | <https://github.com/drganghe/drganghe.github.io>           |
+| Lab/Group | <https://deeppolicylab.github.io/>                                               | <https://github.com/deeppolicylab/deeppolicylab.github.io> |
+| Class     | <https://drganghe.github.io/energy-climate-policy/>                              | <https://github.com/drganghe/energy-climate-policy>        |
+| Events    | <https://drganghe.github.io/climate-guest-speakers/>                             | <https://github.com/drganghe/climate-guest-speakers>       |
+| Slides    | <https://drganghe.github.io/files/slides/solar-supply-chains-slides.html>        | <https://quarto.org/docs/presentations/revealjs/>          |
+| Poster    | <https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png> | <https://github.com/brentthorne/posterdown>                |
+
+Note: If you’d like to use the template, please avoid forking my actual websites directly, as you will receive notifications whenever I update it. If you choose to do so, please be sure to remove my personal Google Analytics ID and MS Clarity ID from your site. Instead, I recommend forking the [Quarto Academic website template](https://github.com/drganghe/quarto-academic-website-template) to build your own website.
+
+
+## Useful tips for building an academic Quarto site
+
+### Using "Includes" for reusable content
+
+To streamline updates across your site, use Quarto's [includes](https://quarto.org/docs/authoring/includes.html) feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.
+
+``` markdown
+{{include _statement.qmd}}
+```
+
+Prefixing include file names with an underscore ("_") ensures they won't be rendered directly by Quarto. 
+
+Here is an example course [description](https://github.com/drganghe/energy-climate-policy/blob/main/files/includes/_coursedescription.qmd), and reuse it in [mainpage](https://github.com/drganghe/energy-climate-policy/blob/main/index.qmd) and [syllabus](https://github.com/drganghe/energy-climate-policy/blob/main/syllabus.qmd).
+
+
+### Academic badges
+
+Display academic badges like the [Dimension Citation badge](https://badges.dimensions.ai/) and [Altmetric badge](https://badge-docs.altmetric.com/getting-started.html). 
+
+```{=html}
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+```
+
+Here's an example for embedding them:
+
+``` markdown{.code-overflow-wrap}
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+```
+Replace the doi with your own.
+
+Make sure to include below scripts in the same page to enable the badges:
+
+```markdown
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
+
+You can also showcase your highly cited and hot papers using custom badges.
+
+![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"}
+
+```markdown
+![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"}
+```
+
+Here is an [example](https://drganghe.github.io/publications.html), and the [source code](https://github.com/drganghe/drganghe.github.io/blob/main/publications.qmd).
+
+
+### Social sharing
+
+For easy setup of social sharing buttons, [AddToAny](https://www.addtoany.com/buttons/for/website) is a simple solution. 
+
+Using includes files here will make it easier to manage updates, as any changes to social buttons need only be made once.
+
+Here is an [example](https://github.com/drganghe/drganghe.github.io/blob/main/files/includes/_socialshare.qmd).
+
+
+### The art of listing
+
+[Listings](https://quarto.org/docs/websites/website-listings.html) are a powerful tool in Quarto, offering flexibility for creating visually appealing and organized pages. By adjusting listing options, you can control how content is presented.
+
+Type: `default`, `grid`, `table`
+
+Options: `grid-columns`, `image-height`, `grid-item-align`
+
+Display: `fields` and `field-display-names`
+
+By mastering these options, you can easily create pages that fit your content needs while maintaining a clean, user-friendly design.
+
+Here is an [example](https://deeppolicylab.github.io/research.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research.qmd); another [example](https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.qmd).
+
+### Listing specific categories
+
+To display a subset of items, use the `include` and `exclude` [options](https://quarto.org/docs/websites/website-listings.html#including-or-excluding-items). Below is an example of listing publications by category:
+
+```yaml
+  content:
+    - publications.yml
+  include:
+    categories: "supply-chain"
+```
+Here, `publications.yml` is a YAML file containing a list of publications with predfined `categories`, and `categories` is the key used for filtering. The result will display only publications that match the specified category.
+
+Here is an [example](https://deeppolicylab.github.io/research/clean-energy-supply-chains/index.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research/clean-energy-supply-chains/index.qmd).
+
+
+### Listing external items
+
+To list external resources with key metadata, you can use this format to create clear, linked listings.
+
+```markdown
+    - path: https://www.nature.com/articles/s41586-022-05316-6
+      image: /files/images/journal/nature.avif
+      title: "Quantifying the cost savings of global solar photovoltaic supply chains"
+      subtitle: "*Nature*"
+      description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."
+      date: "2022-10-26"
+```
+
+For efficiency, store multiple items in a YAML(.yml) file and reference it in Quarto.
+
+Here is an [example](https://deeppolicylab.github.io/publications.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd).
+
+
+### Exporting Quarto Revealjs slides to PDF
+
+Revealjs's default [PDF Export](https://revealjs.com/pdf-export/) omits footnotes, which is not acceptable if citations and sources are used. A workaround is to use [decktape](https://github.com/astefanutti/decktape): 
+
+```bash
+decktape automatic lecture1.html lecture1.pdf
+```
+
+If you encounter font error when opening the PDF:
+
+>Cannot extract the embedded font 'BAAAAA+SourceSansPro-Regular'. Some characters may not display or print correctly." 
+
+Use Adobe Acrobat tools to fix it:
+
+1. Open the PDF in Adobe Acrobat. 
+2. Go to `Use print production` > `Preflight`. 
+3. Apply the necessary font correction. 
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,73 @@
+---
+title: "U.S.-China Working Group on Enhancing Climate Action in the 2020s"
+description: "Gang is invited to serve as an external expert in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s"
+author: "Gang He"
+date: "2024-06-24"
+categories: [news, outreach]
+image: "/files/images/handshake-sculpture.JPG"
+css: /custom.css
+#draft: true
+
+listing:
+  - id: uschina
+    contents: 
+        - "../2023-11-switch-china-open-model/index.qmd"
+        - "../2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd"
+        - "../2020-05-ncomms-rapid-re-cost/index.qmd"
+        - "../2021-12-jcp-power-water-carbon/index.qmd"
+    type: grid
+    max-items: 4
+    grid-columns: 2
+    page-size: 0 #set as 0 will remove the page setting
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+![Sculpture "Peace" near the Capitol Mall of Sacramento, California. Created by Stephen J. Kaltenbach. Photoed by Gang He.](/files/images/handshake-sculpture.JPG)
+
+## Summary
+
+I have been invited to serve as an external expert in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s, which is co-led by Senior Advisor to the President for International Climate Policy John Podesta and China's Special Envoy for Climate Change Liu Zhenmin and includes relevant officials from the two countries.
+
+As part of this sub-working group, I’ll be collaborating with experts from both the U.S. and China to conduct analysis on ensuring resource adequacy while rapidly integrating low and zero-emission energy sources to aid in the electricity sector transition. We will be meeting periodically to exchange analytical approaches, share preliminary results, and strive to reach a consensus where possible. We will present our findings to the subgroup.
+
+I’m looking forward to contributing to this important initiative.
+
+
+## Highlighted relevant work
+
+:::{#uschina}
+:::
+
+<p align="right">[Other papers »](/posts.qmd#category=paper)</p>
+
+
+## Previous efforts in U.S.-China collaboration on energy and climate
+
+Central to my research ethos is the belief in the power of collaboration to enable transformative change. As the world’s top carbon emitters, China and the U.S. stand at the forefront of the climate challenge. Leveraging my engagement with the Asia Society, I’ve contributed to fostering dialogue to promote cooperation between these two nations, evidenced in a series of reports: 
+
+- “[Common Challenge, Collaborative Response: A Roadmap for U.S.-China Cooperation on Energy and Climate Change](https://asiasociety.org/center-us-china-relations/common-challenge-collaborative-response-roadmap-us-china-cooperation-energy-and-climate-change)” [@asia_society_common_2009]   
+- “[A Roadmap for U.S.-China Collaboration on Carbon Capture and Sequestration](https://asiasociety.org/center-us-china-relations/roadmap-us-china-collaboration-carbon-capture-and-sequestration)” [@asia_society_roadmap_2009]  
+-  “[A Vital Partnership: California and China Collaborating on Clean Energy and Combating Climate Change](https://asiasociety.org/center-us-china-relations/vital-partnership-california-and-china-collaborating-clean-energy-and-comb)” [@asia_society_vital_2014]   
+
+I served as a student volunteer for the first report, then as a consulting expert for the second report, and as a contributing author for the third report. Those reports mark the enormous efforts to bring the two nations to work together, while also reflecting the growth of my career.
+
+
+## Learn more
+
+>The two sides intend to establish a “Working Group on Enhancing Climate Action in the 2020s,” which will meet regularly to address the climate crisis and advance the multilateral process, focusing on enhancing concrete actions in this decade. This may include, inter alia, continued policy and technical exchanges, identification of programs and projects in areas of mutual interest, meetings of governmental and non-governmental experts, facilitating participation by local governments, enterprises, think tanks, academics, and other experts, exchanging updates on their respective national efforts, considering the need for additional efforts, and reviewing the implementation of the Joint Statement and this Joint Declaration.
+
+[U.S.-China Joint Glasgow Declaration on Enhancing Climate Action in the 2020s](https://www.state.gov/u-s-china-joint-glasgow-declaration-on-enhancing-climate-action-in-the-2020s/), November 10, 2021.
+
+
+### References
+
+::: {#refs}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

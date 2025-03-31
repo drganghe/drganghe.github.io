@@ -1,0 +1,41 @@
+---
+title: "Achieving power sector carbon neutrality in a low-cost renewable era"
+description: "Gang shares research at Harvard Growth Lab Research Seminar."
+author: "Growth Lab"
+date: "2022-03-14"
+categories: [event, video, presentation]
+image: "featured.png"
+---
+
+## Summary  
+
+In the [Harvard Growth Lab Research Seminar](https://growthlab.cid.harvard.edu/event/research-seminar-achieving-power-sector-carbon-neutrality-low-cost-renewable-era) on March 14, 2022, Gang discussed the pathways of clean power transition and their system impacts using high-resolution models, to reflect the need for integrating variable renewable energy and phasing out coal to achieve carbon neutrality in the power sector at a low-cost renewables era.
+
+## Speaker  
+
+Gang He, Assistant Professor in the Department of Technology and Society at Stony Brook University
+
+
+## Abstract   
+
+Clean power transition is at the center to achieve mid-century carbon neutrality goals. The cost of solar and wind has plummeted in the past decade, and solar and wind electricity has been achieving grid parity. Low-cost renewables offer new perspectives for energy system decarbonization that was less visioned before. In this talk, Dr. He will discuss the pathways of clean power transition and their system impacts using high-resolution models, to reflect the need for integrating variable renewable energy and phasing out coal to achieve carbon neutrality in the power sector at a low-cost renewables era.
+
+## Video
+
+{{< video https://www.youtube.com/embed/Y-u5hqfcSyQ >}}
+
+This is a recorded video on the same topic for [INFORMS 2022](https://www.abstractsonline.com/pp8/?__hstc=194041586.8524a11c1c5f954b7845956fbd83f9c6.1672599062893.1672599062893.1672599062893.1&__hssc=194041586.1.1672599062893&__hsfp=1998772865&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/presentation/6340).
+
+
+## Discussed papers  
+
+- He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “[Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System](/posts/2020-05-ncomms-rapid-re-cost/index.qmd).” *Nature Communications* 11 (1): 2486. <https://doi.org/10.1038/s41467-020-16184-x>.
+
+- Zhang, Chao, Gang He, Josiah Johnston, and Lijin Zhong. 2021. “[Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint](/posts/2021-12-jcp-power-water-carbon/index.qmd).” *Journal of Cleaner Production* 329: 129765. <https://doi.org/10.1016/j.jclepro.2021.129765>.
+
+- He, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. “[Enabling a Rapid and Just Transition Away from Coal in China](/posts/2020-08-oneearth-coal-just-transition/index.qmd).” *One Earth* 3 (2): 187–94. <https://doi.org/10.1016/j.oneear.2020.07.012>.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+

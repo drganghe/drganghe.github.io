@@ -1,0 +1,61 @@
+---
+title: "Now"
+subtitle: "What I'm up to"
+title-block-banner: false
+---
+
+<!--This is my personal clarity, please delete or replace with your clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+A few things keep me busy these days:
+
+## Kids
+
+- Raising 2 young kids and spending 12 hours a day with them when their school is closed
+
+## Research 
+
+::: {.callout-tip}
+
+## Big picture question
+
+How can we achieve carbon neutrality by mid-century to address climate change?   
+How to make the clean energy transition more:
+
+- Sustainable (energy and environment)
+- Resilient (energy and climate) 
+- Equitable (energy and justice) 
+
+:::
+
+- Working with California China Climate Institute to study clean energy supply chains and power system resources adequency   
+- Working with Baruch colleagues on Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities  
+- Working on the climate, air pollution, and human health effect of imported solar PV supported by the ClimateWorks Foundation  
+- Collaborating with LBL on power system decarbonization  
+
+
+### Welcome collaborations on
+
+- Clean energy global supply chain
+- Power system decarbonization modeling
+- Climate impact on energy systems
+- Just energy transition
+- Energy-water-carbon nexus  
+- Other interdisciplinary aspects of carbon neutrality 
+
+
+## Teaching
+
+
+Fall Semester: 
+
+- PAF 9199 [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy) 
+
+Spring Semester:
+
+- PAF 4199 [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society) 
+- PAF 9174 [Program Evaluation](https://drganghe.github.io/program-evaluation) 
+
+I’m seeking guest speakers who are passionate about sharing their experiences and inspiring next generation of climate leaders:
+
+- [Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/about.html)

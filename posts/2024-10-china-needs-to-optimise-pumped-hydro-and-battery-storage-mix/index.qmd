@@ -1,0 +1,66 @@
+---
+title: "China needs to optimise pumped hydro and battery storage mix"
+description: "Optimising existing pumped hydro installations, and accelerating battery storage buildout, is the most cost-effective approach, write three experts."
+author: 
+  - name: Liqun Peng
+  - name: Jiang Lin
+  - name: Gang He
+date: "2024-10-28"
+categories: [commentary]
+image: "featured.jpg"
+fig-cap-location: bottom
+---
+
+Pumped storage hydropower supports China’s transition to renewable energy by generating electricity when the sun is not shining nor the wind blowing.
+
+A pumped hydro facility pumps water uphill into a reservoir when electricity demand and prices are low, usually at night, then releases it back downhill through turbines to generate electricity when demand and prices are high.
+
+The cost of building pumped hydro is high, but a facility lasts for around 60 years, meaning the full life-cycle cost of its power is relatively low. This reliable method for energy storage has witnessed tremendous growth in recent years, linked to the rolling out of China’s carbon emission goals. Between 2015, the year China adopted the Paris Agreement, and 2023, pumped hydro’s installed capacity more than doubled, from 22.8 gigawatts (GW) to 51 GW. 
+
+China wants to increase this to over 62 GW by 2025, and around 120 GW by 2030, according to a plan released by the National Energy Administration (NEA) in 2021. There is currently 167 GW of pumped hydro in planning or under construction. 
+
+However, our recent [study](https://international.lbl.gov/publications/role-pumped-hydro-storage-china-s){.external target="_blank"} indicates that simply building more pumped hydro might not be the most cost-effective approach to achieve a zero-carbon power system. 
+
+Instead, to ensure grid stability and best support the transition to carbon neutrality, existing pumped hydro systems should be optimised while the more economical option of battery storage is widely deployed.
+
+## Pumped hydro versus batteries
+
+China’s solar and wind installed capacity has been increasing dramatically, from 120 GW in 2012 to over 1,200 GW in 2024, NEA figures show. This presents challenges to power system reliability given the variable nature of those energy sources. Technologies like pumped hydro and batteries, which store large amounts of energy, are essential in balancing the grid and increasing the power system’s flexibility.
+
+Though pumped hydro has a longer operational lifespan and a lower cost per kilowatt-hour, battery storage is more suitable for widespread application due to its faster construction time (less than six months) compared to pumped hydro (4-5 years), and the fact it doesn’t need specific topography or water availability.
+
+Pumped hydro is cost-effective and efficient for large-scale, long-duration storage, while batteries offer greater flexibility and quicker response times. The two technologies can therefore play complementary roles. As of the end of 2023, China had 86 GW of energy storage in place, with pumped storage accounting for 59.3% and battery storage 40.6%.
+
+As battery costs have been dropping significantly, there has been a boom in the adoption of battery energy storage, leading to a significant uptick in new projects.
+
+## The falling price of batteries may leave pumped hydro behind
+
+We wanted to examine the role of pumped hydro in China’s power system and consider its optimum capacity in 2025 to 2050. To do so we used open-source software called GridPath to build a detailed model of China’s electricity system, including hourly provincial loads, interprovincial transmission constraints, regional wind and solar profiles, and cost projections for renewables and energy storage.
+
+Our findings indicate the NEA’s target for 120 GW of pumped hydro by 2030 will be sufficient to balance variable renewable resources. Meanwhile, the cost of batteries, especially those with a four-hour capacity, will continue to decline and be competitive.
+
+The study therefore shows that from 2025 to 2050, battery-storage capacity could skyrocket from 21 GW to 858 GW. This positions battery storage as a more cost-effective approach to managing the variability of renewable-energy sources and meeting increasing energy demands in the longer term.
+
+## The path forward for pumped hydro in China
+
+China has set ambitious targets to expand pumped hydro as part of its strategy to transition to a clean power system, introducing various supportive policies. For example, several provinces, such as Inner Mongolia, Beijing, and Shandong, have exempted pumped hydro storage from the water resource tax. 
+
+At the central government level, the National Development and Reform Commission last year introduced a fixed payment for pumped hydro operators based on the capacity of their installations. These “capacity payments” are designed to help operators achieve reasonable returns.
+
+Under the current policies and goals in China, optimising pumped hydro projects has become increasingly important. Our analysis produced the following key findings and recommendations that might provide insight as China refines its pumped hydro strategy.
+
+Firstly, pumped hydro development policies and targets should be integrated in the overall planning of China’s electricity system. Currently, energy storage technologies including pumped hydro are not adequately examined in power system planning. Pumped hydro should be compared systematically with other storage options, generation technologies, and transmission solutions to find the appropriate scale and locations. If not, over-built or mismatched pumped hydro projects could increase power system costs and consumer electricity bills.
+
+Re-evaluating pricing is also important. The current pricing mechanism for pumped hydro, set by authorities based on investment costs, needs refinement as it could potentially lead to cost over-run and over-investment in projects, which could then raise electricity prices unnecessarily. Introducing competition through open bidding for pumped hydro projects can help control project costs and keep electricity tariffs lower. 
+
+Furthermore, the wholesale electricity market mechanism needs further improvement. Although energy storage is supposedly allowed to participate in the wholesale electricity market, securing profits remains challenging, as the rules are not clear. Reforms could allow the price to be determined by supply and demand, and provide technology-neutral capacity payments, so that energy storage can compete on a level playing field with other technologies. 
+
+Lastly, encouraging interprovincial collaborations for pumped hydro projects can enhance the sharing of electricity or storage and improve regional grid stability. Policymakers should work with their counterparts in neighbouring provinces to create a cooperative framework and align regulations. This will support the optimal deployment of pumped hydro and other system resources, resulting in cost savings for consumers.
+
+
+Check the original post at [Dialogue Earth](https://dialogue.earth/en/energy/china-needs-to-expand-both-pumped-hydro-and-battery-storage/){.external target="_blank"}. 
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

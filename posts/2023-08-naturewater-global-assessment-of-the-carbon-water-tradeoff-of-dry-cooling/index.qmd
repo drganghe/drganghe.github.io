@@ -1,0 +1,79 @@
+---
+title: "Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation"
+subtitle: "*Nature Water*"
+description: "We build a global unit-level framework to investigate the CO2 emission and energy penalty due to the deployment of dry cooling."
+author: 
+  - name: Yue Qin
+  - name: Yaoping Wang
+  - name: Shiyu Li
+  - name: Hang Deng
+  - name: Niko Wanders
+  - name: Joyce Bosmans
+  - name: Liangdian Huang
+  - name: Chaopeng Hong
+  - name: Edward Byers
+  - name: Daniel Gingerich
+  - name: Jeff M. Bielicki
+  - name: Gang He    
+date: "2023-08-07"
+categories: [paper]
+image: "featured.png"
+citation:
+  type: article-journal
+  container-title: "Nature Water"
+  doi: "10.1038/s44221-023-00120-6"
+  available-date: "2023-08-07"
+  issued: "2023-08-07"
+  volume: 1
+  issue: 8
+  page: 682–693
+  url: https://www.nature.com/articles/s44221-023-00120-6
+google-scholar: true
+css: /custom.css
+#draft: true
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+![Spatial pattern of global dry cooling generation units associated energy-water-carbon interactions](featured.png)
+
+::: {.callout-note}
+## Paper
+Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation   
+Yue Qin\*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liangdian Huang, Chaopeng Hong\*, Edward Byers, Daniel Gingerich, Jeff M. Bielicki, **Gang He**   
+*Nature Water* (2023)   
+DOI: [10.1038/s44221-023-00120-6](https://doi.org/10.1038/s44221-023-00120-6)     
+:::
+
+## Abstract
+
+Water scarcity and climate change are dual challenges that could potentially threaten energy security. Yet, integrated water–carbon management frameworks coupling diverse water- and carbon-mitigation technologies at high spatial heterogeneity are largely underdeveloped. Here we build a global unit-level framework to investigate the CO2 emission and energy penalty due to the deployment of dry cooling—a critical water mitigation strategy—together with alternative water sourcing and carbon capture and storage under climate scenarios. We find that CO2 emission and energy penalty for dry cooling units are location and climate specific (for example, 1–15% of power output), often demonstrating notably faster efficiency losses than rising temperature, especially under the high climate change scenario. Despite energy and CO2 penalties associated with alternative water treatment and carbon capture and storage utilization, increasing wastewater and brine water accessibility provide potential alternatives to dry cooling for water scarcity alleviation, whereas CO2 storage can help to mitigate dry cooling-associated CO2 emission tradeoffs when alternative water supply is insufficient. By demonstrating an integrative planning framework, our study highlights the importance of integrated power sector planning under interconnected dual water–carbon challenges.
+
+
+## Links
+
+Published [paper](https://www.nature.com/articles/s44221-023-00120-6)
+
+View-only SharedIt [full-text](https://rdcu.be/diKmv)
+
+Peking University [news](https://cese.pku.edu.cn/kycg/152096.htm)
+
+Stony Brook University [news](https://news.stonybrook.edu/newsroom/taking-a-global-look-at-dry-and-alternative-water-cooling-of-power-plants/)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s44221-023-00120-6"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s44221-023-00120-6" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+## Twitter Thread
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ICYMI. New paper in <a href="https://twitter.com/NatureWaterJnl?ref_src=twsrc%5Etfw">@NatureWaterJnl</a> led by <a href="https://twitter.com/hashtag/YueQin?src=hash&amp;ref_src=twsrc%5Etfw">#YueQin</a> builds a global unit-level framework to investigate the CO2 and energy penalty due to dry cooling and reveal the critical link between water scarcity, climate change, and energy security<br><br>Full-text: <a href="https://t.co/9axk9YdK9d">https://t.co/9axk9YdK9d</a> <a href="https://t.co/2HVSdZDbww">pic.twitter.com/2HVSdZDbww</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1693955754322002081?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+

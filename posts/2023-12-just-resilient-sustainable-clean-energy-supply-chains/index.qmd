@@ -1,0 +1,67 @@
+---
+title: "Advancing a just, resilient, and sustainable clean energy supply chain"
+description: "The global clean energy supply chain stands at a critical intersection of immense benefits and pressing challenges."
+author: 
+    - name: Gang He 
+    - name: Daniel M Kammen
+    - name: Muhammad Husni Mubarok
+    - name: Shoon So Oo
+date: "2023-12-05"
+categories: [commentary]
+image: "cop28.png"
+css: /custom.css
+#draft: true
+---
+
+
+## Summary
+
+This post is prepared for COP28’s Energy \& Industry and Just Transition Day. We propose a multi-faceted framework for a [just, resilient, and sustainable clean energy supply chain](https://www.climateworks.org/blog/advancing-a-just-resilient-and-sustainable-clean-energy-supply-chain/) to address the challenges along global clean energy supply chains.
+
+## Challenges
+
+Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, a process that relies on an efficient global clean energy supply chain. Based on the IEA’s [Net Zero by 2050](https://www.iea.org/reports/net-zero-by-2050), solar and wind energy deployment must reach 20 and 15 times their 2020 levels by 2050, respectively, to bring down global energy-related carbon emissions to net zero. The global supply chains for solar and wind, intertwined with critical minerals and storage technologies, play a pivotal role in the success of this transition. 
+
+Today, however, the pandemic, geopolitical tensions, and climate-driven events, present significant risks to the [stability of the global clean energy supply chains](https://www.iea.org/reports/securing-clean-energy-technology-supply-chains). The COVID-19 pandemic has revealed the vulnerability of global supply chains, disrupting manufacturing, transportation, and distribution networks worldwide. Geopolitical tensions and trade conflicts add another layer of complexity. The trade war has disrupted the free flow of capital, products, and even talents, essential components for the supply chain. Additionally, climate-induced extreme weather events and natural disasters pose physical threats to the infrastructure of the supply chain, affecting both production and distribution.
+
+The unequal distribution of costs and benefits along the supply chain raises ethical and socio-economic concerns, sometimes leading to countries breaking from the supply chain. While some regions benefit economically from the growth of the renewable energy sector, other regions bear disproportionate environmental and social burdens, particularly in Africa, Southeast Asia, and South America. The extraction of [critical minerals](https://www.iea.org/news/iea-summit-on-critical-minerals-and-clean-energy-key-takeaways), essential for battery manufacturing, often occurs in these regions, leading to environmental degradation, exploitation of local communities, and insufficient sharing of economic benefits. Deep seabed mining, promoted by some, presents an added layer of ecosystem risks.
+
+## Benefits
+
+Despite these challenges, the benefits of a global supply chain are massive. An efficient and resilient supply chain is crucial for achieving continued cost reductions in solar, wind, and storage technologies – a key factor to scale up deployment. A paper published in [*Nature*](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd), @helveston_he_davidson_2022 show solar PV costs could be 20-30% higher in 2030 if countries move from global supply chain to manufacturing domestically. The interconnectedness of these technologies, facilitated by a global supply chain, not only aids in cost reduction but also plays a pivotal role in carbon mitigation, pollution reduction, and overall improvement of human health. A recent paper published in [*Communications Earth \& Environment*](/posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/index.qmd), @chen2023deploying found that coordination of global solar manufacturing at low carbon regions and prioritize installation at carbon intensive regions could achieve 97.5 Gt more net carbon dioxide mitigation from 2020 to 2060. These benefits underscore the importance of preserving and strengthening the global supply chain, even as we navigate the challenges it presents.
+
+## A just, resilient, and sustainable framework
+
+In addressing these challenges and maximizing the benefits, there is a pressing need for a commonly agreed framework for a just, resilient, and sustainable clean energy supply chain. Such a framework would bring together stakeholders from all countries and diverse sectors, fostering understanding and collaboration. This collaborative approach is essential for advancing solutions that continue to harness the benefits of a global supply chain while effectively addressing concerns about the associated risks and uncertainties.
+
+A just, resilient, and sustainable framework for the clean energy supply chain needs to consider the specific challenges faced by different regions, especially in [Africa](https://www.seforall.org/our-work/initiatives-projects/renewable-energy-manufacturing-initiative), [Southeast Asia](https://www.seforall.org/publications/renewable-energy-manufacturing-opportunities-for-southeast-asia), and South America. In these regions, the risks from supply chain disruptions are exacerbated by pre-existing socio-economic vulnerabilities. The pandemic has highlighted the need for robust public health infrastructure, social safety nets, and resilient economic systems. Geopolitical tensions can disproportionately affect developing nations, disrupting their economic development and access to crucial clean technologies. Climate events can have severe consequences in regions that are already overburdened with the impacts of climate change, leading to a compounding of challenges.
+
+## A multi-faceted approach
+
+Addressing these challenges requires a multi-faceted approach that combines international cooperation, targeted policy interventions, and technological innovation. 
+
+Firstly, international cooperation is essential to facilitate such a clean energy supply chain. Diplomatic efforts should be made to de-escalate trade tensions and foster collaboration between nations. Additionally, a global framework for the ethical and sustainable mining of critical minerals is crucial. This framework should ensure that mineral extraction respects environmental standards, labor conditions, and local communities' well-being.
+
+Secondly, policy interventions at both national and international levels are vital to create a just, resilient, and sustainable clean energy supply chain. Governments need to implement policies that promote transparency, fairness, and inclusivity in the renewable energy sector. This includes establishing clear guidelines for ethical supply chain practices, incentivizing sustainable mining of critical minerals, and ensuring that the benefits of the renewable energy transition are shared equitably. International organizations can play a pivotal role in facilitating dialogue, setting standards, and providing support for developing nations to strengthen their renewable energy infrastructure and institutions.
+
+Thirdly, technological innovation is key to mitigating risks associated with the clean energy supply chain. Research and development efforts should focus on alternative materials that reduce dependence on critical minerals, recycling technologies to recover valuable components from end-of-life solar panels, wind turbines, and battery packs. Investing in innovative solutions will not only address the current challenges but also future-proof the clean energy supply chain against emerging risks.
+
+In crafting a just, resilient, and sustainable framework, it is crucial to consider the social and environmental impact of the supply chain at every stage. This includes the extraction of raw materials, manufacturing processes, transportation, distribution, installation, operation, and end-of-life disposal. Transparency and standards can ensure accountability and enable consumers, investors, and policymakers to make informed decisions that align with ethical and sustainability considerations.
+
+Furthermore, a just framework should prioritize the empowerment of local communities and workers involved in the clean energy supply chain. This involves fostering skill development, creating job opportunities, and ensuring fair wages and working conditions. Community engagement should be a cornerstone of supply chain and clean energy investments and projects, allowing local residents to actively participate in decision-making processes and share the benefits of renewable energy development.
+
+In conclusion, the global clean energy supply chain stands at a critical intersection of immense benefits and pressing challenges. While it is a linchpin for achieving global climate goals, its vulnerabilities to disruptions, geopolitical tensions, and unequal distribution of costs and benefits cannot be ignored. Creating a just, resilient, and sustainable framework for the clean energy supply chain is not only an ethical imperative but also a pragmatic necessity. By doing so, we can ensure that the benefits of renewable energy are realized globally, leaving no one behind in the clean energy transition to achieve climate goals.
+
+
+Check the original post at [ClimateWorks Foundation](https://www.climateworks.org/blog/advancing-a-just-resilient-and-sustainable-clean-energy-supply-chain/){.external target="_blank"}, and the Chinese version [here](https://mp.weixin.qq.com/s/7x4g4fygk_XCAjNGvO5pEg){.external target="_blank"}. 
+
+
+### References
+
+::: {#refs}
+:::
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

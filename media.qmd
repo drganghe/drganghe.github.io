@@ -1,0 +1,31 @@
+---
+title: "Media"
+subtitle: "In the news"
+#description-meta: "{{< meta description-meta >}}"
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+  id: media
+  sort: "date desc"
+  type: default
+#  grid-columns: 2
+#  image-height: 200px
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  contents: media.yml
+
+#page-layout: full
+
+page-navigation: false
+title-block-banner: false
+
+format:
+  html:
+    link-external-newwindow: true
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+:::{#media}
+:::

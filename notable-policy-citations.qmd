@@ -1,0 +1,61 @@
+---
+title: "Notable Policy Citations"
+subtitle: "Selected policy reports and documents that cite our work"
+title-block-banner: false
+#page-layout: full
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+## *Nature* 2022
+
+Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd). *Nature* 612: 83–87. doi: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6). Cited by:
+
+{{< include /files/includes/policycitations/_nature2022.qmd >}}
+
+## *Nature Energy* 2023
+
+Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd). *Nature Energy* 8(8): 870–880. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). Cited by:
+
+{{< include /files/includes/policycitations/_natureenergy2023.qmd >}}
+
+## *One Earth* 2020
+
+**He, Gang**\*, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. [Enabling a Rapid and Just Transition Away from Coal in China](/posts/2020-08-oneearth-coal-just-transition/index.qmd). *One Earth* 3(2): 187–94. doi: [10.1016/j.oneear.2020.07.012](https://doi.org/10.1016/j.oneear.2020.07.012). Cited by:
+
+{{< include /files/includes/policycitations/_oneearth2020.qmd >}}
+
+
+## *Nature Communications* 2020
+
+**He, Gang**\*, Jiang Lin\*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke\*. 2020. [Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System](/posts/2020-05-ncomms-rapid-re-cost/index.qmd). *Nature Communications* 11(1): 2486. doi: [10.1038/s41467-020-16184-x](https://doi.org/10.1038/s41467-020-16184-x). Cited by:
+
+{{< include /files/includes/policycitations/_naturecomms2020.qmd >}}
+
+
+## *Energy Policy* 2017
+
+**He, Gang**\*, David Victor. 2017. [Experiences and lessons from China's success in providing electricity for all](/posts/2017-china-electricity-for-all/index.qmd). *Resources, Conservation and Recycling* 122: 335–338\. doi: [10.1016/j.resconrec.2017.03.011](https://doi.org/10.1016/j.resconrec.2017.03.011). Cited by:
+
+{{< include /files/includes/policycitations/_energypolicy2017.qmd >}}
+
+
+## *Environmental Science and Technology* 2016
+
+**He, Gang**\*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen\*. 2016. [SWITCH-China: A Systems Approach to Decarbonizing China’s Power System](/posts/2016-est-switch-china/index.qmd). *Environmental Science & Technology* 50(11): 5467–5473. doi: [10.1021/acs.est.6b01345](https://doi.org/10.1021/acs.est.6b01345). Cited by:
+
+{{< include /files/includes/policycitations/_est2016.qmd >}}
+
+
+## *Energy Policy* 2013
+
+**He, Gang**\*, Richard Morse. 2013. [Addressing Carbon Offsetters' Paradox: Lessons from Chinese Wind CDM](/posts/2013-ep-carbon-offsetters-paradox/index.qmd). *Energy Policy* 63: 1051–1055\. doi: [10.1016/j.enpol.2013.09.021](https://doi.org/10.1016/j.enpol.2013.09.021). Cited by:
+
+{{< include /files/includes/policycitations/_energypolicy2013.qmd >}}
+
+Note: Data as of December 2024
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

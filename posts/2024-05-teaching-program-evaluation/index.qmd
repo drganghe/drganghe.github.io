@@ -1,0 +1,67 @@
+---
+title: "Teaching Program Evaluation"
+description: "Lectures, stories, and case studies on Program Evaluation."
+author: "Gang He"
+date: "2024-05-18"
+categories: [news]
+image: "nyc-is-your-classroom.jpeg"
+css: /custom.css
+---
+
+[![NYC is our classroom](nyc-is-your-classroom.jpeg)](https://drganghe.github.io/program-evaluation/)
+
+
+I had the pleasure to teach the EMPA class Program Evaluation with Professor Samantha MacBride in Spring 2024. The goal of the class is to enable the students to do "sensible evaluation at reasonable costs". Below is the teaching material for the class. 
+
+
+## Course Link
+
+<https://drganghe.github.io/program-evaluation/>{target="_blank"}
+
+
+## Lectures
+
+- [Introduction and Overview](https://drganghe.github.io/program-evaluation/2024/lecture1.html){target="_blank"} 
+- [Goals and Types of Evaluation](https://drganghe.github.io/program-evaluation/2024/lecture2.html){target="_blank"} 
+- [Logic and Causal Models](https://drganghe.github.io/program-evaluation/2024/lecture3.html){target="_blank"} 
+- [Stakeholder Engagement](https://drganghe.github.io/program-evaluation/2024/lecture4.html){target="_blank"} 
+- [Evaluation Designs](https://drganghe.github.io/program-evaluation/2024/lecture5.html){target="_blank"} 
+- [Data Collection](https://drganghe.github.io/program-evaluation/2024/lecture6.html){target="_blank"}
+- [Data Analysis](https://drganghe.github.io/program-evaluation/2024/lecture7.html){target="_blank"} 
+- [Economic Evaluation and Performance Measurement](https://drganghe.github.io/program-evaluation/2024/lecture8.html){target="_blank"}  
+- [Ethics, Principles, and Standards](https://drganghe.github.io/program-evaluation/2024/lecture9.html){target="_blank"} 
+
+
+## Stories
+
+- [John Snow](https://drganghe.github.io/program-evaluation/2024/john-snow-and-evidence-based-analysis.html){target="_blank"} 
+- [High Line Park](https://drganghe.github.io/program-evaluation/2024/high-line-park.html){target="_blank"}  
+- [Bombing, Heating, and Causal Models](https://drganghe.github.io/program-evaluation/2024/bombing-heating-and-causal-models.html){target="_blank"}    
+- [John Muir and National Park System](https://drganghe.github.io/program-evaluation/2024/john-muir-and-national-park.html){target="_blank"}    
+- [Esther Duflo and RCTs](https://drganghe.github.io/program-evaluation/2024/esther-duflo-and-rcts.html){target="_blank"}
+- [Fei-fei Li and ImageNet](https://drganghe.github.io/program-evaluation/2024/feifei-li-imagenet-and-ai-revolution.html){target="_blank"} 
+- [Hans Rosling and Storytelling](https://drganghe.github.io/program-evaluation/2024/hans-rosling-data-visualization-and-storystelling.html){target="_blank"} 
+- [Robert Bullard and Environmental Justice](https://drganghe.github.io/program-evaluation/2024/robert-bullard-and-environmental-justice.html){target="_blank"} 
+- [The Moral Machine](https://drganghe.github.io/program-evaluation/2024/the-moral-machine-and-ethics.html){target="_blank"} 
+
+
+## Case studies
+
+- Case 1: Northwest Housing Alternatives 
+- Case 2: Jobs Plus in NYC 
+- Case 3: ARPA-E 
+- Case 4: NYC Gifted & Talented Program 
+- Case 5: CBA of EPA Clean Air Act 
+
+
+## Program evaluation mindmap
+
+<iframe width="800" height="800" src="https://drganghe.github.io/program-evaluation/images/program-evaluation-markmap.html" title="Program Evaluation Mindmap"></iframe>
+
+Open the mindmap in a new [tab](https://drganghe.github.io/program-evaluation/images/program-evaluation-markmap.html), or [download](program-evaluation-mindmap.png) the mindmap.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+
+

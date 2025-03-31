@@ -1,0 +1,32 @@
+---
+title: "MIT Energy Conference U.S. China Energy Transition"
+description: "Gang joins experts to discuss U.S. China Energy Transition."
+author: "MIT Energy Conference"
+date: "2023-04-12"
+categories: [news, event, presentation]
+image: "featured.jpeg"
+css: /custom.css
+---
+
+Welcome to join us for a discussion on parallels between the US and China’s energy transition landscapes.
+
+[![](featured.jpeg){fig-align="center"}](https://mitenergyconference.org/agenda)
+
+
+## Twitter
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Get your tickets to the MIT Energy Conference: <a href="https://t.co/k01jKefeaG">https://t.co/k01jKefeaG</a>. We are pleased to announce another panel discussion: US-China Energy Transition, which will discuss parallels between the US and China’s energy transition landscapes, with a focus on the innovation ecosystem. <a href="https://t.co/UFdLzeP54V">pic.twitter.com/UFdLzeP54V</a></p>&mdash; MIT Energy Conference (@MITEnergyConf) <a href="https://twitter.com/MITEnergyConf/status/1631743482258939905?ref_src=twsrc%5Etfw">March 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+
+## Related Papers
+
+- Helveston, John Paul, Gang He, and Michael R. Davidson. 2022. [Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd). *Nature* 612 (7938): 83–87. doi: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6).
+
+- He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. [Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System](/posts/2020-05-ncomms-rapid-re-cost/index.qmd). *Nature Communications* 11(1): 2486. doi: [10.1038/s41467-020-16184-x](https://doi.org/10.1038/s41467-020-16184-x).  
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

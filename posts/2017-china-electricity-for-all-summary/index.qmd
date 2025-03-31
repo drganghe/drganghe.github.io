@@ -1,0 +1,98 @@
+---
+title: "Three lessons from China’s effort to bring electricity to 1.4 billion people"
+description: "The ‘Electricity for All’ programme was hugely successful, reaching even the remotest populations."
+author: 
+    - name: Gang He
+date: "2017-06-24"
+categories: [commentary]
+image: "featured.jpg"
+bibliography: cite.bib
+fig-cap-location: margin
+---
+
+## Summary
+In the  @He2017efa [paper](/posts/2017-china-electricity-for-all/index.qmd), we synthesize some key experiences and lessons to be learned from China’s successful program to provide electricity for all. Substantial funding from the central government, delivered by mechanisms sensitive to local provincial needs, were essential to success. Also vital was use of off-grid solar home systems for the most remote users for whom grid connection would be quite costly.
+
+## Electricity for all
+
+China declared full electrification in 2015 after connecting 2.7 million people in remote areas.
+
+China’s energy, pollution, and climate change issues produce a steady blizzard of headlines: it has become the world’s biggest carbon emitter, the world’s largest energy producer, and the biggest producer, consumer and importer of coal. Nonetheless, it has stepped into a leadership role on climate change after the US withdrew from the Paris Agreement. And so on.
+
+Often lost in all this is a major advance: China has achieved full electrification for its population of 1.4 billion, even in its remotest villages.
+
+About one billion people worldwide have no electricity, and another 1.5 billion lack reliable electricity so China’s success offers useful lessons for other countries struggling to connect remote, poor areas.
+
+## Electricity matters
+
+I would like to provide a personal perspective. I was born in a small village in Hunan province, in central China, and am old enough to remember a life without electricity. Many people today would panic after an hour’s disconnection from the electricity grid. Where to charge their phone? What to do without a wi-fi connection? Back then, for my family it was normal. Kerosene lamps for light, a wood-save stove for cooking – a model that was already an improvement on previous versions because it used less wood. However, the smoke remained a major source of air pollution, and was especially harmful to women and children, who spent most time indoors.
+
+Providing electricity to all is about humanity. Without electricity, other essential steps for human development such as providing modern public health services or narrowing the digital divide, are daunting to solve.
+
+## Huge hurdles
+
+China’s road to full electrification has been rough. Initially reliant on imports for its grid and generating capacity, China then had to reshape its institutions to create the financial arrangements to incentivise investment and grid connection. Admittedly, many Western countries achieved electrification for large populations from the 1950s to 1970s. So what’s distinctive about China’s experience?
+
+China tackled rural electrification in two waves.
+
+The first wave provided electricity to 97% of the population by the late 1990s. Extensions to the power grid carried electricity to about 80% of rural Chinese, while the rest gained access through small hydro and small coal-fired power plants (up to 50 megawatts) connected into local and regional grids.
+
+Winning the battle to bring electricity to the final 3% was much harder. Success came from China’s notable advances in extending and renovating rural grids.
+
+Even so, grid extensions could not reach everyone in a cost-effective manner.
+
+In 2012, the central government issued a 3-year action plan, “Electricity for All (2013-2015)”^[National Energy Administration. 2013. Three-year Action Plan to Achieve Electricity for All (2013-2015). 国家能源局. 2013.《全面解决无电人口用电问题3年行动计划（2013-2015年）》.], to connect the final 2.73 million people. It succeeded. China declared full electrification in 2015.
+
+## Experiences
+
+What can the rest of the world learn? There are three lessons from China’s final, successful effort to electrify.
+
+### Co-ordinate all stakeholders
+
+Despite prioritising electrification, the central government alone could neither implement the necessary investments, nor manage highly decentralised infrastructures. China’s central government therefore provided policy leadership and investment, but with extensive local coordination. Provincial governments examined local conditions and coordinated project implementation. Some conducted trials of different approaches and technologies, as the best strategies for ubiquitous electrification were not obvious.
+
+Central government also sat at the centre of vital cost sharing schemes. For example, between 2013-2015 it allocated 24.8 billion yuan (approximately US$4 billion) for grid extensions and small off-grid solar photovoltaic (PV) systems. Roughly 60%, or 14.6 billion yuan, came from central budgets. State-owned power companies and local governments provided the rest. Officials also used private firms to fund and implement PV projects. Central government investment sharing varied province-by-province, ranging from 20% to 80%. For instance, the poorest region involved was Tibet, where development projects are particularly expensive, so central government paid 80% of the costs, higher than average.
+
+What’s important to learn from the Chinese approach is the indispensable role of reliable funding, which in China’s case, came from the centre, along with the importance of guided experimentation and learning.
+
+### Select appropriate technologies
+
+The final round of electrification was split 50/50 between grid extension and off-grid solar PV. Although more reliable, grid connection proved too expensive and inflexible for the remotest populations. Trials showed costs as high as 100,000 yuan (US$16,000) per household, depending on terrain and distance to the substation.
+
+Distributed solar PV at 0.5-1kW per household had better system reliability, but such micro-grids were also costly, averaging 9,000-20,000 yuan (US$1,400-3,200) per household.
+
+Individual solar PV at 0.3-0.4kW per household was the cheapest option, costing between 7,500-11,200 yuan (US$1,200-1,800) per household. Generally, such systems were preferable, according to National Energy Administration guidelines, anywhere with less than 20 households per square kilometre. Grid systems were prohibitive yet households preferred their greater reliability and responsiveness to demand.
+
+Connecting the remotest households involves major trade-offs between power quality, level of supply and cost, though they may be lessened by continued improvements in remote off-grid systems.
+
+In other countries, off-grid systems have faced the challenge of ongoing maintenance costs. China addressed this by covering them with the nationwide renewable energy fund. It collects 1.5 cents RMB (yuan) per kilowatt hour, rising to 1.9 cents RMB per kWh in 2016 to close the funding gap created by soaring renewable generation.
+
+In areas that were prohibitive to serve with any system, the government rehoused people in more hospitable terrain.
+
+### Embed electrification in development plans
+
+As in the US and other industrialised countries, China embedded electrification within its poverty eradication strategy, mainly through the “Infrastructure to Every Village Project,” which covered power, roads, water, and telecoms. Electrification facilitates rural economic growth, and higher incomes leads to greater electricity use, justifying further investment in rural electrification. This feedback loop enables sustainable electricity supplies rather than relying solely on government subsidy. Like the US, this process was hastened by policy measures such as China’s “home appliances to the countryside” programme, which subsidised purchases of TVs, washing machines, and mobile phones.
+
+Of course, there is also much about China that is different from other countries.
+
+China’s authoritative central government can mobilise large amounts of capital relatively easily, and bring together state-owned power firms and local officials. Less authoritative governments can find those tasks more difficult. Moving people from isolated locations, for example, is not something all countries can do, and raises important questions about justice and people’s ability to adapt.
+
+Nonetheless, while remembering differences and potential risks, China’s achievement offers lessons and blueprints. New technologies are rapidly making off-grid systems more viable, though grid systems remain the backbone. Continued improvements such as cheaper batteries and better systems integration, could shift the balance of economic merit to off-grid solutions.
+
+Providing electricity for all the world’s poorest is an ambitious goal. Careful planning and coordination between different stakeholders is needed to align the desired investment, human resources, and action plans.
+
+Integrating electricity access into local economic development helps ensure more sustainable electrification. This is a key lesson from electrification of the advanced industrialised nations that China’s experience reinforces.
+
+This article is adapted from @He2017efa co-authored paper “Experiences and lessons from China's success in providing electricity for all”, and presented at the 2017 IAEE International Conference at Singapore and 2017 EIA Energy Conference.
+
+Check the original post at <a href="https://dialogue.earth/en/energy/9934-three-lessons-from-china-s-effort-to-bring-electricity-to-1-4-billion-people/" target="_blank">*Dialogue Earth*</a>. Read more about our [paper](/posts/2017-china-electricity-for-all/index.qmd).
+
+
+### References
+
+::: {#refs}
+:::
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,69 @@
+---
+title: "Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060"
+subtitle: "*Communications Earth & Environment*"
+description: "The results call for strategic international coordination of PV industrial chain to increase GHG net mitigation."
+author: 
+  - name: Shi Chen
+  - name: Xi Lu
+  - name: Chris P. Nielsen
+  - name: Michael B. McElroy
+  - name: Gang He
+  - name: Shaohui Zhang
+  - name: Kebin He
+  - name: Xiu Yang
+  - name: Fang Zhang
+  - name: Jimin Hao   
+date: "2023-10-11"
+categories: [paper]
+image: "featured.webp"
+citation:
+  type: article-journal
+  container-title: "Communications Earth & Environment"
+  doi: "10.1038/s43247-023-01006-x"
+  available-date: "2023-10-11"
+  issued: "2023-10-11"
+  volume: 4 
+#  issue: 7938
+  page: 369
+#  page-first: 4858 
+  url: https://www.nature.com/articles/s43247-023-01006-x 
+google-scholar: true
+css: /custom.css
+#draft: true
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+![Future GHG mitigation and emissions of PV industry by scenario from 2020 to 2060](featured.webp)
+
+::: {.callout-note}
+## Paper
+Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060   
+Shi Chen, Xi Lu\*, Chris P. Nielsen, Michael B. McElroy\*, Gang He, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang & Jiming Hao   
+*Communications Earth & Environment* (2023)   
+DOI: [10.1038/s43247-023-01006-x](https://doi.org/10.1038/s43247-023-01006-x)     
+:::
+
+## Abstract
+
+The global surge in solar photovoltaic (PV) power has featured spatial specialization from manufacturing to installation along its industrial chain. Yet how to improve PV climate benefits are under-investigated. Here we explore the evolution of net greenhouse gas (GHG) mitigation of PV industry from 2009–2060 with a spatialized-dynamic life-cycle-analysis. Results suggest a net GHG mitigation of 1.29 Gt CO2-equivalent from 2009–2019, achieved by 1.97 Gt of mitigation from installation minus 0.68 Gt of emissions from manufacturing. The highest net GHG mitigation among future manufacturing-installation-scenarios to meet 40% global power demand in 2060 is as high as 204.7 Gt from 2020–2060, featuring manufacturing concentrated in Europe and North America and prioritized PV installations in carbon-intensive nations. This represents 97.5 Gt more net mitigation than the worst-case scenario, equivalent to 1.9 times 2020 global GHG emissions. The results call for strategic international coordination of PV industrial chain to increase GHG net mitigation.
+
+
+## Links
+
+Published [paper](https://www.nature.com/articles/s43247-023-01006-x)
+
+Open-access [pdf](https://www.nature.com/articles/s43247-023-01006-x.pdf)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s43247-023-01006-x"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s43247-023-01006-x" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+

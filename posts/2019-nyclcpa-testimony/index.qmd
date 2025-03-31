@@ -1,0 +1,64 @@
+---
+title: "Testimony on the New York State Climate Leadership and Community Protection Act"
+description: "Dr. Gang He joined a Stony Brook University experts team to testify for NYCLCPA."
+author: "Gang He"
+date: "2019-02-15"
+categories: [news, testimony, outreach]
+image: "featured.png"
+---
+
+![Gang testified in the New York State Senate Hearings On The Climate Leadership And Community Protection Act, Feb 2019 (Photo by Ann Parry)](featured.png)
+
+## News Link
+
+News by [WSHU Public Radio](https://www.wshu.org/post/bill-calls-emissions-free-ny-2050)
+
+### Quotes
+
+> Gang He is an assistant professor at Stony Brook University who focuses on energy economics and climate policy. He told lawmakers at a public hearing on Long Island last week that educating people should be part of any legislation that hopes to have a meaningful impact on climate change.
+> 
+> “In addition to policy, technology, there are also behavior components to that. How we incentivize people to change their behavior and their lifestyle.”
+
+## Testimony Transcript
+
+### Testimony of Dr. Gang He
+
+Before the New York State Senate Environmental Conservation Committee
+Public Hearing on the Climate and Community Protection Act—S.2992/A.3876
+February 15, 2019—Mineola, New York
+
+
+Senator Todd Kaminsky, and members of the Committee on Environmental Conservation, I am very pleased to have the opportunity to testify before the committee. I appreciate the attention your committee is giving to the vital issues of greenhouse gas emissions reduction and clean energy.
+
+I’m an assistant professor in the Department of Technology and Society at Stony Brook University. My research focuses on energy system modeling, energy economic, energy and climate policy.
+
+### Renewable energy is achieving global momentum
+
+The costs of solar photovoltaics (PV), wind, and battery storage have fallen by approximately 65% to 85% since 2010 and are projected to decline further in the near future—creating opportunities for deep decarbonization in the power sector and energy systems. According to the latest report from [Green Tech Media Research](https://www.greentechmedia.com/articles/read/Slideshow-US-Residential-Solar-Outlook-Grid-Parity-Rate-Design-and-Net), U.S. Residential Solar Economic Outlook: Grid Parity, Rate Design and Net Metering Risk, 20 U.S. states are currently at grid parity, including in New York. 
+
+### New York’s opportunity to keep leadership in clean energy and climate action
+
+New York State has an opportunity to lead in clean energy and climate action by introducing and implementing the renewable energy development and carbon mitigation targets. California, for example, is on the path and pace to achieve goals to reduce GHG to 40% below 1990 levels by 2030, benefit from a series of supporting policies^[Check more about California's climate policy at Berkeley Laws's [California Climate Policy Dashboard](https://www.law.berkeley.edu/research/clee/research/climate/climate-policy-dashboard/)], including: 
+
+- A renewable energy portfolio standard (RPS) to increase renewable electricity production to 60% by 2030;  
+- A low-carbon fuel standard to reduce the carbon intensity of transportation fuels by 20 percent by 2030;  
+- And efficiency standards in building, appliance, water and others to double energy efficiency savings at existing buildings;   
+- Suite of other energy and climate policies to facilitate the transition.
+
+In addition to California, New Jersey (50 percent by 2030), Connecticut (40 percent by 2030) and Massachusetts (35 percent by 2030) all adopted stronger targets for renewable energy, accelerating their states' transitions away from fossil fuels and toward to a clean energy future. New York State has to choose to lead, or fall behind.
+
+### Green jobs and economic benefits
+
+Such clean energy transition is not only generating renewable energy and reducing carbon emissions, but also creating jobs and economic benefits to New York State and local communities. My research group has worked with the offshore wind industry, to estimate the jobs and economic impact of offshore wind projects in New York State.  We estimated that a typical 800MW offshore wind project could create more than 3000 direct and indirect clean full-time equivalent energy jobs and bring nearly 700 million economic impact to the New York State. About 40 percent of the jobs will be in Long Island area. Work in the Long Island region includes cable and converter station connections, and work on the onshore substation. There will also jobs related R&D spending, and community development. 
+
+### Paving the road for 21st century economic competitiveness
+
+Energy technology innovation, together with other emerging technologies such as AI, big data, internet of things, block chain, and their applications to clean energy sector, are building the next frontiers of economic development and competition. The clean energy workforce, and the education of next generation energy leaders are the new pillars to support a sustainable future for New York State.
+
+The key message I’d like to share is that leadership in clean energy development and climate action present an economic opportunity for New York State. The job creation and economic benefits through clean energy innovation and investment is a true opportunity, and New York could harvest those benefit as an earlier mover.
+
+The transcprit is also available in [pdf](Gang-He-clcpa-testimony.pdf).
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

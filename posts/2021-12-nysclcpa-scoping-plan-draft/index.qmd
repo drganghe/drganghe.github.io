@@ -1,0 +1,47 @@
+---
+title: "Advising the NYS Climate Action Council Draft Scoping Plan"
+description: "Dr. Gang He served as a member of the technical advisory group for the scoping plan."
+author: "NYSERDA"
+date: "2021-12-20"
+categories: [news, outreach]
+image: "featured.png"
+---
+
+## Official Release
+
+<https://climate.ny.gov/Resources/Draft-Scoping-Plan>
+
+## About the Scoping Plan
+
+The Climate Leadership and Community Protection Act (Climate Act) was signed into law in 2019 as one of the most ambitious climate laws in the world. The law created the Climate Action Council (the Council), which is tasked with developing a Draft Scoping Plan that serves as an initial framework for how the State will reduce greenhouse gas emissions and achieve net-zero emissions, increase renewable energy usage, and ensure climate justice. On December 20, 2021, the Council voted to release the Draft Scoping Plan for public comment.
+
+
+## About the Technical Advisory Group
+
+The Technical Advisory Group provides technical expertise and comments to the Council and the integration analysis of the Draft Scoping Plan. The group includes:
+
+![](TAG.jpeg){fig-alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University;
+Gang He, Department of Technology and Society, Stony Brook University;
+Benjamin Houlton, Department of Global Development, Cornell University; 
+Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University;
+Jesse Jenkins, Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and the Environment, Princeton University; 
+Jessica Lau, Grid Planning and Analysis Group, National Renewable Energy Laboratory;
+Timothy Lipman, Institute of Transportation Studies, University of California Berkeley;
+Melissa C. Lott, Columbia SIPA Center on Global Energy Policy; 
+Vijay Modi, The Earth Institute, Columbia University; 
+Gregory Nemet, La Follette School of Public Affairs, University of Wisconsin–Madison;
+Bryan Palmintier, Grid Connected Energy Modeling Group, National Renewable Energy Laboratory; 
+Richard Perez, Atmospheric Sciences Research Center, University of Albany;
+Mark Ruth, Industrial Systems and Fuels group, National Renewable Energy Laboratory; 
+Jian Sun, Department of Electrical, Computer, and Systems Engineering, Rensselaer Polytechnic Institute;
+Eric Williams, Golisano Institute for Sustainability, Rochester Institute of Technology;
+Eric Wilson, Buildings and Thermal Sciences Center, National Renewable Energy Laboratory."}
+
+## Related News
+
+[Gang testified for the New York State Climate Leadership and Community Protection Act](/posts/2019-nyclcpa-testimony/)
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+

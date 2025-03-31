@@ -1,0 +1,61 @@
+---
+title: "Fewer than 15% of coal power plant workers in China can easily shift to green jobs by 2060"
+description: "A coal power worker needs to travel 194 (178–242) km on average to access a green job. Only 11%–14% of existing coal power workers will transition to green jobs by 2060."
+subtitle: "*One Earth*"
+author: 
+  - name: Huihuang Wu
+  - name: Junfeng Liu
+  - name: Xiurong Hu
+  - name: Gang He
+  - name: Yuhan Zhou
+  - name: Xian Wang
+  - name: Ying Liu
+  - name: Jianmin Ma
+  - name: Shu Tao
+date: "2024-11-05"
+categories: [paper]
+image: "featured.jpg"
+citation:
+  type: article-journal
+  container-title: "One Earth"
+  volume: 7
+  issue: 11
+  page: 1994-2007
+  doi: "10.1016/j.oneear.2024.10.006"
+  url: https://www.sciencedirect.com/science/article/pii/S259033222400530X
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+Fewer than 15% of coal power plant workers in China can easily shift to green jobs by 2060     
+Huihuang Wu, Junfeng Liu, Xiurong Hu, **Gang He**, Yuhan Zhou, Xian Wang, Ying Liu, Jianmin Ma, Shu Tao  
+*One Earth* (2024)   
+DOI: [10.1016/j.oneear.2024.10.006](https://doi.org/10.1016/j.oneear.2024.10.006)  
+:::
+
+## Abstract
+
+Phasing out coal is essential for climate mitigation but can result in job losses. Although growing literature has reported green job opportunities (e.g., solar technicians) as a potential solution to the displacement of coal sector workers, the extent to which green jobs are easily accessible, regarding co-location and skill requirements, remains unclear. Here, we explore this issue in the context of China’s coal phaseout toward the 2060 carbon neutrality target. Using a coal power plant retirement model of 3,765 coal power units, we find that coal power plant workers must travel long distances (178–242 km) to reach a green job site. When further considering job skill qualifications, in total, fewer than 15% of these workers can easily access green jobs. Postponing the coal phaseout might further exacerbate the job transition challenge. Upstream industries of the renewable energy sector (e.g., electrical machinery), which can be located closer to coal power plants and have better job skill matching, can help alleviate the challenging prospect.
+
+![Spatial relation and skill similarity between coal power plant workers and green jobs](featured.jpg)
+
+## Links
+
+Published [paper](https://www.sciencedirect.com/science/article/pii/S259033222400530X)
+
+Open access [pdf](https://www.sciencedirect.com/science/article/pii/S259033222400530X/pdfft?md5=972ca74d333ab90204f8faf849efba7b&pid=1-s2.0-S259033222400530X-main.pdf)
+
+Figshare [data and resources](https://doi.org/10.6084/m9.figshare.27394602.v1)
+
+Release [summary](https://deeppolicylab.github.io/news/2024-11-06-one-earth-coal-jobs-transition.html)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2024.10.006"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2024.10.006" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,56 @@
+---
+title: "Experiences and lessons from China’s success in providing electricity for all"
+subtitle: "*Resources, Conservation and Recycling*"
+description: "Funding, coordination, and technology are key to deliver full electrification."
+author: 
+  - name: Gang He
+  - name: David Victor
+date: "2017-07-15"
+categories: [paper, video]
+image: "featured.jpg"
+citation:
+  type: article-journal
+  container-title: "Resources, Conservation and Recycling"
+  volume: 122
+  page: 335-338
+  doi: "10.1016/j.resconrec.2017.03.011"
+  url: https://doi.org/10.1016/j.resconrec.2017.03.011
+bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+Experiences and lessons from China’s success in providing electricity for all   
+**Gang He**\*, and David Victor  
+*Resources, Conservation and Recycling* (2017)   
+DOI: [10.1016/j.resconrec.2017.03.011](https://doi.org/10.1016/j.resconrec.2017.03.011)
+:::
+
+## Abstract
+
+In 2015 China provided access to electricity to its entire population—the first of the large emerging and developing countries to achieve that landmark goal that most advanced industrialized countries met decades earlier. We found some key experiences and lessons to be learned from China’s successful program to provide electricity for all. Substantial funding from the central government, delivered by mechanisms sensitive to local provincial needs, were essential to success. Also vital was use of off-grid solar home systems for the most remote users for whom grid connection would be quite costly.
+
+
+## Links
+
+Paper [summary](/posts/2017-china-electricity-for-all-summary/index.qmd)
+
+Published [paper](https://doi.org/10.1016/j.resconrec.2017.03.011)
+
+Preprint [pdf](/files/papers/2017-china-electricity-for-all.pdf)
+
+Notable policy citations:  
+
+{{< include /files/includes/policycitations/_energypolicy2017.qmd >}}
+
+
+## Video
+
+{{< video https://www.youtube.com/embed/42hcIqtGEsA start="166" >}}
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,53 @@
+---
+title: "Large balancing areas and dispersed renewable investment enhance grid flexibility in a renewable-dominant power system in China"
+subtitle: "*iScience*"
+description: "Larger balancing area offers direct flexibility benefits."
+author: 
+  - name: Jiang Lin
+  - name: Nikit Abhyankar
+  - name: Gang He
+  - name: Xu Liu
+  - name: Shengfei Yin
+date: "2022-01-07"
+categories: [paper]
+image: "featured.jpeg"
+citation:
+  type: article-journal
+  container-title: "iScience"
+  volume: 25
+  issue: 2
+  page: 103749
+#  page-first: 103749
+  doi: "10.1016/j.isci.2022.103749"
+  url: https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2900019-0
+bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+Large balancing areas and dispersed renewable investment enhance grid flexibility in a renewable-dominant power system in China   
+Jiang Lin\*, Nikit Abhyankar, **Gang He**, Xu Liu, and Shengfei Yin   
+*iScience* (2022)   
+DOI: [10.1016/j.isci.2022.103749](https://doi.org/10.1016/j.isci.2022.103749)
+:::
+
+## Abstract
+
+Renewable energy is poised to play a major role in achieving China's carbon neutrality goal by 2060; however, reliability and flexibility is a big concern of a renewable-dominant power system. Various strategies of enhancing flexibility are under discussion to ensure the reliability of such a system, but no detailed quantitative analysis has been reported yet in China. We combine the advantages of a capacity expansion model, SWITCH-China, with a production simulation model, PLEXOS, and analyze flexibility options under different scenarios of a renewable-dominant power system in China. We find that a larger balancing area offers direct flexibility benefits. Regional balancing could reduce the renewable curtailment rate by 5–7%, compared with a provincial balancing strategy. National balancing could further reduce the power cost by about 16%. However, retrofitting coal power plants for flexible operation would only improve the system flexibility marginally.
+
+## Links
+
+Published [paper](https://www.cell.com/iscience/fulltext/S2589-0042(22)00019-0)
+
+Open access [pdf](https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2900019-0)
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.isci.2022.103749"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.isci.2022.103749" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

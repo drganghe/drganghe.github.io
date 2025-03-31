@@ -1,0 +1,54 @@
+---
+title: "Call for Papers: Achieving carbon neutrality in China’s power sector"
+description: "We are organizing an special issue in *The Electricity Journal*"
+author: "The Electricity Journal"
+date: "2024-09-30"
+categories: [news]
+image: "featured.jpg"
+css: /custom.css
+#draft: true
+---
+
+[![](featured.jpg)](https://www.sciencedirect.com/journal/the-electricity-journal/about/call-for-papers#achieving-carbon-neutrality-in-china-s-power-sector)
+
+## Summary
+
+Achieving China’s ambitious long-term climate goals will require fundamental transformations to the power sector. Many techno-economic uncertainties remain which will shape the pace and structure of this trajectory, including the costs of alternative energies, demand growth and electrification, flexibility of conventional generators, and deployment of firm low-carbon resources. In addition, policy evolution in the power sector, including provincial and regional electricity market developments and inter-provincial coordination, will have a large impact on which resources are selected and how they are operated. Open modeling efforts have been engaging with more open-source datasets, which if properly validated could provide a common framework for understanding the key features driving system evolution.
+
+
+## Guest Editors
+
+Gang He, PhD  
+Baruch College, City University of New York, New York, U.S.
+
+Jiang Lin, PhD  
+University of California, Berkeley, U.S.
+
+Michael Davidson, PhD  
+University of California, San Diego, U.S.
+
+Zhaohong Bie, PhD  
+Xi’an Jiaotong University, Xi’an, China
+
+
+## Manuscript submission information
+
+You are invited to submit your manuscript before December 31, 2024. For any inquiries about the appropriateness of contribution topics, please contact Executive Guest Editor Gang He via <Gang.He@baruch.cuny.edu>
+
+The journal’s submission platform ([Editorial Manager®](https://www.editorialmanager.com/electr)) is available for receiving submissions to this Special Issue. Please refer to the Guide for Authors to prepare your manuscript. When submitting your manuscripts, please choose "**SI: China power sector**" from the dropdown menu.
+
+
+## Keywords
+
+Carbon neutrality, open-model, power systems, energy transition, China
+
+
+## Learn more
+
+[Call for Papers: Achieving Carbon Neutrality in China's Power Sector](https://www.sciencedirect.com/journal/the-electricity-journal/about/call-for-papers#achieving-carbon-neutrality-in-china-s-power-sector){.external target="_blank"}
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
