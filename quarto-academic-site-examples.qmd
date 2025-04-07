@@ -51,8 +51,8 @@ Note: If you’d like to use the template, please avoid forking my actual websit
 
 To streamline updates across your site, use Quarto's [includes](https://quarto.org/docs/authoring/includes.html) feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.
 
-``` markdown
-{{include _statement.qmd}}
+```markdown
+"{{< include _statement.qmd >}}"
 ```
 
 Prefixing include file names with an underscore ("_") ensures they won't be rendered directly by Quarto. 
@@ -136,7 +136,7 @@ Here is an [example](https://deeppolicylab.github.io/research/clean-energy-suppl
 
 To list external resources with key metadata, you can use this format to create clear, linked listings.
 
-```markdown
+```yaml
     - path: https://www.nature.com/articles/s41586-022-05316-6
       image: /files/images/journal/nature.avif
       title: "Quantifying the cost savings of global solar photovoltaic supply chains"
@@ -160,12 +160,12 @@ decktape automatic lecture1.html lecture1.pdf
 
 If you encounter font error when opening the PDF:
 
->Cannot extract the embedded font 'BAAAAA+SourceSansPro-Regular'. Some characters may not display or print correctly." 
+>"Cannot extract the embedded font 'BAAAAA+SourceSansPro-Regular'. Some characters may not display or print correctly." 
 
 Use Adobe Acrobat tools to fix it:
 
 1. Open the PDF in Adobe Acrobat. 
-2. Go to `Use print production` > `Preflight`. 
+2. Go to `Use print production` > `Preflight` > `Analyze and fix it` (default options). 
 3. Apply the necessary font correction. 
 
 
