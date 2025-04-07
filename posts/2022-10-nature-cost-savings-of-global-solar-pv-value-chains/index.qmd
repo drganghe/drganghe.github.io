@@ -44,13 +44,15 @@ DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)
 Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, yet countries sometimes implement policies that increase costs by restricting the free flow of capital, talent and innovation in favour of localizing benefits such as economic growth, employment and trade surpluses. Here we assess the cost savings from a globalized solar photovoltaic (PV) module supply chain. We develop a two-factor learning model using historical capacity, component and input material price data of solar PV deployment in the United States, Germany and China. We estimate that the globalized PV module market has saved PV installers US\$24 (19–31) billion in the United States, US\$7 (5–9) billion in Germany and US\$36 (26–45) billion in China from 2008 to 2020 compared with a counterfactual scenario where domestic manufacturers supply an increasing proportion of installed capacities over a ten-year period. Projecting the same scenario forwards from 2020 results in estimated solar module prices that are approximately 20–30 per cent higher in 2030 compared with a future with globalized supply chains. International climate policy benefits from a globalized low-carbon value chain, and these results point to the need for complementary policies to mitigate welfare distribution effects and potential impacts on technological crowding out.
 
 
+[![Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).](fig1.png)](https://www.nature.com/articles/s41586-022-05316-6/figures/2)
+
 ## Links
 
 Published [paper](https://www.nature.com/articles/s41586-022-05316-6)
 
 Paper summary: [The Cost of Going Solo in Solar](/posts/2022-11-nature-solar-paper-summary/index.qmd)
 
-ResearchGate [pdf](https://www.researchgate.net/publication/364757014_Quantifying_the_cost_savings_of_global_solar_photovoltaic_supply_chains) provided by *Nature*
+View-only SharedIt [full-text](https://rdcu.be/enuBz) 
 
 Preprint [pdf](/files/papers/2022-nature-solar-supply-chains-preprint.pdf)
 
@@ -85,6 +87,11 @@ Notable policy citations:
 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ```
+
+## The World Bank reproduced our chart
+
+[![Source: World Bank. 2024. World Development Report 2024: The Middle-Income Trap.](World-Development-Report-2024-Figure9.1.png){fig-align="center"}](http://hdl.handle.net/10986/41919)
+
 
 ## Twitter Thread
 
