@@ -10,6 +10,7 @@ page-layout: full
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
+{{< include /files/includes/_adsense.qmd >}}
 
 ## Example Quarto academic websites I reference occasionally
 
@@ -22,27 +23,34 @@ page-layout: full
 | <https://affcom.ku.edu/>                   | <https://github.com/jmgirard/affcomlab>                 |
 | <https://silviacanelon.com/>               | <https://github.com/spcanelon/silvia>                   |
 
-<br>
 
 
 ## Template I adapt you may find useful
 
-| Template | Web                           | GitHub                                           |
-| -------- | ----------------------------- | ------------------------------------------------ |
+| Template | Web                                                            | GitHub                                                         |
+| -------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
 | Academic | <https://drganghe.github.io/quarto-academic-website-template/> | <https://github.com/drganghe/quarto-academic-website-template> |
 
 ### Website examples of the template
 
-| Type      | Web                                                                              | GitHub                                                     |
-| --------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| Personal  | <https://drganghe.github.io/>                                                    | <https://github.com/drganghe/drganghe.github.io>           |
-| Lab/Group | <https://deeppolicylab.github.io/>                                               | <https://github.com/deeppolicylab/deeppolicylab.github.io> |
-| Class     | <https://drganghe.github.io/energy-climate-policy/>                              | <https://github.com/drganghe/energy-climate-policy>        |
-| Events    | <https://drganghe.github.io/climate-guest-speakers/>                             | <https://github.com/drganghe/climate-guest-speakers>       |
-| Slides    | <https://drganghe.github.io/files/slides/solar-supply-chains-slides.html>        | <https://quarto.org/docs/presentations/revealjs/>          |
-| Poster    | <https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png> | <https://github.com/brentthorne/posterdown>                |
+| Type        | Web                                                                              | GitHub                                                     |
+| ----------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Personal    | <https://drganghe.github.io/>                                                    | <https://github.com/drganghe/drganghe.github.io>           |
+| Lab/Group   | <https://deeppolicylab.github.io/>                                               | <https://github.com/deeppolicylab/deeppolicylab.github.io> |
+| Class       | <https://drganghe.github.io/energy-climate-policy/>                              | <https://github.com/drganghe/energy-climate-policy>        |
+| Events      | <https://drganghe.github.io/climate-guest-speakers/>                             | <https://github.com/drganghe/climate-guest-speakers>       |
 
 Note: If you’d like to use the template, please avoid forking my actual websites directly, as you will receive notifications whenever I update it. If you choose to do so, please be sure to remove my personal Google Analytics ID and MS Clarity ID from your site. Instead, I recommend forking the [Quarto Academic website template](https://github.com/drganghe/quarto-academic-website-template) to build your own website.
+
+
+### Other examples
+
+| Type        | File                                                                              | GitHub                                                     |
+| ----------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Manuscript | <https://drganghe.github.io/files/papers/2025-nature-nuclear-costs.pdf>          | <https://github.com/drganghe/quarto-manuscript-example>    |
+| Slides      | <https://drganghe.github.io/files/slides/solar-supply-chains-slides.html>        | <https://quarto.org/docs/presentations/revealjs/>          |
+| Poster      | <https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png> | <https://github.com/brentthorne/posterdown>                |
+
 
 
 ## Useful tips for building an academic Quarto site
@@ -51,8 +59,8 @@ Note: If you’d like to use the template, please avoid forking my actual websit
 
 To streamline updates across your site, use Quarto's [includes](https://quarto.org/docs/authoring/includes.html) feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.
 
-``` markdown
-{{include _statement.qmd}}
+```markdown
+"{{< include _statement.qmd >}}"
 ```
 
 Prefixing include file names with an underscore ("_") ensures they won't be rendered directly by Quarto. 
@@ -65,13 +73,13 @@ Here is an example course [description](https://github.com/drganghe/energy-clima
 Display academic badges like the [Dimension Citation badge](https://badges.dimensions.ai/) and [Altmetric badge](https://badge-docs.altmetric.com/getting-started.html). 
 
 ```{=html}
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle" data-hide-zero-citations="true"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
 ```
 
 Here's an example for embedding them:
 
 ``` markdown{.code-overflow-wrap}
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
 ```
 Replace the doi with your own.
 
@@ -136,7 +144,7 @@ Here is an [example](https://deeppolicylab.github.io/research/clean-energy-suppl
 
 To list external resources with key metadata, you can use this format to create clear, linked listings.
 
-```markdown
+```yaml
     - path: https://www.nature.com/articles/s41586-022-05316-6
       image: /files/images/journal/nature.avif
       title: "Quantifying the cost savings of global solar photovoltaic supply chains"
@@ -160,14 +168,15 @@ decktape automatic lecture1.html lecture1.pdf
 
 If you encounter font error when opening the PDF:
 
->Cannot extract the embedded font 'BAAAAA+SourceSansPro-Regular'. Some characters may not display or print correctly." 
+>"Cannot extract the embedded font 'BAAAAA+SourceSansPro-Regular'. Some characters may not display or print correctly." 
 
 Use Adobe Acrobat tools to fix it:
 
 1. Open the PDF in Adobe Acrobat. 
-2. Go to `Use print production` > `Preflight`. 
+2. Go to `Use print production` > `Preflight` > `Analyze and fix it` (default options). 
 3. Apply the necessary font correction. 
 
+Note: you will see two Google AdSense in this page, it is a test for me to learn how AdSense works, please ignore them.
 
 <!--Include social share buttons-->
 

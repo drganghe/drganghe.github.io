@@ -1,6 +1,12 @@
 ---
 title: "何钢"
-description-meta: "何钢，能源与气候政策学者。主要从事能源系统，能源与气候政策，能源转型方面的研究与教学工作。"
+subtitle: |
+  副教授 \
+  纽约市立大学 \
+  巴鲁克学院公共和国际事务学院 \
+  研究生院和大学中心 \
+  E-mail: gang.he@baruch.cuny.edu
+description-meta: "何钢，能源与气候政策学者。他是纽约市立大学巴鲁克学院公共和国际事务学院副教授，也是纽约市立大学研究生院和大学中心的博导及人口研究所的兼职教授。他主要从事能源系统，能源与气候政策，能源转型方面的研究与教学。"
 image: files/profile/gang-he-cuny-profile.jpg
 page-navigation: false
 toc: false
@@ -16,13 +22,12 @@ about:
       text: 深度能源与气候政策实验室
       href: https://deeppolicylab.github.io/cn.html
       target: _blank
-    - icon: globe
-      text: CUNY主页
+    - text: "![](/files/images/cuny-logo.png){width=20} CUNY主页"
       href: https://www.baruch.cuny.edu/profiles/faculty/Gang-He
       target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:gang.he@baruch.cuny.edu
+#    - icon: envelope
+#      text: E-mail
+#      href: mailto:gang.he@baruch.cuny.edu
 #    - icon: github
 #      text: Github
 #      href: https://github.com/drganghe
@@ -49,10 +54,13 @@ about:
     - text: "{{< ai scopus >}} Scopus"
       href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
       target: _blank
-    - text: 谷歌学术
+    - text: "{{< ai semantic-scholar >}} 语义学者"
+      href: https://www.semanticscholar.org/author/Gang-He/49430802
+      target: _blank      
+    - text: "{{< ai google-scholar >}} 谷歌学术"
       href: https://scholar.google.com/citations?user=vf90AuEAAAAJ
       target: _blank
-    - text: 研究之门
+    - text: "{{< ai researchgate >}} 研究之门"
       href: https://www.researchgate.net/profile/Gang-He-19
       target: _blank
 ---
@@ -62,17 +70,17 @@ about:
 
 :::{#hero-heading}
 
-何钢是纽约城市大学巴鲁克学院公共和国际事务学院助理教授，也是纽约城市大学大学研究生院和大学中心的博导及人口研究所的兼职教授。他主要从事能源系统、能源和气候政策及能源转型方面的研究和教学。他创建了[深度能源和气候政策实验室](https://deeppolicylab.github.io/cn.html){.external target="_blank"}，致力于为深度减排实现碳中和提供深度分析与深度见解。
+何钢是纽约市立大学巴鲁克学院公共和国际事务学院副教授，也是纽约市立大学研究生院和大学中心的博导及人口研究所的兼职教授。他主要从事能源系统、能源和气候政策及能源转型方面的研究和教学。他创建了[深度能源和气候政策实验室](https://deeppolicylab.github.io/cn.html){.external target="_blank"}，致力于为深度减排实现碳中和提供深度分析与深度见解。
 
-他主导和合作的研究发表在高影响力的跨学科和专业期刊上，包括《自然》（[清洁能源全球供应链](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd)）、《自然-通讯》（[低成本可再生能源影响](/posts/2020-05-ncomms-rapid-re-cost/index.qmd)、[电池部署策略](/posts/2023-08-ncomms-heterogeneous-effects-of-battery-storage-deployment-strategies/index.qmd)）、《自然-能源》（[气候变化对能源系统的影响](/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd)）、《自然-水》（[电-水-碳关系](/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/index.qmd)）、《一个地球》（[煤炭公正转型](/posts/2020-08-oneearth-coal-just-transition/index.qmd)）、《环境科学与技术》（[电力系统脱碳建模](/posts/2016-est-switch-china/index.qmd)）和《能源政策》（[碳抵消悖论和碳市场](/posts/2013-ep-carbon-offsetters-paradox/index.qmd)）。
+他的研究探索能源转型实现碳中和的技术路径和政策选择，及其对气候、环境与社会经济的影响，旨在实现可持续、韧性及公正的能源转型。聚焦领域包括清洁能源全球供应链、电力系统脱碳建模、气候变化对能源系统的影响、能源-水-碳关联关系、能源与气候公正等。他主导和合作的研究发表在高影响力的跨学科和专业期刊上，包括《[自然](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd)》、《[自然-通讯](/posts/2020-05-ncomms-rapid-re-cost/index.qmd)》、《[自然-能源](/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd)》、《[自然-水](/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/index.qmd)》、《[一个地球](/posts/2020-08-oneearth-coal-just-transition/index.qmd)》、《[环境科学与技术](/posts/2016-est-switch-china/index.qmd)》和《[能源政策](/posts/2013-ep-carbon-offsetters-paradox/index.qmd)》。
 
-他的研究得到了联邦政府、纽约州政府、非政府组织、基金会和工业界的支持。他的研究成果被《自然》、《科学美国人》、《碳简报》、《国家地理》、《能源与环境新闻》等媒体报道，并被政府间气候变化专门委员会（IPCC AR6）、世界银行、世界贸易组织、联合国环境规划署、国际可再生能源署、国际应用系统分析研究所等国际组织发布的报告所引用。
+他的研究得到了联邦政府、州级级地方政府、非政府组织、基金会和工业界的支持。研究成果被《自然》、《经济学人》、《纽约时报》、《科学美国人》、《碳简报》、《国家地理》、《能源与环境新闻》等媒体报道，并被国际应用系统分析研究所、政府间气候变化专门委员会（IPCC AR6）、世界银行、世界贸易组织、联合国环境规划署、国际可再生能源署等国际组织发布的报告所引用。
 
 他的工作为能源与气候政策制定提供了参考。例如，他曾受邀为《纽约州气候领导力和社区保护法案》提供证词，并担任纽约州气候行动委员会的气候行动计划综合报告技术顾问委员会成员为其提供建议。他还作为中美“21世纪20年代强化气候行动工作组”下能源转型专家组成员参与了中美在能源和气候变化方面的合作。
 
-他曾被选为联合国气候变化框架公约第11届缔约国会议青年代表（2005年）、亚洲21世纪青年领导力（2007年）、阿斯彭环境论坛学者（2011年）、新经济思维研究所青年学者（2013年）、ITIF能源创新政策与管理学者（2019年），并入选斯坦福/爱思唯尔2024年全球前2%科学家名单。
+他曾被选为联合国气候变化框架公约第11届缔约国会议青年代表（2005年）、亚洲21世纪青年领导力（2007年）、阿斯彭环境论坛学者（2011年）、新经济思维研究所青年学者（2013年）、ITIF能源创新政策与管理学者（2019年），美中关系全国委员会公共知识分子项目学者（2025年），并入选斯坦福/爱思唯尔全球前2%科学家名单（2025, 2024年）。
 
-他曾任职于石溪大学技术与社会系和斯坦福大学能源与可持续发展研究中心。他毕业于加州大学伯克利分校获得能源与资源博士学位，哥伦比亚大学气候与社会硕士学位及北京大学地理学学士和硕士学位。
+他曾任职于石溪大学技术与社会系、劳伦斯伯克利国家实验室能源技术部，和斯坦福大学能源与可持续发展研究中心。他毕业于加州大学伯克利分校获得能源与资源博士学位，哥伦比亚大学气候与社会硕士学位及北京大学地理学学士和硕士学位。
 
 :::
 

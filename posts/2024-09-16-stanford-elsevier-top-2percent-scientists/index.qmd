@@ -1,10 +1,10 @@
 ---
 title: "Included in World's Top 2% Scientists List 2024"
-description: "Thank you everyone for supporting our work!"
+description: "Thank you for supporting our work!"
 author: "Stanford/Elsevier"
 date: "2024-09-17"
-categories: [news, award, video]
-image: "Logo.png"
+categories: [news, recognition, video]
+image: "/files/awards/Top2Percent.png"
 css: /custom.css
 #draft: true
 ---
@@ -19,7 +19,7 @@ Grateful to be included in the **[Stanford/Elsevier Top 2% Scientists List 2024]
 - Energy
 - Enabling & Strategic Technologies
 
-I want to take a moment to thank my family, current and former students, visiting scholars, mentors, collaborators, funders, and colleagues for their invaluable support. 
+I want to take a moment to thank my family, current and former students, visiting scholars, mentors, collaborators, funders, editors, reviewers, and colleagues for their invaluable support. 
 
 
 ## Links
@@ -31,6 +31,8 @@ Baruch News, [Baruch College Faculty Included in World’s Top Scientist List](h
 ```
 
 {{< video /files/videos/world-top-scientists.mp4 >}}
+
+Source: Marxe School
 
 ## About World's Top 2% Scientists
 

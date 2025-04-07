@@ -36,3 +36,4 @@ Backup of *.doc*
 ~$*.ppt*
 # Visio autosave temporary files
 *.~vsd*
+**/*.quarto_ipynb

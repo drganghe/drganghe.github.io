@@ -71,6 +71,22 @@
 }
 
 
+.pdf-wrapper-16x9 {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 = 9/16 = 0.5625 */
+}
+
+.pdf-wrapper-16x9 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+
 /*ChatGPT*/
 span.__dimensions_badge_embed__, div.altmetric-embed {
   display: inline-block;

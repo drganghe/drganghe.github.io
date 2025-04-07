@@ -1,0 +1,129 @@
+---
+title: "Can China break the ‘cost curse’ of nuclear power?"
+description: "Escalating construction expenses threaten to derail global progress on atomic energy. China offers lessons on how to rein in costs."
+subtitle: "*Nature*"
+author: 
+  - name: Shangwei Liu
+  - name: Gang He
+  - name: Minghao Qiu
+  - name: Daniel M. Kammen
+date: "2025-07-28"
+categories: [paper]
+image: "fig1.png"
+citation:
+  type: article-journal
+  container-title: "Nature"
+  doi: "10.1038/d41586-025-02341-z"
+  available-date: "2025-07-28"
+  issued: "2025-07-31"
+  volume: 643
+#  issue: 
+  page: 1186-1188
+  url: https://www.nature.com/articles/d41586-025-02341-z
+google-scholar: true
+css: /custom.css
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+::: {.callout-warning}
+## Online Version
+Title: **China reins in the spiralling construction costs of nuclear power — what can other countries learn?**
+
+Strengthening regulations and domestic supply chains could be key to making nuclear power more economically viable.      
+:::
+
+[![Cover page of the paper](cover-page.png){fig-align="center" width="80%"}](https://www.nature.com/articles/d41586-025-02341-z)
+
+
+::: {.callout-note}
+## Paper
+Can China break the ‘cost curse’ of nuclear power?   
+Shangwei Liu\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen   
+*Nature* (2025)   
+DOI: [10.1038/d41586-025-02341-z](https://doi.org/10.1038/d41586-025-02341-z)    
+:::
+
+## Summary
+
+Escalating construction expenses threaten to derail global progress on atomic energy. China offers lessons on how to rein in costs. Over the past two decades, China has been the main country to substantially and consistently expand its nuclear fleet. Here we compiled and analyzed a dataset on the construction costs of nuclear power plants in China. We find that the construction costs of Chinese nuclear power plants have been declining since 2000, and the cost of building a nuclear power plant has been halved. China's deliberate, staged effort to build domestic supply chains and standardized reactor designs has been key to this success. Coordinated regulatory structures and long-term policy commitments have also been important. As countries rush to expand nuclear capacities, they must combine affordability with safety, scalability, investor confidence and public trust. Without this, nuclear power will remain an expensive bet the world can ill afford.
+
+
+[^clarification]:**Clarification regarding Flamanville 3 cost estimates**: At the time of our data collection, Flamanville 3 was still under construction, with published overnight cost estimates ranging from $4.013/W to $8.62/W [see @rothwellProjectedElectricityCosts2022, Table 2]. In our original figure (now included as [Supplementary Figure S1](https://media.nature.com/original/magazine-assets/d41586-025-02341-z/51274736)), we used the lower bound estimate of $4/W and denoted it as “> $4/W” to reflect the uncertainty and acknowledge that this conservative value already illustrates the magnitude of cost escalation in France’s recent nuclear construction. Subsequently, the [2025 French Court of Auditors’ review](https://www.ccomptes.fr/fr/publications/la-filiere-epr-une-dynamique-nouvelle-des-risques-persistants) placed the overnight construction cost at over $10/W. We note that the “>” symbol was inadvertently omitted from the final published figure, and we apologize for this oversight. 
+
+![Figure 1: Overnight construction costs of commercial nuclear power units in the US, France, and China. Overnight construction cost refers to the capital cost of building a nuclear power plant, excluding financing charges incurred during the construction period.[^clarification]](fig1.png)
+
+![Figure 2: The effect of indigenization (domestic content rate) on unit overnight construction costs of Chinese operating nuclear power plants. Each dot represents a nuclear power plant (including multiple units), as costs and domestic content rates are typically reported at this level. The dashed line represents the fitted linear regression of domestic content rate against unit overnight construction costs.](fig2.png){fig-align="center" width="80%"}
+
+
+
+## Links
+
+Published [paper](https://www.nature.com/articles/d41586-025-02341-z)
+
+SharedIt [full text](https://rdcu.be/eyaXW) 
+
+Preprint [pdf](/files/papers/2025-nature-nuclear-costs.pdf)
+
+Press [release](https://deeppolicylab.github.io/news/2025-07-28-nature-comment-nuclear-costs.html)
+
+Supplementary information [pdf](https://media.nature.com/original/magazine-assets/d41586-025-02341-z/51274736)
+
+Source [data](https://www.nature.com/magazine-assets/d41586-025-02341-z/51274734)
+
+- Power plant level investment costs (overnight construction costs)
+- Power plant indigenization rate (domestic content rate)
+- Harmonized nuclear power plant costs across countries (U.S., France, China)
+
+Nature Portfolio [summary](https://mp.weixin.qq.com/s/NZ6mnx_a46Fj0xepdMsluA) in Chinese 
+
+
+```{=html}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-025-02341-z" data-hide-zero-citations="true" data-style="small_circle"></span> 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/d41586-025-02341-z"></div>
+```
+
+## *Nature* press release
+
+> **Comment: China Offers Clues to Break Nuclear Power’s ‘Cost Curse’**
+>
+> While historically the nuclear industry has faced a ‘cost escalation curse’, as witnessed in the U.S. and France, China has halved and stabilized these expenses over the past two decades, according to a Comment piece published in Nature this week.
+>
+> Shangwei Liu, Gang He, Minghao Qiu, and Daniel Kammen compiled and analysed a data set on the construction costs of nuclear power plants in China drawn from a wide range of publicly available sources. They attribute this success to a strategic blend of stable regulations, domestic supply chain development, and standardized reactor designs. China’s centralized nuclear regulatory structure, long-term policy commitments, and rapid project execution have enabled it to build reactors in nearly half the time of recent Western counterparts. These findings have important implications for policymakers seeking a nuclear energy resurgence, “As countries rush to expand nuclear capacities, they must combine affordability with safety, scalability, investor confidence and public trust. Without this, nuclear power will remain an expensive bet the world can ill afford”, they conclude.
+
+
+## *The Economist* and *The New York Times* reproduced our chart
+
+
+[![Source: The Economist, September 4, 2025, Why nuclear is now a booming industry.](the-economist-energy-bills-chart.png){fig-align="center"}](https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry)
+
+
+[![Source: The New York Times, October 23, 2025, How China Raced Ahead of the U.S. on Nuclear Power.](NYT-nuclear-costs-chart.png){fig-align="center" width="80%"}](https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html)
+
+
+
+## LinkedIn
+
+{{< share-post https://www.linkedin.com/feed/update/urn:li:activity:7355643824590782465 >}}
+
+<!--
+```{=html}
+<style>
+  /* Style for screens with a width less than 550px */
+  @media (max-width: 550px) {
+    iframe {
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
+<iframe src="https://www.linkedin.com/feed/update/urn:li:activity:7355643824590782465/" height="1000" width="550" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+```
+-->
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
+

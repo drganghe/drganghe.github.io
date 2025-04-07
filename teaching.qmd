@@ -13,13 +13,13 @@ title-block-banner: false
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](/files/images/hex-Energy-Climate-Policy.png)
+[![](/files/images/hex-Energy-Climate-Policy.png)](https://drganghe.github.io/energy-climate-policy/)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://drganghe.github.io/energy-climate-policy/), &nbsp; [Fall 2023](https://drganghe.github.io/energy-climate-policy/2023/schedule.html)
+[Fall 2025](https://drganghe.github.io/energy-climate-policy/2025/schedule.html), &nbsp; [Fall 2024](https://drganghe.github.io/energy-climate-policy/2024/schedule.html), &nbsp; [Fall 2023](https://drganghe.github.io/energy-climate-policy/2023/schedule.html)
 
 The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition towards a sustainable future.
 
@@ -33,13 +33,13 @@ The urgent challenge of climate change demands innovative solutions and comprehe
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](/files/images/hex-Energy-Climate-Society.png)
+[![](/files/images/hex-Energy-Climate-Society.png)](https://drganghe.github.io/energy-climate-society/)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://drganghe.github.io/energy-climate-society/), &nbsp; [Fall 2023](https://drganghe.github.io/energy-climate-society/2023/schedule.html)
+[Spring 2026](https://drganghe.github.io/energy-climate-society/2026/schedule.html), &nbsp; [Spring 2025](https://drganghe.github.io/energy-climate-society/2025/schedule.html), &nbsp; [Fall 2023](https://drganghe.github.io/energy-climate-society/2023/schedule.html)
 
 Climate change is one of the biggest challenges of our time. This undergraduate course offers a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition towards a carbon-neutral future. Ultimately, the goal of this class is to provide students with a broad understanding of the challenges and opportunities associated with the energy and climate crisis. We aim to empower the students with the knowledge and skills needed to make a positive impact on climate solutions.
 
@@ -53,13 +53,13 @@ Climate change is one of the biggest challenges of our time. This undergraduate 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](/files/images/hex-Program-Evaluation.png)
+[![](/files/images/hex-Program-Evaluation.png)](https://drganghe.github.io/program-evaluation/)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://drganghe.github.io/program-evaluation/), &nbsp; [Spring 2024](https://drganghe.github.io/program-evaluation/2024/schedule.html)
+[Spring 2025](https://drganghe.github.io/program-evaluation/2025/schedule.html), &nbsp; [Spring 2024](https://drganghe.github.io/program-evaluation/2024/schedule.html)
 
 This course examines the practical aspects of program evaluation within public policy in domestic and international contexts. Emphasis is placed on the design and implementation of small- to medium-scale program evaluations under time and budget constraints using “best feasible” methods. Topics include the types and purposes of evaluation, theory-based evaluation, evaluability and planning, measurement and construct validity, data collection, evaluation design, estimation of program effects, experiments, qualitative and mixed methods, evaluation resistance, building organizational capacity, ethics, cost-effectiveness, and reporting and utilization. 
 
@@ -93,13 +93,13 @@ This course examines the practical aspects of program evaluation within public p
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-[![](/files/images/hex-STIP.png)](https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy)
+[![](/files/images/hex-STIP.png)](https://sites.google.com/view/ganghe/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2023](https://www.ganghe.net/teaching/EST625-2023-Advanced-Science-Technology-and-Innovation-Policy){.external target="_blank"} &nbsp; | &nbsp;  [Spring 2022](https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy){.external target="_blank"}
+[Spring 2023](https://sites.google.com/view/ganghe/teaching/EST625-2023-Advanced-Science-Technology-and-Innovation-Policy){.external target="_blank"} &nbsp; | &nbsp;  [Spring 2022](https://sites.google.com/view/ganghe/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy){.external target="_blank"}
 
 This PhD seminar evaluates ideas and applications of science, technology, policy and innovation systems by drawing from a wide range of early and current literature and case studies. Emphasis is placed on deconstructing seminal ideas and practices in the context of policy and technology change. Students will refine analytical and communication skills that are relevant for working in positions at the interface of technology, policy, and innovation.
 

@@ -14,7 +14,7 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/notes.html</link>
 </image>
-<generator>quarto-1.6.42</generator>
+<generator>quarto-1.8.26</generator>
 <lastBuildDate>Fri, 03 Jan 2025 05:00:00 GMT</lastBuildDate>
 <item>
   <title>CUNY Baruch College Visiting Scholar Paperwork Guide</title>
@@ -399,6 +399,10 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
+<!-- 
+AdSense check more: https://adsense.google.com/
+-->
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1799740429520474" crossorigin="anonymous"></script>
 <section id="example-quarto-academic-websites-i-reference-occasionally" class="level2">
 <h2 class="anchored" data-anchor-id="example-quarto-academic-websites-i-reference-occasionally">Example Quarto academic websites I reference occasionally</h2>
 <table class="caption-top table">
@@ -435,7 +439,6 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </tr>
 </tbody>
 </table>
-<p><br></p>
 </section>
 <section id="template-i-adapt-you-may-find-useful" class="level2">
 <h2 class="anchored" data-anchor-id="template-i-adapt-you-may-find-useful">Template I adapt you may find useful</h2>
@@ -486,19 +489,38 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <td><a href="https://drganghe.github.io/climate-guest-speakers/" class="uri">https://drganghe.github.io/climate-guest-speakers/</a></td>
 <td><a href="https://github.com/drganghe/climate-guest-speakers" class="uri">https://github.com/drganghe/climate-guest-speakers</a></td>
 </tr>
+</tbody>
+</table>
+<p>Note: If you’d like to use the template, please avoid forking my actual websites directly, as you will receive notifications whenever I update it. If you choose to do so, please be sure to remove my personal Google Analytics ID and MS Clarity ID from your site. Instead, I recommend forking the <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic website template</a> to build your own website.</p>
+</section>
+<section id="other-examples" class="level3">
+<h3 class="anchored" data-anchor-id="other-examples">Other examples</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>File</th>
+<th>GitHub</th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
+<td>Manuscript</td>
+<td><a href="https://drganghe.github.io/files/papers/2025-nature-nuclear-costs.pdf" class="uri">https://drganghe.github.io/files/papers/2025-nature-nuclear-costs.pdf</a></td>
+<td><a href="https://github.com/drganghe/quarto-manuscript-example" class="uri">https://github.com/drganghe/quarto-manuscript-example</a></td>
+</tr>
+<tr class="even">
 <td>Slides</td>
 <td><a href="https://drganghe.github.io/files/slides/solar-supply-chains-slides.html" class="uri">https://drganghe.github.io/files/slides/solar-supply-chains-slides.html</a></td>
 <td><a href="https://quarto.org/docs/presentations/revealjs/" class="uri">https://quarto.org/docs/presentations/revealjs/</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Poster</td>
 <td><a href="https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png" class="uri">https://drganghe.github.io/files/posters/nature-solar-supply-chains-poster.png</a></td>
 <td><a href="https://github.com/brentthorne/posterdown" class="uri">https://github.com/brentthorne/posterdown</a></td>
 </tr>
 </tbody>
 </table>
-<p>Note: If you’d like to use the template, please avoid forking my actual websites directly, as you will receive notifications whenever I update it. If you choose to do so, please be sure to remove my personal Google Analytics ID and MS Clarity ID from your site. Instead, I recommend forking the <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic website template</a> to build your own website.</p>
 </section>
 </section>
 <section id="useful-tips-for-building-an-academic-quarto-site" class="level2">
@@ -506,28 +528,152 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <section id="using-includes-for-reusable-content" class="level3">
 <h3 class="anchored" data-anchor-id="using-includes-for-reusable-content">Using “Includes” for reusable content</h3>
 <p>To streamline updates across your site, use Quarto’s <a href="https://quarto.org/docs/authoring/includes.html">includes</a> feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.</p>
-<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">{{include _statement.qmd}}</span></code></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">"{{&lt; include _statement.qmd &gt;}}"</span></code></pre></div></div>
 <p>Prefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.</p>
 <p>Here is an example course <a href="https://github.com/drganghe/energy-climate-policy/blob/main/files/includes/_coursedescription.qmd">description</a>, and reuse it in <a href="https://github.com/drganghe/energy-climate-policy/blob/main/index.qmd">mainpage</a> and <a href="https://github.com/drganghe/energy-climate-policy/blob/main/syllabus.qmd">syllabus</a>.</p>
 </section>
 <section id="academic-badges" class="level3">
 <h3 class="anchored" data-anchor-id="academic-badges">Academic badges</h3>
 <p>Display academic badges like the <a href="https://badges.dimensions.ai/">Dimension Citation badge</a> and <a href="https://badge-docs.altmetric.com/getting-started.html">Altmetric badge</a>.</p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle" data-hide-zero-citations="true"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <p>Here’s an example for embedding them:</p>
-<div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-overflow-wrap code-with-copy"><code class="sourceCode markdown"><span id="cb2-1">&lt;span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle"&gt;&lt;/span&gt; &lt;div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"&gt;&lt;/div&gt;</span></code></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-overflow-wrap code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&lt;</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">span</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> class</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"__dimensions_badge_embed__"</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> data-doi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"10.1038/s41586-022-05316-6"</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> data-style</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"large_rectangle"</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> data-hide-zero-citations</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"true"</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;&lt;/</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">span</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;</span> <span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&lt;</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">div</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> data-badge-popover</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"right"</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> data-badge-type</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"1"</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> data-doi</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"10.1038/s41586-022-05316-6"</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> data-hide-no-mentions</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"true"</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> class</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"altmetric-embed"</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;&lt;/</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">div</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;</span></span></code></pre></div></div>
 <p>Replace the doi with your own.</p>
 <p>Make sure to include below scripts in the same page to enable the badges:</p>
-<div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1">&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;</span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&lt;</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">script</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'text/javascript'</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> src</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;&lt;/</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">script</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;</span></span>
 <span id="cb3-2"></span>
-<span id="cb3-3">&lt;script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"&gt;&lt;/script&gt;</span></code></pre></div>
+<span id="cb3-3"><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&lt;</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">script</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> async src</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"https://badge.dimensions.ai/badge.js"</span><span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;"> charset</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"utf-8"</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;&lt;/</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">script</span><span class="dt" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&gt;</span></span></code></pre></div></div>
 <p>You can also showcase your highly cited and hot papers using custom badges.</p>
 <p><img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> <img src="https://drganghe.github.io/files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"></p>
-<div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><span class="al" style="color: #AD0000;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><span class="al" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper")</span>{width=20 fig-alt="Highly cited paper"} <span class="al" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper")</span>{width=20 fig-alt="Hot paper"}</span></code></pre></div>
+font-style: inherit;">![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper")</span>{width=20 fig-alt="Hot paper"}</span></code></pre></div></div>
 <p>Here is an <a href="https://drganghe.github.io/publications.html">example</a>, and the <a href="https://github.com/drganghe/drganghe.github.io/blob/main/publications.qmd">source code</a>.</p>
 </section>
 <section id="social-sharing" class="level3">
@@ -548,7 +694,7 @@ font-style: inherit;">![](https://drganghe.github.io/files/images/hot-paper-badg
 <section id="listing-specific-categories" class="level3">
 <h3 class="anchored" data-anchor-id="listing-specific-categories">Listing specific categories</h3>
 <p>To display a subset of items, use the <code>include</code> and <code>exclude</code> <a href="https://quarto.org/docs/websites/website-listings.html#including-or-excluding-items">options</a>. Below is an example of listing publications by category:</p>
-<div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb5-1"><span class="at" style="color: #657422;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb5-1"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">  </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -583,50 +729,106 @@ font-style: inherit;">:</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;"> </span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"supply-chain"</span></span></code></pre></div>
+font-style: inherit;">"supply-chain"</span></span></code></pre></div></div>
 <p>Here, <code>publications.yml</code> is a YAML file containing a list of publications with predfined <code>categories</code>, and <code>categories</code> is the key used for filtering. The result will display only publications that match the specified category.</p>
 <p>Here is an <a href="https://deeppolicylab.github.io/research/clean-energy-supply-chains/index.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research/clean-energy-supply-chains/index.qmd">source code</a>.</p>
 </section>
 <section id="listing-external-items" class="level3">
 <h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
 <p>To list external resources with key metadata, you can use this format to create clear, linked listings.</p>
-<div class="sourceCode" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb6-1"><span class="in" style="color: #5E5E5E;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb6-1"><span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">    - path: https://www.nature.com/articles/s41586-022-05316-6</span></span>
-<span id="cb6-2"><span class="in" style="color: #5E5E5E;
+font-style: inherit;">    </span><span class="kw" style="color: #003B4F;
 background-color: null;
-font-style: inherit;">      image: /files/images/journal/nature.avif</span></span>
-<span id="cb6-3"><span class="in" style="color: #5E5E5E;
+font-weight: bold;
+font-style: inherit;">-</span><span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">      title: "Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
-<span id="cb6-4"><span class="in" style="color: #5E5E5E;
+font-style: inherit;"> </span><span class="fu" style="color: #4758AB;
 background-color: null;
-font-style: inherit;">      subtitle: "*Nature*"</span></span>
-<span id="cb6-5"><span class="in" style="color: #5E5E5E;
+font-style: inherit;">path</span><span class="kw" style="color: #003B4F;
 background-color: null;
-font-style: inherit;">      description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
-<span id="cb6-6"><span class="in" style="color: #5E5E5E;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">      date: "2022-10-26"</span></span></code></pre></div>
+font-style: inherit;"> https://www.nature.com/articles/s41586-022-05316-6</span></span>
+<span id="cb6-2"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">image</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> /files/images/journal/nature.avif</span></span>
+<span id="cb6-3"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">title</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
+<span id="cb6-4"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">subtitle</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"*Nature*"</span></span>
+<span id="cb6-5"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">description</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
+<span id="cb6-6"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">date</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"2022-10-26"</span></span></code></pre></div></div>
 <p>For efficiency, store multiple items in a YAML(.yml) file and reference it in Quarto.</p>
 <p>Here is an <a href="https://deeppolicylab.github.io/publications.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd">source code</a>.</p>
 </section>
 <section id="exporting-quarto-revealjs-slides-to-pdf" class="level3">
 <h3 class="anchored" data-anchor-id="exporting-quarto-revealjs-slides-to-pdf">Exporting Quarto Revealjs slides to PDF</h3>
 <p>Revealjs’s default <a href="https://revealjs.com/pdf-export/">PDF Export</a> omits footnotes, which is not acceptable if citations and sources are used. A workaround is to use <a href="https://github.com/astefanutti/decktape">decktape</a>:</p>
-<div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><span class="ex" style="color: null;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><span class="ex" style="color: null;
 background-color: null;
-font-style: inherit;">decktape</span> automatic lecture1.html lecture1.pdf</span></code></pre></div>
+font-style: inherit;">decktape</span> automatic lecture1.html lecture1.pdf</span></code></pre></div></div>
 <p>If you encounter font error when opening the PDF:</p>
 <blockquote class="blockquote">
-<p>Cannot extract the embedded font ‘BAAAAA+SourceSansPro-Regular’. Some characters may not display or print correctly.”</p>
+<p>“Cannot extract the embedded font ‘BAAAAA+SourceSansPro-Regular’. Some characters may not display or print correctly.”</p>
 </blockquote>
 <p>Use Adobe Acrobat tools to fix it:</p>
 <ol type="1">
 <li>Open the PDF in Adobe Acrobat.</li>
-<li>Go to <code>Use print production</code> &gt; <code>Preflight</code>.</li>
+<li>Go to <code>Use print production</code> &gt; <code>Preflight</code> &gt; <code>Analyze and fix it</code> (default options).</li>
 <li>Apply the necessary font correction.</li>
 </ol>
+<p>Note: you will see two Google AdSense in this page, it is a test for me to learn how AdSense works, please ignore them.</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 

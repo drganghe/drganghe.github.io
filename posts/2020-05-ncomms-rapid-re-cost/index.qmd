@@ -58,10 +58,10 @@ Notable policy citations:
 
 {{< include /files/includes/policycitations/_naturecomms2020.qmd >}}
 
-
+```{=html}
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-020-16184-x" data-hide-zero-citations="true" data-style="small_circle"></span> 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-020-16184-x"></div>
-
+```
 
 ## Twitter Thread
 

@@ -3,7 +3,7 @@ title: "Best poster award in IAMC 2022"
 description: "Our solar global supply chain paper won the best poster award in the IAMC 2022 annual meeting."
 author: "IAMC2022"
 date: "2022-12-01"
-categories: [news, poster, video, award]
+categories: [news, poster, video, recognition]
 image: "featured.jpeg"
 css: /custom.css
 ---

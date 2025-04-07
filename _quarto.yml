@@ -29,14 +29,14 @@ website:
             href: contact.qmd             
       - text: Research
         menu:
-          - text: List of Publication
+          - text: List of Publications
             href: publications.qmd
           - text: Selected Papers
             href: posts.qmd#category=paper
           - text: Commentary
             href: posts.qmd#category=commentary
-          - text: Awards
-            href: posts.qmd#category=award  
+          - text: Recognition
+            href: posts.qmd#category=recognition  
           - text: Grants
             href: https://deeppolicylab.github.io/projects.html
             target: _blank                                  
@@ -82,17 +82,18 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    right:  
-      - icon: github
-        href: https://github.com/drganghe/drganghe.github.io
-        target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app/profile/hegang.bsky.social
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+    center: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    # left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    # right:  
+    #   - icon: github
+    #     href: https://github.com/drganghe/drganghe.github.io
+    #     target: _blank
+    #   - text: "{{< fa brands bluesky >}}" 
+    #     href: https://bsky.app/profile/hegang.bsky.social
+    #     target: _blank
+    #   - icon: rss
+    #     href: posts.xml
+    #     target: _blank  
   
   search:
     location: navbar

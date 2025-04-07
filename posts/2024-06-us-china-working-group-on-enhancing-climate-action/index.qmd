@@ -26,7 +26,7 @@ listing:
       - "title asc"
 ---
 
-![Sculpture "Peace" near the Capitol Mall of Sacramento, California. Created by Stephen J. Kaltenbach. Photoed by Gang He.](/files/images/handshake-sculpture.JPG)
+![Sculpture "Peace" near the Capitol Mall of Sacramento, California. Created by Stephen J. Kaltenbach. Photo by Gang He.](/files/images/handshake-sculpture.JPG)
 
 ## Summary
 

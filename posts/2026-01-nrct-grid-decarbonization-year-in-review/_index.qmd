@@ -1,0 +1,83 @@
+---
+title: "Renewable integration and AI demand reshaped power grids in 2025"
+description: "The importance of renewable integration into grids came to the forefront in 2025. New challenges in stability, storage, AI demand, and policy changes defined a year that tested whether power systems can become reliable, flexible, and equitable in a net-zero world."
+subtitle: "*Nature Reviews Clean Technology*"
+author:
+  - name: Gang He
+    orcid: "0000-0002-8416-1965" # Add your ORCID here 
+    # affiliations:
+    #   - Marxe School of Public and International Affairs, Baruch College, City University of New York, New York, United States of America
+    #   - CUNY Institute for Demographic Research, City University of New York, New York, United States of America
+    #   - Earth and Environmental Sciences, The Graduate Center, City University of New York, New York, United States of America
+    corresponding: true
+    email: gang.he@baruch.cuny.edu
+#journal: "Nature Reviews Clean Technology"
+#manuscript-type: "Commentary"
+bibliography: ../../references.bib
+date: "2026-01-20"
+categories: [paper]
+image: "featured.jpg"
+citation:
+  type: article-journal
+  container-title: "Nature Reviews Clean Technology"
+  volume: 2
+  issue: 1
+  page: 1-2
+  doi: "10.1038/s44359-025-00136-z"
+  url: https://doi.org/10.1038/s44359-025-00136-z
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+Renewable integration and AI demand reshaped power grids in 2025     
+**Gang He**  
+*Nature Reviews Clean Technology* (2026)   
+DOI: [10.1038/s44359-025-00136-z](https://doi.org/10.1038/s44359-025-00136-z)  
+:::
+
+![Grid decarbonization in 2025](featured.jpg)
+
+## Standfirst
+
+The importance of renewable integration into power grids came to the forefront in 2025. New challenges in stability, storage, artificial-intelligence demand, and policy shifts defined a year that tested whether power systems can become reliable, flexible, and equitable in a net-zero world.
+
+## Key Advances
+
+- Global renewable electricity generation exceeded coal generation for the first time.  
+- Investment and research into long-duration energy storage became central to grid decarbonization.  
+- Surging AI demand accelerated interest in firm, low-carbon power sources.
+
+## Main text
+
+In 2025, for the first time, renewable electricity generation surpassed coal [@wiatros-motykaGlobalElectricityMidYear2025], a symbolic and structural milestone in the history of the power sector. This shift was the result of decades of wind and solar deployment, supported by marked cost declines, industrial policy, and net-zero targets. Yet 2025 also revealed deeper challenges to grid decarbonization—extreme weather, rising electrification, and surging loads from artificial-intelligence (AI) data centers all tested grids and highlighted the growing importance of reliability, affordability, and resilience.
+
+These challenges were brought into sharp focus by the Iberian Blackout, a cascading system failure originating from a voltage disturbance that disconnected gigawatts of solar and wind power in Spain in April 2025. As solar and wind push inverter-based generation to high penetrations, the traditional sources of grid inertia provided by synchronous generators are disappearing. The Iberian event demonstrated that renewable-integration challenges are no longer theoretical; they are unfolding on real power systems serving tens of millions of people. The incident accelerated a global shift toward grid-forming inverters, which can emulate the inertial and voltage-control properties of conventional generators [@icsinvestigationexpertpanelGridIncidentSpain2025]. [European operators](https://eepublicdownloads.entsoe.eu/clean-documents/Publications/SOC/20240503_First_interim_report_in_technical_requirements.pdf) moved toward mandating grid-forming capabilities in new installations, while pilot and demonstration programs were launched in [China](https://www.ceic.com/gjnyjtwwEn/xwzx/202404/72feddf672de4e859517bd9104c2ef2d.shtml) and the [United States](https://www.energy.gov/sites/default/files/2023-10/CX-028809.pdf). The blackout became a defining moment for grid decarbonization in 2025, underscoring that system stability must be reinforced alongside rapid renewable expansion.
+
+Flexibility constraints also became increasingly visible in electricity markets. [Curtailment of wind power in the United Kingdom and Ireland reached](https://info.montel.energy/-gb-ireland-renewable-curtailment-report) 4.6 TWh in the first half of 2025, and Europe experienced nearly double the number of hours with negative wholesale electricity prices compared to the previous year [@internationalenergyagencyElectricityMidYearUpdate2025]. These signals reflect a structural imbalance between accelerating renewable supply and insufficient system flexibility, demand response, and transmission. Battery storage prices continued to decline, although trade tensions [slowed](https://www.bloomberg.com/news/articles/2025-01-15/trade-wars-seen-slowing-battery-price-plunge-in-2025) the pace of cost reductions. The lack of utility-scale long-duration energy storage (LDES)—systems capable of delivering ten or more hours of energy—emerged as a defining constraint on deeper decarbonization [@dowlingRoleLongDurationEnergy2020].
+
+LDES commercialization nonetheless advanced in 2025. The first [commercial-scale liquid-air energy storage facility](https://www.bbc.com/future/article/20251009-the-liquid-air-alternative-to-fossil-fuels) in the United Kingdom was connected to the grid, and a [3.6-GW pumped hydropower plant](https://www.enerdata.net/publications/daily-energy-news/china-commissions-two-hydropower-plants-hebei-and-qinghai-59-gw.html) in Hebei province, China, entered its first year of full operation. Multiple companies commissioned thermal-storage pilots and flow-battery demonstrations, testing their performance at grid scale. Policymakers responded as well: China’s [15th Five-Year Plan](https://english.news.cn/20251028/efbfd0c774fd4b1c8daeb741c0351431/c.html) elevated storage as a core pillar of its “new electricity system"; Ireland’s transmission system operator [proposed dedicated procurement mechanisms](https://consult.eirgrid.ie/en/consultation/long-duration-energy-storage-ldes-procurement-mechanism-consultation) to deliver 201 MW of storage capacity by 2030; and California’s battery storage capacity reached [16.9 GW](https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-energy-storage-system-survey), helping [tame its well-known duck curve](https://escholarship.org/uc/item/34b106b2). Across regions, LDES is increasingly viewed as core infrastructure needed to close the gap between variable generation and continuous load.
+
+Policy developments diverged sharply across regions. China’s [Nationally Determined Contribution for 2035](https://unfccc.int/sites/default/files/2025-11/2035%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%87%AA%E4%B8%BB%E8%B4%A1%E7%8C%AE%E6%8A%A5%E5%91%8A.pdf) commits to reducing greenhouse-gas emissions by 7–10% from peak levels, raising the share of non-fossil fuels above 30% of total energy use, and expanding wind and solar capacity to 3,600 GW—more than six times 2020 levels. The United States, by contrast, withdrew from the Paris Agreement for a second time and adopted an energy-independence strategy focused on expanding fossil-fuel production. Modeling suggests that rollbacks of federal clean-energy subsidies could slow U.S. decarbonization and raise emissions and energy expenditures over 2025–2035 [@jenkinsImpactsOneBig2025].
+
+Despite policy uncertainty, global clean-energy investment reached a record US$2 trillion in 2025 [@internationalenergyagencyWorldEnergyInvestment2025]. Lower-income economies emerged as important engines of renewable growth. [Pakistan](https://ember-energy.org/countries-and-regions/pakistan/)’s share of solar electricity nearly quadrupled between 2021 and 2024, rising from 3% to 11%. Solar exports from China to low- and middle-income economies surpassed shipments to high-income economies for the first time in early 2025 [@emberFirstEvidenceTakeoff2025]. Europe continued advancing complementary technologies, with [industrial-scale green-hydrogen plants](https://www.blackridgeresearch.com/blog/latest-list-of-largest-biggest-upcoming-green-hydrogen-h2-projects-plants-in-european-union-commission-council) moving toward operation and large carbon-capture hubs in [Northwest Europe](https://www.iea.org/commentaries/ccus-projects-around-the-world-are-reaching-new-milestones) shifting from planning to construction. Together, these developments signal a transition from a generation-centric decarbonization model toward a portfolio approach combining renewables, storage, hydrogen, and carbon capture.
+
+Transmission expansion was another defining theme of 2025. The United States adopted [FERC Order No. 1920](https://www.ferc.gov/media/order-1920-b), mandating long-term regional transmission planning and cost allocation. China continued extending [ultra-high-voltage corridors](https://ember-energy.org/app/uploads/2025/09/China-Energy-Transition-Review-2025.pdf) to connect desert solar resources with coastal load centers. Meanwhile, the [ASEAN Power Grid](https://asean.org/adb-and-world-bank-group-launch-the-asean-power-grid-financing-initiative-with-the-asean-secretariat-and-the-asean-centre-for-energy-ace/) and the [African Green Grids Initiative](https://greengridsinitiative.net/news/climate-finance-principles-to-unlock-grids-financing-finalised-and-endorsed-by-climate-bonds-initiative/) gained momentum, both aiming to strengthen regional interconnection and reduce dependence on isolated national systems. These initiatives point toward a future of more interconnected and flexible grids.
+
+Perhaps the most transformative development of 2025 was the emergence of *energy for AI* as a primary driver of electricity demand. As AI models grow in size and commercial deployment accelerates, the energy footprint of data centers has surged, potentially reaching 12% of U.S. electricity demand by 2028 [@shehabi2024UnitedStates2024]. This demand wave is reshaping electricity planning and reviving interest in firm, low-carbon baseload power, particularly nuclear energy [@liuCanChinaBreak2025]. Several technology companies announced direct investments and long-term power-purchase agreements with [nuclear plants](https://www.nytimes.com/2024/10/16/business/energy-environment/amazon-google-microsoft-nuclear-energy.html), signaling a shift from annual “100% renewable” targets toward 24/7 zero-carbon energy strategies. At the same time, AI-driven demand is pushing electricity prices upward,  with [modelling](https://www.cmu.edu/work-that-matters/energy-innovation/data-center-growth-could-increase-electricity-bills) suggesting consumer power bills increasing 8% nationally and up to 25% in some regions in the U.S., raising concerns about affordability and equity, even as electric-vehicle adoption and managed charging are helping reduce system costs in some regions [@muratoriTrends2025Insights2025].
+
+By the end of 2025, renewable energy had begun to dominate power systems in several regions. The challenge ahead is scaling this dominance globally while ensuring that decarbonizing grids are reliable, resilient, and intelligent enough to serve rapidly electrifying and digitally intensive economies. Technological progress in grid-forming inverters, long-duration storage, and digital grid management must be matched by ambitious policy reforms, faster interconnection processes, and deeper community engagement. As power systems transmit more electricity from renewables than from coal, aligning technology, investment, and governance will be essential to making renewable integration the backbone of a reliable and affordable net-zero grid—and the foundation for powering the rapidly expanding AI economy.
+
+## Acknowledgements
+
+The author thanks the Alfred P. Sloan Foundation and the ClimateWorks Foundation for supporting research at the Deep Energy and Climate Policy Lab.
+
+## Competing interests
+
+The author declares no competing interests.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

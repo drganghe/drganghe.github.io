@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,15 +34,17 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3146a0984a964146c28da0a2cf78b9ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3e8f12d1b5c8d04d32925f9f9ead600c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -144,7 +146,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -163,19 +165,15 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Media – Dr.&nbsp;Gang He">
 <meta property="og:description" content="In the news">
-<meta property="og:image" content="https://drganghe.github.io/files/images/media/ee-news.png">
+<meta property="og:image" content="https://drganghe.github.io/files/profile/gang-he-cuny-profile.jpg">
 <meta property="og:site_name" content="Dr. Gang He">
-<meta property="og:image:height" content="534">
-<meta property="og:image:width" content="950">
 <meta name="twitter:title" content="Media – Dr.&nbsp;Gang He">
 <meta name="twitter:description" content="In the news">
-<meta name="twitter:image" content="https://drganghe.github.io/files/images/media/ee-news.png">
-<meta name="twitter:image-height" content="534">
-<meta name="twitter:image-width" content="950">
+<meta name="twitter:image" content="https://drganghe.github.io/files/profile/gang-he-cuny-profile.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -222,7 +220,7 @@ window.Quarto = {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
     <a class="dropdown-item" href="./publications.html">
- <span class="dropdown-text">List of Publication</span></a>
+ <span class="dropdown-text">List of Publications</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./posts.html#category=paper">
@@ -233,8 +231,8 @@ window.Quarto = {
  <span class="dropdown-text">Commentary</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./posts.html#category=award">
- <span class="dropdown-text">Awards</span></a>
+    <a class="dropdown-item" href="./posts.html#category=recognition">
+ <span class="dropdown-text">Recognition</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="https://deeppolicylab.github.io/projects.html" target="_blank">
@@ -323,7 +321,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(22)</span></div><div class="category" data-category="Q2FyYm9uJTIwQnJpZWY=">Carbon Brief <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RSUyNkUlMjBOZXdz">E&amp;E News <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Rm9yYmVz">Forbes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9yZWlnbiUyMFBvbGljeQ==">Foreign Policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW5zaWRlJTIwQ2xpbWF0ZSUyME5ld3M=">Inside Climate News <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmF0aW9uYWwlMjBHZW9ncmFwaGlj">National Geographic <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmF0dXJl">Nature <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Tmlra2VpJTIwQXNpYQ==">Nikkei Asia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2NpZW50aWZpYyUyMEFtZXJpY2Fu">Scientific American <span class="quarto-category-count">(3)</span></div><div class="category" data-category="VGhlJTIwR3VhcmRpYW4=">The Guardian <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhlJTIwTmV3JTIwWW9yayUyMFRpbWVz">The New York Times <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhlJTIwU2VhdHRsZSUyMFRpbWVz">The Seattle Times <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V1NIVSUyMFB1YmxpYyUyMFJhZGlv">WSHU Public Radio <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(29)</span></div><div class="category" data-category="QWxidXF1ZXJxdWUlMjBKb3VybmFs">Albuquerque Journal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Qmxvb21iZXJn">Bloomberg <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q2FyYm9uJTIwQnJpZWY=">Carbon Brief <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RSUyNkUlMjBOZXdz">E&amp;E News <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Rm9yYmVz">Forbes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rm9yZWlnbiUyMFBvbGljeQ==">Foreign Policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW5zaWRlJTIwQ2xpbWF0ZSUyME5ld3M=">Inside Climate News <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmF0aW9uYWwlMjBHZW9ncmFwaGlj">National Geographic <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TmF0dXJl">Nature <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Tmlra2VpJTIwQXNpYQ==">Nikkei Asia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UFYlMjBNYWdhemluZQ==">PV Magazine <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2NpZW50aWZpYyUyMEFtZXJpY2Fu">Scientific American <span class="quarto-category-count">(3)</span></div><div class="category" data-category="VGhlJTIwRWNvbm9taXN0">The Economist <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhlJTIwR3VhcmRpYW4=">The Guardian <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhlJTIwSGlnaGxhbmRzJTIwQ3VycmVudA==">The Highlands Current <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhlJTIwTmV3JTIwWW9yayUyMFRpbWVz">The New York Times <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VGhlJTIwU2VhdHRsZSUyMFRpbWVz">The Seattle Times <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V1NIVSUyMFB1YmxpYyUyMFJhZGlv">WSHU Public Radio <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -361,23 +359,23 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <div id="listing-media" class="quarto-listing quarto-listing-container-default">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-media-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-media'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-media-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-media'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
@@ -385,27 +383,234 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="RSUyNkUlMjBOZXdz" data-listing-date-sort="1722830400000">
-<div class="thumbnail">
-<p><a href="https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/"></a></p><a href="https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/">
-<p><img loading="lazy" src="./files/images/media/ee-news.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/"></a></p>
+<div class="quarto-post image-right" data-index="0" data-categories="Qmxvb21iZXJn" data-listing-date-sort="1765688400000">
+<div class="thumbnail"><a href="https://www.bloomberg.com/news/features/2025-12-14/china-faces-the-cost-of-dismantling-the-world-s-biggest-coal-sector">
+
+<img loading="lazy" src="./files/images/media/bloomberg.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://www.bloomberg.com/news/features/2025-12-14/china-faces-the-cost-of-dismantling-the-world-s-biggest-coal-sector">China Faces the Cost of Dismantling the World’s Biggest Coal Sector</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Qmxvb21iZXJn'); return false;">Bloomberg</div>
+
 </div>
+<div class="delink listing-description"><a href="https://www.bloomberg.com/news/features/2025-12-14/china-faces-the-cost-of-dismantling-the-world-s-biggest-coal-sector">
+<p>“Coal remains deeply embedded in the economic and social fabric of many Chinese communities,” said Gang He, associate professor at Baruch College, City University of New York, who specialises in energy and climate policies. “A transition away from coal is therefore not only an energy transformation, but also an economic and employment transition that must be managed with care.” “The ability of China to manage this transition in a rapid and just manner will have a significant impact on how it and, to a large extent, the world use energy and address climate change,” Gang said.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://www.bloomberg.com/news/features/2025-12-14/china-faces-the-cost-of-dismantling-the-world-s-biggest-coal-sector">
+<div class="listing-date">
+Dec 14, 2025
+</div>
+<div class="listing-author">
+Dan Murtaugh
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="QWxidXF1ZXJxdWUlMjBKb3VybmFs" data-listing-date-sort="1763182800000">
+<div class="thumbnail"><a href="https://www.abqjournal.com/business/article_068db659-ba12-4b8d-82f4-88ba4373c9a6.html">
+
+<img loading="lazy" src="./files/images/media/albuquerque-journal.webp" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://www.abqjournal.com/business/article_068db659-ba12-4b8d-82f4-88ba4373c9a6.html">Albuquerque’s Array Technologies Powers Ahead Despite Trump’s Tougher Stance on Renewables</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QWxidXF1ZXJxdWUlMjBKb3VybmFs'); return false;">Albuquerque Journal</div>
+
+</div>
+<div class="delink listing-description"><a href="https://www.abqjournal.com/business/article_068db659-ba12-4b8d-82f4-88ba4373c9a6.html">
+<p>“It’s encouraging to see domestic solar manufacturing gaining ground,” said Gang He, an associate professor of energy and climate policy at Baruch College in New York. “But it’s equally important to keep the flow of knowledge, talent and capital open, so U.S. markets can continue to benefit from global learning, driving down costs and speeding up solar deployment.”</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://www.abqjournal.com/business/article_068db659-ba12-4b8d-82f4-88ba4373c9a6.html">
+<div class="listing-date">
+Nov 15, 2025
+</div>
+<div class="listing-author">
+Hannah García
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="UFYlMjBNYWdhemluZQ==" data-listing-date-sort="1762232400000">
+<div class="thumbnail"><a href="https://www.pv-magazine.com/2025/11/05/us-solar-tariffs-linked-to-preventable-deaths-claim-researchers/">
+
+<img loading="lazy" src="./files/images/media/pv-magazine.webp" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://www.pv-magazine.com/2025/11/05/us-solar-tariffs-linked-to-preventable-deaths-claim-researchers/">US solar tariffs linked to preventable deaths, claim researchers</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UFYlMjBNYWdhemluZQ=='); return false;">PV Magazine</div>
+
+</div>
+<div class="delink listing-description"><a href="https://www.pv-magazine.com/2025/11/05/us-solar-tariffs-linked-to-preventable-deaths-claim-researchers/">
+<p>A more rigorous—and encouraging—analysis from researchers at the City University of New York found that solar panel imports into the United States displaced 305 TWh of fossil generation, avoided 178 million tons of CO2 emissions, and prevented 595 premature deaths between 2014 and 2022.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://www.pv-magazine.com/2025/11/05/us-solar-tariffs-linked-to-preventable-deaths-claim-researchers/">
+<div class="listing-date">
+Nov 4, 2025
+</div>
+<div class="listing-author">
+John Weaver
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Qmxvb21iZXJn" data-listing-date-sort="1761710400000">
+<div class="thumbnail"><a href="https://www.bloomberg.com/news/articles/2025-10-29/china-s-new-coal-language-leaves-more-room-for-rising-use">
+
+<img loading="lazy" src="./files/images/media/bloomberg.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://www.bloomberg.com/news/articles/2025-10-29/china-s-new-coal-language-leaves-more-room-for-rising-use">China’s New Coal Language Leaves More Room for Rising Use</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Qmxvb21iZXJn'); return false;">Bloomberg</div>
+
+</div>
+<div class="delink listing-description"><a href="https://www.bloomberg.com/news/articles/2025-10-29/china-s-new-coal-language-leaves-more-room-for-rising-use">
+<p>Gang He, an associate professor at CUNY Baruch College, said, Coal’s share in China’s electricity generation is set to fall to about half by 2030 from 58% in 2024. … it reflects a managed transition—recognizing coal’s diminishing but still critical role in maintaining grid stability as renewables expand rapidly.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://www.bloomberg.com/news/articles/2025-10-29/china-s-new-coal-language-leaves-more-room-for-rising-use">
+<div class="listing-date">
+Oct 29, 2025
+</div>
+<div class="listing-author">
+Lili Pike, Dan Murtaugh
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="VGhlJTIwTmV3JTIwWW9yayUyMFRpbWVz" data-listing-date-sort="1761192000000">
+<div class="thumbnail"><a href="https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html">
+
+<img loading="lazy" src="./files/images/media/new-york-times.jpeg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html">How China Raced Ahead of the U.S. on Nuclear Power</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGhlJTIwTmV3JTIwWW9yayUyMFRpbWVz'); return false;">The New York Times</div>
+
+</div>
+<div class="delink listing-description"><a href="https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html">
+<p><em>The New York Times</em> covered U.S. China’s nuclear power race and highlighted our work—reproducing our figure and citing our <em>Nature</em> Comment article on nuclear costs.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html">
+<div class="listing-date">
+Oct 23, 2025
+</div>
+<div class="listing-author">
+Brad Plumer, Harry Stevens
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="VGhlJTIwRWNvbm9taXN0" data-listing-date-sort="1756958400000">
+<div class="thumbnail"><a href="https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry">
+
+<img loading="lazy" src="./files/images/media/the-economist.svg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry">Why nuclear is now a booming industry</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGhlJTIwRWNvbm9taXN0'); return false;">The Economist</div>
+
+</div>
+<div class="delink listing-description"><a href="https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry">
+<p><em>The Economist</em> covered the nuclear industry’s resurgence and highlighted our work—reproducing our figure and citing our <em>Nature</em> Comment article on nuclear costs.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry">
+<div class="listing-date">
+Sep 4, 2025
+</div>
+<div class="listing-author">
+The Economist
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="VGhlJTIwSGlnaGxhbmRzJTIwQ3VycmVudA==" data-listing-date-sort="1751601600000">
+<div class="thumbnail"><a href="https://highlandscurrent.org/2025/07/04/beyond-the-grid-cost-overload/">
+
+<img loading="lazy" src="./files/images/media/the-highlands-current.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://highlandscurrent.org/2025/07/04/beyond-the-grid-cost-overload/">Beyond the Grid: Cost Overload</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGhlJTIwSGlnaGxhbmRzJTIwQ3VycmVudA=='); return false;">The Highlands Current</div>
+
+</div>
+<div class="delink listing-description"><a href="https://highlandscurrent.org/2025/07/04/beyond-the-grid-cost-overload/">
+<p>Driven by such factors as economies of scale, global supply chains and advances in technology, the average cost of solar power dropped by over 90 percent between 2010 and 2023, and for onshore and offshore wind by 73 percent and 65 percent, respectively, said Gang He, an energy policy expert from CUNY Baruch College.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://highlandscurrent.org/2025/07/04/beyond-the-grid-cost-overload/">
+<div class="listing-date">
+Jul 4, 2025
+</div>
+<div class="listing-author">
+Leonard Sparks
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="RSUyNkUlMjBOZXdz" data-listing-date-sort="1722830400000">
+<div class="thumbnail"><a href="https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/">
+
+<img loading="lazy" src="./files/images/media/ee-news.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/">In major shift, China moves toward hard carbon targets</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">
-E&amp;E News
+
+<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">E&amp;E News</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/">“China has long been hesitant to specify a carbon cap,” said Gang He, “with all the data and implementations in place, China will feel more comfortable to say it will peak its emissions by 2030 at [XX] billion tons and aim to reduce emissions by [XX] percent by 2035.”</a>
-</div>
+<div class="delink listing-description"><a href="https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/">
+<p>“China has long been hesitant to specify a carbon cap,” said Gang He, “with all the data and implementations in place, China will feel more comfortable to say it will peak its emissions by 2030 at [XX] billion tons and aim to reduce emissions by [XX] percent by 2035.”</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/">
@@ -418,27 +623,24 @@ Sara Schonhardt
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="TmF0dXJl" data-listing-date-sort="1710216000000">
-<div class="thumbnail">
-<p><a href="https://www.nature.com/articles/d41586-024-00692-7"></a></p><a href="https://www.nature.com/articles/d41586-024-00692-7">
-<p><img loading="lazy" src="./files/images/media/nature.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.nature.com/articles/d41586-024-00692-7"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="8" data-categories="TmF0dXJl" data-listing-date-sort="1710216000000">
+<div class="thumbnail"><a href="https://www.nature.com/articles/d41586-024-00692-7">
+
+<img loading="lazy" src="./files/images/media/nature.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.nature.com/articles/d41586-024-00692-7">China–US climate collaboration concerns as Xie and Kerry step down</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.nature.com/articles/d41586-024-00692-7"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('TmF0dXJl'); return false;">
-Nature
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmF0dXJl'); return false;">Nature</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.nature.com/articles/d41586-024-00692-7">Gang He on the importance to continue the research exchange and colloboration: “If the river freezes over, water will still flow underneath.”</a>
-</div>
+<div class="delink listing-description"><a href="https://www.nature.com/articles/d41586-024-00692-7">
+<p>Gang He on the importance to continue the research exchange and colloboration: “If the river freezes over, water will still flow underneath.”</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.nature.com/articles/d41586-024-00692-7">
@@ -451,30 +653,26 @@ Smriti Mallapaty
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="U2NpZW50aWZpYyUyMEFtZXJpY2FuJTJDRSUyNkUlMjBOZXdz" data-listing-date-sort="1700110800000">
-<div class="thumbnail">
-<p><a href="https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/"></a></p><a href="https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/">
-<p><img loading="lazy" src="./files/images/media/scientific-american.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="9" data-categories="U2NpZW50aWZpYyUyMEFtZXJpY2FuJTJDRSUyNkUlMjBOZXdz" data-listing-date-sort="1700110800000">
+<div class="thumbnail"><a href="https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/">
+
+<img loading="lazy" src="./files/images/media/scientific-american.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/">What the U.S.-China Agreement Means for Greenhouse Gas Emissions</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('U2NpZW50aWZpYyUyMEFtZXJpY2Fu'); return false;">
-Scientific American
+
+<div class="listing-category" onclick="window.quartoListingCategory('U2NpZW50aWZpYyUyMEFtZXJpY2Fu'); return false;">Scientific American</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">E&amp;E News</div>
+
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">
-E&amp;E News
-</div>
-</div>
-<div class="listing-description">
-<a href="https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/">The two nations announced limited steps to address climate change. But even a modest agreement could have far-reaching effects.</a>
-</div>
+<div class="delink listing-description"><a href="https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/">
+<p>The two nations announced limited steps to address climate change. But even a modest agreement could have far-reaching effects.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.scientificamerican.com/article/what-the-u-s-china-agreement-means-for-greenhouse-gas-emissions/">
@@ -487,27 +685,24 @@ Benjamin Storrow, Sara Schonhardt
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="Rm9yZWlnbiUyMFBvbGljeQ==" data-listing-date-sort="1695268800000">
-<div class="thumbnail">
-<p><a href="https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/"></a></p><a href="https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/">
-<p><img loading="lazy" src="./files/images/media/foreign-policy.png" class="thumbnail-image"></p>
-</a><p><a href="https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="10" data-categories="Rm9yZWlnbiUyMFBvbGljeQ==" data-listing-date-sort="1695268800000">
+<div class="thumbnail"><a href="https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/">
+
+<img loading="lazy" src="./files/images/media/foreign-policy.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/">Can the U.S. and China Cooperate on Green Technology Again?</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Rm9yZWlnbiUyMFBvbGljeQ=='); return false;">
-Foreign Policy
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9yZWlnbiUyMFBvbGljeQ=='); return false;">Foreign Policy</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/">A study published in Nature last year found that if the United States, Germany, and China all decided to shift to fully domestic solar production starting in 2020, by 2030 global solar costs would be 20 percent to 30 percent higher.</a>
-</div>
+<div class="delink listing-description"><a href="https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/">
+<p>A study published in Nature last year found that if the United States, Germany, and China all decided to shift to fully domestic solar production starting in 2020, by 2030 global solar costs would be 20 percent to 30 percent higher.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/">
@@ -520,26 +715,23 @@ Lili Pike
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="RSUyNkUlMjBOZXdz" data-listing-date-sort="1666843200000">
-<div class="thumbnail">
-<p><a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/"></a></p><a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/">
-<p><img loading="lazy" src="./files/images/media/ee-news.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="11" data-categories="RSUyNkUlMjBOZXdz" data-listing-date-sort="1666843200000">
+<div class="thumbnail"><a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/">
+
+<img loading="lazy" src="./files/images/media/ee-news.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/">How Biden’s made-in-America solar strategy may backfire</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">
-E&amp;E News
+
+<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">E&amp;E News</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/">A new <span>study</span> in <em>Nature</em> concludes that policies similar to ones the administration is considering could make solar panels 30 percent more expensive by the end of the decade.</a>
+<div class="delink listing-description"><a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/">
+</a><p><a href="https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/">A new </a><a href="./posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html">study</a> in <em>Nature</em> concludes that policies similar to ones the administration is considering could make solar panels 30 percent more expensive by the end of the decade.</p>
 </div>
 </div>
 <div class="metadata">
@@ -553,27 +745,24 @@ David Iaconangelo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="Tmlra2VpJTIwQXNpYQ==" data-listing-date-sort="1650427200000">
-<div class="thumbnail">
-<p><a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds"></a></p><a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds">
-<p><img loading="lazy" src="./files/images/media/nikkei-asia.png" class="thumbnail-image"></p>
-</a><p><a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="12" data-categories="Tmlra2VpJTIwQXNpYQ==" data-listing-date-sort="1650427200000">
+<div class="thumbnail"><a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds">
+
+<img loading="lazy" src="./files/images/media/nikkei-asia.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds">Asia’s nuclear power dilemma: Ukraine war drives energy turnarounds</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Tmlra2VpJTIwQXNpYQ=='); return false;">
-Nikkei Asia
+
+<div class="listing-category" onclick="window.quartoListingCategory('Tmlra2VpJTIwQXNpYQ=='); return false;">Nikkei Asia</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds">From Japan to Singapore, Russia sanctions and carbon-zero targets push states to reconsider nuclear energy.</a>
-</div>
+<div class="delink listing-description"><a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds">
+<p>From Japan to Singapore, Russia sanctions and carbon-zero targets push states to reconsider nuclear energy.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds">
@@ -586,27 +775,24 @@ Dominic Faulder
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="Q2FyYm9uJTIwQnJpZWY=" data-listing-date-sort="1648526400000">
-<div class="thumbnail">
-<p><a href="https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/"></a></p><a href="https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/">
-<p><img loading="lazy" src="./files/images/media/carbon-brief.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="13" data-categories="Q2FyYm9uJTIwQnJpZWY=" data-listing-date-sort="1648526400000">
+<div class="thumbnail"><a href="https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/">
+
+<img loading="lazy" src="./files/images/media/carbon-brief.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/">Analysis: What does China’s coal push mean for its climate goals?</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Q2FyYm9uJTIwQnJpZWY='); return false;">
-Carbon Brief
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q2FyYm9uJTIwQnJpZWY='); return false;">Carbon Brief</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/">Dr.&nbsp;He tells Carbon Brief that China has made clear its long-term climate pledges, but “when and at what scale” China peaks its emissions will have a “large” impact on how it and the world would achieve carbon neutrality.</a>
-</div>
+<div class="delink listing-description"><a href="https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/">
+<p>Dr.&nbsp;He tells Carbon Brief that China has made clear its long-term climate pledges, but “when and at what scale” China peaks its emissions will have a “large” impact on how it and the world would achieve carbon neutrality.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.carbonbrief.org/analysis-what-does-chinas-coal-push-mean-for-its-climate-goals/">
@@ -619,27 +805,24 @@ Xiaoying You
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="Q2FyYm9uJTIwQnJpZWY=" data-listing-date-sort="1645074000000">
-<div class="thumbnail">
-<p><a href="https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/"></a></p><a href="https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/">
-<p><img loading="lazy" src="./files/images/media/carbon-brief.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="14" data-categories="Q2FyYm9uJTIwQnJpZWY=" data-listing-date-sort="1645074000000">
+<div class="thumbnail"><a href="https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/">
+
+<img loading="lazy" src="./files/images/media/carbon-brief.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/">New energy transition guidance; Five coal plants approved; Energy-efficiency targets raised</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Q2FyYm9uJTIwQnJpZWY='); return false;">
-Carbon Brief
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q2FyYm9uJTIwQnJpZWY='); return false;">Carbon Brief</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/">Gang He told Carbon Brief: “There are other and better options: renewables are achieving grid parity which could accelerate a renewable-dominant pathway. Such a pathway is both technically feasible and economically beneficial to China’s development.”</a>
-</div>
+<div class="delink listing-description"><a href="https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/">
+<p>Gang He told Carbon Brief: “There are other and better options: renewables are achieving grid parity which could accelerate a renewable-dominant pathway. Such a pathway is both technically feasible and economically beneficial to China’s development.”</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/">
@@ -652,27 +835,24 @@ Carbon Brief Staff
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="TmF0dXJl" data-listing-date-sort="1637557200000">
-<div class="thumbnail">
-<p><a href="https://www.nature.com/articles/d41586-021-03491-6"></a></p><a href="https://www.nature.com/articles/d41586-021-03491-6">
-<p><img loading="lazy" src="./files/images/media/nature.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.nature.com/articles/d41586-021-03491-6"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="15" data-categories="TmF0dXJl" data-listing-date-sort="1637557200000">
+<div class="thumbnail"><a href="https://www.nature.com/articles/d41586-021-03491-6">
+
+<img loading="lazy" src="./files/images/media/nature.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.nature.com/articles/d41586-021-03491-6">China creates vast research infrastructure to support ambitious climate goals</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.nature.com/articles/d41586-021-03491-6"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('TmF0dXJl'); return false;">
-Nature
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmF0dXJl'); return false;">Nature</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.nature.com/articles/d41586-021-03491-6">Carbon-neutrality institutes, and other initiatives to support a pledge to achieve net zero by 2060, are popping up like mushrooms across China.</a>
-</div>
+<div class="delink listing-description"><a href="https://www.nature.com/articles/d41586-021-03491-6">
+<p>Carbon-neutrality institutes, and other initiatives to support a pledge to achieve net zero by 2060, are popping up like mushrooms across China.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.nature.com/articles/d41586-021-03491-6">
@@ -685,27 +865,24 @@ Smriti Mallapaty
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="TmF0dXJl" data-listing-date-sort="1603080000000">
-<div class="thumbnail">
-<p><a href="https://www.nature.com/articles/d41586-020-02927-9"></a></p><a href="https://www.nature.com/articles/d41586-020-02927-9">
-<p><img loading="lazy" src="./files/images/media/nature.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.nature.com/articles/d41586-020-02927-9"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="16" data-categories="TmF0dXJl" data-listing-date-sort="1603080000000">
+<div class="thumbnail"><a href="https://www.nature.com/articles/d41586-020-02927-9">
+
+<img loading="lazy" src="./files/images/media/nature.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.nature.com/articles/d41586-020-02927-9">How China could be carbon neutral by mid-century</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.nature.com/articles/d41586-020-02927-9"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('TmF0dXJl'); return false;">
-Nature
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmF0dXJl'); return false;">Nature</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.nature.com/articles/d41586-020-02927-9">Nature special report examines the role of renewables, nuclear power and carbon capture in reaching this ambitious goal.</a>
-</div>
+<div class="delink listing-description"><a href="https://www.nature.com/articles/d41586-020-02927-9">
+<p>Nature special report examines the role of renewables, nuclear power and carbon capture in reaching this ambitious goal.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.nature.com/articles/d41586-020-02927-9">
@@ -718,30 +895,26 @@ Smriti Mallapaty
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="U2NpZW50aWZpYyUyMEFtZXJpY2FuJTJDRSUyNkUlMjBOZXdz" data-listing-date-sort="1600833600000">
-<div class="thumbnail">
-<p><a href="https://www.scientificamerican.com/article/china-says-it-will-stop-releasing-co2-within-40-years/"></a></p><a href="https://www.scientificamerican.com/article/china-says-it-will-stop-releasing-co2-within-40-years/">
-<p><img loading="lazy" src="./files/images/media/scientific-american.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.scientificamerican.com/article/china-says-it-will-stop-releasing-co2-within-40-years/"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="17" data-categories="U2NpZW50aWZpYyUyMEFtZXJpY2FuJTJDRSUyNkUlMjBOZXdz" data-listing-date-sort="1600833600000">
+<div class="thumbnail"><a href="https://www.scientificamerican.com/article/china-says-it-will-stop-releasing-co2-within-40-years/">
+
+<img loading="lazy" src="./files/images/media/scientific-american.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.scientificamerican.com/article/china-says-it-will-stop-releasing-co2-within-40-years/">China Says It Will Stop Releasing CO2 within 40 Years</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.scientificamerican.com/article/china-says-it-will-stop-releasing-co2-within-40-years/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('U2NpZW50aWZpYyUyMEFtZXJpY2Fu'); return false;">
-Scientific American
+
+<div class="listing-category" onclick="window.quartoListingCategory('U2NpZW50aWZpYyUyMEFtZXJpY2Fu'); return false;">Scientific American</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">E&amp;E News</div>
+
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">
-E&amp;E News
-</div>
-</div>
-<div class="listing-description">
-<a href="https://www.scientificamerican.com/article/china-says-it-will-stop-releasing-co2-within-40-years/">The surprise announcement vaults the country ahead of U.S. climate ambitions and could encourage developing countries to follow suit.</a>
-</div>
+<div class="delink listing-description"><a href="https://www.scientificamerican.com/article/china-says-it-will-stop-releasing-co2-within-40-years/">
+<p>The surprise announcement vaults the country ahead of U.S. climate ambitions and could encourage developing countries to follow suit.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.scientificamerican.com/article/china-says-it-will-stop-releasing-co2-within-40-years/">
@@ -754,27 +927,24 @@ Jean Chemnick, Benjamin Storrow
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="Rm9yYmVz" data-listing-date-sort="1597032000000">
-<div class="thumbnail">
-<p><a href="https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/"></a></p><a href="https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/">
-<p><img loading="lazy" src="./files/images/media/forbes.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="18" data-categories="Rm9yYmVz" data-listing-date-sort="1597032000000">
+<div class="thumbnail"><a href="https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/">
+
+<img loading="lazy" src="./files/images/media/forbes.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/">Plummeting Renewable Energy, Battery Prices Mean China Could Hit 62% Clean Power And Cut Costs 11% By 2030</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Rm9yYmVz'); return false;">
-Forbes
+
+<div class="listing-category" onclick="window.quartoListingCategory('Rm9yYmVz'); return false;">Forbes</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/">New research shows plummeting clean energy prices mean China could reliably run its grids on at least 62% non-fossil electricity generation by 2030, while cutting costs 11% compared to a business-as-usual approach. Once again, it’s cheaper to save the climate than destroy it.</a>
-</div>
+<div class="delink listing-description"><a href="https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/">
+<p>New research shows plummeting clean energy prices mean China could reliably run its grids on at least 62% non-fossil electricity generation by 2030, while cutting costs 11% compared to a business-as-usual approach. Once again, it’s cheaper to save the climate than destroy it.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/">
@@ -787,27 +957,24 @@ Energy Innovation
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="RSUyNkUlMjBOZXdz" data-listing-date-sort="1591675200000">
-<div class="thumbnail">
-<p><a href="https://subscriber.politicopro.com/article/eenews/1063354565"></a></p><a href="https://subscriber.politicopro.com/article/eenews/1063354565">
-<p><img loading="lazy" src="./files/images/media/ee-news.png" class="thumbnail-image"></p>
-</a><p><a href="https://subscriber.politicopro.com/article/eenews/1063354565"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="19" data-categories="RSUyNkUlMjBOZXdz" data-listing-date-sort="1591675200000">
+<div class="thumbnail"><a href="https://subscriber.politicopro.com/article/eenews/1063354565">
+
+<img loading="lazy" src="./files/images/media/ee-news.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://subscriber.politicopro.com/article/eenews/1063354565">Surging coal use in China threatens global CO2 goals</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://subscriber.politicopro.com/article/eenews/1063354565"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">
-E&amp;E News
+
+<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">E&amp;E News</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://subscriber.politicopro.com/article/eenews/1063354565">The fast decrease in the cost of solar, wind and storage, and technological innovation has fundamentally changed the economics of renewables, said Gang He, our analysis shows that such a fast decarbonization and clean power transition is both technically feasible and economicallybeneficial.</a>
-</div>
+<div class="delink listing-description"><a href="https://subscriber.politicopro.com/article/eenews/1063354565">
+<p>The fast decrease in the cost of solar, wind and storage, and technological innovation has fundamentally changed the economics of renewables, said Gang He, our analysis shows that such a fast decarbonization and clean power transition is both technically feasible and economicallybeneficial.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://subscriber.politicopro.com/article/eenews/1063354565">
@@ -820,26 +987,23 @@ Benjamin Storrow
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="SW5zaWRlJTIwQ2xpbWF0ZSUyME5ld3M=" data-listing-date-sort="1591243200000">
-<div class="thumbnail">
-<p><a href="https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/"></a></p><a href="https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/">
-<p><img loading="lazy" src="./files/images/media/inside-climate-news.png" class="thumbnail-image"></p>
-</a><p><a href="https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="20" data-categories="SW5zaWRlJTIwQ2xpbWF0ZSUyME5ld3M=" data-listing-date-sort="1591243200000">
+<div class="thumbnail"><a href="https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/">
+
+<img loading="lazy" src="./files/images/media/inside-climate-news.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/">China’s Path to Clean Energy May Be Smoother than We Previously Thought</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('SW5zaWRlJTIwQ2xpbWF0ZSUyME5ld3M='); return false;">
-Inside Climate News
+
+<div class="listing-category" onclick="window.quartoListingCategory('SW5zaWRlJTIwQ2xpbWF0ZSUyME5ld3M='); return false;">Inside Climate News</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/">A new <span>paper</span> in the journal <em>Nature Communications</em> says the probable reality is much better than we previously thought, largely because of falling costs of wind, solar and battery storage.</a>
+<div class="delink listing-description"><a href="https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/">
+</a><p><a href="https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/">A new </a><a href="./posts/2020-05-ncomms-rapid-re-cost/index.html">paper</a> in the journal <em>Nature Communications</em> says the probable reality is much better than we previously thought, largely because of falling costs of wind, solar and battery storage.</p>
 </div>
 </div>
 <div class="metadata">
@@ -853,27 +1017,24 @@ Dan Gearino
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="V1NIVSUyMFB1YmxpYyUyMFJhZGlv" data-listing-date-sort="1550466000000">
-<div class="thumbnail">
-<p><a href="https://www.wshu.org/government/2019-02-18/bill-calls-for-an-emissions-free-ny-by-2050"></a></p><a href="https://www.wshu.org/government/2019-02-18/bill-calls-for-an-emissions-free-ny-by-2050">
-<p><img loading="lazy" src="./files/images/media/wshu-public-radio.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.wshu.org/government/2019-02-18/bill-calls-for-an-emissions-free-ny-by-2050"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="21" data-categories="V1NIVSUyMFB1YmxpYyUyMFJhZGlv" data-listing-date-sort="1550466000000">
+<div class="thumbnail"><a href="https://www.wshu.org/government/2019-02-18/bill-calls-for-an-emissions-free-ny-by-2050">
+
+<img loading="lazy" src="./files/images/media/wshu-public-radio.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.wshu.org/government/2019-02-18/bill-calls-for-an-emissions-free-ny-by-2050">Bill Calls For An Emissions-Free NY By 2050</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.wshu.org/government/2019-02-18/bill-calls-for-an-emissions-free-ny-by-2050"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('V1NIVSUyMFB1YmxpYyUyMFJhZGlv'); return false;">
-WSHU Public Radio
+
+<div class="listing-category" onclick="window.quartoListingCategory('V1NIVSUyMFB1YmxpYyUyMFJhZGlv'); return false;">WSHU Public Radio</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.wshu.org/government/2019-02-18/bill-calls-for-an-emissions-free-ny-by-2050">In addition to policy, technology, there are also behavior components to that. How we incentivize people to change their behavior and their lifestyle.</a>
-</div>
+<div class="delink listing-description"><a href="https://www.wshu.org/government/2019-02-18/bill-calls-for-an-emissions-free-ny-by-2050">
+<p>In addition to policy, technology, there are also behavior components to that. How we incentivize people to change their behavior and their lifestyle.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.wshu.org/government/2019-02-18/bill-calls-for-an-emissions-free-ny-by-2050">
@@ -886,26 +1047,23 @@ Jay Shah
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="VGhlJTIwR3VhcmRpYW4=" data-listing-date-sort="1427947200000">
-<div class="thumbnail">
-<p><a href="https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly"></a></p><a href="https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly">
-<p><img loading="lazy" src="./files/images/media/the-guardian.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="22" data-categories="VGhlJTIwR3VhcmRpYW4=" data-listing-date-sort="1427947200000">
+<div class="thumbnail"><a href="https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly">
+
+<img loading="lazy" src="./files/images/media/the-guardian.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly">Where is the world’s greenest city?</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('VGhlJTIwR3VhcmRpYW4='); return false;">
-The Guardian
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGhlJTIwR3VhcmRpYW4='); return false;">The Guardian</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly">In a 2015 <span>study</span> published in the journal Ecological Indicators, scientists based at the Lawrence Berkeley National Laboratory in California have fine-tuned a potential method for assessing Chinese “eco-cities” using 33 key indicators. </a>
+<div class="delink listing-description"><a href="https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly">
+</a><p><a href="https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly">In a 2015 </a><a href="./posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.html">study</a> published in the journal Ecological Indicators, scientists based at the Lawrence Berkeley National Laboratory in California have fine-tuned a potential method for assessing Chinese “eco-cities” using 33 key indicators.</p>
 </div>
 </div>
 <div class="metadata">
@@ -919,26 +1077,23 @@ Hayley Birch
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="VGhlJTIwU2VhdHRsZSUyMFRpbWVz" data-listing-date-sort="1399262400000">
-<div class="thumbnail">
-<p><a href="https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/"></a></p><a href="https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/">
-<p><img loading="lazy" src="./files/images/media/the-seattle-times.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="23" data-categories="VGhlJTIwU2VhdHRsZSUyMFRpbWVz" data-listing-date-sort="1399262400000">
+<div class="thumbnail"><a href="https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/">
+
+<img loading="lazy" src="./files/images/media/the-seattle-times.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/">Western companies gave China power projects a boost</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('VGhlJTIwU2VhdHRsZSUyMFRpbWVz'); return false;">
-The Seattle Times
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGhlJTIwU2VhdHRsZSUyMFRpbWVz'); return false;">The Seattle Times</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/">The rejections exposed cracks at the core of how carbon credits are verified in developing economies, according to a <span>study</span> of the Chinese wind-power industry by Gang He and Richard Morse of Stanford University. </a>
+<div class="delink listing-description"><a href="https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/">
+</a><p><a href="https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/">The rejections exposed cracks at the core of how carbon credits are verified in developing economies, according to a </a><a href="./posts/2013-ep-carbon-offsetters-paradox/index.html">study</a> of the Chinese wind-power industry by Gang He and Richard Morse of Stanford University.</p>
 </div>
 </div>
 <div class="metadata">
@@ -952,27 +1107,24 @@ Hal Bernton
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="RSUyNkUlMjBOZXdz" data-listing-date-sort="1364184000000">
-<div class="thumbnail">
-<p><a href="https://subscriber.politicopro.com/article/eenews/1059975774"></a></p><a href="https://subscriber.politicopro.com/article/eenews/1059975774">
-<p><img loading="lazy" src="./files/images/media/ee-news.png" class="thumbnail-image"></p>
-</a><p><a href="https://subscriber.politicopro.com/article/eenews/1059975774"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="24" data-categories="RSUyNkUlMjBOZXdz" data-listing-date-sort="1364184000000">
+<div class="thumbnail"><a href="https://subscriber.politicopro.com/article/eenews/1059975774">
+
+<img loading="lazy" src="./files/images/media/ee-news.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://subscriber.politicopro.com/article/eenews/1059975774">Beijing’s record smog poses health nightmare as China plans ‘green’ energy future</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://subscriber.politicopro.com/article/eenews/1059975774"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">
-E&amp;E News
+
+<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">E&amp;E News</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://subscriber.politicopro.com/article/eenews/1059975774">I see it as a system failure exposed in a bad weather condition, said Gang He. The government has to first figure out the sources of air pollutants in order to adopt the right measures.</a>
-</div>
+<div class="delink listing-description"><a href="https://subscriber.politicopro.com/article/eenews/1059975774">
+<p>I see it as a system failure exposed in a bad weather condition, said Gang He. The government has to first figure out the sources of air pollutants in order to adopt the right measures.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://subscriber.politicopro.com/article/eenews/1059975774">
@@ -985,27 +1137,24 @@ Kandy Wong
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="RSUyNkUlMjBOZXdz" data-listing-date-sort="1336536000000">
-<div class="thumbnail">
-<p><a href="https://subscriber.politicopro.com/article/eenews/1059961148"></a></p><a href="https://subscriber.politicopro.com/article/eenews/1059961148">
-<p><img loading="lazy" src="./files/images/media/ee-news.png" class="thumbnail-image"></p>
-</a><p><a href="https://subscriber.politicopro.com/article/eenews/1059961148"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="25" data-categories="RSUyNkUlMjBOZXdz" data-listing-date-sort="1336536000000">
+<div class="thumbnail"><a href="https://subscriber.politicopro.com/article/eenews/1059961148">
+
+<img loading="lazy" src="./files/images/media/ee-news.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://subscriber.politicopro.com/article/eenews/1059961148">Government conflicts could slow shale gas development</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://subscriber.politicopro.com/article/eenews/1059961148"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">
-E&amp;E News
+
+<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">E&amp;E News</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://subscriber.politicopro.com/article/eenews/1059961148">The priorities between the central and local governments are often different, said Gang He, the top concern of the central government is energy security while economic growth matters most for local governments.</a>
-</div>
+<div class="delink listing-description"><a href="https://subscriber.politicopro.com/article/eenews/1059961148">
+<p>The priorities between the central and local governments are often different, said Gang He, the top concern of the central government is energy security while economic growth matters most for local governments.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://subscriber.politicopro.com/article/eenews/1059961148">
@@ -1018,30 +1167,26 @@ Kandy Wong
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="U2NpZW50aWZpYyUyMEFtZXJpY2FuJTJDRSUyNkUlMjBOZXdz" data-listing-date-sort="1336363200000">
-<div class="thumbnail">
-<p><a href="https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/"></a></p><a href="https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/">
-<p><img loading="lazy" src="./files/images/media/scientific-american.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="26" data-categories="U2NpZW50aWZpYyUyMEFtZXJpY2FuJTJDRSUyNkUlMjBOZXdz" data-listing-date-sort="1336363200000">
+<div class="thumbnail"><a href="https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/">
+
+<img loading="lazy" src="./files/images/media/scientific-american.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/">Beijing Emission Cuts May Underestimate Use of Coal</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('U2NpZW50aWZpYyUyMEFtZXJpY2Fu'); return false;">
-Scientific American
+
+<div class="listing-category" onclick="window.quartoListingCategory('U2NpZW50aWZpYyUyMEFtZXJpY2Fu'); return false;">Scientific American</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">E&amp;E News</div>
+
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('RSUyNkUlMjBOZXdz'); return false;">
-E&amp;E News
-</div>
-</div>
-<div class="listing-description">
-<a href="https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/">It should be noted that the coal industry is gradualtly being opened to market, while the electricity industry is still highly regulated. The scattered management of energy issues within the central government makes the energy administration’s mission very difficult one.</a>
-</div>
+<div class="delink listing-description"><a href="https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/">
+<p>It should be noted that the coal industry is gradualtly being opened to market, while the electricity industry is still highly regulated. The scattered management of energy issues within the central government makes the energy administration’s mission very difficult one.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.scientificamerican.com/article/beijing-emission-cuts-may-underestimate-use-of-coal/">
@@ -1054,27 +1199,24 @@ Kandy Wong
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="TmF0aW9uYWwlMjBHZW9ncmFwaGlj" data-listing-date-sort="1319083200000">
-<div class="thumbnail">
-<p><a href="https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest"></a></p><a href="https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest">
-<p><img loading="lazy" src="./files/images/media/national-geographic.png" class="thumbnail-image"></p>
-</a><p><a href="https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="27" data-categories="TmF0aW9uYWwlMjBHZW9ncmFwaGlj" data-listing-date-sort="1319083200000">
+<div class="thumbnail"><a href="https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest">
+
+<img loading="lazy" src="./files/images/media/national-geographic.png" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest">Seeking a Pacific Northwest Gateway for U.S. Coal</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('TmF0aW9uYWwlMjBHZW9ncmFwaGlj'); return false;">
-National Geographic
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmF0aW9uYWwlMjBHZW9ncmFwaGlj'); return false;">National Geographic</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest">The middle kingdom’s appetite for imported coal seems insatiable, wrote researchers Richard Morse and Gang He in a 2010 working paperm refering to China. And the China Factor appears to have ushered in a new paradigm for the global coal market.</a>
-</div>
+<div class="delink listing-description"><a href="https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest">
+<p>The middle kingdom’s appetite for imported coal seems insatiable, wrote researchers Richard Morse and Gang He in a 2010 working paperm refering to China. And the China Factor appears to have ushered in a new paradigm for the global coal market.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://www.nationalgeographic.com/science/article/111020-coal-port-pacific-northwest">
@@ -1087,27 +1229,24 @@ Stacey Schultz
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="VGhlJTIwTmV3JTIwWW9yayUyMFRpbWVz" data-listing-date-sort="1242878400000">
-<div class="thumbnail">
-<p><a href="https://dotearth.blogs.nytimes.com/2009/05/21/drop-in-co2-output-in-us-power-use-in-china"></a></p><a href="https://dotearth.blogs.nytimes.com/2009/05/21/drop-in-co2-output-in-us-power-use-in-china">
-<p><img loading="lazy" src="./files/images/media/new-york-times.jpeg" class="thumbnail-image"></p>
-</a><p><a href="https://dotearth.blogs.nytimes.com/2009/05/21/drop-in-co2-output-in-us-power-use-in-china"></a></p>
-</div>
+<div class="quarto-post image-right" data-index="28" data-categories="VGhlJTIwTmV3JTIwWW9yayUyMFRpbWVz" data-listing-date-sort="1242878400000">
+<div class="thumbnail"><a href="https://dotearth.blogs.nytimes.com/2009/05/21/drop-in-co2-output-in-us-power-use-in-china">
+
+<img loading="lazy" src="./files/images/media/new-york-times.jpeg" class="thumbnail-image">
+
+</a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="https://dotearth.blogs.nytimes.com/2009/05/21/drop-in-co2-output-in-us-power-use-in-china">Drop in CO2 in U.S. and Power Use in China – for Now</a>
 </h3>
-<div class="listing-subtitle">
-<a href="https://dotearth.blogs.nytimes.com/2009/05/21/drop-in-co2-output-in-us-power-use-in-china"></a>
-</div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('VGhlJTIwTmV3JTIwWW9yayUyMFRpbWVz'); return false;">
-The New York Times
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGhlJTIwTmV3JTIwWW9yayUyMFRpbWVz'); return false;">The New York Times</div>
+
 </div>
-</div>
-<div class="listing-description">
-<a href="https://dotearth.blogs.nytimes.com/2009/05/21/drop-in-co2-output-in-us-power-use-in-china">Researchers at Stanford University say blazing growth in the generation of electricity in China ended last year as the global recession struck.</a>
-</div>
+<div class="delink listing-description"><a href="https://dotearth.blogs.nytimes.com/2009/05/21/drop-in-co2-output-in-us-power-use-in-china">
+<p>Researchers at Stanford University say blazing growth in the generation of electricity in China ended last year as the global recession struck.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="https://dotearth.blogs.nytimes.com/2009/05/21/drop-in-co2-output-in-us-power-use-in-china">
@@ -1121,9 +1260,7 @@ Andrew Revkin
 </div>
 </div>
 </div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
 
 
@@ -1131,241 +1268,248 @@ No matching items
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
       }
+      return false;
     }
-    return false;
-  }
-  const onCopySuccess = function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
       }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
       for (const childEl of codeEl.children) {
         if (isCodeAnnotation(childEl)) {
           childEl.remove();
         }
       }
       return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
-  });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
           }
-      }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
-    };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
     }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
           }
         }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
         }
-        return container.innerHTML
       } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
       }
     }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
           }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -1373,215 +1517,173 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
 <a href="http://drganghe.github.io">Gang He</a> ©
 <script>document.write(new Date().getFullYear())</script>
-</div>   
-    <div class="nav-footer-center">
-      &nbsp;
-    </div>
+</div>
     <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/drganghe/drganghe.github.io" target="_blank">
-      <i class="bi bi-github" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item">
-    <a class="nav-link" href="https://bsky.app/profile/hegang.bsky.social" target="_blank">
-<p><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></p>
-</a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="./posts.xml" target="_blank">
-      <i class="bi bi-rss" role="img">
-</i> 
-    </a>
-  </li>  
-</ul>
+      &nbsp;
     </div>
   </div>
 </footer>

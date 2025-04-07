@@ -1,4 +1,37 @@
 
+    - path: https://deeppolicylab.github.io/news/2025-12-17-sloan-grant-drivers-and-impacts-domestic-manufacturing.html
+      image: https://deeppolicylab.github.io/files/images/funders/sloan-logo.png
+      title: "New Grant to Study the Drivers and Impacts of Domestic Clean Energy Manufacturing"
+      author: "Alfred P. Sloan Foundation"
+      description: "Gang He, Kaifang Luo, Michael Davidson, Ahmad Lashkaripour, Ilaria Mazzocco, and Minghao Qiu are awarded a $750,000 new Alfred P. Sloan Foundation grant to study the drivers and impacts of domestic clean manufacturing interventions, resulting from an Open Call on Energy System Interactions in the United States."
+      date: "2025-12-17"
+      categories: [news] 
+
+
+    - path: https://deeppolicylab.github.io/events/2025-09-23-nyc-climate-week-nuclear-energy-panel/index.html
+      image: /files/images/Climate-Week-Webinare-2025.jpg
+      title: "Climate Week NYC 2025: The Role of Nuclear Energy in Decarbonization and Powering the AI Era"
+      author: "Marxe School"
+      description: "Join us to discuss the role of nuclear energy in decarbonization and powering the AI era during Climate Week NYC 2025."
+      date: "2025-09-23"
+      categories: [event]
+
+    - path: https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/
+      image: /files/images/pip-fellow-2025.png
+      title: "Selected as Public Intellectuals Program Fellow"
+      author: "National Committee on US-China Relations"
+      description: "Gang He is Selected for Ninth Round of Public Intellectuals Program Fellow of the National Committee on US-China Relations."
+      date: "2025-08-13"
+      categories: [news, recognition]
+
+    - path: https://deeppolicylab.github.io/events/2025-07-01-mes-supply-chains-in-energy-systems-panel/index.html
+      image: /files/flyers/20250701mes-supply-chains-flyer-small.png
+      title: "Macro-Energy Systems Speaker Series: Supply Chains in Energy Systems"
+      author: "Macro-Energy Systems"
+      description: "Join us to discuss how macro-energy systems analysis can better capture critical supply chain risks."
+      date: "2025-07-01"
+      categories: [event]
+
     - path: https://deeppolicylab.github.io/projects/2024-ssa-energy-burden-older-adults-people-with-disabilities-nyc.html
       image: "/files/images/nyc-mid-town.webp"
       title: "New Grant: Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities"
@@ -10,9 +43,9 @@
 
     - path: https://deeppolicylab.github.io/events/2024-09-26-nyc-climate-week-clean-energy-global-supply-chains-panel/index.html
       image: /files/images/climate-week-logo.png
-      title: "NYC Climate Week: Clean Energy Global Supply Chains Panel"
+      title: "Climate Week NYC 2024: Clean Energy Global Supply Chains Panel"
       author: "Deep Policy Lab"
-      description: "Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during NYC Climate Week."
+      description: "Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during Climate Week NYC 2024."
       date: "2024-09-26"
       categories: [event]
 
@@ -31,4 +64,4 @@
       author: "ITIF"
       description: "Grateful to join a group of energy innovation scholars in the ITIF/Sloan Energy Innovation Policy and Management Scholars program"
       date: "2019-05-20"
-      categories: [news, award]
+      categories: [news, recognition]

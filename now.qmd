@@ -28,6 +28,7 @@ How to make the clean energy transition more:
 
 :::
 
+- Working with Kaifang Luo, Michael Davidson, Ahmad Lashkaripour, Ilaria Mazzocco, Minghao Qiu and collaborators and partners on the project [Made in America: Drivers and Impacts of Domestic Clean Energy Manufacturing in the United States](https://madeinamerica.netlify.app/) supported by the Alfred P. Sloan Foundation.
 - Working with California China Climate Institute to study clean energy supply chains and power system resources adequency   
 - Working with Baruch colleagues on Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities  
 - Working on the climate, air pollution, and human health effect of imported solar PV supported by the ClimateWorks Foundation  
@@ -49,12 +50,12 @@ How to make the clean energy transition more:
 
 Fall Semester: 
 
-- PAF 9199 [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy) 
+- PAF 9187: [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy) 
 
 Spring Semester:
 
-- PAF 4199 [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society) 
-- PAF 9174 [Program Evaluation](https://drganghe.github.io/program-evaluation) 
+- PAF 3195: [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society) 
+- PAF 9174: [Program Evaluation](https://drganghe.github.io/program-evaluation) 
 
 I’m seeking guest speakers who are passionate about sharing their experiences and inspiring next generation of climate leaders:
 
