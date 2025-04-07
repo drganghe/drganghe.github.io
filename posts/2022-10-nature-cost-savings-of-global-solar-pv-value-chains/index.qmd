@@ -50,7 +50,7 @@ Published [paper](https://www.nature.com/articles/s41586-022-05316-6)
 
 Paper summary: [The Cost of Going Solo in Solar](/posts/2022-11-nature-solar-paper-summary/index.qmd)
 
-ResearchGate [pdf](https://www.researchgate.net/publication/364757014_Quantifying_the_cost_savings_of_global_solar_photovoltaic_supply_chains) provided by *Nature*
+View-only SharedIt [full-text](https://rdcu.be/enuBz) 
 
 Preprint [pdf](/files/papers/2022-nature-solar-supply-chains-preprint.pdf)
 

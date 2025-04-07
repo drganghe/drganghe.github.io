@@ -15,6 +15,8 @@ listing:  #an example of listing external links
   contents: media.yml
 
 #page-layout: full
+execute:
+  freeze: true  # freeze the page so that it is not updated automatically as there is a external link issue
 
 page-navigation: false
 title-block-banner: false
