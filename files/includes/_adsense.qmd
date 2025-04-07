@@ -1,0 +1,6 @@
+
+<!-- 
+AdSense check more: https://adsense.google.com/
+-->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1799740429520474"
+     crossorigin="anonymous"></script>

@@ -1,0 +1,24 @@
+---
+title: "17 Lex Society Feature Story: Research That Powers Change"
+description: "Renowned energy scholar Gang He, PhD, is shaping policy, advancing climate solutions,and preparing Baruch students to lead the way—thanks to your support."
+author: 
+- name: "Meghan Goff"
+#  affiliation: "Onword Communications"
+#  affiliation-url: "https://onwordcom.com/"
+date: "2025-12-16"
+categories: [news]
+image: "featured.webp"
+#lightbox: true
+css: /custom.css
+#draft: true
+---
+
+## Feature Story
+
+![](/files/images/17-Lex-Society-Newsletter-Winter2025-Feature.webp){.lightbox fig-align="center"}
+
+<center>Note: Click the image to see full view</center>
+
+## About "17 Lex Society"
+
+>Every Baruchian – past, present, and future – passes through the doors of “17 Lex” (17 Lexington Avenue). The campus building, on the corner of 23rd Street is the site where the Free Academy, the first free public institution of higher education in the nation, once stood. Founded in 2007, 17 Lex Society members are leaders in creating the opportunities necessary to build on our, and your, tradition of changing lives for the better.

@@ -29,14 +29,14 @@ website:
             href: contact.qmd             
       - text: Research
         menu:
-          - text: List of Publication
+          - text: List of Publications
             href: publications.qmd
           - text: Selected Papers
             href: posts.qmd#category=paper
           - text: Commentary
             href: posts.qmd#category=commentary
-          - text: Awards
-            href: posts.qmd#category=award  
+          - text: Recognition
+            href: posts.qmd#category=recognition  
           - text: Grants
             href: https://deeppolicylab.github.io/projects.html
             target: _blank                                  

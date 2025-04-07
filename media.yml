@@ -1,4 +1,73 @@
 
+    - path: https://www.bloomberg.com/news/features/2025-12-14/china-faces-the-cost-of-dismantling-the-world-s-biggest-coal-sector
+      image: /files/images/media/bloomberg.png
+      title: "China Faces the Cost of Dismantling the World's Biggest Coal Sector"
+#      subtitle: "Bloomberg"
+      author: 
+        - Dan Murtaugh
+      description: "“Coal remains deeply embedded in the economic and social fabric of many Chinese communities,” said Gang He, associate professor at Baruch College, City University of New York, who specialises in energy and climate policies. “A transition away from coal is therefore not only an energy transformation, but also an economic and employment transition that must be managed with care.” “The ability of China to manage this transition in a rapid and just manner will have a significant impact on how it and, to a large extent, the world use energy and address climate change,” Gang said."
+      date: "2025-12-14"
+      categories: [Bloomberg]
+
+    - path: https://www.abqjournal.com/business/article_068db659-ba12-4b8d-82f4-88ba4373c9a6.html
+      image: /files/images/media/albuquerque-journal.webp
+      title: "Albuquerque’s Array Technologies Powers Ahead Despite Trump’s Tougher Stance on Renewables"
+#      subtitle: "PV Magazine"
+      author: 
+        - Hannah García  
+      description: "“It’s encouraging to see domestic solar manufacturing gaining ground,” said Gang He, an associate professor of energy and climate policy at Baruch College in New York. “But it’s equally important to keep the flow of knowledge, talent and capital open, so U.S. markets can continue to benefit from global learning, driving down costs and speeding up solar deployment.”"
+      date: "2025-11-15"
+      categories: [Albuquerque Journal]
+
+
+    - path: https://www.pv-magazine.com/2025/11/05/us-solar-tariffs-linked-to-preventable-deaths-claim-researchers/
+      image: /files/images/media/pv-magazine.webp
+      title: "US solar tariffs linked to preventable deaths, claim researchers"
+#      subtitle: "PV Magazine"
+      author: 
+        - John Weaver  
+      description: "A more rigorous—and encouraging—analysis from researchers at the City University of New York found that solar panel imports into the United States displaced 305 TWh of fossil generation, avoided 178 million tons of CO2 emissions, and prevented 595 premature deaths between 2014 and 2022."
+      date: "2025-11-04"
+      categories: [PV Magazine]
+
+    - path: https://www.bloomberg.com/news/articles/2025-10-29/china-s-new-coal-language-leaves-more-room-for-rising-use
+      image: /files/images/media/bloomberg.png
+      title: "China's New Coal Language Leaves More Room for Rising Use"
+#      subtitle: "Bloomberg"
+      author: 
+        - Lili Pike  
+        - Dan Murtaugh
+      description: "Gang He, an associate professor at CUNY Baruch College, said, Coal's share in China's electricity generation is set to fall to about half by 2030 from 58% in 2024. ... it reflects a managed transition—recognizing coal’s diminishing but still critical role in maintaining grid stability as renewables expand rapidly."
+      date: "2025-10-29"
+      categories: [Bloomberg] 
+
+    - path: https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html
+      image: /files/images/media/new-york-times.jpeg
+      title: "How China Raced Ahead of the U.S. on Nuclear Power"
+#      subtitle: "The New York Times"
+      author: 
+        - Brad Plumer 
+        - Harry Stevens
+      description: "*The New York Times* covered U.S. China's nuclear power race and highlighted our work—reproducing our figure and citing our *Nature* Comment article on nuclear costs."
+      date: "2025-10-23"
+      categories: [The New York Times] 
+
+    - path: https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry
+      image: /files/images/media/the-economist.svg
+      title: "Why nuclear is now a booming industry"
+      author: The Economist
+      description: "*The Economist* covered the nuclear industry’s resurgence and highlighted our work—reproducing our figure and citing our *Nature* Comment article on nuclear costs."
+      date: "2025-09-04"
+      categories: [The Economist] 
+
+    - path: https://highlandscurrent.org/2025/07/04/beyond-the-grid-cost-overload/
+      image: /files/images/media/the-highlands-current.png
+      title: "Beyond the Grid: Cost Overload"
+      author: Leonard Sparks
+      description: "Driven by such factors as economies of scale, global supply chains and advances in technology, the average cost of solar power dropped by over 90 percent between 2010 and 2023, and for onshore and offshore wind by 73 percent and 65 percent, respectively, said Gang He, an energy policy expert from CUNY Baruch College."
+      date: "2025-07-04"
+      categories: [The Highlands Current] 
+
     - path: https://www.eenews.net/articles/in-major-shift-china-moves-toward-hard-carbon-targets/
       image: /files/images/media/ee-news.png
       title: "In major shift, China moves toward hard carbon targets"

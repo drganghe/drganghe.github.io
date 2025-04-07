@@ -3,7 +3,7 @@ title: "Research Webinar: Accelerating offshore wind development enhances energy
 description: "New report explores the impacts of offshore wind development on the power generation, transmission networks in China’s power system and more importantly, energy independence of these coastal provinces. "
 author: "LBL ETA"
 date: "2024-05-06"
-categories: [event, presentation]
+categories: [event, presentation, slides]
 image: "featured.jpeg"
 css: /custom.css
 #draft: true
@@ -36,10 +36,14 @@ Berkeley Lab and UC Berkeley conduct a new analysis, “Accelerating offshore wi
 Join this webinar to find out more about our preliminary results, presented by Liqun Peng and Jiang Lin of Berkeley Lab, followed by feedback and comments from a panel of experts moderated by Prof. Gang He of CUNY-Baruch College, Michael O’Boyle from Energy Innovation, Yuan Bo from State Grid Energy Research Institute and Yujing Liu from RMI.
 
 
-## Webinar Link
 
-LBL [Event](https://emp.lbl.gov/news/research-webinar-accelerating-offshore-wind-development-enhances-energy-security-and){.external target="_blank"}
+## Slides
 
+```{=html}
+<div class="pdf-wrapper-16x9">
+<iframe src="/files/slides/China_OSW_2024_FINAL.pdf" frameborder="0" allowfullscreen></iframe>
+</div>
+```
 
 <!--Include social share buttons-->
 
