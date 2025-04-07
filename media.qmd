@@ -7,6 +7,7 @@ listing:  #an example of listing external links
   id: media
   sort: "date desc"
   type: default
+  page-size: 100
 #  grid-columns: 2
 #  image-height: 200px
   categories: true
@@ -15,6 +16,8 @@ listing:  #an example of listing external links
   contents: media.yml
 
 #page-layout: full
+execute:
+  freeze: true  # freeze the page so that it is not updated automatically as there is a external link issue
 
 page-navigation: false
 title-block-banner: false
