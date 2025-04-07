@@ -29,7 +29,7 @@ website:
             href: contact.qmd             
       - text: Research
         menu:
-          - text: List of Publication
+          - text: List of Publications
             href: publications.qmd
           - text: Selected Papers
             href: posts.qmd#category=paper

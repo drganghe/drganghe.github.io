@@ -15,10 +15,10 @@ css: /custom.css
 
 Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
 
-Total citations as of January 2025:
+Total citations as of May 2025:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 3,000 (h-index = 26)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 5,000 (h-index = 33, i10-index = 57) 
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 3,500 (h-index = 28)   
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 5,500 (h-index = 35, i10-index = 61) 
 
 ## Selected Work
 
@@ -29,7 +29,7 @@ Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cos
 
 <center><hr style="width:50%"></center>
 
-Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd). *Nature Energy* 8(8): 870–880. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). [[pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd). *Nature Energy* 8(8): 870–880. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). [[pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)] ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
@@ -95,6 +95,8 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015.[ELITE C
 ## Peer-reviewed Journal Paper
 
 Luo, Qian, Liqun Peng, **Gang He** and Jiang Lin. 2025. [Cost-effectiveness of removing the last 10-20% emissions of China's power sector](https://iopscience.iop.org/article/10.1088/1748-9326/adc0b3). *Environmental Research Letters* 20: 044035. doi: [10.1088/1748-9326/adc0b3](https://doi.org/10.1088/1748-9326/adc0b3). [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/adc0b3/pdf)]
+
+Nikmehr, Nima, Peng Zhang, Honghao Zheng, Tzu-Chieh Wei, **Gang He**, and Yacov A. Shamash. 2025. [Quantum Annealing-Infused Microgrids Formation: Distribution System Restoration and Resilience Enhancement](https://ieeexplore.ieee.org/document/10526448). *IEEE Transactions on Power Systems* 40 (1): 463–75. doi: [10.1109/TPWRS.2024.3399122](https://doi.org/10.1109/TPWRS.2024.3399122). [[pdf](/files/papers/2025-IEEETPS-Quantum-Annealing-Infused-Microgrids-Formation.pdf)]
 
 Wu, Huihuang, Junfeng Liu, Xiurong Hu, **Gang He**, Yuhan Zhou, Xian Wang, Ying Liu, Jianmin Ma, and Shu Tao. 2024. [Fewer than 15% of Coal Power Plant Workers in China Can Easily Shift to Green Jobs by 2060](https://www.sciencedirect.com/science/article/pii/S259033222400530X). *One Earth* 7(11): 1994-2007. doi: [10.1016/j.oneear.2024.10.006](https://doi.org/10.1016/j.oneear.2024.10.006). [[pdf](https://www.cell.com/action/showPdf?pii=S2590-3322%2824%2900530-X)]
 
