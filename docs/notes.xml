@@ -14,7 +14,7 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/notes.html</link>
 </image>
-<generator>quarto-1.6.42</generator>
+<generator>quarto-1.6.43</generator>
 <lastBuildDate>Fri, 03 Jan 2025 05:00:00 GMT</lastBuildDate>
 <item>
   <title>CUNY Baruch College Visiting Scholar Paperwork Guide</title>
@@ -619,12 +619,12 @@ background-color: null;
 font-style: inherit;">decktape</span> automatic lecture1.html lecture1.pdf</span></code></pre></div>
 <p>If you encounter font error when opening the PDF:</p>
 <blockquote class="blockquote">
-<p>Cannot extract the embedded font ‘BAAAAA+SourceSansPro-Regular’. Some characters may not display or print correctly.”</p>
+<p>“Cannot extract the embedded font ‘BAAAAA+SourceSansPro-Regular’. Some characters may not display or print correctly.”</p>
 </blockquote>
 <p>Use Adobe Acrobat tools to fix it:</p>
 <ol type="1">
 <li>Open the PDF in Adobe Acrobat.</li>
-<li>Go to <code>Use print production</code> &gt; <code>Preflight</code>.</li>
+<li>Go to <code>Use print production</code> &gt; <code>Preflight</code> &gt; <code>Analyze and fix it</code> (default options).</li>
 <li>Apply the necessary font correction.</li>
 </ol>
 <!--Include social share buttons-->

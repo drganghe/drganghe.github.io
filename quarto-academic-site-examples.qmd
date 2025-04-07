@@ -160,12 +160,12 @@ decktape automatic lecture1.html lecture1.pdf
 
 If you encounter font error when opening the PDF:
 
->Cannot extract the embedded font 'BAAAAA+SourceSansPro-Regular'. Some characters may not display or print correctly." 
+>"Cannot extract the embedded font 'BAAAAA+SourceSansPro-Regular'. Some characters may not display or print correctly." 
 
 Use Adobe Acrobat tools to fix it:
 
 1. Open the PDF in Adobe Acrobat. 
-2. Go to `Use print production` > `Preflight`. 
+2. Go to `Use print production` > `Preflight` > `Analyze and fix it` (default options). 
 3. Apply the necessary font correction. 
 
 
