@@ -15,7 +15,168 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Tue, 01 Jul 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Jul 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Can China break the ‘cost curse’ of nuclear power?</title>
+  <dc:creator>Shangwei Liu</dc:creator>
+  <dc:creator>Gang He</dc:creator>
+  <dc:creator>Minghao Qiu</dc:creator>
+  <dc:creator>Daniel M. Kammen</dc:creator>
+  <link>https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Online Version
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Title: <strong>China reins in the spiralling construction costs of nuclear power — what can other countries learn?</strong></p>
+<p>Strengthening regulations and domestic supply chains could be key to making nuclear power more economically viable.</p>
+</div>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.nature.com/articles/d41586-025-02341-z"><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig1.png" class="img-fluid figure-img"></a></p>
+<figcaption>Overnight construction costs of commercial nuclear power units in the US, France, and China. Overnight construction cost refers to the capital cost of building a nuclear power plant, excluding financing charges incurred during the construction period.<sup>1</sup></figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Can China break the ‘cost curse’ of nuclear power?<br>
+Shangwei Liu*, <strong>Gang He</strong>*, Minghao Qiu, and Daniel M. Kammen<br>
+<em>Nature</em> (2025)<br>
+DOI: <a href="https://doi.org/10.1038/d41586-025-02341-z">10.1038/d41586-025-02341-z</a></p>
+</div>
+</div>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Escalating construction expenses threaten to derail global progress on atomic energy. China offers lessons on how to rein in costs. Over the past two decades, China has been the main country to substantially and consistently expand its nuclear fleet. Here we compiled and analyzed a dataset on the construction costs of nuclear power plants in China. We find that the construction costs of Chinese nuclear power plants have been declining since 2000, and the cost of building a nuclear power plant has been halved. China’s deliberate, staged effort to build domestic supply chains and standardized reactor designs has been key to this success. Coordinated regulatory structures and long-term policy commitments have also been important. As countries rush to expand nuclear capacities, they must combine affordability with safety, scalability, investor confidence and public trust. Without this, nuclear power will remain an expensive bet the world can ill afford.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig2.png" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>The effect of indigenization (domestic content rate) on unit overnight construction costs of Chinese operating nuclear power plants. Each dot represents a nuclear power plant (including multiple units), as costs and domestic content rates are typically reported at this level. The dashed line represents the fitted linear regression of domestic content rate against unit overnight construction costs.</figcaption>
+</figure>
+</div>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.nature.com/articles/d41586-025-02341-z">paper</a></p>
+<p>SharedIt <a href="https://rdcu.be/eyaXW">full text</a></p>
+<p>Preprint <a href="../../files/papers/2025-nature-nuclear-costs.pdf">pdf</a></p>
+<p>Press <a href="https://deeppolicylab.github.io/news/2025-07-28-nature-comment-nuclear-costs.html">release</a></p>
+<p>Supplementary information <a href="https://media.nature.com/original/magazine-assets/d41586-025-02341-z/51274736">pdf</a></p>
+<p>Source <a href="https://www.nature.com/magazine-assets/d41586-025-02341-z/51274734">data</a></p>
+<ul>
+<li>Power plant level investment costs (overnight construction costs)</li>
+<li>Power plant indigenization rate (domestic content rate)</li>
+<li>Harmonized nuclear power plant costs across countries (U.S., France, China)</li>
+</ul>
+<p>Nature Portfolio <a href="https://mp.weixin.qq.com/s/NZ6mnx_a46Fj0xepdMsluA">summary</a> in Chinese</p>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-025-02341-z" data-hide-zero-citations="true" data-style="small_circle"></span> 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/d41586-025-02341-z"></div>
+</section>
+<section id="nature-press-release" class="level2">
+<h2 class="anchored" data-anchor-id="nature-press-release"><em>Nature</em> press release</h2>
+<blockquote class="blockquote">
+<p><strong>Comment: China Offers Clues to Break Nuclear Power’s ‘Cost Curse’</strong></p>
+<p>While historically the nuclear industry has faced a ‘cost escalation curse’, as witnessed in the U.S. and France, China has halved and stabilized these expenses over the past two decades, according to a Comment piece published in Nature this week.</p>
+<p>Shangwei Liu, Gang He, Minghao Qiu, and Daniel Kammen compiled and analysed a data set on the construction costs of nuclear power plants in China drawn from a wide range of publicly available sources. They attribute this success to a strategic blend of stable regulations, domestic supply chain development, and standardized reactor designs. China’s centralized nuclear regulatory structure, long-term policy commitments, and rapid project execution have enabled it to build reactors in nearly half the time of recent Western counterparts. These findings have important implications for policymakers seeking a nuclear energy resurgence, “As countries rush to expand nuclear capacities, they must combine affordability with safety, scalability, investor confidence and public trust. Without this, nuclear power will remain an expensive bet the world can ill afford”, they conclude.</p>
+</blockquote>
+</section>
+<section id="linkedin" class="level2">
+<h2 class="anchored" data-anchor-id="linkedin">LinkedIn</h2>
+<iframe class="linkedin-post" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7355643824590782465" height="1062" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<!--
+```{=html}
+<style>
+  /* Style for screens with a width less than 550px */
+  @media (max-width: 550px) {
+    iframe {
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
+<iframe src="https://www.linkedin.com/feed/update/urn:li:activity:7355643824590782465/" height="1000" width="550" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+```
+-->
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-rothwellProjectedElectricityCosts2022" class="csl-entry">
+Rothwell, Geoffrey. 2022. <span>“Projected Electricity Costs in International Nuclear Power Markets.”</span> <em>Energy Policy</em> 164 (May): 112905. <a href="https://doi.org/10.1016/j.enpol.2022.112905">https://doi.org/10.1016/j.enpol.2022.112905</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p><strong>Clarification regarding Flamanville 3 cost estimates</strong>: At the time of our data collection, Flamanville 3 was still under construction, with published overnight cost estimates ranging from $4.013/W to $8.62/W <span class="citation" data-cites="rothwellProjectedElectricityCosts2022">(see Rothwell 2022, Table 2)</span>. In our original figure (now included as <a href="https://media.nature.com/original/magazine-assets/d41586-025-02341-z/51274736">Supplementary Figure S1</a>), we used the lower bound estimate of $4/W and denoted it as “&gt; $4/W” to reflect the uncertainty and acknowledge that this conservative value already illustrates the magnitude of cost escalation in France’s recent nuclear construction. Subsequently, the <a href="https://www.ccomptes.fr/fr/publications/la-filiere-epr-une-dynamique-nouvelle-des-risques-persistants">2025 French Court of Auditors’ review</a> placed the overnight construction cost at over $10/W. We note that the “&gt;” symbol was inadvertently omitted from the final published figure, and we apologize for this oversight.↩︎</p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{liu2025,
+  author = {Liu, Shangwei and He, Gang and Qiu, Minghao and M. Kammen,
+    Daniel},
+  title = {Can {China} Break the “Cost Curse” of Nuclear Power?},
+  journal = {Nature},
+  volume = {643},
+  pages = {1186-1188},
+  date = {2025-07-31},
+  url = {https://www.nature.com/articles/d41586-025-02341-z},
+  doi = {10.1038/d41586-025-02341-z},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-liu2025" class="csl-entry quarto-appendix-citeas">
+Liu, Shangwei, Gang He, Minghao Qiu, and Daniel M. Kammen. 2025.
+<span>“Can China Break the <span>‘Cost Curse’</span> of Nuclear
+Power?”</span> <em>Nature</em> 643 (July): 1186–88. <a href="https://doi.org/10.1038/d41586-025-02341-z">https://doi.org/10.1038/d41586-025-02341-z</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/</guid>
+  <pubDate>Mon, 28 Jul 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig1.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>Macro-Energy Systems Speaker Series: Supply Chains in Energy Systems</title>
   <link>https://drganghe.github.io/</link>
@@ -1403,83 +1564,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/</guid>
   <pubDate>Tue, 05 Dec 2023 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/cop28.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>SWITCH-China: Open Source Model for the World’s Largest Power System</title>
-  <dc:creator>SWITCH China</dc:creator>
-  <link>https://drganghe.github.io/posts/2023-11-switch-china-open-model/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://github.com/switch-model/switch-china-open-model"><img src="https://drganghe.github.io/posts/2023-11-switch-china-open-model/featured.png" class="img-fluid figure-img"></a></p>
-<figcaption>SWITCH-China Open Model</figcaption>
-</figure>
-</div>
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>China’s power sector in 2022 accounted for about 1/4 of global coal consumption, 1/8 of global energy related carbon emission, and at the same time, 40% of global solar and wind capaicity. This fast transiting sector is under pressure to lower its carbon emissions while strive to power the world’s largest manufacturer and fastest growing mid-class. The scale and scope of China’s clean power transition is unprecedented and its impacts are enormouse, yet its trojactories are uncertain. How can China’s power sector achieve carbon netrality will in large impact how can the world meet the net-zero goals. Modeling China’s power transition is both important and challenging. After years’ efforts, and collaboration, I decide to open-source SWITCH-China Model and make it SWITCH-China Open Model to facilitate the modeling integration and comparison, data sharing, policy discussion and debate.</p>
-</section>
-<section id="video" class="level2">
-<h2 class="anchored" data-anchor-id="video">Video</h2>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/JXkUuYRQvU0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<div class="container">
-<iframe src="../../files/slides/switch-china.html" class="responsive-iframe" width="100%" title="slides">
-</iframe>
-</div>
-<p>Above are the video and slides of my presentation for <a href="https://forum.openmod.org/t/openmod-meets-usa-2023/4148">Openmod meets USA 2023</a> online. Check the <a href="../../files/slides/switch-china.html">slides</a> in a new tab.</p>
-</section>
-<section id="core-publications" class="level2">
-<h2 class="anchored" data-anchor-id="core-publications">Core publications</h2>
-<p>He, Gang*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen*. 2016. <a href="../../posts/2016-est-switch-china/index.html">SWITCH-China: A Systems Approach to Decarbonizing China’s Power System</a>. <em>Environmental Science &amp; Technology</em> 50(11): 5467–5473. doi: <a href="https://doi.org/10.1021/acs.est.6b01345">10.1021/acs.est.6b01345</a>.</p>
-<p>He, Gang*, Jiang Lin*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke*. 2020. <a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html">Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System</a>. <em>Nature Communications</em> 11(1): 2486. doi: <a href="https://doi.org/10.1038/s41467-020-16184-x">10.1038/s41467-020-16184-x</a>.</p>
-<p>Zhang, Chao, Gang He*, Josiah Johnston, and Lijin Zhong. 2021.&nbsp;<a href="../../posts/2021-12-jcp-power-water-carbon/index.html">Long-Term Transition of China’s Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint</a>. <em>Journal of Cleaner Production</em>&nbsp;329: 129765. doi: <a href="https://doi.org/10.1016/j.jclepro.2021.129765">10.1016/j.jclepro.2021.129765</a>.</p>
-<p>Peng, Liqun, Denise L. Mauzerall*, Yaofeng D. Zhong, and Gang He*. 2023. <a href="https://www.nature.com/articles/s41467-023-40337-3">Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China</a>. <em>Nature Communications</em> 14: 4858. doi:<a href="https://doi.org/10.1038/s41467-023-40337-3">10.1038/s41467-023-40337-3</a>.</p>
-</section>
-<section id="acknowledgment" class="level2">
-<h2 class="anchored" data-anchor-id="acknowledgment">Acknowledgment</h2>
-<ul>
-<li>SWITCH/EDF and EDF-China team: Matthias Fripp, Oleg Lugovoy, Suzi Kerr, and Ji Gao, Keyang Xue, Gray Zhuoran Li, and others<br>
-</li>
-<li>UCB and RAEL: Daniel Kammen, Anne-Perrine Avrin, Jianwei Tian, James Nelson, Josiah Johnston, Ana Mileva, Bo Li, Patricia Hidalgo-Gonzalez, Juan Pablo Carvallo<br>
-</li>
-<li>Gridpath: Qian Luo, Haozhe Yang, Ana Mileva, and Ranjit Deshmukh<br>
-</li>
-<li>Collaborators: Chao Zhang, Jiang Lin, Amol Phadke, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, Liqun Peng, Denise Mauzerall, Desmond Zhong, Wenjia Cai, Yu Chen, Yuang Chen, Shiyu Huang, Jingxuan Hui, Haoran Li, Hongyou Lu, Xiao Su, Yang Wang, Zheng Wang, Kate Yu, Shuyu Yang, Jiahai Yuan, Wenhua Zhang, Hongyang Zou, and many more</li>
-</ul>
-</section>
-<section id="learn-more" class="level2">
-<h2 class="anchored" data-anchor-id="learn-more">Learn more</h2>
-<p><a href="https://sites.google.com/view/ganghe/research/switch-china-model" class="uri">https://sites.google.com/view/ganghe/research/switch-china-model</a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <category>event</category>
-  <category>slides</category>
-  <category>video</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/posts/2023-11-switch-china-open-model/</guid>
-  <pubDate>Mon, 13 Nov 2023 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2023-11-switch-china-open-model/featured.png" medium="image" type="image/png" height="66" width="144"/>
 </item>
 </channel>
 </rss>

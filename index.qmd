@@ -61,8 +61,8 @@ listing:
     contents: 
       - posts
       - posts/post-links.yml
-    exclude:
-      title: "Participating APPAM 2024"
+#    exclude:
+#      title: " "
     type: grid
     max-items: 3
 #    image-height: 150px
@@ -82,7 +82,7 @@ listing:
 
 :::{#hero-heading}
 
-Gang He is an energy scholar, researcher, and teacher focused on the intersection of energy systems, climate policy, and sustainable development.  He is an Assistant Professor at the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/our-community/faculty-and-staff/full-time-faculty/){.external target="_blank"}, Baruch College, City University of New York (CUNY). He also serves as Doctoral Faculty in [Earth and Environmental Sciences](https://www.gc.cuny.edu/people/gang-he){.external target="_blank"} at the CUNY Graduate Center, and is a Faculty Affiliate at the [CUNY Institute for Demographic Research](https://www.cuny.edu/about/centers-and-institutes/demographic-research/){.external target="_blank"}. He is the founder and director of the [Deep Energy and Climate Policy Lab](https://deeppolicylab.github.io){.external target="_blank"}, aiming at deep analysis and deep insights for deep decarbonization. 
+Gang He is an energy scholar, researcher, and teacher whose research focuses on the intersection of energy systems, climate policy, and sustainable development.  He is an Assistant Professor at the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/our-community/faculty-and-staff/full-time-faculty/){.external target="_blank"}, Baruch College, City University of New York (CUNY). He also serves as Doctoral Faculty in [Earth and Environmental Sciences](https://www.gc.cuny.edu/people/gang-he){.external target="_blank"} at the CUNY Graduate Center, and is a Faculty Affiliate at the [CUNY Institute for Demographic Research](https://www.cuny.edu/about/centers-and-institutes/demographic-research/){.external target="_blank"}. He is the founder and director of the [Deep Energy and Climate Policy Lab](https://deeppolicylab.github.io){.external target="_blank"}, aiming at deep analysis and deep insights for deep decarbonization. 
 
 He teaches [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society/){.external target="_blank"} at the undergraduate level, and [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy/){.external target="_blank"} and [Program Evaluation](https://drganghe.github.io/program-evaluation/){.external target="_blank"} at the graduate level. He organizes the [Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/){.external target="_blank"} series which brings in experts and professionals to talk about climate challenges and solutions to inspire the next generation of climate leaders.
 

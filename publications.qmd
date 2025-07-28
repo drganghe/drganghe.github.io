@@ -15,10 +15,10 @@ css: /custom.css
 
 Note: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
 
-Total citations as of May 2025:
+Total citations as of July 2025:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 3,500 (h-index = 28)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 5,500 (h-index = 35, i10-index = 61) 
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 3,600 (h-index = 29)   
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 5,700 (h-index = 35, i10-index = 61) 
 
 ## Selected Work
 
@@ -26,6 +26,10 @@ Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cos
 **Award**: [IAMC2022 Best Poster Award](/posts/2022-12-iamc-2022-best-poster-award/index.qmd)   
 **Coverage**: [SBU News](https://news.stonybrook.edu/environmental-stewardship/international-collaboration-is-key-to-addressing-global-climate-change/), [GWU News](https://mediarelations.gwu.edu/global-collaboration-saved-countries-67-billion-solar-panel-production-costs), [UCSD News](https://today.ucsd.edu/story/open-trade-saves-countries-billions-in-solar-panel-production), [*Nature* Research Highlights](https://web.archive.org/web/20230603073317/https://www.natureasia.com/en/research/highlight/14262), [*E&E News*](https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/), [*Foreign Policy*](https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/), [GRID News](https://web.archive.org/web/20240106093827/https://themessenger.com/grid/the-us-is-reducing-its-reliance-on-china-for-green-technology-could-that-slow-progress-on-climate-change), [PV Magazine](https://pv-magazine-usa.com/2022/10/26/a-globalized-supply-chain-is-key-to-cutting-costs-in-solar-module-manufacturing/), [dot.LA](https://dot.la/deglobalization-2658510850.html), [pvbuzz](https://pvbuzz.com/new-study-quantifies-cost-savings-solar-industry-globalized-supply-chains/), [InnovateLongIsland](https://www.innovateli.com/no-736-on-immigrants-solar-energy-supplies-and-other-american-strengths-with-lots-of-candy-to-share/), [Mercom India](https://mercomindia.com/imposing-import-tariffs-hamper-of-solar-energy-study/), [China News](https://www.chinanews.com.cn/cj/2022/10-27/9881042.shtml), [Science and Technology Daily](http://www.stdaily.com/index/kejixinwen/202210/e38ea5c3a3054d87a43996d39a2924ab.shtml)   
 **Invited presentation**: [Peking University](https://cese.pku.edu.cn/images/content/2024-03/20240325151929637875.png), [Tsinghua University](https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g), [Harvard University](https://www.belfercenter.org/event/energy-policy-seminar-michael-davidson-decoupling-china-clean-tech) (M.D.), ITIF (J.H.), [Climate Change Economics Forum](https://mp.weixin.qq.com/s/teDhroPPbaA6z1pVU2JrwA)   
+
+<center><hr style="width:50%"></center>
+
+Liu, Shangwei\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen. 2025. [Can China break the ‘cost curse’ of nuclear power?](/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/index.qmd). *Nature* 643: 1186–88. doi: [10.1038/d41586-025-02341-z](https://doi.org/10.1038/d41586-025-02341-z). [SharedIt [full-text](https://rdcu.be/eyaXW)] [Preprint [pdf](/files/papers/2025-nature-nuclear-costs.pdf)] [[Source Data](https://www.nature.com/magazine-assets/d41586-025-02341-z/51274734)] <span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-025-02341-z" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/d41586-025-02341-z" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 <center><hr style="width:50%"></center>
 
@@ -93,6 +97,10 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015. [ELITE 
 
 
 ## Peer-reviewed Journal Paper
+
+Liu, Shangwei\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen. 2025. [Can China break the ‘cost curse’ of nuclear power?](https://nature.com/articles/d41586-025-02341-z). *Nature* 643: 1186–88. doi: [10.1038/d41586-025-02341-z](https://doi.org/10.1038/d41586-025-02341-z). [SharedIt [full-text](https://rdcu.be/eyaXW)] [Preprint [pdf](/files/papers/2025-nature-nuclear-costs.pdf)]
+
+Zhang, Chao\*, Yujie Dong, Lijin Zhong\*, Haoqi Qian\*, Shuangtong Wang, and **Gang He**. 2025. [Avoided CO2 Emissions in China’s Power Sector by Structural Change and Efficiency Gain: An Electric Generating Unit Level Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0921344925003982). *Resources, Conservation and Recycling* 223: 108520. doi: [10.1016/j.resconrec.2025.108520](https://doi.org/10.1016/j.resconrec.2025.108520). [[pdf](https://www.sciencedirect.com/science/article/pii/S0921344925003982/pdfft?md5=5cdbf50ab2eaea3e5631c4a7bd402630&pid=1-s2.0-S0921344925003982-main.pdf)]   
 
 Peng, Liqun, **Gang He**, and Jiang Lin\*. 2025. [Role of pumped hydro storage in China’s power system decarbonization](https://www.sciencedirect.com/science/article/pii/S1040619025000326). *The Electricity Journal*. doi: [10.1016/j.tej.2025.107487](https://doi.org/10.1016/j.tej.2025.107487). [[pdf](https://www.sciencedirect.com/science/article/pii/S1040619025000326/pdfft?md5=b4d917468b239ff9496538b66df8c1f5&pid=1-s2.0-S1040619025000326-main.pdf)]
 
