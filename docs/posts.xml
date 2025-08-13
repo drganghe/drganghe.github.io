@@ -15,7 +15,26 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Mon, 28 Jul 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Sep 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Climate Week NYC 2025: The Role of Nuclear Energy in Decarbonization and Powering the AI Era</title>
+  <link>https://drganghe.github.io/</link>
+  <description>Join us to discuss the role of nuclear energy in decarbonization and powering the AI era during Climate Week NYC 2025.</description>
+  <category>event</category>
+  <guid>https://drganghe.github.io/</guid>
+  <pubDate>Tue, 23 Sep 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/files/images/Climate-Week-Webinare-2025.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Selected as Public Intellectuals Program Fellow</title>
+  <link>https://drganghe.github.io/</link>
+  <description>Gang He is Selected for Ninth Round of Public Intellectuals Program Fellow of the National Committee on US-China Relations.</description>
+  <category>news</category>
+  <category>distinction</category>
+  <guid>https://drganghe.github.io/</guid>
+  <pubDate>Wed, 13 Aug 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/files/images/pip-fellow-2025.png" medium="image" type="image/png" height="75" width="144"/>
+</item>
 <item>
   <title>Can China break the ‘cost curse’ of nuclear power?</title>
   <dc:creator>Shangwei Liu</dc:creator>
@@ -58,8 +77,12 @@ Online Version
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.nature.com/articles/d41586-025-02341-z"><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig1.png" class="img-fluid figure-img"></a></p>
-<figcaption>Overnight construction costs of commercial nuclear power units in the US, France, and China. Overnight construction cost refers to the capital cost of building a nuclear power plant, excluding financing charges incurred during the construction period.<sup>1</sup></figcaption>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.nature.com/articles/d41586-025-02341-z"><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/cover-page.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></a></p>
+</figure>
+</div>
+<figcaption>Cover page of the paper</figcaption>
 </figure>
 </div>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -83,8 +106,14 @@ DOI: <a href="https://doi.org/10.1038/d41586-025-02341-z">10.1038/d41586-025-023
 <p>Escalating construction expenses threaten to derail global progress on atomic energy. China offers lessons on how to rein in costs. Over the past two decades, China has been the main country to substantially and consistently expand its nuclear fleet. Here we compiled and analyzed a dataset on the construction costs of nuclear power plants in China. We find that the construction costs of Chinese nuclear power plants have been declining since 2000, and the cost of building a nuclear power plant has been halved. China’s deliberate, staged effort to build domestic supply chains and standardized reactor designs has been key to this success. Coordinated regulatory structures and long-term policy commitments have also been important. As countries rush to expand nuclear capacities, they must combine affordability with safety, scalability, investor confidence and public trust. Without this, nuclear power will remain an expensive bet the world can ill afford.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig1.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 1: Overnight construction costs of commercial nuclear power units in the US, France, and China. Overnight construction cost refers to the capital cost of building a nuclear power plant, excluding financing charges incurred during the construction period.<sup>1</sup></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig2.png" class="img-fluid figure-img" style="width:80.0%"></p>
-<figcaption>The effect of indigenization (domestic content rate) on unit overnight construction costs of Chinese operating nuclear power plants. Each dot represents a nuclear power plant (including multiple units), as costs and domestic content rates are typically reported at this level. The dashed line represents the fitted linear regression of domestic content rate against unit overnight construction costs.</figcaption>
+<figcaption>Figure 2: The effect of indigenization (domestic content rate) on unit overnight construction costs of Chinese operating nuclear power plants. Each dot represents a nuclear power plant (including multiple units), as costs and domestic content rates are typically reported at this level. The dashed line represents the fitted linear regression of domestic content rate against unit overnight construction costs.</figcaption>
 </figure>
 </div>
 </section>
@@ -184,7 +213,7 @@ Power?”</span> <em>Nature</em> 643 (July): 1186–88. <a href="https://doi.org
   <category>event</category>
   <guid>https://drganghe.github.io/</guid>
   <pubDate>Tue, 01 Jul 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://deeppolicylab.github.io/events/2025-07-01-mes-supply-chains-in-energy-systems-panel/flyer-small.png" medium="image" type="image/png"/>
+  <media:content url="https://drganghe.github.io/files/flyers/20250701mes-supply-chains-flyer-small.png" medium="image" type="image/png" height="106" width="144"/>
 </item>
 <item>
   <title>Third Annual Conference on Climate Research, Teaching, and Collaboration</title>
@@ -653,7 +682,7 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="relevant-posts">Relevant posts</h2>
 <div id="listing-papers" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDc2xpZGVzJTJDdmlkZW8lMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1729966546521" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
+<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDc2xpZGVzJTJDdmlkZW8lMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1750164456638" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
 <a href="../../posts/2023-11-switch-china-open-model/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -701,7 +730,7 @@ Dec 20, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1736093252741" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="858">
+<div class="g-col-1" data-index="2" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1753893551184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="858">
 <a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -788,9 +817,9 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://drganghe.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/featured.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>NYC Climate Week: Clean Energy Global Supply Chains Panel</title>
+  <title>Climate Week NYC 2024: Clean Energy Global Supply Chains Panel</title>
   <link>https://drganghe.github.io/</link>
-  <description>Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during NYC Climate Week.</description>
+  <description>Join us to discuss Role of Clean Energy Global Supply Chains in Achieving Climate Goals during Climate Week NYC 2024.</description>
   <category>event</category>
   <guid>https://drganghe.github.io/</guid>
   <pubDate>Thu, 26 Sep 2024 04:00:00 GMT</pubDate>
@@ -853,7 +882,7 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <category>award</category>
+  <category>distinction</category>
   <category>video</category>
   <guid>https://drganghe.github.io/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/</guid>
   <pubDate>Tue, 17 Sep 2024 04:00:00 GMT</pubDate>
@@ -924,7 +953,7 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="highlighted-relevant-work">Highlighted relevant work</h2>
 <div id="listing-uschina" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDc2xpZGVzJTJDdmlkZW8lMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1729966546521" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
+<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDc2xpZGVzJTJDdmlkZW8lMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1750164456638" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
 <a href="../../posts/2023-11-switch-china-open-model/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -942,7 +971,7 @@ Nov 13, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1743435500981" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3585">
+<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1748431125905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3584">
 <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -984,7 +1013,7 @@ Dec 20, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1736093252741" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="858">
+<div class="g-col-1" data-index="3" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1753893551184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="858">
 <a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1304,266 +1333,10 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <category>award</category>
+  <category>distinction</category>
   <guid>https://drganghe.github.io/posts/2024-03-22-baruch-faculty-research-award/</guid>
   <pubDate>Fri, 22 Mar 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-03-22-baruch-faculty-research-award/featured.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Baruch College Conference on Climate Research, Teaching, and Collaboration</title>
-  <dc:creator>Baruch Climate Conference</dc:creator>
-  <link>https://drganghe.github.io/posts/2024-02-22-baruch-climate-conference/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://www.baruch.cuny.edu/climateconference/"><img src="https://drganghe.github.io/posts/2024-02-22-baruch-climate-conference/featured.png" class="img-fluid"></a></p>
-<section id="second-annual-conference-on-climate-research-teaching-and-collaboration" class="level2">
-<h2 class="anchored" data-anchor-id="second-annual-conference-on-climate-research-teaching-and-collaboration">Second Annual Conference on Climate Research, Teaching, and Collaboration</h2>
-<p>Thursday, Feb.&nbsp;22 and Friday, Feb.&nbsp;23<br>
-Information and Technology Building<br>
-151 East 25th Street</p>
-<p>Day One (Feb.&nbsp;22): Multidisciplinary Climate Research and Teaching</p>
-<p>We will highlight the innovative climate research of our Baruch and CUNY faculty, especially our newest colleagues, from the Austin W. Marxe School of Public and International Affairs, Weissman School of Arts and Sciences, and Zicklin School of Business. Presenters will follow the PechaKucha (Japanese for “chit chat”) presentation format: faculty will show 20 slides in seven minutes, followed by three minutes of Q-and-A. Presentations will be organized based on themes.</p>
-</section>
-<section id="registration" class="level2">
-<h2 class="anchored" data-anchor-id="registration">Registration</h2>
-<p>9:45–10:10 am</p>
-</section>
-<section id="welcome" class="level2">
-<h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
-<p>10:10–10:15 am</p>
-<p>S. David Wu, President, Baruch College, CUNY</p>
-</section>
-<section id="opening-remarks" class="level2">
-<h2 class="anchored" data-anchor-id="opening-remarks">Opening Remarks</h2>
-<p>10:15–10:30 am</p>
-<p>Mark Levine, Manhattan Borough President</p>
-</section>
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p>10:30–10:45 am</p>
-<p>Mindy Engle-Friedman, Professor of Psychology, Weissman School of Arts and Sciences</p>
-<p>Lin Peng, Krell Chair Professor in Finance, Zicklin School of Business</p>
-</section>
-<section id="pecha-kucha-group-1" class="level2">
-<h2 class="anchored" data-anchor-id="pecha-kucha-group-1">Pecha Kucha Group 1</h2>
-<p>10:45–11:35 am</p>
-<p>Moderator: Anna D’Souza, Marxe School of Public and International Affairs</p>
-<p>Understanding Aging in the Context of Future Climate Change</p>
-<ul>
-<li>Deborah Balk, Marxe School of Public and International Affairs; Director of the CUNY Institute for Demographic Research</li>
-<li>Jenna Tipaldo, CUNY SPH</li>
-</ul>
-<p>Working Climate Change into the Great Works</p>
-<ul>
-<li>Evelyn Adler, Weissman School of Arts and Sciences</li>
-</ul>
-<p>Using Nature-based Solutions to Mitigate Climate Stressors in Coastal Ecosystems</p>
-<ul>
-<li>Chester Zarnoch, Weissman School of Arts and Sciences</li>
-</ul>
-<p>Baruch and the Billion Oyster Project: A Local Example of Combining Research and Teaching</p>
-<ul>
-<li>Stephen Gosnell, Weissman School of Arts and Sciences</li>
-</ul>
-<p>Characterizing Electrolytes to Optimize Battery Technology</p>
-<ul>
-<li>Sophia Suarez, Brooklyn College</li>
-</ul>
-</section>
-<section id="pecha-kucha-group-2" class="level2">
-<h2 class="anchored" data-anchor-id="pecha-kucha-group-2">Pecha Kucha Group 2</h2>
-<p>11:40 am–12:30 pm</p>
-<p>Moderator: Emily Johnson, Weissman School of Arts and Sciences</p>
-<p><strong>Enabling a Just, Resilient, and Sustainable Clean Energy Supply Chain to Achieve Climate Goals</strong></p>
-<ul>
-<li><strong>Gang He</strong>, Marxe School of Public and International Affairs</li>
-</ul>
-<p>Climate-invariant Machine Learning</p>
-<ul>
-<li>Dan Li, Weissman School of Arts and Sciences</li>
-</ul>
-<p>Environmental Justice Goals for New York City</p>
-<ul>
-<li>Michael Menser, Brooklyn College</li>
-</ul>
-<p>Infusing Courses Designed for Writing with Ecocritical Theme</p>
-<ul>
-<li>Sochuiwon Priscilla Khapai, Graduate Teaching Fellow, CUNY Graduate Center</li>
-</ul>
-<p>Exploring the Connection between, Media Communication, and the Environment</p>
-<ul>
-<li>Rianne Subijanto, Weissman School of Arts and Sciences</li>
-</ul>
-</section>
-<section id="lunch-and-keynote-address" class="level2">
-<h2 class="anchored" data-anchor-id="lunch-and-keynote-address">Lunch and Keynote Address</h2>
-<p>12:30–1:45 pm</p>
-<ul>
-<li>Lolita Jackson, Executive Director, Sustainable Cities, Sustainable Development Capital LLP</li>
-</ul>
-</section>
-<section id="deans-panel-interdisciplinary-collaboration" class="level2">
-<h2 class="anchored" data-anchor-id="deans-panel-interdisciplinary-collaboration">Deans’ Panel: Interdisciplinary Collaboration</h2>
-<p>1:45–2:25 pm</p>
-<p>Moderator: Raquel Fich, Associate Provost for Faculty Affairs, Research, and Innovation</p>
-<ul>
-<li>Jessica Lang, Dean of the Weissman School of Arts and Sciences</li>
-<li>Sherry Ryan, Marxe Dean</li>
-<li>Kannan Mohan, Associate Dean, Zicklin School of Business</li>
-</ul>
-</section>
-<section id="pecha-kucha-group-3" class="level2">
-<h2 class="anchored" data-anchor-id="pecha-kucha-group-3">Pecha Kucha Group 3</h2>
-<p>2:30–3:20 pm</p>
-<p>Moderator: Terrence Martell, Zicklin School of Business</p>
-<p>Impact of Carbon Emissions on Mortgage Default: Evidence from CMBS</p>
-<ul>
-<li>Li Ma, Doctoral Student, Zicklin School of Business</li>
-</ul>
-<p>The Role of Syndicated Loans in Reducing Carbon Emissions</p>
-<ul>
-<li>Sonali Hazarika, Zicklin School of Business</li>
-</ul>
-<p>SEC’s Comment Letters’ Scrutinization of Environmental Disclosures: Financial Materiality of Environmental Disclosures and Political Ideology</p>
-<ul>
-<li>Svenja Dube, Zicklin School of Business</li>
-</ul>
-<p>Climate Change in the Local Lens: The Role of News Media in Shaping Economic and Environmental Outcomes</p>
-<ul>
-<li>Leonard Kostovetsky, Zicklin School of Business</li>
-</ul>
-<p>Climate Risk and Renewable Energy Markets</p>
-<ul>
-<li>Lok-Si Ieong, Doctoral Student, Zicklin School of Business</li>
-</ul>
-</section>
-<section id="pecha-kucha-group-4" class="level2">
-<h2 class="anchored" data-anchor-id="pecha-kucha-group-4">Pecha Kucha Group 4</h2>
-<p>3:20–4:05 pm</p>
-<p>Moderator: Myung-Soo Lee, Zicklin School of Business</p>
-<p>The Impact of Climate Change on Business Innovation Output</p>
-<ul>
-<li>Priya Rangaswamy, Zicklin School of Business</li>
-</ul>
-<p>Stakeholders Stances on Negative Emissions Technologies and Practices</p>
-<ul>
-<li>Lucrezia Nava, Zicklin School of Business</li>
-</ul>
-<p>A Linguistic Analysis of the Volkswagen Emissions Scandal</p>
-<ul>
-<li>Mehmet Ozbilgin, Zicklin School of Business</li>
-</ul>
-<p>News-Based Climate Risk Exposure and Stock Returns</p>
-<ul>
-<li>Yukun Liu, Zicklin School of Business</li>
-</ul>
-</section>
-<section id="closing-remarks" class="level2">
-<h2 class="anchored" data-anchor-id="closing-remarks">Closing Remarks</h2>
-<p>4:05–4:15 pm</p>
-<p>Mindy Engle-Friedman, Professor of Psychology, Weissman School of Arts and Sciences</p>
-<p>Lin Peng, Krell Chair Professor in Finance, Zicklin School of Business</p>
-<p>Welcome to join us to learn more about climate-related activities at CUNY.</p>
-</section>
-<section id="conference-website" class="level2">
-<h2 class="anchored" data-anchor-id="conference-website">Conference Website</h2>
-<p><a href="https://www.baruch.cuny.edu/climateconference/" class="uri">https://www.baruch.cuny.edu/climateconference/</a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/posts/2024-02-22-baruch-climate-conference/</guid>
-  <pubDate>Thu, 22 Feb 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-02-22-baruch-climate-conference/featured.png" medium="image" type="image/png" height="59" width="144"/>
-</item>
-<item>
-  <title>Advancing a just, resilient, and sustainable clean energy supply chain</title>
-  <dc:creator>Gang He</dc:creator>
-  <dc:creator>Daniel M Kammen</dc:creator>
-  <dc:creator>Muhammad Husni Mubarok</dc:creator>
-  <dc:creator>Shoon So Oo</dc:creator>
-  <link>https://drganghe.github.io/posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>This post is prepared for COP28’s Energy &amp; Industry and Just Transition Day. We propose a multi-faceted framework for a <a href="https://www.climateworks.org/blog/advancing-a-just-resilient-and-sustainable-clean-energy-supply-chain/">just, resilient, and sustainable clean energy supply chain</a> to address the challenges along global clean energy supply chains.</p>
-</section>
-<section id="challenges" class="level2">
-<h2 class="anchored" data-anchor-id="challenges">Challenges</h2>
-<p>Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, a process that relies on an efficient global clean energy supply chain. Based on the IEA’s <a href="https://www.iea.org/reports/net-zero-by-2050">Net Zero by 2050</a>, solar and wind energy deployment must reach 20 and 15 times their 2020 levels by 2050, respectively, to bring down global energy-related carbon emissions to net zero. The global supply chains for solar and wind, intertwined with critical minerals and storage technologies, play a pivotal role in the success of this transition.</p>
-<p>Today, however, the pandemic, geopolitical tensions, and climate-driven events, present significant risks to the <a href="https://www.iea.org/reports/securing-clean-energy-technology-supply-chains">stability of the global clean energy supply chains</a>. The COVID-19 pandemic has revealed the vulnerability of global supply chains, disrupting manufacturing, transportation, and distribution networks worldwide. Geopolitical tensions and trade conflicts add another layer of complexity. The trade war has disrupted the free flow of capital, products, and even talents, essential components for the supply chain. Additionally, climate-induced extreme weather events and natural disasters pose physical threats to the infrastructure of the supply chain, affecting both production and distribution.</p>
-<p>The unequal distribution of costs and benefits along the supply chain raises ethical and socio-economic concerns, sometimes leading to countries breaking from the supply chain. While some regions benefit economically from the growth of the renewable energy sector, other regions bear disproportionate environmental and social burdens, particularly in Africa, Southeast Asia, and South America. The extraction of <a href="https://www.iea.org/news/iea-summit-on-critical-minerals-and-clean-energy-key-takeaways">critical minerals</a>, essential for battery manufacturing, often occurs in these regions, leading to environmental degradation, exploitation of local communities, and insufficient sharing of economic benefits. Deep seabed mining, promoted by some, presents an added layer of ecosystem risks.</p>
-</section>
-<section id="benefits" class="level2">
-<h2 class="anchored" data-anchor-id="benefits">Benefits</h2>
-<p>Despite these challenges, the benefits of a global supply chain are massive. An efficient and resilient supply chain is crucial for achieving continued cost reductions in solar, wind, and storage technologies – a key factor to scale up deployment. A paper published in <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"><em>Nature</em></a>, <span class="citation" data-cites="helveston_he_davidson_2022">Helveston, He, and Davidson (2022)</span> show solar PV costs could be 20-30% higher in 2030 if countries move from global supply chain to manufacturing domestically. The interconnectedness of these technologies, facilitated by a global supply chain, not only aids in cost reduction but also plays a pivotal role in carbon mitigation, pollution reduction, and overall improvement of human health. A recent paper published in <a href="../../posts/2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/index.html"><em>Communications Earth &amp; Environment</em></a>, <span class="citation" data-cites="chen2023deploying">Chen et al. (2023)</span> found that coordination of global solar manufacturing at low carbon regions and prioritize installation at carbon intensive regions could achieve 97.5 Gt more net carbon dioxide mitigation from 2020 to 2060. These benefits underscore the importance of preserving and strengthening the global supply chain, even as we navigate the challenges it presents.</p>
-</section>
-<section id="a-just-resilient-and-sustainable-framework" class="level2">
-<h2 class="anchored" data-anchor-id="a-just-resilient-and-sustainable-framework">A just, resilient, and sustainable framework</h2>
-<p>In addressing these challenges and maximizing the benefits, there is a pressing need for a commonly agreed framework for a just, resilient, and sustainable clean energy supply chain. Such a framework would bring together stakeholders from all countries and diverse sectors, fostering understanding and collaboration. This collaborative approach is essential for advancing solutions that continue to harness the benefits of a global supply chain while effectively addressing concerns about the associated risks and uncertainties.</p>
-<p>A just, resilient, and sustainable framework for the clean energy supply chain needs to consider the specific challenges faced by different regions, especially in <a href="https://www.seforall.org/our-work/initiatives-projects/renewable-energy-manufacturing-initiative">Africa</a>, <a href="https://www.seforall.org/publications/renewable-energy-manufacturing-opportunities-for-southeast-asia">Southeast Asia</a>, and South America. In these regions, the risks from supply chain disruptions are exacerbated by pre-existing socio-economic vulnerabilities. The pandemic has highlighted the need for robust public health infrastructure, social safety nets, and resilient economic systems. Geopolitical tensions can disproportionately affect developing nations, disrupting their economic development and access to crucial clean technologies. Climate events can have severe consequences in regions that are already overburdened with the impacts of climate change, leading to a compounding of challenges.</p>
-</section>
-<section id="a-multi-faceted-approach" class="level2">
-<h2 class="anchored" data-anchor-id="a-multi-faceted-approach">A multi-faceted approach</h2>
-<p>Addressing these challenges requires a multi-faceted approach that combines international cooperation, targeted policy interventions, and technological innovation.</p>
-<p>Firstly, international cooperation is essential to facilitate such a clean energy supply chain. Diplomatic efforts should be made to de-escalate trade tensions and foster collaboration between nations. Additionally, a global framework for the ethical and sustainable mining of critical minerals is crucial. This framework should ensure that mineral extraction respects environmental standards, labor conditions, and local communities’ well-being.</p>
-<p>Secondly, policy interventions at both national and international levels are vital to create a just, resilient, and sustainable clean energy supply chain. Governments need to implement policies that promote transparency, fairness, and inclusivity in the renewable energy sector. This includes establishing clear guidelines for ethical supply chain practices, incentivizing sustainable mining of critical minerals, and ensuring that the benefits of the renewable energy transition are shared equitably. International organizations can play a pivotal role in facilitating dialogue, setting standards, and providing support for developing nations to strengthen their renewable energy infrastructure and institutions.</p>
-<p>Thirdly, technological innovation is key to mitigating risks associated with the clean energy supply chain. Research and development efforts should focus on alternative materials that reduce dependence on critical minerals, recycling technologies to recover valuable components from end-of-life solar panels, wind turbines, and battery packs. Investing in innovative solutions will not only address the current challenges but also future-proof the clean energy supply chain against emerging risks.</p>
-<p>In crafting a just, resilient, and sustainable framework, it is crucial to consider the social and environmental impact of the supply chain at every stage. This includes the extraction of raw materials, manufacturing processes, transportation, distribution, installation, operation, and end-of-life disposal. Transparency and standards can ensure accountability and enable consumers, investors, and policymakers to make informed decisions that align with ethical and sustainability considerations.</p>
-<p>Furthermore, a just framework should prioritize the empowerment of local communities and workers involved in the clean energy supply chain. This involves fostering skill development, creating job opportunities, and ensuring fair wages and working conditions. Community engagement should be a cornerstone of supply chain and clean energy investments and projects, allowing local residents to actively participate in decision-making processes and share the benefits of renewable energy development.</p>
-<p>In conclusion, the global clean energy supply chain stands at a critical intersection of immense benefits and pressing challenges. While it is a linchpin for achieving global climate goals, its vulnerabilities to disruptions, geopolitical tensions, and unequal distribution of costs and benefits cannot be ignored. Creating a just, resilient, and sustainable framework for the clean energy supply chain is not only an ethical imperative but also a pragmatic necessity. By doing so, we can ensure that the benefits of renewable energy are realized globally, leaving no one behind in the clean energy transition to achieve climate goals.</p>
-<p>Check the original post at <a href="https://www.climateworks.org/blog/advancing-a-just-resilient-and-sustainable-clean-energy-supply-chain/" class="external" target="_blank">ClimateWorks Foundation</a>, and the Chinese version <a href="https://mp.weixin.qq.com/s/7x4g4fygk_XCAjNGvO5pEg" class="external" target="_blank">here</a>.</p>
-<section id="references" class="level3">
-<h3 class="anchored" data-anchor-id="references">References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-chen2023deploying" class="csl-entry">
-Chen, Shi, Xi Lu, Chris P. Nielsen, Michael B. McElroy, Gang He, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang, and Jimin Hao. 2023. <span>“Deploying Solar Photovoltaic Energy First in Carbon-Intensive Regions Brings Gigatons More Carbon Mitigations to 2060.”</span> <em>Communications Earth &amp; Environment</em> 4 (October): 369. <a href="https://doi.org/10.1038/s43247-023-01006-x">https://doi.org/10.1038/s43247-023-01006-x</a>.
-</div>
-<div id="ref-helveston_he_davidson_2022" class="csl-entry">
-Helveston, John, Gang He, and Michael Davidson. 2022. <span>“Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.”</span> <em>Nature</em> 612 (7938): 83–87. <a href="https://doi.org/10.1038/s41586-022-05316-6">https://doi.org/10.1038/s41586-022-05316-6</a>.
-</div>
-</div>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>commentary</category>
-  <guid>https://drganghe.github.io/posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/</guid>
-  <pubDate>Tue, 05 Dec 2023 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/cop28.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

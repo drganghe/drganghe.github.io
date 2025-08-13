@@ -35,8 +35,8 @@ website:
             href: posts.qmd#category=paper
           - text: Commentary
             href: posts.qmd#category=commentary
-          - text: Awards
-            href: posts.qmd#category=award  
+          - text: Distinctions
+            href: posts.qmd#category=distinction  
           - text: Grants
             href: https://deeppolicylab.github.io/projects.html
             target: _blank                                  
