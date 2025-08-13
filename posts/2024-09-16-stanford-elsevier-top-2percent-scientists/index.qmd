@@ -3,7 +3,7 @@ title: "Included in World's Top 2% Scientists List 2024"
 description: "Thank you everyone for supporting our work!"
 author: "Stanford/Elsevier"
 date: "2024-09-17"
-categories: [news, award, video]
+categories: [news, distinction, video]
 image: "Logo.png"
 css: /custom.css
 #draft: true

@@ -1,6 +1,14 @@
 
+    - path: https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/
+      image: /files/images/pip-fellow-2025.png
+      title: "Selected as Public Intellectuals Program Fellow"
+      author: "National Committee on US-China Relations"
+      description: "Gang He is Selected for Ninth Round of Public Intellectuals Program Fellow of the National Committee on US-China Relations."
+      date: "2025-08-13"
+      categories: [news, distinction]
+
     - path: https://deeppolicylab.github.io/events/2025-07-01-mes-supply-chains-in-energy-systems-panel/index.html
-      image: https://deeppolicylab.github.io/events/2025-07-01-mes-supply-chains-in-energy-systems-panel/flyer-small.png
+      image: /files/flyers/20250701mes-supply-chains-flyer-small.png
       title: "Macro-Energy Systems Speaker Series: Supply Chains in Energy Systems"
       author: "Macro-Energy Systems"
       description: "Join us to discuss how macro-energy systems analysis can better capture critical supply chain risks."
@@ -39,4 +47,4 @@
       author: "ITIF"
       description: "Grateful to join a group of energy innovation scholars in the ITIF/Sloan Energy Innovation Policy and Management Scholars program"
       date: "2019-05-20"
-      categories: [news, award]
+      categories: [news, distinction]
