@@ -10,6 +10,7 @@ page-layout: full
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
+{{< include /files/includes/_adsense.qmd >}}
 
 ## Example Quarto academic websites I reference occasionally
 

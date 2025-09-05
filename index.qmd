@@ -72,6 +72,8 @@ listing:
     sort: 
       - "date desc"
       - "title asc"
+include-in-header: 
+  - file: files/includes/_mswebmaster.js
 ---
 
 <link rel="me" href="https://mastodon.social/@hegang">
@@ -92,7 +94,7 @@ His research has been [supported](https://deeppolicylab.github.io/projects.html)
 
 His work has informed policy discussions and processes. His research findings have been [cited](notable-policy-citations.qmd) in notable reports by global institutions such as the IPCC(AR6), IIASA, World Bank, UNEP, IRENA, WTO, SEI, IISD, CSIS, and Brookings. He testified for the [New York State Climate Leadership and Community Protection Act](/posts/2019-nyclcpa-testimony/index.qmd) and has advised the New York State Climate Action Council’s [Scoping Plan](/posts/2021-12-nysclcpa-scoping-plan-draft/index.qmd). He has also been involved in the [U.S.-China collaboration on energy and climate change](/posts/2024-06-us-china-working-group-on-enhancing-climate-action/index.qmd). 
 
-He has been selected as Youth Delegate to UNFCCC CoP11 (2005), Asia 21 Young Leaders (2007), Aspen Environment Forum Scholars (2011), Young Scholar of Institute for New Economic Thinking (2013), [ITIF Energy Innovation Policy and Management Scholar](https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/){.external target="_blank"} (2019), and recognized as [World's Top 2% Scientists in 2024](/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.qmd) on the Stanford/Elsevier Top 2% Scientists List 2024. 
+He has been selected as Youth Delegate to UNFCCC CoP11 (2005), Asia 21 Young Leaders (2007), Aspen Environment Forum Scholars (2011), Young Scholar of Institute for New Economic Thinking (2013), [ITIF Energy Innovation Policy and Management Scholar](https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/){.external target="_blank"} (2019), and recognized as [World's Top 2% Scientists](/posts/2025-09-stanford-elsevier-top-2percent-scientists/index.qmd) (2024, 2025) on the Stanford/Elsevier Top 2% Scientists List. 
 
 He has worked for the [Department of Technology and Society](https://www.stonybrook.edu/commcms/est/faculty/affiliated-faculty/GangHe){.external target="_blank"} at Stony Brook University, and the [Program on Energy and Sustainable Development](https://pesd.fsi.stanford.edu/people/Gang_He){.external target="_blank"} at Stanford University. He received his Ph.D. in [Energy and Resources](https://erg.berkeley.edu/people/gang-he/){.external target="_blank"} from University of California, Berkeley. He also holds an M.A. in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.
 

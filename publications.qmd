@@ -31,6 +31,8 @@ Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cos
 
 Liu, Shangwei\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen. 2025. [Can China break the ‘cost curse’ of nuclear power?](/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/index.qmd). *Nature* 643: 1186–88. doi: [10.1038/d41586-025-02341-z](https://doi.org/10.1038/d41586-025-02341-z). [SharedIt [full-text](https://rdcu.be/eyaXW)] [Preprint [pdf](/files/papers/2025-nature-nuclear-costs.pdf)] [[Source Data](https://www.nature.com/magazine-assets/d41586-025-02341-z/51274734)] <span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-025-02341-z" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/d41586-025-02341-z" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
+**Coverage**: [Harvard News](https://www.belfercenter.org/research-analysis/breaking-cost-escalation-curse-nuclear-power), [CUNY News](https://www.gc.cuny.edu/news/chinas-nuclear-power-development-strategy-holds-key-lower-costs), [JHU Hub](https://hub.jhu.edu/2025/07/28/curbing-nuclear-power-plant-costs/), [The Economist](https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry), [Science and Technology Daily](https://www.stdaily.com/web/gdxw/2025-07/31/content_378176.html)
+
 <center><hr style="width:50%"></center>
 
 Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd). *Nature Energy* 8(8): 870–880. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). [[pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)] ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
@@ -97,6 +99,8 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015. [ELITE 
 
 
 ## Peer-reviewed Journal Paper
+
+Li, Bo, Mingxia Yang, **Gang He**, Guangchun Ruan, Jianxiao Wang\*, Xueqin Cui, Haiwang Zhong\*, and Daniel M. Kammen\*. 2025. [A Provincial Cost Analysis of Electric Vehicle Operation in China](https://www.sciencedirect.com/science/article/pii/S2589004225017651). *iScience*: 113504. doi: [10.1016/j.isci.2025.113504](https://doi.org/10.1016/j.isci.2025.113504). [[pdf](https://www.cell.com/action/showPdf?pii=S2589-0042%2825%2901765-1)]
 
 Liu, Shangwei\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen. 2025. [Can China break the ‘cost curse’ of nuclear power?](https://nature.com/articles/d41586-025-02341-z). *Nature* 643: 1186–88. doi: [10.1038/d41586-025-02341-z](https://doi.org/10.1038/d41586-025-02341-z). [SharedIt [full-text](https://rdcu.be/eyaXW)] [Preprint [pdf](/files/papers/2025-nature-nuclear-costs.pdf)]
 
