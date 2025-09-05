@@ -32,6 +32,8 @@ Baruch News, [Baruch College Faculty Included in World’s Top Scientist List](h
 
 {{< video /files/videos/world-top-scientists.mp4 >}}
 
+Source: Marxe School
+
 ## About World's Top 2% Scientists
 
 >Stanford University's list of "World's Top 2%" scientists is based on a 2% or above percentile rank, or the top 100,000 by c-score (with and without self-citations). This prestigious list identifies the world's leading researchers, representing approximately 2% of all scientists worldwide. It encompasses standardised data on citations, h-index, and a wide range of bibliometric indicators. Researchers are classified into 22 scientific fields and 174 sub-fields, drawing from Scopus data provided by Elsevier through ICSR Lab.
