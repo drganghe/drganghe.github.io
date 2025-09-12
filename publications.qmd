@@ -100,6 +100,8 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015. [ELITE 
 
 ## Peer-reviewed Journal Paper
 
+Li, Bo, Mingxia Yang, **Gang He**, Guangchun Ruan, Jianxiao Wang\*, Xueqin Cui, Haiwang Zhong\*, and Daniel M. Kammen\*. 2025. [A Provincial Cost Analysis of Electric Vehicle Operation in China](https://www.sciencedirect.com/science/article/pii/S2589004225017651). *iScience*: 113504. doi: [10.1016/j.isci.2025.113504](https://doi.org/10.1016/j.isci.2025.113504). [[pdf](https://www.cell.com/action/showPdf?pii=S2589-0042%2825%2901765-1)]
+
 Liu, Shangwei\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen. 2025. [Can China break the ‘cost curse’ of nuclear power?](https://nature.com/articles/d41586-025-02341-z). *Nature* 643: 1186–88. doi: [10.1038/d41586-025-02341-z](https://doi.org/10.1038/d41586-025-02341-z). [SharedIt [full-text](https://rdcu.be/eyaXW)] [Preprint [pdf](/files/papers/2025-nature-nuclear-costs.pdf)]
 
 Zhang, Chao\*, Yujie Dong, Lijin Zhong\*, Haoqi Qian\*, Shuangtong Wang, and **Gang He**. 2025. [Avoided CO2 Emissions in China’s Power Sector by Structural Change and Efficiency Gain: An Electric Generating Unit Level Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0921344925003982). *Resources, Conservation and Recycling* 223: 108520. doi: [10.1016/j.resconrec.2025.108520](https://doi.org/10.1016/j.resconrec.2025.108520). [[pdf](https://www.sciencedirect.com/science/article/pii/S0921344925003982/pdfft?md5=5cdbf50ab2eaea3e5631c4a7bd402630&pid=1-s2.0-S0921344925003982-main.pdf)]   
