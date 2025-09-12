@@ -75,6 +75,7 @@ listing:
 ---
 
 <link rel="me" href="https://mastodon.social/@hegang">
+<meta name="msvalidate.01" content="9C59F9F1BA58645E8B9B3CD7CF36F352" />
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
