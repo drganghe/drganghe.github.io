@@ -14,8 +14,100 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.7.31</generator>
-<lastBuildDate>Tue, 23 Sep 2025 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Wed, 08 Oct 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Imported solar photovoltaics contributed to health and climate benefits in the United States</title>
+  <dc:creator>Minghao Qiu</dc:creator>
+  <dc:creator>Gang He</dc:creator>
+  <dc:creator>Peter Marcotullio</dc:creator>
+  <link>https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Imported solar photovoltaics contributed to health and climate benefits in the United States<br>
+Minghao Qiu, <strong>Gang He</strong>*, Peter Marcotullio<br>
+<em>One Earth</em> (2025)<br>
+DOI: <a href="https://doi.org/10.1016/j.oneear.2025.101467">10.1016/j.oneear.2025.101467</a></p>
+</div>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" class="img-fluid figure-img"></p>
+<figcaption>Monetized climate and health benefits of importing 1 kW solar panels</figcaption>
+</figure>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Global supply chains have played a central role in driving down solar photovoltaic (PV) costs and accelerating deployment globally, but their broader societal benefits are underexplored. Here we quantify the climate, air quality, and health impacts of imported solar panels in the United States between 2014 and 2022. We find that 1 kW of imported solar capacity yields an average of $180 in annualized climate and health benefits, offsetting nearly half the PV module cost in 2020. This imported capacity displaced fossil generation by 305 TWh, avoided 178 million tons of CO<sub>2</sub>, and prevented an estimated 595 premature deaths between 2014 and 2022. While these advantages are unevenly distributed across regions and demographic groups, residents in non-importing states also benefited from them. These findings provide critical evidence for policy debates on clean energy trade, showing that imported solar capacity delivers substantial public health and climate gains beyond direct cost savings.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/figure3.png" class="img-fluid figure-img"></p>
+<figcaption>Avoided emissions and PM2.5-related health benefits associated with electricity generation from imported solar panels</figcaption>
+</figure>
+</div>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.cell.com/one-earth/abstract/S2590-3322(25)00293-3">paper</a></p>
+<p>Preprint <a href="../../files/papers/2025-one-earth-health-climate-benefits-of-imported-solar-pv-in-the-united-states.pdf">pdf</a></p>
+<p>Zenodo <a href="https://zenodo.org/records/16622349">data and resources</a></p>
+<p>Release <a href="https://deeppolicylab.github.io/news/2025-10-08-one-earth-imported-solar-pv-health-and-climate-benefits-in-the-united-states.html">summary</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-hide-no-mentions="true" data-doi="10.1016/j.oneear.2025.101467">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2025.101467" data-hide-zero-citations="true" data-style="small_circle"></span>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{qiu2025,
+  author = {Qiu, Minghao and He, Gang and Marcotullio, Peter},
+  title = {Imported Solar Photovoltaics Contributed to Health and
+    Climate Benefits in the {United} {States}},
+  journal = {One Earth},
+  volume = {8},
+  number = {11},
+  pages = {101467},
+  date = {2025-10-08},
+  url = {https://doi.org/10.1016/j.oneear.2025.101467},
+  doi = {10.1016/j.oneear.2025.101467},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-qiu2025" class="csl-entry quarto-appendix-citeas">
+Qiu, Minghao, Gang He, and Peter Marcotullio. 2025. <span>“Imported
+Solar Photovoltaics Contributed to Health and Climate Benefits in the
+United States.”</span> <em>One Earth</em> 8 (11): 101467. <a href="https://doi.org/10.1016/j.oneear.2025.101467">https://doi.org/10.1016/j.oneear.2025.101467</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/</guid>
+  <pubDate>Wed, 08 Oct 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" medium="image" type="image/png" height="79" width="144"/>
+</item>
 <item>
   <title>Climate Week NYC 2025: The Role of Nuclear Energy in Decarbonization and Powering the AI Era</title>
   <link>https://drganghe.github.io/</link>
@@ -70,6 +162,40 @@
 <section id="contributors" class="level2">
 <h2 class="anchored" data-anchor-id="contributors">Contributors</h2>
 <p><a href="https://productiongap.org/2025report/"><img src="https://drganghe.github.io/posts/2025-09-production-gap-report-2025/pgr2025-contributors.webp" class="img-fluid"></a></p>
+</section>
+<section id="related-posts" class="level2">
+<h2 class="anchored" data-anchor-id="related-posts">Related Posts</h2>
+<div id="listing-related-posts" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ291dHJlYWNo" data-listing-date-sort="1699419600000" data-listing-file-modified-sort="1729966241123" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="436">
+<div class="thumbnail"><a href="../../posts/2023-11-unep-production-gap-report-2023/index.html" class="no-external">
+
+<img loading="lazy" data-src="../../posts/2023-11-unep-production-gap-report-2023/featured.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2023-11-unep-production-gap-report-2023/index.html" class="no-external">UNEP releases the Production Gap Report 2023</a>
+</h3>
+<div class="delink listing-description"><a href="../../posts/2023-11-unep-production-gap-report-2023/index.html" class="no-external">
+<p>Gang joins a global expert team that contributed to the Production Gap Report 2023</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../../posts/2023-11-unep-production-gap-report-2023/index.html" class="no-external">
+<div class="listing-date">
+Nov 8, 2023
+</div>
+<div class="listing-author">
+SEI, Climate Analytics, E3G, IISD, UNEP
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+
+</div>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -80,6 +206,7 @@ https://quarto.org/docs/authoring/includes.html
 <p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
 
 
 </section>
@@ -201,7 +328,7 @@ https://badge.dimensions.ai/
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Online Version
+<span class="screen-reader-only">Warning</span>Online Version
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -225,7 +352,7 @@ Online Version
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Paper
+<span class="screen-reader-only">Note</span>Paper
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -276,8 +403,8 @@ DOI: <a href="https://doi.org/10.1038/d41586-025-02341-z">10.1038/d41586-025-023
 <p>Shangwei Liu, Gang He, Minghao Qiu, and Daniel Kammen compiled and analysed a data set on the construction costs of nuclear power plants in China drawn from a wide range of publicly available sources. They attribute this success to a strategic blend of stable regulations, domestic supply chain development, and standardized reactor designs. China’s centralized nuclear regulatory structure, long-term policy commitments, and rapid project execution have enabled it to build reactors in nearly half the time of recent Western counterparts. These findings have important implications for policymakers seeking a nuclear energy resurgence, “As countries rush to expand nuclear capacities, they must combine affordability with safety, scalability, investor confidence and public trust. Without this, nuclear power will remain an expensive bet the world can ill afford”, they conclude.</p>
 </blockquote>
 </section>
-<section id="the-economist-reproduced-our-chart" class="level2">
-<h2 class="anchored" data-anchor-id="the-economist-reproduced-our-chart"><em>The Economist</em> reproduced our chart</h2>
+<section id="the-economist-and-the-new-york-times-reproduced-our-chart" class="level2">
+<h2 class="anchored" data-anchor-id="the-economist-and-the-new-york-times-reproduced-our-chart"><em>The Economist</em> and <em>The New York Times</em> reproduced our chart</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <div class="quarto-figure quarto-figure-center">
@@ -286,6 +413,16 @@ DOI: <a href="https://doi.org/10.1038/d41586-025-02341-z">10.1038/d41586-025-023
 </figure>
 </div>
 <figcaption>Source: The Economist, September 4, 2025, Why nuclear is now a booming industry.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html"><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/NYT-nuclear-costs-chart.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></a></p>
+</figure>
+</div>
+<figcaption>Source: The New York Times, October 23, 2025, How China Raced Ahead of the U.S. on Nuclear Power.</figcaption>
 </figure>
 </div>
 </section>
@@ -1088,7 +1225,7 @@ https://quarto.org/docs/authoring/includes.html
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/files/images/handshake-sculpture.JPG" class="img-fluid figure-img"></p>
-<figcaption>Sculpture “Peace” near the Capitol Mall of Sacramento, California. Created by Stephen J. Kaltenbach. Photoed by Gang He.</figcaption>
+<figcaption>Sculpture “Peace” near the Capitol Mall of Sacramento, California. Created by Stephen J. Kaltenbach. Photo by Gang He.</figcaption>
 </figure>
 </div>
 <section id="summary" class="level2">
@@ -1119,7 +1256,7 @@ Nov 13, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1748431125905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="18" data-listing-word-count-sort="3584">
+<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1761234002119" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3622">
 <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1330,62 +1467,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2024-05-teaching-program-evaluation/</guid>
   <pubDate>Sat, 18 May 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-05-teaching-program-evaluation/nyc-is-your-classroom.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Research Webinar: Accelerating offshore wind development enhances energy security and promotes carbon neutrality in China’s coastal regions</title>
-  <dc:creator>LBL ETA</dc:creator>
-  <link>https://drganghe.github.io/posts/2024-05-06-webinar-accelerating-offshore-wind-promotes-carbon-neutrality/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="organizers" class="level2">
-<h2 class="anchored" data-anchor-id="organizers">Organizers</h2>
-<p>Lawrence Berkeley National Laboratory, Energy Technology Area <a href="https://eta.lbl.gov" class="uri">https://eta.lbl.gov</a></p>
-<p>University of California, Berkeley, Department of Agricultural and Resource Economics <a href="https://are.berkeley.edu" class="uri">https://are.berkeley.edu</a></p>
-</section>
-<section id="time" class="level2">
-<h2 class="anchored" data-anchor-id="time">Time</h2>
-<p>6-7pm US Pacific Time, May 6, 2024 (Monday)</p>
-</section>
-<section id="language" class="level2">
-<h2 class="anchored" data-anchor-id="language">Language</h2>
-<p>English</p>
-</section>
-<section id="registration" class="level2">
-<h2 class="anchored" data-anchor-id="registration">Registration</h2>
-<p>Please <a href="https://lbnl.zoom.us/webinar/register/WN_gPl0DbtSTam41KXqHcLqAg">register</a> in advance for this meeting. After registering, you will receive an email containing information about joining the meeting.</p>
-</section>
-<section id="background" class="level2">
-<h2 class="anchored" data-anchor-id="background">Background</h2>
-<p>As the world’s largest carbon emitter, China has committed to achieve carbon neutrality by 2060. The power sector will play a pivotal role in meeting this target. However, due to the uneven distribution of renewable energy resources in China, the mature renewable energy sources, such as solar and onshore wind are located in the western and northwestern regions of China. The eastern coastal regions in China face significant challenges in decarbonizing their energy systems due to the absence of local renewable energy sources and high electricity demand. As electricity demand grows in the future, the gap between their local energy supply and high electricity needs will become more obvious. Rapid development of offshore wind power offers a promising solution to the decarbonization challenge in China’s coastal regions. Furthermore, the cost of offshore wind has decreased rapidly in recent years, making it economically feasible for large-scale deployment.</p>
-<p>Berkeley Lab and UC Berkeley conduct a new analysis, “Accelerating offshore wind development enhances energy independence and promotes carbon neutrality in China’s coastal regions.” This study is being conducted by Liqun Peng, Gang He, and Jiang Lin and explores the impacts of offshore wind development on the power generation, transmission networks in China’s power system and more importantly, energy independence of these coastal provinces. The analysis offers insights on what could be done to support offshore wind development to further accelerate power system transition and enhance energy self-sufficiency and economic development in the coastal provinces.</p>
-<p>Join this webinar to find out more about our preliminary results, presented by Liqun Peng and Jiang Lin of Berkeley Lab, followed by feedback and comments from a panel of experts moderated by Prof.&nbsp;Gang He of CUNY-Baruch College, Michael O’Boyle from Energy Innovation, Yuan Bo from State Grid Energy Research Institute and Yujing Liu from RMI.</p>
-</section>
-<section id="webinar-link" class="level2">
-<h2 class="anchored" data-anchor-id="webinar-link">Webinar Link</h2>
-<p>LBL <a href="https://emp.lbl.gov/news/research-webinar-accelerating-offshore-wind-development-enhances-energy-security-and" class="external" target="_blank">Event</a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/posts/2024-05-06-webinar-accelerating-offshore-wind-promotes-carbon-neutrality/</guid>
-  <pubDate>Mon, 06 May 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-05-06-webinar-accelerating-offshore-wind-promotes-carbon-neutrality/featured.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

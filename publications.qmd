@@ -29,9 +29,13 @@ Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cos
 
 <center><hr style="width:50%"></center>
 
+Qiu, Minghao, **Gang He**\*, and Peter Marcotullio. 2025. [Imported Solar Photovoltaics Contributed to Health and Climate Benefits in the United States](/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.qmd). *One Earth* 8 (11): 101467. doi: [10.1016/j.oneear.2025.101467](https://doi.org/10.1016/j.oneear.2025.101467). [Preprint [pdf](/files/papers/2025-one-earth-health-climate-benefits-of-imported-solar-pv-in-the-united-states.pdf)]  [[Code and Data](https://zenodo.org/records/16622349)] <span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2025.101467" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.oneear.2025.101467" data-hide-no-mentions="true" class="altmetric-embed"></div> 
+
+<center><hr style="width:50%"></center>
+
 Liu, Shangwei\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen. 2025. [Can China break the ‘cost curse’ of nuclear power?](/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/index.qmd). *Nature* 643: 1186–88. doi: [10.1038/d41586-025-02341-z](https://doi.org/10.1038/d41586-025-02341-z). [SharedIt [full-text](https://rdcu.be/eyaXW)] [Preprint [pdf](/files/papers/2025-nature-nuclear-costs.pdf)] [[Source Data](https://www.nature.com/magazine-assets/d41586-025-02341-z/51274734)] <span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-025-02341-z" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/d41586-025-02341-z" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
-**Coverage**: [Harvard News](https://www.belfercenter.org/research-analysis/breaking-cost-escalation-curse-nuclear-power), [CUNY News](https://www.gc.cuny.edu/news/chinas-nuclear-power-development-strategy-holds-key-lower-costs), [JHU Hub](https://hub.jhu.edu/2025/07/28/curbing-nuclear-power-plant-costs/), [The Economist](https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry), [Science and Technology Daily](https://www.stdaily.com/web/gdxw/2025-07/31/content_378176.html)
+**Coverage**: [Harvard News](https://www.belfercenter.org/research-analysis/breaking-cost-escalation-curse-nuclear-power), [CUNY News](https://www.gc.cuny.edu/news/chinas-nuclear-power-development-strategy-holds-key-lower-costs), [JHU Hub](https://hub.jhu.edu/2025/07/28/curbing-nuclear-power-plant-costs/), [*The Economist*](https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry), [*New York Times*](https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html), [*Science and Technology Daily*](https://www.stdaily.com/web/gdxw/2025-07/31/content_378176.html)
 
 <center><hr style="width:50%"></center>
 
@@ -99,6 +103,8 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015. [ELITE 
 
 
 ## Peer-reviewed Journal Paper
+
+Qiu, Minghao, **Gang He**\*, and Peter Marcotullio. 2025. [Imported Solar Photovoltaics Contributed to Health and Climate Benefits in the United States](https://www.cell.com/one-earth/abstract/S2590-3322(25)00293-3). *One Earth* 8 (11): 101467. doi: [10.1016/j.oneear.2025.101467](https://doi.org/10.1016/j.oneear.2025.101467). [[preprint](/files/papers/2025-one-earth-health-climate-benefits-of-imported-solar-pv-in-the-united-states.pdf)]
 
 Li, Bo, Mingxia Yang, **Gang He**, Guangchun Ruan, Jianxiao Wang\*, Xueqin Cui, Haiwang Zhong\*, and Daniel M. Kammen\*. 2025. [A Provincial Cost Analysis of Electric Vehicle Operation in China](https://www.sciencedirect.com/science/article/pii/S2589004225017651). *iScience*: 113504. doi: [10.1016/j.isci.2025.113504](https://doi.org/10.1016/j.isci.2025.113504). [[pdf](https://www.cell.com/action/showPdf?pii=S2589-0042%2825%2901765-1)]
 

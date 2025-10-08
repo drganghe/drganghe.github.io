@@ -7,6 +7,20 @@ categories: [news, outreach]
 image: "featured.png"
 css: /custom.css
 #draft: true
+listing:
+  - id: related-posts
+    contents: 
+        - "../2023-11-unep-production-gap-report-2023/index.qmd"
+    type: default
+#    max-items: 4
+#    grid-columns: 2
+    page-size: 0 #set as 0 will remove the page setting
+    fields: [image, date, title, author, description]
+    max-description-length: 150
+    sort: 
+      - "date desc"
+      - "title asc"
+
 ---
 
 [![Production Gap Report 2025](featured.png)](https://productiongap.org/2025report/)
@@ -39,6 +53,10 @@ Production Gap Report 2025 full report [pdf](https://productiongap.org/wp-conten
 
 [![](pgr2025-contributors.webp)](https://productiongap.org/2025report/)
 
+## Related Posts
+
+::: {#related-posts}
+:::
 
 <!--Include social share buttons-->
 

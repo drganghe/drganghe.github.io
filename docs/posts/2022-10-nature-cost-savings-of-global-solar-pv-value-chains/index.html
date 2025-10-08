@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,14 +35,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../../">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-f07a380226b71dccd824dee245407231.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-3e8f12d1b5c8d04d32925f9f9ead600c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -138,6 +139,8 @@ https://badge.dimensions.ai/
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Dr.&nbsp;Gang He</span>
     </a>
@@ -365,7 +368,7 @@ https://badge.dimensions.ai/
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Paper
+<span class="screen-reader-only">Note</span>Paper
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -379,6 +382,12 @@ DOI: <a href="https://doi.org/10.1038/s41586-022-05316-6">10.1038/s41586-022-053
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
 <p>Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, yet countries sometimes implement policies that increase costs by restricting the free flow of capital, talent and innovation in favour of localizing benefits such as economic growth, employment and trade surpluses. Here we assess the cost savings from a globalized solar photovoltaic (PV) module supply chain. We develop a two-factor learning model using historical capacity, component and input material price data of solar PV deployment in the United States, Germany and China. We estimate that the globalized PV module market has saved PV installers US$24 (19–31) billion in the United States, US$7 (5–9) billion in Germany and US$36 (26–45) billion in China from 2008 to 2020 compared with a counterfactual scenario where domestic manufacturers supply an increasing proportion of installed capacities over a ten-year period. Projecting the same scenario forwards from 2020 results in estimated solar module prices that are approximately 20–30 per cent higher in 2030 compared with a future with globalized supply chains. International climate policy benefits from a globalized low-carbon value chain, and these results point to the need for complementary policies to mitigate welfare distribution effects and potential impacts on technological crowding out.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.nature.com/articles/s41586-022-05316-6/figures/2"><img src="fig1.png" class="img-fluid figure-img"></a></p>
+<figcaption>Comparison of estimated solar PV module prices under global versus national market scenarios in China (2007–2020), and Germany and the United States (2006–2020).</figcaption>
+</figure>
+</div>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
@@ -570,13 +579,14 @@ Chains.”</span> <em>Nature</em> 612 (7938): 83–87. <a href="https://doi.org/
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

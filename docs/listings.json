@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.html",
       "/posts/2025-09-production-gap-report-2025/index.html",
       "/posts/2025-09-stanford-elsevier-top-2percent-scientists/index.html",
       "/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/index.html",
@@ -97,6 +98,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.html",
       "/posts/2025-09-production-gap-report-2025/index.html",
       "/posts/2025-09-stanford-elsevier-top-2percent-scientists/index.html",
       "/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/index.html",
@@ -157,6 +159,12 @@
     "listing": "/posts/2025-09-stanford-elsevier-top-2percent-scientists/index.html",
     "items": [
       "/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/2025-09-production-gap-report-2025/index.html",
+    "items": [
+      "/posts/2023-11-unep-production-gap-report-2023/index.html"
     ]
   }
 ]
