@@ -1,6 +1,6 @@
 ---
 title: "播客｜到底还要不要合作了？清洁能源全球供应链的收益与前景"
-description: "与碳笑风声的刘尚炜、邱明昊及何盼讨论清洁能源全球供应链。"
+description: "与碳笑风声的刘尚炜、邱明昊及何盼几位老师讨论清洁能源全球供应链。"
 author: "TanXiaoFengSheng"
 date: "2025-10-29"
 categories: [news, podcast]

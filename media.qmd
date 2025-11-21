@@ -1,6 +1,7 @@
 ---
 title: "Media"
 subtitle: "In the news"
+image: "files/profile/gang-he-cuny-profile.jpg"
 #description-meta: "{{< meta description-meta >}}"
 listing:  #an example of listing external links
 #  template: item-default-external.ejs

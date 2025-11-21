@@ -176,6 +176,7 @@ Use Adobe Acrobat tools to fix it:
 2. Go to `Use print production` > `Preflight` > `Analyze and fix it` (default options). 
 3. Apply the necessary font correction. 
 
+Note: you will see two Google AdSense in this page, it is a test for me to learn how AdSense works, please ignore them.
 
 <!--Include social share buttons-->
 

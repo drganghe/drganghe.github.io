@@ -1,3 +1,14 @@
+    - path: https://www.abqjournal.com/business/article_068db659-ba12-4b8d-82f4-88ba4373c9a6.html
+      image: /files/images/media/albuquerque-journal.webp
+      title: "Albuquerque’s Array Technologies Powers Ahead Despite Trump’s Tougher Stance on Renewables"
+#      subtitle: "PV Magazine"
+      author: 
+        - Hannah García  
+      description: "'It’s encouraging to see domestic solar manufacturing gaining ground,' Gang He, an associate professor of energy and climate policy at Baruch College in New York, told the Journal. 'But it’s equally important to keep the flow of knowledge, talent and capital open, so U.S. markets can continue to benefit from global learning, driving down costs and speeding up solar deployment.'"
+      date: "2025-11-15"
+      categories: [Albuquerque Journal]
+
+
     - path: https://www.pv-magazine.com/2025/11/05/us-solar-tariffs-linked-to-preventable-deaths-claim-researchers/
       image: /files/images/media/pv-magazine.webp
       title: "US solar tariffs linked to preventable deaths, claim researchers"
