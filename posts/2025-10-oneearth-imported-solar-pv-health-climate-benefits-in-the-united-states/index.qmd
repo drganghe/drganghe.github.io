@@ -7,7 +7,7 @@ author:
   - name: Gang He
   - name: Peter Marcotullio
 date: "2025-10-08"
-categories: [paper]
+categories: [paper, infographic]
 image: "featured.png"
 citation:
   type: article-journal
@@ -51,6 +51,9 @@ Release [summary](https://deeppolicylab.github.io/news/2025-10-08-one-earth-impo
 
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2025.101467" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+## Infographic
+
+![Credit: Jason M. Epstein and Marxe Communications team](Infographic.jpg)
 
 <!--Include social share buttons-->
 
