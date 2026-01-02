@@ -7,7 +7,7 @@ subtitle: |
   研究生院和大学中心 \
   E-mail: gang.he@baruch.cuny.edu
 description-meta: "何钢，能源与气候政策学者。他是纽约市立大学巴鲁克学院公共和国际事务学院副教授，也是纽约市立大学研究生院和大学中心的博导及人口研究所的兼职教授。他主要从事能源系统，能源与气候政策，能源转型方面的研究与教学。"
-image: files/profile/gang-he-cuny-profile.jpg
+image: files/profile/Gang_He_2025_CUNY_2.jpg
 page-navigation: false
 toc: false
 #sidebar: false
@@ -16,7 +16,7 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
+  image-width: 80%
   links:
     - icon: sun
       text: 深度能源与气候政策实验室

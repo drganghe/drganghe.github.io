@@ -2,11 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2026-01-nrct-grid-decarbonization-year-in-review/index.html",
       "/posts/2025-12-baruch-17-lex-society-feature-story/index.html",
       "/posts/2025-10-podcast-global-clean-energy-supply-chains/index.html",
       "/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.html",
       "/posts/2025-09-production-gap-report-2025/index.html",
-      "/posts/2025-09-stanford-elsevier-top-2percent-scientists/index.html",
+      "/posts/stanford-elsevier-top-2percent-scientists/index.html",
       "/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/index.html",
       "/posts/2025-03-06-third-baruch-climate-conference/index.html",
       "/posts/2025-01-joining-doctoral-faculty-ees-graduate-center/index.html",
@@ -120,11 +121,12 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/2026-01-nrct-grid-decarbonization-year-in-review/index.html",
       "/posts/2025-12-baruch-17-lex-society-feature-story/index.html",
       "/posts/2025-10-podcast-global-clean-energy-supply-chains/index.html",
       "/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.html",
       "/posts/2025-09-production-gap-report-2025/index.html",
-      "/posts/2025-09-stanford-elsevier-top-2percent-scientists/index.html",
+      "/posts/stanford-elsevier-top-2percent-scientists/index.html",
       "/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/index.html",
       "/posts/2025-03-06-third-baruch-climate-conference/index.html",
       "/posts/2025-01-joining-doctoral-faculty-ees-graduate-center/index.html",
@@ -177,6 +179,12 @@
       "/posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.html",
       "/posts/2014-ep-china-provincial-wind-resource-assessment/index.html",
       "/posts/2013-ep-carbon-offsetters-paradox/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/stanford-elsevier-top-2percent-scientists/index.html",
+    "items": [
+      "/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html"
     ]
   }
 ]

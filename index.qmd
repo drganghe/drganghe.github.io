@@ -7,7 +7,7 @@ subtitle: |
   City University of New York \
   E-mail: gang.he@baruch.cuny.edu
 description-meta: "Gang He is an energy scholar, researcher, and teacher. He is an Associate Professor at the Marxe School of Public and International Affairs, Baruch College, City University of New York. He studies and teaches energy systems, energy and climate policy, and clean energy transition."
-image: "files/profile/gang-he-cuny-profile.jpg"
+image: "files/profile/Gang_He_2025_CUNY_2.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -16,7 +16,7 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
+  image-width: 80%
   links:
     - icon: sun
       text: DeepPolicyLab
@@ -109,7 +109,7 @@ His research has been [supported](https://deeppolicylab.github.io/projects.html)
 
 His work has informed policy discussions and processes. His research findings have been [cited](notable-policy-citations.qmd) in notable reports by global institutions such as the IPCC(AR6), IIASA, World Bank, UNEP, IRENA, WTO, SEI, IISD, CSIS, and Brookings. He testified for the [New York State Climate Leadership and Community Protection Act](/posts/2019-nyclcpa-testimony/index.qmd) and has advised the New York State Climate Action Council’s [Scoping Plan](/posts/2021-12-nysclcpa-scoping-plan-draft/index.qmd). He has also been involved in the [U.S.-China collaboration on energy and climate change](/posts/2024-06-us-china-working-group-on-enhancing-climate-action/index.qmd) as an expert member in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s. 
 
-He has been selected as Asia 21 Young Leaders (2007), Aspen Environment Forum Scholars (2011), Young Scholar of Institute for New Economic Thinking (2013), [ITIF Energy Innovation Policy and Management Scholar](https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/){.external target="_blank"} (2019), [Public Intellectuals Program Fellow](https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/){.external target="_blank"} (2025) of the National Committee on US-China Relations, and recognized as [World's Top 2% Scientists](/posts/2025-09-stanford-elsevier-top-2percent-scientists/index.qmd) (2024, 2025) on the Stanford/Elsevier Top 2% Scientists List. 
+He has been selected as Asia 21 Young Leaders (2007), Aspen Environment Forum Scholars (2011), Young Scholar of Institute for New Economic Thinking (2013), [ITIF Energy Innovation Policy and Management Scholar](https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/){.external target="_blank"} (2019), [Public Intellectuals Program Fellow](https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/){.external target="_blank"} (2025) of the National Committee on US-China Relations, and recognized as [World's Top 2% Scientists](/posts/stanford-elsevier-top-2percent-scientists/index.qmd) (2024, 2025) on the Stanford/Elsevier Top 2% Scientists List. 
 
 He has worked for the [Department of Technology and Society](https://www.stonybrook.edu/commcms/est/faculty/affiliated-faculty/GangHe){.external target="_blank"} at Stony Brook University, the [Energy Technology Area](https://eta.lbl.gov/people/gang-he){.external target="_blank"} at Lawrence Berkeley National Laboratory, and the [Program on Energy and Sustainable Development](https://pesd.fsi.stanford.edu/people/Gang_He){.external target="_blank"} at Stanford University. He received his Ph.D. in [Energy and Resources](https://erg.berkeley.edu/people/gang-he/){.external target="_blank"} from University of California, Berkeley. He also holds an M.A. in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.
 
