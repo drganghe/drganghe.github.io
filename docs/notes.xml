@@ -399,10 +399,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<!-- 
-AdSense check more: https://adsense.google.com/
--->
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1799740429520474" crossorigin="anonymous"></script>
+<!--  {{< include /files/includes/_adsense.qmd >}} -->
 <section id="example-quarto-academic-websites-i-reference-occasionally" class="level2">
 <h2 class="anchored" data-anchor-id="example-quarto-academic-websites-i-reference-occasionally">Example Quarto academic websites I reference occasionally</h2>
 <table class="caption-top table">
@@ -528,14 +525,14 @@ AdSense check more: https://adsense.google.com/
 <section id="using-includes-for-reusable-content" class="level3">
 <h3 class="anchored" data-anchor-id="using-includes-for-reusable-content">Using “Includes” for reusable content</h3>
 <p>To streamline updates across your site, use Quarto’s <a href="https://quarto.org/docs/authoring/includes.html">includes</a> feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">"{{&lt; include _statement.qmd &gt;}}"</span></code></pre></div></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1">{{&lt; include _statement.qmd &gt;}}</span></code></pre></div></div>
 <p>Prefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.</p>
 <p>Here is an example course <a href="https://github.com/drganghe/energy-climate-policy/blob/main/files/includes/_coursedescription.qmd">description</a>, and reuse it in <a href="https://github.com/drganghe/energy-climate-policy/blob/main/index.qmd">mainpage</a> and <a href="https://github.com/drganghe/energy-climate-policy/blob/main/syllabus.qmd">syllabus</a>.</p>
 </section>
 <section id="academic-badges" class="level3">
 <h3 class="anchored" data-anchor-id="academic-badges">Academic badges</h3>
 <p>Display academic badges like the <a href="https://badges.dimensions.ai/">Dimension Citation badge</a> and <a href="https://badge-docs.altmetric.com/getting-started.html">Altmetric badge</a>.</p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle" data-hide-zero-citations="true"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <p>Here’s an example for embedding them:</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode markdown code-overflow-wrap code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><span class="dt" style="color: #AD0000;
 background-color: null;
@@ -667,9 +664,28 @@ font-weight: bold;
 font-style: inherit;">script</span><span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">&gt;</span></span></code></pre></div></div>
+<p>To make the badges display in the same line, you can add the following CSS to your <code>custom.css</code> file and include it in the header of your page.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode css code-with-copy"><code class="sourceCode css"><span id="cb4-1">span<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">.__dimensions_badge_embed__</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">,</span> div<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">.altmetric-embed</span> {</span>
+<span id="cb4-2">  <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">display</span><span class="ch" style="color: #20794D;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">inline-block</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">;</span></span>
+<span id="cb4-3">}</span></code></pre></div></div>
 <p>You can also showcase your highly cited and hot papers using custom badges.</p>
 <p><img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> <img src="https://drganghe.github.io/files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"></p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><span class="al" style="color: #AD0000;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb5-1"><span class="al" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper")</span>{width=20 fig-alt="Highly cited paper"} <span class="al" style="color: #AD0000;
 background-color: null;
@@ -694,7 +710,7 @@ font-style: inherit;">![](https://drganghe.github.io/files/images/hot-paper-badg
 <section id="listing-specific-categories" class="level3">
 <h3 class="anchored" data-anchor-id="listing-specific-categories">Listing specific categories</h3>
 <p>To display a subset of items, use the <code>include</code> and <code>exclude</code> <a href="https://quarto.org/docs/websites/website-listings.html#including-or-excluding-items">options</a>. Below is an example of listing publications by category:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb5-1"><span class="at" style="color: #657422;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb6-1"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">  </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -702,7 +718,7 @@ font-style: inherit;">content</span><span class="kw" style="color: #003B4F;
 background-color: null;
 font-weight: bold;
 font-style: inherit;">:</span></span>
-<span id="cb5-2"><span class="at" style="color: #657422;
+<span id="cb6-2"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">    </span><span class="kw" style="color: #003B4F;
 background-color: null;
@@ -710,7 +726,7 @@ font-weight: bold;
 font-style: inherit;">-</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;"> publications.yml</span></span>
-<span id="cb5-3"><span class="at" style="color: #657422;
+<span id="cb6-3"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">  </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -718,7 +734,7 @@ font-style: inherit;">include</span><span class="kw" style="color: #003B4F;
 background-color: null;
 font-weight: bold;
 font-style: inherit;">:</span></span>
-<span id="cb5-4"><span class="at" style="color: #657422;
+<span id="cb6-4"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -736,7 +752,7 @@ font-style: inherit;">"supply-chain"</span></span></code></pre></div></div>
 <section id="listing-external-items" class="level3">
 <h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
 <p>To list external resources with key metadata, you can use this format to create clear, linked listings.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb6-1"><span class="at" style="color: #657422;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb7-1"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">    </span><span class="kw" style="color: #003B4F;
 background-color: null;
@@ -751,7 +767,7 @@ font-weight: bold;
 font-style: inherit;">:</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;"> https://www.nature.com/articles/s41586-022-05316-6</span></span>
-<span id="cb6-2"><span class="at" style="color: #657422;
+<span id="cb7-2"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -761,7 +777,7 @@ font-weight: bold;
 font-style: inherit;">:</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;"> /files/images/journal/nature.avif</span></span>
-<span id="cb6-3"><span class="at" style="color: #657422;
+<span id="cb7-3"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -773,7 +789,7 @@ background-color: null;
 font-style: inherit;"> </span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
-<span id="cb6-4"><span class="at" style="color: #657422;
+<span id="cb7-4"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -785,7 +801,7 @@ background-color: null;
 font-style: inherit;"> </span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"*Nature*"</span></span>
-<span id="cb6-5"><span class="at" style="color: #657422;
+<span id="cb7-5"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -797,7 +813,7 @@ background-color: null;
 font-style: inherit;"> </span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
-<span id="cb6-6"><span class="at" style="color: #657422;
+<span id="cb7-6"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -815,7 +831,7 @@ font-style: inherit;">"2022-10-26"</span></span></code></pre></div></div>
 <section id="exporting-quarto-revealjs-slides-to-pdf" class="level3">
 <h3 class="anchored" data-anchor-id="exporting-quarto-revealjs-slides-to-pdf">Exporting Quarto Revealjs slides to PDF</h3>
 <p>Revealjs’s default <a href="https://revealjs.com/pdf-export/">PDF Export</a> omits footnotes, which is not acceptable if citations and sources are used. A workaround is to use <a href="https://github.com/astefanutti/decktape">decktape</a>:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><span class="ex" style="color: null;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><span class="ex" style="color: null;
 background-color: null;
 font-style: inherit;">decktape</span> automatic lecture1.html lecture1.pdf</span></code></pre></div></div>
 <p>If you encounter font error when opening the PDF:</p>
@@ -828,7 +844,9 @@ font-style: inherit;">decktape</span> automatic lecture1.html lecture1.pdf</span
 <li>Go to <code>Use print production</code> &gt; <code>Preflight</code> &gt; <code>Analyze and fix it</code> (default options).</li>
 <li>Apply the necessary font correction.</li>
 </ol>
-<p>Note: you will see two Google AdSense in this page, it is a test for me to learn how AdSense works, please ignore them.</p>
+<!--
+Note: you will see two Google AdSense in this page, it is a test for me to learn how AdSense works, please ignore them.
+-->
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
