@@ -139,6 +139,7 @@ https://badge.dimensions.ai/
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="./custom.css">
 <meta property="og:title" content="Quarto Academic Website Examples and Tips – Dr.&nbsp;Gang He">
 <meta property="og:image" content="https://drganghe.github.io/files/gang-he-profile.jpeg">
 <meta property="og:site_name" content="Dr. Gang He">
@@ -261,7 +262,7 @@ https://badge.dimensions.ai/
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./files/Gang-He-CV.pdf" target="_blank"> 
-<span class="menu-text">CV</span></a>
+<span class="menu-text"><strong>CV</strong></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/drganghe" target="_blank"> <i class="bi bi-github" role="img">
@@ -280,11 +281,6 @@ https://badge.dimensions.ai/
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
-  <div class="quarto-reader-toggle-btn">
-  <i class="bi"></i>
-  </div>
-</a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -365,10 +361,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<!-- 
-AdSense check more: https://adsense.google.com/
--->
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1799740429520474" crossorigin="anonymous"></script>
+<!--  {{< include /files/includes/_adsense.qmd >}} -->
 <section id="example-quarto-academic-websites-i-reference-occasionally" class="level2">
 <h2 class="anchored" data-anchor-id="example-quarto-academic-websites-i-reference-occasionally">Example Quarto academic websites I reference occasionally</h2>
 <table class="caption-top table">
@@ -494,14 +487,14 @@ AdSense check more: https://adsense.google.com/
 <section id="using-includes-for-reusable-content" class="level3">
 <h3 class="anchored" data-anchor-id="using-includes-for-reusable-content">Using “Includes” for reusable content</h3>
 <p>To streamline updates across your site, use Quarto’s <a href="https://quarto.org/docs/authoring/includes.html">includes</a> feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>"{{&lt; include _statement.qmd &gt;}}"</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>{{&lt; include _statement.qmd &gt;}}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>Prefixing include file names with an underscore (“_“) ensures they won’t be rendered directly by Quarto.</p>
 <p>Here is an example course <a href="https://github.com/drganghe/energy-climate-policy/blob/main/files/includes/_coursedescription.qmd">description</a>, and reuse it in <a href="https://github.com/drganghe/energy-climate-policy/blob/main/index.qmd">mainpage</a> and <a href="https://github.com/drganghe/energy-climate-policy/blob/main/syllabus.qmd">syllabus</a>.</p>
 </section>
 <section id="academic-badges" class="level3">
 <h3 class="anchored" data-anchor-id="academic-badges">Academic badges</h3>
 <p>Display academic badges like the <a href="https://badges.dimensions.ai/">Dimension Citation badge</a> and <a href="https://badge-docs.altmetric.com/getting-started.html">Altmetric badge</a>.</p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle" data-hide-zero-citations="true"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <p>Here’s an example for embedding them:</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-overflow-wrap code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"__dimensions_badge_embed__"</span><span class="ot"> data-doi</span><span class="op">=</span><span class="st">"10.1038/s41586-022-05316-6"</span><span class="ot"> data-style</span><span class="op">=</span><span class="st">"large_rectangle"</span><span class="ot"> data-hide-zero-citations</span><span class="op">=</span><span class="st">"true"</span><span class="dt">&gt;&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="dt">&lt;</span><span class="kw">div</span><span class="ot"> data-badge-popover</span><span class="op">=</span><span class="st">"right"</span><span class="ot"> data-badge-type</span><span class="op">=</span><span class="st">"1"</span><span class="ot"> data-doi</span><span class="op">=</span><span class="st">"10.1038/s41586-022-05316-6"</span><span class="ot"> data-hide-no-mentions</span><span class="op">=</span><span class="st">"true"</span><span class="ot"> class</span><span class="op">=</span><span class="st">"altmetric-embed"</span><span class="dt">&gt;&lt;/</span><span class="kw">div</span><span class="dt">&gt;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>Replace the doi with your own.</p>
@@ -509,9 +502,13 @@ AdSense check more: https://adsense.google.com/
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">script</span><span class="ot"> type=</span><span class="st">'text/javascript'</span><span class="ot"> src</span><span class="op">=</span><span class="st">'https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'</span><span class="dt">&gt;&lt;/</span><span class="kw">script</span><span class="dt">&gt;</span></span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">script</span><span class="ot"> async src</span><span class="op">=</span><span class="st">"https://badge.dimensions.ai/badge.js"</span><span class="ot"> charset</span><span class="op">=</span><span class="st">"utf-8"</span><span class="dt">&gt;&lt;/</span><span class="kw">script</span><span class="dt">&gt;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>To make the badges display in the same line, you can add the following CSS to your <code>custom.css</code> file and include it in the header of your page.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode css code-with-copy"><code class="sourceCode css"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>span<span class="fu">.__dimensions_badge_embed__</span><span class="op">,</span> div<span class="fu">.altmetric-embed</span> {</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  <span class="kw">display</span><span class="ch">:</span> <span class="dv">inline-block</span><span class="op">;</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>You can also showcase your highly cited and hot papers using custom badges.</p>
 <p><img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> <img src="https://drganghe.github.io/files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"></p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="al">![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper")</span>{width=20 fig-alt="Highly cited paper"} <span class="al">![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper")</span>{width=20 fig-alt="Hot paper"}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="al">![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper")</span>{width=20 fig-alt="Highly cited paper"} <span class="al">![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper")</span>{width=20 fig-alt="Hot paper"}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>Here is an <a href="https://drganghe.github.io/publications.html">example</a>, and the <a href="https://github.com/drganghe/drganghe.github.io/blob/main/publications.qmd">source code</a>.</p>
 </section>
 <section id="social-sharing" class="level3">
@@ -532,29 +529,29 @@ AdSense check more: https://adsense.google.com/
 <section id="listing-specific-categories" class="level3">
 <h3 class="anchored" data-anchor-id="listing-specific-categories">Listing specific categories</h3>
 <p>To display a subset of items, use the <code>include</code> and <code>exclude</code> <a href="https://quarto.org/docs/websites/website-listings.html#including-or-excluding-items">options</a>. Below is an example of listing publications by category:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">content</span><span class="kw">:</span></span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> publications.yml</span></span>
-<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">include</span><span class="kw">:</span></span>
-<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">categories</span><span class="kw">:</span><span class="at"> </span><span class="st">"supply-chain"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">content</span><span class="kw">:</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> publications.yml</span></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">include</span><span class="kw">:</span></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">categories</span><span class="kw">:</span><span class="at"> </span><span class="st">"supply-chain"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>Here, <code>publications.yml</code> is a YAML file containing a list of publications with predfined <code>categories</code>, and <code>categories</code> is the key used for filtering. The result will display only publications that match the specified category.</p>
 <p>Here is an <a href="https://deeppolicylab.github.io/research/clean-energy-supply-chains/index.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research/clean-energy-supply-chains/index.qmd">source code</a>.</p>
 </section>
 <section id="listing-external-items" class="level3">
 <h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
 <p>To list external resources with key metadata, you can use this format to create clear, linked listings.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">path</span><span class="kw">:</span><span class="at"> https://www.nature.com/articles/s41586-022-05316-6</span></span>
-<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">image</span><span class="kw">:</span><span class="at"> /files/images/journal/nature.avif</span></span>
-<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
-<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">subtitle</span><span class="kw">:</span><span class="at"> </span><span class="st">"*Nature*"</span></span>
-<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">description</span><span class="kw">:</span><span class="at"> </span><span class="st">"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
-<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">date</span><span class="kw">:</span><span class="at"> </span><span class="st">"2022-10-26"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">path</span><span class="kw">:</span><span class="at"> https://www.nature.com/articles/s41586-022-05316-6</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">image</span><span class="kw">:</span><span class="at"> /files/images/journal/nature.avif</span></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">subtitle</span><span class="kw">:</span><span class="at"> </span><span class="st">"*Nature*"</span></span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">description</span><span class="kw">:</span><span class="at"> </span><span class="st">"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">date</span><span class="kw">:</span><span class="at"> </span><span class="st">"2022-10-26"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>For efficiency, store multiple items in a YAML(.yml) file and reference it in Quarto.</p>
 <p>Here is an <a href="https://deeppolicylab.github.io/publications.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/publications.qmd">source code</a>.</p>
 </section>
 <section id="exporting-quarto-revealjs-slides-to-pdf" class="level3">
 <h3 class="anchored" data-anchor-id="exporting-quarto-revealjs-slides-to-pdf">Exporting Quarto Revealjs slides to PDF</h3>
 <p>Revealjs’s default <a href="https://revealjs.com/pdf-export/">PDF Export</a> omits footnotes, which is not acceptable if citations and sources are used. A workaround is to use <a href="https://github.com/astefanutti/decktape">decktape</a>:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="ex">decktape</span> automatic lecture1.html lecture1.pdf</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="ex">decktape</span> automatic lecture1.html lecture1.pdf</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>If you encounter font error when opening the PDF:</p>
 <blockquote class="blockquote">
 <p>“Cannot extract the embedded font ‘BAAAAA+SourceSansPro-Regular’. Some characters may not display or print correctly.”</p>
@@ -565,7 +562,9 @@ AdSense check more: https://adsense.google.com/
 <li>Go to <code>Use print production</code> &gt; <code>Preflight</code> &gt; <code>Analyze and fix it</code> (default options).</li>
 <li>Apply the necessary font correction.</li>
 </ol>
-<p>Note: you will see two Google AdSense in this page, it is a test for me to learn how AdSense works, please ignore them.</p>
+<!--
+Note: you will see two Google AdSense in this page, it is a test for me to learn how AdSense works, please ignore them.
+-->
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 

@@ -15,7 +15,147 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 17 Dec 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Jan 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Renewable integration and AI demand reshaped power grids in 2025</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Renewable integration and AI demand reshaped power grids in 2025<br>
+<strong>Gang He</strong><br>
+<em>Nature Reviews Clean Technology</em> (2026)<br>
+DOI: <a href="https://doi.org/10.1038/s44359-025-00136-z">10.1038/s44359-025-00136-z</a></p>
+</div>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg" class="img-fluid figure-img"></p>
+<figcaption>A substation in Pittsburgh, California; Photo by Gang He</figcaption>
+</figure>
+</div>
+<section id="standfirst" class="level2">
+<h2 class="anchored" data-anchor-id="standfirst">Standfirst</h2>
+<p>The importance of renewable integration into power grids came to the forefront in 2025. New challenges in stability, storage, artificial-intelligence demand, and policy shifts defined a year that tested whether power systems can become reliable, flexible, and equitable in a net-zero world.</p>
+</section>
+<section id="key-advances" class="level2">
+<h2 class="anchored" data-anchor-id="key-advances">Key Advances</h2>
+<ul>
+<li>Global renewable electricity generation exceeded coal generation for the first time.<br>
+</li>
+<li>Investment and research into long-duration energy storage became central to grid decarbonization.<br>
+</li>
+<li>Surging AI demand accelerated interest in firm, low-carbon power sources.</li>
+</ul>
+</section>
+<section id="main-text" class="level2">
+<h2 class="anchored" data-anchor-id="main-text">Main text</h2>
+<p>In 2025, for the first time, renewable electricity generation surpassed coal <span class="citation" data-cites="wiatros-motykaGlobalElectricityMidYear2025">(Wiatros-Motyka and Rangelova 2025)</span>, a symbolic and structural milestone in the history of the power sector. This shift was the result of decades of wind and solar deployment, supported by marked cost declines, industrial policy, and net-zero targets. Yet 2025 also revealed deeper challenges to grid decarbonization—extreme weather, rising electrification, and surging loads from artificial-intelligence (AI) data centers all tested grids and highlighted the growing importance of reliability, affordability, and resilience.</p>
+<p>These challenges were brought into sharp focus by the Iberian Blackout, a cascading system failure originating from a voltage disturbance that disconnected gigawatts of solar and wind power in Spain in April 2025. As solar and wind push inverter-based generation to high penetrations, the traditional sources of grid inertia provided by synchronous generators are disappearing. The Iberian event demonstrated that renewable-integration challenges are no longer theoretical; they are unfolding on real power systems serving tens of millions of people. The incident accelerated a global shift toward grid-forming inverters, which can emulate the inertial and voltage-control properties of conventional generators <span class="citation" data-cites="icsinvestigationexpertpanelGridIncidentSpain2025">(ICS Investigation Expert Panel 2025)</span>. <a href="https://eepublicdownloads.entsoe.eu/clean-documents/Publications/SOC/20240503_First_interim_report_in_technical_requirements.pdf">European operators</a> moved toward mandating grid-forming capabilities in new installations, while pilot and demonstration programs were launched in <a href="https://www.ceic.com/gjnyjtwwEn/xwzx/202404/72feddf672de4e859517bd9104c2ef2d.shtml">China</a> and the <a href="https://www.energy.gov/sites/default/files/2023-10/CX-028809.pdf">United States</a>. The blackout became a defining moment for grid decarbonization in 2025, underscoring that system stability must be reinforced alongside rapid renewable expansion.</p>
+<p>Flexibility constraints also became increasingly visible in electricity markets. <a href="https://info.montel.energy/-gb-ireland-renewable-curtailment-report">Curtailment of wind power in the United Kingdom and Ireland reached</a> 4.6 TWh in the first half of 2025, and Europe experienced nearly double the number of hours with negative wholesale electricity prices compared to the previous year <span class="citation" data-cites="internationalenergyagencyElectricityMidYearUpdate2025">(International Energy Agency 2025b)</span>. These signals reflect a structural imbalance between accelerating renewable supply and insufficient system flexibility, demand response, and transmission. Battery storage prices continued to decline, although trade tensions <a href="https://www.bloomberg.com/news/articles/2025-01-15/trade-wars-seen-slowing-battery-price-plunge-in-2025">slowed</a> the pace of cost reductions. The lack of utility-scale long-duration energy storage (LDES)—systems capable of delivering ten or more hours of energy—emerged as a defining constraint on deeper decarbonization <span class="citation" data-cites="dowlingRoleLongDurationEnergy2020">(Dowling et al. 2020)</span>.</p>
+<p>LDES commercialization nonetheless advanced in 2025. The first <a href="https://www.bbc.com/future/article/20251009-the-liquid-air-alternative-to-fossil-fuels">commercial-scale liquid-air energy storage facility</a> in the United Kingdom was connected to the grid, and a <a href="https://www.enerdata.net/publications/daily-energy-news/china-commissions-two-hydropower-plants-hebei-and-qinghai-59-gw.html">3.6-GW pumped hydropower plant</a> in Hebei province, China, entered its first year of full operation. Multiple companies commissioned thermal-storage pilots and flow-battery demonstrations, testing their performance at grid scale. Policymakers responded as well: China’s <a href="https://english.news.cn/20251028/efbfd0c774fd4b1c8daeb741c0351431/c.html">15th Five-Year Plan</a> elevated storage as a core pillar of its “new electricity system”; Ireland’s transmission system operator <a href="https://consult.eirgrid.ie/en/consultation/long-duration-energy-storage-ldes-procurement-mechanism-consultation">proposed dedicated procurement mechanisms</a> to deliver 201 MW of storage capacity by 2030; and California’s battery storage capacity reached <a href="https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-energy-storage-system-survey">16.9 GW</a>, helping <a href="https://escholarship.org/uc/item/34b106b2">tame its well-known duck curve</a>. Across regions, LDES is increasingly viewed as core infrastructure needed to close the gap between variable generation and continuous load.</p>
+<p>Policy developments diverged sharply across regions. China’s <a href="https://unfccc.int/sites/default/files/2025-11/2035%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%87%AA%E4%B8%BB%E8%B4%A1%E7%8C%AE%E6%8A%A5%E5%91%8A.pdf">Nationally Determined Contribution for 2035</a> commits to reducing greenhouse-gas emissions by 7–10% from peak levels, raising the share of non-fossil fuels above 30% of total energy use, and expanding wind and solar capacity to 3,600 GW—more than six times 2020 levels. The United States, by contrast, withdrew from the Paris Agreement for a second time and adopted an energy-independence strategy focused on expanding fossil-fuel production. Modeling suggests that rollbacks of federal clean-energy subsidies could slow U.S. decarbonization and raise emissions and energy expenditures over 2025–2035 <span class="citation" data-cites="jenkinsImpactsOneBig2025">(Jenkins, Farbes, and Haley 2025)</span>.</p>
+<p>Despite policy uncertainty, global clean-energy investment reached a record US$2 trillion in 2025 <span class="citation" data-cites="internationalenergyagencyWorldEnergyInvestment2025">(International Energy Agency 2025a)</span>. Lower-income economies emerged as important engines of renewable growth. <a href="https://ember-energy.org/countries-and-regions/pakistan/">Pakistan</a>’s share of solar electricity nearly quadrupled between 2021 and 2024, rising from 3% to 11%. Solar exports from China to low- and middle-income economies surpassed shipments to high-income economies for the first time in early 2025 <span class="citation" data-cites="emberFirstEvidenceTakeoff2025">(EMBER 2025)</span>. Europe continued advancing complementary technologies, with <a href="https://www.blackridgeresearch.com/blog/latest-list-of-largest-biggest-upcoming-green-hydrogen-h2-projects-plants-in-european-union-commission-council">industrial-scale green-hydrogen plants</a> moving toward operation and large carbon-capture hubs in <a href="https://www.iea.org/commentaries/ccus-projects-around-the-world-are-reaching-new-milestones">Northwest Europe</a> shifting from planning to construction. Together, these developments signal a transition from a generation-centric decarbonization model toward a portfolio approach combining renewables, storage, hydrogen, and carbon capture.</p>
+<p>Transmission expansion was another defining theme of 2025. The United States adopted <a href="https://www.ferc.gov/media/order-1920-b">FERC Order No.&nbsp;1920</a>, mandating long-term regional transmission planning and cost allocation. China continued extending <a href="https://ember-energy.org/app/uploads/2025/09/China-Energy-Transition-Review-2025.pdf">ultra-high-voltage corridors</a> to connect desert solar resources with coastal load centers. Meanwhile, the <a href="https://asean.org/adb-and-world-bank-group-launch-the-asean-power-grid-financing-initiative-with-the-asean-secretariat-and-the-asean-centre-for-energy-ace/">ASEAN Power Grid</a> and the <a href="https://greengridsinitiative.net/news/climate-finance-principles-to-unlock-grids-financing-finalised-and-endorsed-by-climate-bonds-initiative/">African Green Grids Initiative</a> gained momentum, both aiming to strengthen regional interconnection and reduce dependence on isolated national systems. These initiatives point toward a future of more interconnected and flexible grids.</p>
+<p>Perhaps the most transformative development of 2025 was the emergence of <em>energy for AI</em> as a primary driver of electricity demand. As AI models grow in size and commercial deployment accelerates, the energy footprint of data centers has surged, potentially reaching 12% of U.S. electricity demand by 2028 <span class="citation" data-cites="shehabi2024UnitedStates2024">(Shehabi et al. 2024)</span>. This demand wave is reshaping electricity planning and reviving interest in firm, low-carbon baseload power, particularly nuclear energy <span class="citation" data-cites="liuCanChinaBreak2025">(Liu et al. 2025)</span>. Several technology companies announced direct investments and long-term power-purchase agreements with <a href="https://www.nytimes.com/2024/10/16/business/energy-environment/amazon-google-microsoft-nuclear-energy.html">nuclear plants</a>, signaling a shift from annual “100% renewable” targets toward 24/7 zero-carbon energy strategies. At the same time, AI-driven demand is pushing electricity prices upward, with <a href="https://www.cmu.edu/work-that-matters/energy-innovation/data-center-growth-could-increase-electricity-bills">modelling</a> suggesting consumer power bills increasing 8% nationally and up to 25% in some regions in the U.S., raising concerns about affordability and equity, even as electric-vehicle adoption and managed charging are helping reduce system costs in some regions <span class="citation" data-cites="muratoriTrends2025Insights2025">(Muratori et al. 2025)</span>.</p>
+<p>By the end of 2025, renewable energy had begun to dominate power systems in several regions. The challenge ahead is scaling this dominance globally while ensuring that decarbonizing grids are reliable, resilient, and intelligent enough to serve rapidly electrifying and digitally intensive economies. Technological progress in grid-forming inverters, long-duration storage, and digital grid management must be matched by ambitious policy reforms, faster interconnection processes, and deeper community engagement. As power systems transmit more electricity from renewables than from coal, aligning technology, investment, and governance will be essential to making renewable integration the backbone of a reliable and affordable net-zero grid—and the foundation for powering the rapidly expanding AI economy.</p>
+</section>
+<section id="acknowledgements" class="level2">
+<h2 class="anchored" data-anchor-id="acknowledgements">Acknowledgements</h2>
+<p>The author thanks the Alfred P. Sloan Foundation and the ClimateWorks Foundation for supporting research at the Deep Energy and Climate Policy Lab.</p>
+</section>
+<section id="competing-interests" class="level2">
+<h2 class="anchored" data-anchor-id="competing-interests">Competing interests</h2>
+<p>The author declares no competing interests.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<ul>
+<li>SharedIt <a href="https://rdcu.be/eZUji">full-text</a></li>
+<li>Preprint <a href="../../files/papers/2026-NRCT-Renewable-Integration-and-AI-Demand-Reshaped-Power-Grids-in-2025.pdf">pdf</a></li>
+</ul>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-dowlingRoleLongDurationEnergy2020" class="csl-entry">
+Dowling, Jacqueline A., Katherine Z. Rinaldi, Tyler H. Ruggles, Steven J. Davis, Mengyao Yuan, Fan Tong, Nathan S. Lewis, and Ken Caldeira. 2020. <span>“Role of <span>Long-Duration Energy Storage</span> in <span>Variable Renewable Electricity Systems</span>.”</span> <em>Joule</em> 4 (9): 1907–28. <a href="https://doi.org/10.1016/j.joule.2020.07.007">https://doi.org/10.1016/j.joule.2020.07.007</a>.
+</div>
+<div id="ref-emberFirstEvidenceTakeoff2025" class="csl-entry">
+EMBER. 2025. <span>“The First Evidence of a Take-Off in Solar in <span>Africa</span>.”</span> <a href="https://ember-energy.org/latest-insights/the-first-evidence-of-a-take-off-in-solar-in-africa/">https://ember-energy.org/latest-insights/the-first-evidence-of-a-take-off-in-solar-in-africa/</a>.
+</div>
+<div id="ref-icsinvestigationexpertpanelGridIncidentSpain2025" class="csl-entry">
+ICS Investigation Expert Panel. 2025. <span>“Grid <span>Incident</span> in <span>Spain</span> and <span>Portugal</span> on 28 <span>April</span> 2025.”</span> <a href="https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/">https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/</a>.
+</div>
+<div id="ref-internationalenergyagencyWorldEnergyInvestment2025" class="csl-entry">
+International Energy Agency. 2025a. <span>“World <span>Energy Investment</span> 2025.”</span> <a href="https://www.iea.org/reports/world-energy-investment-2025">https://www.iea.org/reports/world-energy-investment-2025</a>.
+</div>
+<div id="ref-internationalenergyagencyElectricityMidYearUpdate2025" class="csl-entry">
+———. 2025b. <span>“Electricity <span>Mid-Year Update</span> 2025.”</span> <a href="https://www.iea.org/reports/electricity-mid-year-update-2025">https://www.iea.org/reports/electricity-mid-year-update-2025</a>.
+</div>
+<div id="ref-jenkinsImpactsOneBig2025" class="csl-entry">
+Jenkins, Jesse, Jamil Farbes, and Ben Haley. 2025. <span>“Impacts of the <span>One Big Beautiful Bill On The US Energy Transition</span> – <span>Summary Report</span>.”</span> REPEAT Project. <a href="https://doi.org/10.5281/zenodo.15801701">https://doi.org/10.5281/zenodo.15801701</a>.
+</div>
+<div id="ref-liuCanChinaBreak2025" class="csl-entry">
+Liu, Shangwei, Gang He, Minghao Qiu, and Daniel M. Kammen. 2025. <span>“Can <span>China</span> Break the <span>‘Cost Curse’</span> of Nuclear Power?”</span> <em>Nature</em> 643 (8074): 1186–88. <a href="https://doi.org/10.1038/d41586-025-02341-z">https://doi.org/10.1038/d41586-025-02341-z</a>.
+</div>
+<div id="ref-muratoriTrends2025Insights2025" class="csl-entry">
+Muratori, Matteo, Doug Arent, Morgan D. Bazilian, John Bistline, Brennan Borlaug, Austin Brown, Pierpaolo Cazzola, et al. 2025. <span>“Trends and 2025 Insights on the Rise of Electric Vehicles in the <span>USA</span>.”</span> <em>Nature Reviews Clean Technology</em>, October, 1–19. <a href="https://doi.org/10.1038/s44359-025-00108-3">https://doi.org/10.1038/s44359-025-00108-3</a>.
+</div>
+<div id="ref-shehabi2024UnitedStates2024" class="csl-entry">
+Shehabi, Arman, Alex Newkirk, Sarah J. Smith, Alex Hubbard, Nuoa Lei, Md Abu Bakar Siddik, Billie Holecek, Jonathan Koomey, Eric Masanet, and Dale Sartor. 2024. <span>“2024 <span>United States Data Center Energy Usage Report</span>,”</span> December. <a href="https://doi.org/10.71468/P1WC7Q">https://doi.org/10.71468/P1WC7Q</a>.
+</div>
+<div id="ref-wiatros-motykaGlobalElectricityMidYear2025" class="csl-entry">
+Wiatros-Motyka, Małgorzata, and Kostantsa Rangelova. 2025. <span>“Global <span>Electricity Mid-Year Insights</span> 2025.”</span> Ember. October 7, 2025. <a href="https://ember-energy.org/latest-insights/global-electricity-mid-year-insights-2025">https://ember-energy.org/latest-insights/global-electricity-mid-year-insights-2025</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{he2026,
+  author = {He, Gang},
+  title = {Renewable Integration and {AI} Demand Reshaped Power Grids in
+    2025},
+  journal = {Nature Reviews Clean Technology},
+  volume = {2},
+  number = {1},
+  pages = {13-14},
+  date = {2026-01-20},
+  url = {https://doi.org/10.1038/s44359-025-00136-z},
+  doi = {10.1038/s44359-025-00136-z},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-he2026" class="csl-entry quarto-appendix-citeas">
+He, Gang. 2026. <span>“Renewable Integration and AI Demand Reshaped
+Power Grids in 2025.”</span> <em>Nature Reviews Clean Technology</em> 2
+(1): 13–14. <a href="https://doi.org/10.1038/s44359-025-00136-z">https://doi.org/10.1038/s44359-025-00136-z</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/</guid>
+  <pubDate>Tue, 20 Jan 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>New Grant to Study the Drivers and Impacts of Domestic Clean Energy Manufacturing</title>
   <link>https://drganghe.github.io/</link>
@@ -46,9 +186,9 @@ Note: Click the image to see full view
 </center>
 </section>
 <section id="about-17-lex-society" class="level2">
-<h2 class="anchored" data-anchor-id="about-17-lex-society">About “17 Lex Society”</h2>
+<h2 class="anchored" data-anchor-id="about-17-lex-society">About 17 Lex Society</h2>
 <blockquote class="blockquote">
-<p>Every Baruchian – past, present, and future – passes through the doors of “17 Lex” (17 Lexington Avenue). The campus building, on the corner of 23rd Street is the site where the Free Academy, the first free public institution of higher education in the nation, once stood. Founded in 2007, 17 Lex Society members are leaders in creating the opportunities necessary to build on our, and your, tradition of changing lives for the better.</p>
+<p>Every Baruchian – past, present, and future – passes through the doors of “17 Lex” (17 Lexington Avenue). The campus building, on the corner of 23rd Street is the site where the Free Academy, the first free public institution of higher education in the nation, once stood. Founded in 2007, <a href="https://bcf.alumni.baruch.cuny.edu/supporters/17lex">17 Lex Society</a> members are leaders in creating the opportunities necessary to build on our, and your, tradition of changing lives for the better.</p>
 </blockquote>
 
 
@@ -246,7 +386,7 @@ Gang He, Daniel M Kammen, Muhammad Husni Mubarok, Shoon So Oo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1762864749942" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3622">
+<div class="quarto-post image-right" data-index="2" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1768599416910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3623">
 <div class="thumbnail"><a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/featured.jpg" class="thumbnail-image">
@@ -512,7 +652,7 @@ https://quarto.org/docs/authoring/includes.html
 <item>
   <title>Included in World’s Top 2% Scientists List 2025</title>
   <dc:creator>Stanford/Elsevier </dc:creator>
-  <link>https://drganghe.github.io/posts/2025-09-stanford-elsevier-top-2percent-scientists/</link>
+  <link>https://drganghe.github.io/posts/stanford-elsevier-top-2percent-scientists/</link>
   <description><![CDATA[ 
 
 
@@ -573,7 +713,7 @@ Stanford/Elsevier
  ]]></description>
   <category>news</category>
   <category>recognition</category>
-  <guid>https://drganghe.github.io/posts/2025-09-stanford-elsevier-top-2percent-scientists/</guid>
+  <guid>https://drganghe.github.io/posts/stanford-elsevier-top-2percent-scientists/</guid>
   <pubDate>Fri, 19 Sep 2025 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/files/awards/Top2Percent.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
@@ -1463,36 +1603,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/</guid>
   <pubDate>Tue, 17 Sep 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/files/awards/Top2Percent.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>ICAE Keynote: Cost Saving, Climate, and Health Effects of Solar PV Global Supply Chains</title>
-  <dc:creator>ICAE2024 </dc:creator>
-  <link>https://drganghe.github.io/posts/2024-09-03-icae-key-note-speech-clean-energy-global-supply-chains/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://applied-energy.org/icae2024/#Program"><img src="https://drganghe.github.io/files/flyers/2024-09-03-ICAE-keynote.png" class="img-fluid" style="width:90.0%"></a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-
- ]]></description>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/posts/2024-09-03-icae-key-note-speech-clean-energy-global-supply-chains/</guid>
-  <pubDate>Tue, 03 Sep 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-09-03-icae-key-note-speech-clean-energy-global-supply-chains/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

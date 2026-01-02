@@ -1,0 +1,30 @@
+---
+title: "Story of Science"
+description-meta: "Stories in science that inspired me"
+author: "Gang He"
+categories: [story]
+date: "2026-02-08"
+title-block-banner: false
+page-layout: full
+from: markdown+emoji
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+
+## Ronald J. Konopka and Period Gene
+
+Jeffrey C Hall、Michael Rosbash、Michael W Young
+
+
+## Jeffrey C Hall
+
+## Michael Rosbash
+
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

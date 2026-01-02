@@ -90,7 +90,7 @@ Notable policy citations:
 
 ## The World Bank reproduced our chart
 
-[![Source: World Bank. 2024. World Development Report 2024: The Middle-Income Trap.](World-Development-Report-2024-Figure9.1.png){fig-align="center"}](http://hdl.handle.net/10986/41919)
+[![Source: World Bank. 2024. World Development Report 2024: The Middle-Income Trap. p.223](World-Development-Report-2024-Figure9.1.png){fig-align="center"}](http://hdl.handle.net/10986/41919)
 
 
 ## Twitter Thread

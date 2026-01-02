@@ -6,11 +6,14 @@ date: "2024-10-15"
 categories: [tool]
 title-block-banner: false
 page-layout: full
+css: /custom.css
 ---
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
-{{< include /files/includes/_adsense.qmd >}}
+
+<!--  {{< include /files/includes/_adsense.qmd >}} -->
+
 
 ## Example Quarto academic websites I reference occasionally
 
@@ -60,7 +63,7 @@ Note: If you’d like to use the template, please avoid forking my actual websit
 To streamline updates across your site, use Quarto's [includes](https://quarto.org/docs/authoring/includes.html) feature for reusable elements like syllabus statements, social sharing options, academic badges, and other reuseable materials. By doing this, you only need to update a single source file, and then rerender the site to reflect changes across all pages.
 
 ```markdown
-"{{< include _statement.qmd >}}"
+{{{< include _statement.qmd >}}}
 ```
 
 Prefixing include file names with an underscore ("_") ensures they won't be rendered directly by Quarto. 
@@ -73,7 +76,7 @@ Here is an example course [description](https://github.com/drganghe/energy-clima
 Display academic badges like the [Dimension Citation badge](https://badges.dimensions.ai/) and [Altmetric badge](https://badge-docs.altmetric.com/getting-started.html). 
 
 ```{=html}
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle" data-hide-zero-citations="true"></span><div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-022-05316-6" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41586-022-05316-6" data-hide-no-mentions="true" class="altmetric-embed"></div>
 ```
 
 Here's an example for embedding them:
@@ -89,6 +92,14 @@ Make sure to include below scripts in the same page to enable the badges:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
+
+To make the badges display in the same line, you can add the following CSS to your `custom.css` file and include it in the header of your page.
+
+```css
+span.__dimensions_badge_embed__, div.altmetric-embed {
+  display: inline-block;
+}
 ```
 
 You can also showcase your highly cited and hot papers using custom badges.
@@ -176,7 +187,9 @@ Use Adobe Acrobat tools to fix it:
 2. Go to `Use print production` > `Preflight` > `Analyze and fix it` (default options). 
 3. Apply the necessary font correction. 
 
+<!--
 Note: you will see two Google AdSense in this page, it is a test for me to learn how AdSense works, please ignore them.
+-->
 
 <!--Include social share buttons-->
 
