@@ -107,7 +107,9 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015. [ELITE 
 
 ## Peer-reviewed Journal Paper
 
-Yang, Haozhe, **Gang He**, Eric Masanet and Ranjit Deshmukh. 2025. [Economic benefits and cost competitiveness of green hydrogen in decarbonizing China's electricity and hard-to-electrify sectors](https://iopscience.iop.org/article/10.1088/1748-9326/ae1b1f). *Environmental Research Letters*. 20(12): 124012. doi: [10.1088/1748-9326/ae1b1f](https://doi.org/10.1088/1748-9326/ae1b1f). [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ae1b1f/pdf)]
+Kattel, Gaurav, Anup Paudel, **Gang He**, and Jun-Ki Choi\*. 2026. [Bridging the Industrial Carbon Divide: A Techno-Economic Framework for Carbon Capture Pathways in the Cement Sector of Emerging Economies](https://www.sciencedirect.com/science/article/pii/S0959652625035044). *Journal of Cleaner Production* 538: 147457. doi: [10.1016/j.jclepro.2025.147457](https://doi.org/10.1016/j.jclepro.2025.147457). [[pdf](https://pdf.sciencedirectassets.com/271750/1-s2.0-S0959652625X00482/1-s2.0-S095965262502815X/main.pdf)]
+
+Yang, Haozhe, **Gang He**, Eric Masanet and Ranjit Deshmukh\*. 2025. [Economic benefits and cost competitiveness of green hydrogen in decarbonizing China's electricity and hard-to-electrify sectors](https://iopscience.iop.org/article/10.1088/1748-9326/ae1b1f). *Environmental Research Letters*. 20(12): 124012. doi: [10.1088/1748-9326/ae1b1f](https://doi.org/10.1088/1748-9326/ae1b1f). [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ae1b1f/pdf)]
 
 Qiu, Minghao, **Gang He**\*, and Peter Marcotullio. 2025. [Imported Solar Photovoltaics Contributed to Health and Climate Benefits in the United States](https://www.cell.com/one-earth/abstract/S2590-3322(25)00293-3). *One Earth* 8(11): 101467. doi: [10.1016/j.oneear.2025.101467](https://doi.org/10.1016/j.oneear.2025.101467). [[preprint](/files/papers/2025-one-earth-health-climate-benefits-of-imported-solar-pv-in-the-united-states.pdf)]
 
