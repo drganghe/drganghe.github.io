@@ -19,6 +19,6 @@ css: /custom.css
 
 <center>Note: Click the image to see full view</center>
 
-## About "17 Lex Society"
+## About 17 Lex Society
 
->Every Baruchian – past, present, and future – passes through the doors of “17 Lex” (17 Lexington Avenue). The campus building, on the corner of 23rd Street is the site where the Free Academy, the first free public institution of higher education in the nation, once stood. Founded in 2007, 17 Lex Society members are leaders in creating the opportunities necessary to build on our, and your, tradition of changing lives for the better.
+>Every Baruchian – past, present, and future – passes through the doors of “17 Lex” (17 Lexington Avenue). The campus building, on the corner of 23rd Street is the site where the Free Academy, the first free public institution of higher education in the nation, once stood. Founded in 2007, [17 Lex Society](https://bcf.alumni.baruch.cuny.edu/supporters/17lex) members are leaders in creating the opportunities necessary to build on our, and your, tradition of changing lives for the better.

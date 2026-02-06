@@ -15,10 +15,10 @@ css: /custom.css
 
 Note: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
 
-Total citations as of November 2025:
+Total citations as of February 2026:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,000+ (h-index = 30)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 6,000+ (h-index = 35, i10-index = 65) 
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,200+ (h-index = 30)   
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 6,500+ (h-index = 35, i10-index = 65) 
 
 ## Selected Work
 
@@ -111,6 +111,8 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015. [ELITE 
 
 ## Peer-reviewed Journal Paper
 
+Danneaux, Augustin, Thomas Le Gallic, Julien Lefèvre, Saritha Sudharmma Vishwanathan, and **Gang He**. 2026. [Coal Mine Workers in the Climate Transition: Subnational Vulnerability Disparities in China and India](https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3). *Environmental Research Letters* 21(3): 034026. doi: [10.1088/1748-9326/ae3fb3](https://doi.org/10.1088/1748-9326/ae3fb3). [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3/pdf)]
+
 Liu, Junhong, Fredrich Kahrl, Liqun Peng, Jiang Lin\*, and **Gang He**. 2026. [Toward Efficient Resource Adequacy: The Role of Shared Reserves in China’s Power Grid](https://www.sciencedirect.com/science/article/pii/S2211467X2600009X). *Energy Strategy Reviews* 63: 102043. doi: [10.1016/j.esr.2026.102043](https://doi.org/10.1016/j.esr.2026.102043). [[pdf](https://authors.elsevier.com/sd/article/S2211-467X(26)00009-X)] [[Data](https://zenodo.org/records/17993437)]
 
 Mu, Xiaoshao, Xiaoling Zhang\*, **Gang He**, and K. M. Liew\*. 2026. [Toward Low-Carbon 3D Concrete Printing through Circular Construction and Waste Valorization](https://www.sciencedirect.com/science/article/pii/S2352710226001294). *Journal of Building Engineering* 119: 115308. doi: [10.1016/j.jobe.2026.115308](https://doi.org/10.1016/j.jobe.2026.115308). Free [full-text](https://authors.elsevier.com/c/1mRus8MyS9HxsE) by Elsevier (before March 6, 2026)
@@ -121,11 +123,11 @@ Yang, Haozhe\*, **Gang He**, Eric Masanet and Ranjit Deshmukh\*. 2025. [Economic
 
 Qiu, Minghao, **Gang He**\*, and Peter Marcotullio. 2025. [Imported Solar Photovoltaics Contributed to Health and Climate Benefits in the United States](https://www.cell.com/one-earth/abstract/S2590-3322(25)00293-3). *One Earth* 8(11): 101467. doi: [10.1016/j.oneear.2025.101467](https://doi.org/10.1016/j.oneear.2025.101467). [[preprint](/files/papers/2025-one-earth-health-climate-benefits-of-imported-solar-pv-in-the-united-states.pdf)]
 
-Li, Bo, Mingxia Yang, **Gang He**, Guangchun Ruan, Jianxiao Wang\*, Xueqin Cui, Haiwang Zhong\*, and Daniel M. Kammen\*. 2025. [A Provincial Cost Analysis of Electric Vehicle Operation in China](https://www.sciencedirect.com/science/article/pii/S2589004225017651). *iScience*: 113504. doi: [10.1016/j.isci.2025.113504](https://doi.org/10.1016/j.isci.2025.113504). [[pdf](https://www.cell.com/action/showPdf?pii=S2589-0042%2825%2901765-1)]
+Li, Bo, Mingxia Yang, **Gang He**, Guangchun Ruan, Jianxiao Wang\*, Xueqin Cui, Haiwang Zhong\*, and Daniel M. Kammen\*. 2025. [A Provincial Cost Analysis of Electric Vehicle Operation in China](https://www.sciencedirect.com/science/article/pii/S2589004225017651). *iScience*: 28(10): 113504. doi: [10.1016/j.isci.2025.113504](https://doi.org/10.1016/j.isci.2025.113504). [[pdf](https://www.cell.com/action/showPdf?pii=S2589-0042%2825%2901765-1)]
 
 Zhang, Chao\*, Yujie Dong, Lijin Zhong\*, Haoqi Qian\*, Shuangtong Wang, and **Gang He**. 2025. [Avoided CO2 Emissions in China’s Power Sector by Structural Change and Efficiency Gain: An Electric Generating Unit Level Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0921344925003982). *Resources, Conservation and Recycling* 223: 108520. doi: [10.1016/j.resconrec.2025.108520](https://doi.org/10.1016/j.resconrec.2025.108520). [[pdf](https://www.sciencedirect.com/science/article/pii/S0921344925003982/pdfft?md5=5cdbf50ab2eaea3e5631c4a7bd402630&pid=1-s2.0-S0921344925003982-main.pdf)]   
 
-Peng, Liqun, **Gang He**, and Jiang Lin\*. 2025. [Role of pumped hydro storage in China’s power system decarbonization](https://www.sciencedirect.com/science/article/pii/S1040619025000326). *The Electricity Journal*. doi: [10.1016/j.tej.2025.107487](https://doi.org/10.1016/j.tej.2025.107487). [[pdf](https://escholarship.org/content/qt5s56m1rm/qt5s56m1rm.pdf)] [[data](https://zenodo.org/records/15795307)]
+Peng, Liqun, **Gang He**, and Jiang Lin\*. 2025. [Role of pumped hydro storage in China’s power system decarbonization](https://www.sciencedirect.com/science/article/pii/S1040619025000326). *The Electricity Journal*. 38(4): 107487. doi: [10.1016/j.tej.2025.107487](https://doi.org/10.1016/j.tej.2025.107487). [[pdf](https://escholarship.org/content/qt5s56m1rm/qt5s56m1rm.pdf)] [[data](https://zenodo.org/records/15795307)]
 
 Luo, Qian, Liqun Peng, **Gang He** and Jiang Lin\*. 2025. [Cost-effectiveness of removing the last 10-20% emissions of China's power sector](https://iopscience.iop.org/article/10.1088/1748-9326/adc0b3). *Environmental Research Letters* 20(4): 044035. doi: [10.1088/1748-9326/adc0b3](https://doi.org/10.1088/1748-9326/adc0b3). [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/adc0b3/pdf)]
 
