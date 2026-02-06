@@ -15,10 +15,10 @@ css: /custom.css
 
 Note: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
 
-Total citations as of November 2025:
+Total citations as of February 2026:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,000+ (h-index = 30)   
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 6,000+ (h-index = 35, i10-index = 65) 
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,200+ (h-index = 30)   
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 6,500+ (h-index = 35, i10-index = 65) 
 
 ## Selected Work
 
@@ -110,6 +110,8 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015. [ELITE 
 
 
 ## Peer-reviewed Journal Paper
+
+Danneaux, Augustin, Thomas Le Gallic, Julien Lefèvre, Saritha Sudharmma Vishwanathan, and **Gang He**. 2026. [Coal Mine Workers in the Climate Transition: Subnational Vulnerability Disparities in China and India](https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3). *Environmental Research Letters*. doi: [10.1088/1748-9326/ae3fb3](https://doi.org/10.1088/1748-9326/ae3fb3). [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3/pdf)]
 
 Liu, Junhong, Fredrich Kahrl, Liqun Peng, Jiang Lin\*, and **Gang He**. 2026. [Toward Efficient Resource Adequacy: The Role of Shared Reserves in China’s Power Grid](https://www.sciencedirect.com/science/article/pii/S2211467X2600009X). *Energy Strategy Reviews* 63: 102043. doi: [10.1016/j.esr.2026.102043](https://doi.org/10.1016/j.esr.2026.102043). [[pdf](https://authors.elsevier.com/sd/article/S2211-467X(26)00009-X)] [[Data](https://zenodo.org/records/17993437)]
 
