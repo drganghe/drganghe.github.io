@@ -29,7 +29,7 @@ Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cos
 
 <hr style="width:90%">
 
-**He, Gang**\*. 2026. [Renewable integration and AI demand reshaped power grids in 2025](/posts/2026-01-nrct-grid-decarbonization-year-in-review/index.qmd). *Nature Reviews Clean Technology* 2(1): 13-14. doi: [10.1038/s44359-025-00136-z](https://doi.org/10.1038/s44359-025-00136-z). [SharedIt [full-text](https://rdcu.be/eZUji)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s44359-025-00136-z" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s44359-025-00136-z" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**He, Gang**\*. 2026. [Renewable integration and AI demand reshaped power grids in 2025](/posts/2026-01-nrct-grid-decarbonization-year-in-review/index.qmd). *Nature Reviews Clean Technology* 2(1): 13-14. doi: [10.1038/s44359-025-00136-z](https://doi.org/10.1038/s44359-025-00136-z). [SharedIt [full-text](https://rdcu.be/eZUji)] [[pdf](/files/papers/2026-NRCT-Renewable-Integration-and-AI-Demand-Reshaped-Power-Grids-in-2025.pdf)]<span class="__dimensions_badge_embed__" data-doi="10.1038/s44359-025-00136-z" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s44359-025-00136-z" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <hr style="width:90%">
 
@@ -111,7 +111,7 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015. [ELITE 
 
 ## Peer-reviewed Journal Paper
 
-Danneaux, Augustin, Thomas Le Gallic, Julien Lefèvre, Saritha Sudharmma Vishwanathan, and **Gang He**. 2026. [Coal Mine Workers in the Climate Transition: Subnational Vulnerability Disparities in China and India](https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3). *Environmental Research Letters* 21(3): 034026. doi: [10.1088/1748-9326/ae3fb3](https://doi.org/10.1088/1748-9326/ae3fb3). [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3/pdf)]
+Danneaux, Augustin\*, Thomas Le Gallic, Julien Lefèvre, Saritha Sudharmma Vishwanathan, and **Gang He**. 2026. [Coal Mine Workers in the Climate Transition: Subnational Vulnerability Disparities in China and India](https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3). *Environmental Research Letters* 21(3): 034026. doi: [10.1088/1748-9326/ae3fb3](https://doi.org/10.1088/1748-9326/ae3fb3). [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3/pdf)] [[data and code](https://zenodo.org/records/18198421)]
 
 Liu, Junhong, Fredrich Kahrl, Liqun Peng, Jiang Lin\*, and **Gang He**. 2026. [Toward Efficient Resource Adequacy: The Role of Shared Reserves in China’s Power Grid](https://www.sciencedirect.com/science/article/pii/S2211467X2600009X). *Energy Strategy Reviews* 63: 102043. doi: [10.1016/j.esr.2026.102043](https://doi.org/10.1016/j.esr.2026.102043). [[pdf](https://authors.elsevier.com/sd/article/S2211-467X(26)00009-X)] [[Data](https://zenodo.org/records/17993437)]
 
