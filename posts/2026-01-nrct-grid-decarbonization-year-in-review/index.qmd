@@ -77,6 +77,10 @@ The author thanks the Alfred P. Sloan Foundation and the ClimateWorks Foundation
 
 The author declares no competing interests.
 
+## Links
+
+- SharedIt [full-text](https://rdcu.be/eZUji) 
+- Preprint [pdf](/files/papers/2026-NRCT-Renewable-Integration-and-AI-Demand-Reshaped-Power-Grids-in-2025.pdf)
 
 <!--Include social share buttons-->
 

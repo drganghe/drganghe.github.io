@@ -29,7 +29,7 @@ Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cos
 
 <hr style="width:90%">
 
-**He, Gang**\*. 2026. [Renewable integration and AI demand reshaped power grids in 2025](/posts/2026-01-nrct-grid-decarbonization-year-in-review/index.qmd). *Nature Reviews Clean Technology* 2(1): 13-14. doi: [10.1038/s44359-025-00136-z](https://doi.org/10.1038/s44359-025-00136-z). [SharedIt [full-text](https://rdcu.be/eZUji)] [[pdf](/files/papers/2026-NRCT-Renewable-Integration-and-AI-Demand-Reshaped-Power-Grids-in-2025.pdf)]<span class="__dimensions_badge_embed__" data-doi="10.1038/s44359-025-00136-z" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s44359-025-00136-z" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**He, Gang**\*. 2026. [Renewable integration and AI demand reshaped power grids in 2025](/posts/2026-01-nrct-grid-decarbonization-year-in-review/index.qmd). *Nature Reviews Clean Technology* 2(1): 13-14. doi: [10.1038/s44359-025-00136-z](https://doi.org/10.1038/s44359-025-00136-z). [SharedIt [full-text](https://rdcu.be/eZUji)] [Preprint [pdf](/files/papers/2026-NRCT-Renewable-Integration-and-AI-Demand-Reshaped-Power-Grids-in-2025.pdf)]<span class="__dimensions_badge_embed__" data-doi="10.1038/s44359-025-00136-z" data-style="large_rectangle" data-hide-zero-citations="true"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s44359-025-00136-z" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <hr style="width:90%">
 
