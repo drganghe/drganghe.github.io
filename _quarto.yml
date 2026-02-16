@@ -63,7 +63,7 @@ website:
         href: cn.qmd
 
     right: 
-      - text: CV
+      - text: "**CV**"
         href: files/Gang-He-CV.pdf
         target: _blank 
       - icon: github
@@ -99,7 +99,7 @@ website:
     location: navbar
     type: textbox
   
-  reader-mode: true
+  reader-mode: false
 
   draft-mode: unlinked
   
