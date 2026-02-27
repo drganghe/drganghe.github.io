@@ -25,7 +25,7 @@ About one billion people worldwide have no electricity, and another 1.5 billion 
 
 ## Electricity matters
 
-I would like to provide a personal perspective. I was born in a small village in Hunan province, in central China, and am old enough to remember a life without electricity. Many people today would panic after an hour’s disconnection from the electricity grid. Where to charge their phone? What to do without a wi-fi connection? Back then, for my family it was normal. Kerosene lamps for light, a wood-save stove for cooking – a model that was already an improvement on previous versions because it used less wood. However, the smoke remained a major source of air pollution, and was especially harmful to women and children, who spent most time indoors.
+I would like to provide a personal perspective. I was born in a small village in Hunan province, in central China, and am old enough to remember a life without electricity. Many people today would panic after an hour’s disconnection from the electricity grid. Where to charge their phone? What to do without a Wi-Fi connection? Back then, for my family it was normal. Kerosene lamps for light, a wood-saving stove for cooking – a model that was already an improvement on previous versions because it used less wood. However, the smoke remained a major source of air pollution, and was especially harmful to women and children, who spent most time indoors.
 
 Providing electricity to all is about humanity. Without electricity, other essential steps for human development such as providing modern public health services or narrowing the digital divide, are daunting to solve.
 
@@ -47,7 +47,7 @@ In 2012, the central government issued a 3-year action plan, “Electricity for 
 
 What can the rest of the world learn? There are three lessons from China’s final, successful effort to electrify.
 
-### Co-ordinate all stakeholders
+### Coordinate all stakeholders
 
 Despite prioritising electrification, the central government alone could neither implement the necessary investments, nor manage highly decentralised infrastructures. China’s central government therefore provided policy leadership and investment, but with extensive local coordination. Provincial governments examined local conditions and coordinated project implementation. Some conducted trials of different approaches and technologies, as the best strategies for ubiquitous electrification were not obvious.
 
@@ -71,7 +71,7 @@ In areas that were prohibitive to serve with any system, the government rehoused
 
 ### Embed electrification in development plans
 
-As in the US and other industrialised countries, China embedded electrification within its poverty eradication strategy, mainly through the “Infrastructure to Every Village Project,” which covered power, roads, water, and telecoms. Electrification facilitates rural economic growth, and higher incomes leads to greater electricity use, justifying further investment in rural electrification. This feedback loop enables sustainable electricity supplies rather than relying solely on government subsidy. Like the US, this process was hastened by policy measures such as China’s “home appliances to the countryside” programme, which subsidised purchases of TVs, washing machines, and mobile phones.
+As in the U.S. and other industrialized countries, China embedded electrification within its poverty eradication strategy, mainly through the “Infrastructure to Every Village Project,” which covered power, roads, water, and telecoms. Electrification facilitates rural economic growth, and higher incomes lead to greater electricity use, justifying further investment in rural electrification. This feedback loop enables sustainable electricity supplies rather than relying solely on government subsidy. Like the U.S., this process was hastened by policy measures such as China’s “home appliances to the countryside” programme, which subsidised purchases of TVs, washing machines, and mobile phones.
 
 Of course, there is also much about China that is different from other countries.
 

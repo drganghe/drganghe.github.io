@@ -1,7 +1,7 @@
 ---
 title: "Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System"
 subtitle: "*Nature Communications*"
-description: "A renewable dominant pathway is not just technogical sound, but also cost effective."
+description: "A renewable-dominant pathway is not just technologically sound, but also cost-effective."
 author: 
   - name: Gang He
   - name: Jiang Lin
@@ -38,7 +38,7 @@ DOI: [10.1038/s41467-020-16184-x](https://doi.org/10.1038/s41467-020-16184-x)
 
 ## Abstract
 
-The costs for solar photovoltaics, wind, and battery storage have dropped markedly since 2010, however, many recent studies and reports around the world have not adequately captured such dramatic decrease. Those costs are projected to decline further in the near future, bringing new prospects for the widespread penetration of renewables and extensive power-sector decarbonization that previous policy discussions did not fully consider. Here we show if cost trends for renewables continue, 62% of China’s electricity could come from non-fossil sources by 2030 at a cost that is 11% lower than achieved through a business-as-usual approach. Further, China’s power sector could cut half of its 2015 carbon emissions at a cost about 6% lower compared to business-as-usual conditions.
+The costs for solar photovoltaics, wind, and battery storage have dropped markedly since 2010; however, many recent studies and reports around the world have not adequately captured such dramatic decreases. Those costs are projected to decline further in the near future, bringing new prospects for the widespread penetration of renewables and extensive power-sector decarbonization that previous policy discussions did not fully consider. Here we show that if cost trends for renewables continue, 62% of China’s electricity could come from non-fossil sources by 2030 at a cost that is 11% lower than achieved through a business-as-usual approach. Further, China’s power sector could cut half of its 2015 carbon emissions at a cost about 6% lower compared to business-as-usual conditions.
 
 ## Links
 

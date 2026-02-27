@@ -11,7 +11,7 @@ css: /custom.css
 [![NYC is our classroom](nyc-is-your-classroom.jpeg)](https://drganghe.github.io/program-evaluation/)
 
 
-I had the pleasure to teach the EMPA class Program Evaluation with Professor Samantha MacBride in Spring 2024. The goal of the class is to enable the students to do "sensible evaluation at reasonable costs". Below is the teaching material for the class. 
+I had the pleasure of teaching the EMPA class Program Evaluation with Professor Samantha MacBride in Spring 2024. The goal of the class is to enable students to conduct "sensible evaluation at reasonable costs." Below are the teaching materials for the class. 
 
 
 ## Course Link
@@ -39,7 +39,7 @@ I had the pleasure to teach the EMPA class Program Evaluation with Professor Sam
 - [Bombing, Heating, and Causal Models](https://drganghe.github.io/program-evaluation/2024/bombing-heating-and-causal-models.html){target="_blank"}    
 - [John Muir and National Park System](https://drganghe.github.io/program-evaluation/2024/john-muir-and-national-park.html){target="_blank"}    
 - [Esther Duflo and RCTs](https://drganghe.github.io/program-evaluation/2024/esther-duflo-and-rcts.html){target="_blank"}
-- [Fei-fei Li and ImageNet](https://drganghe.github.io/program-evaluation/2024/feifei-li-imagenet-and-ai-revolution.html){target="_blank"} 
+- [Fei-Fei Li and ImageNet](https://drganghe.github.io/program-evaluation/2024/feifei-li-imagenet-and-ai-revolution.html){target="_blank"} 
 - [Hans Rosling and Storytelling](https://drganghe.github.io/program-evaluation/2024/hans-rosling-data-visualization-and-storystelling.html){target="_blank"} 
 - [Robert Bullard and Environmental Justice](https://drganghe.github.io/program-evaluation/2024/robert-bullard-and-environmental-justice.html){target="_blank"} 
 - [The Moral Machine](https://drganghe.github.io/program-evaluation/2024/the-moral-machine-and-ethics.html){target="_blank"} 

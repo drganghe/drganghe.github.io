@@ -13,7 +13,7 @@ css: /custom.css
 
 ## Summary
 
-During the Fifteenth IAMC Annual Meeting held from 29 November to 1 December 2022, our paper "Quantifying the cost savings of global photovoltaic supply chains" won the "[Best Poster Award](https://www.iamconsortium.org/uncategorized/gang-he-toon-vandyck-mengqi-zhao/)" granted by the Integrated Assessment Modeling Consortium. 368 participants, 191 in person and 177 online, from 29 countries participated the meeting. This award was selected from 144 poster presentations (98 online and 46 in person).^[Source: [IAMC 2022: Conference material and statistics](https://www.iamconsortium.org/iamc-announcements/news-iamc-announcement/iamc-2022-conference-material-and-statistics/).]
+During the Fifteenth IAMC Annual Meeting held from 29 November to 1 December 2022, our paper "Quantifying the cost savings of global photovoltaic supply chains" won the "[Best Poster Award](https://www.iamconsortium.org/uncategorized/gang-he-toon-vandyck-mengqi-zhao/)" granted by the Integrated Assessment Modeling Consortium. 368 participants, 191 in person and 177 online, from 29 countries participated in the meeting. This award was selected from 144 poster presentations (98 online and 46 in person).^[Source: [IAMC 2022: Conference material and statistics](https://www.iamconsortium.org/iamc-announcements/news-iamc-announcement/iamc-2022-conference-material-and-statistics/).]
 
 
 ## The Poster
@@ -52,9 +52,9 @@ During the Fifteenth IAMC Annual Meeting held from 29 November to 1 December 202
 
 ## Acknowledgment
 
-While I'm the lucky presenter of our collaborative paper, this award should also goes to my wonderful coauthors Dr. [John Helveston](https://www.jhelvy.com/) and Dr. [Michael Davidson](https://www.mdavidson.org), its truly a collaborative effort. Please check their websites and follow them to learn more about their amazing work.
+While I'm the lucky presenter of our collaborative paper, this award should also go to my wonderful coauthors Dr. [John Helveston](https://www.jhelvy.com/) and Dr. [Michael Davidson](https://www.mdavidson.org); it's truly a collaborative effort. Please check their websites and follow them to learn more about their amazing work.
 
-I also want to thank the nominating committee. Thank you the IAMC community, which has long been an inspiration to work in this field. I hope I will find more opportunities to contribute and payback.
+I also want to thank the nominating committee. Thank you to the IAMC community, which has long been an inspiration to work in this field. I hope I will find more opportunities to contribute and pay back.
 
 
 ## Twitter Announcement

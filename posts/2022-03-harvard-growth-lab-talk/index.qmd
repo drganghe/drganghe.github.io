@@ -9,7 +9,7 @@ image: "featured.png"
 
 ## Summary  
 
-In the [Harvard Growth Lab Research Seminar](https://growthlab.cid.harvard.edu/event/research-seminar-achieving-power-sector-carbon-neutrality-low-cost-renewable-era) on March 14, 2022, Gang discussed the pathways of clean power transition and their system impacts using high-resolution models, to reflect the need for integrating variable renewable energy and phasing out coal to achieve carbon neutrality in the power sector at a low-cost renewables era.
+In the [Harvard Growth Lab Research Seminar](https://growthlab.cid.harvard.edu/event/research-seminar-achieving-power-sector-carbon-neutrality-low-cost-renewable-era) on March 14, 2022, Gang discussed the pathways of clean power transition and their system impacts using high-resolution models to reflect the need for integrating variable renewable energy and phasing out coal to achieve carbon neutrality in the power sector in a low-cost renewable era.
 
 ## Speaker  
 
@@ -18,7 +18,7 @@ Gang He, Assistant Professor in the Department of Technology and Society at Ston
 
 ## Abstract   
 
-Clean power transition is at the center to achieve mid-century carbon neutrality goals. The cost of solar and wind has plummeted in the past decade, and solar and wind electricity has been achieving grid parity. Low-cost renewables offer new perspectives for energy system decarbonization that was less visioned before. In this talk, Dr. He will discuss the pathways of clean power transition and their system impacts using high-resolution models, to reflect the need for integrating variable renewable energy and phasing out coal to achieve carbon neutrality in the power sector at a low-cost renewables era.
+Clean power transition is central to achieving mid-century carbon neutrality goals. The cost of solar and wind has plummeted in the past decade, and solar and wind electricity has been achieving grid parity. Low-cost renewables offer new perspectives for energy system decarbonization that were less envisioned before. In this talk, Dr. He will discuss the pathways of clean power transition and their system impacts using high-resolution models to reflect the need for integrating variable renewable energy and phasing out coal to achieve carbon neutrality in the power sector in a low-cost renewable era.
 
 ## Video
 

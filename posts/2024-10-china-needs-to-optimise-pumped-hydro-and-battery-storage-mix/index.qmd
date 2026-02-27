@@ -15,7 +15,7 @@ Pumped storage hydropower supports China’s transition to renewable energy by g
 
 A pumped hydro facility pumps water uphill into a reservoir when electricity demand and prices are low, usually at night, then releases it back downhill through turbines to generate electricity when demand and prices are high.
 
-The cost of building pumped hydro is high, but a facility lasts for around 60 years, meaning the full life-cycle cost of its power is relatively low. This reliable method for energy storage has witnessed tremendous growth in recent years, linked to the rolling out of China’s carbon emission goals. Between 2015, the year China adopted the Paris Agreement, and 2023, pumped hydro’s installed capacity more than doubled, from 22.8 gigawatts (GW) to 51 GW. 
+The cost of building pumped hydro is high, but a facility lasts for around 60 years, meaning the full life-cycle cost of its power is relatively low. This reliable method for energy storage has witnessed tremendous growth in recent years, linked to the rollout of China’s carbon emission goals. Between 2015, the year China adopted the Paris Agreement, and 2023, pumped hydro’s installed capacity more than doubled, from 22.8 gigawatts (GW) to 51 GW. 
 
 China wants to increase this to over 62 GW by 2025, and around 120 GW by 2030, according to a plan released by the National Energy Administration (NEA) in 2021. There is currently 167 GW of pumped hydro in planning or under construction. 
 

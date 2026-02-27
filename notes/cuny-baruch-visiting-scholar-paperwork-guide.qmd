@@ -36,7 +36,7 @@ Your potential host may schedule an interview to discuss your proposal and asses
 
 ### Step 2: Appointment Letter
 
-Once you receive the fellowship or scholarship certificate, forward it to your host faculty member. The certificate is useful for the department or school to issue an official invitation letter. You may ignore the first step if you were hired or support by your host faculty.
+Once you receive the fellowship or scholarship certificate, forward it to your host faculty member. The certificate is useful for the department or school to issue an official invitation letter. You may skip the first step if you were hired or supported by your host faculty.
 
 - The official letter, similar to the conditional invitation, will be signed by the Department Chair or Dean.
 - This step formalizes your appointment and enables the next stages of paperwork.
@@ -50,7 +50,7 @@ The DS-2019 form involves several internal approval processes before the designa
 - Export Control Clearance  
 
 
-Overview of the Process from the Baruch College Export Control Clearance for J-1 Research Scholar 
+Overview of the process for Baruch College export control clearance for J-1 Research Scholars 
 
 <blockquote>
 
@@ -70,7 +70,7 @@ Phase I: Departmental Preparation
 
 3. The Department completes and signs these two forms:   
 - Baruch College Application to Host International J-1 Scholar  
-- CUNY Foreign Influence due Diligence Form for J1-Visiting Scholar  
+- CUNY Foreign Influence Due Diligence Form for J-1 Visiting Scholar  
 
 4. The Department submits the following materials (completed and with all required signatures) to the SEVIS Responsible Officer (RO) for this J-1 program (currently Dr. Richard Mitten):
 
@@ -101,7 +101,7 @@ Phase IV: Final Campus Review
 
 11. If the Provost approves the request, the RO notifies the Department, issues the DS-2019 for the Scholar, and sends it and additional documentation needed to apply for a J-1 visa to the Scholar, with a copy to the Department. 
 
-*Please note: The process for described below applies to any prospective J-1 Research Scholar only (Short-Term Scholars are processed by the International Student Service Center).
+*Please note: The process described below applies to prospective J-1 Research Scholars only (Short-Term Scholars are processed by the International Student Service Center).
 
 </blockquote>
 
@@ -118,10 +118,10 @@ If the scholarship amount is less than the listed requirement, you may need to p
 
 Minimum insurance coverage must provide:  
 
-1. Medical benefits of at least $100,000 per accident or illness;  
-1. Repatriation of remains in the amount of $25,000;  
-1. Expenses associated with the medical evacuation of exchange visitors to his or her home country in the amount of $50,000; and  
-1. Deductibles not to exceed $500 per accident or illness.
+1. Medical benefits of at least $100,000 per accident or illness  
+2. Repatriation of remains in the amount of $25,000  
+3. Expenses associated with the medical evacuation of exchange visitors to his or her home country in the amount of $50,000  
+4. Deductibles not to exceed $500 per accident or illness
 
 
 ### Step 4: Visa Application
@@ -145,7 +145,7 @@ Keep in close contact with your host faculty and administrative offices to ensur
 
 - Unofficial Guide
 
-This is an information page for your reference only. You should always follow the official guide to prepare your documents. 
+This page is for reference only. You should always follow the official guide to prepare your documents. 
 
 
 ## Links
@@ -162,7 +162,7 @@ This is an information page for your reference only. You should always follow th
 
 
 
-Created: Januaray 3, 2025
+Created: January 3, 2025
 
 <!--Include social share buttons-->
 

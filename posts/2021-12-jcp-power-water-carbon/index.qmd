@@ -1,7 +1,7 @@
 ---
 title: "Long-term transition of China's power sector under carbon neutrality target and water withdrawal constraint"
 subtitle: "*Journal of Cleaner Production*"
-description: "Low cost renewables reduced the need for CCS by 80%, and water constraints nearly squeeze CCS out."
+description: "Low-cost renewables reduced the need for CCS by 80%, and water constraints nearly squeeze CCS out."
 author: 
   - name: Chao Zhang
   - name: Gang He
@@ -38,7 +38,7 @@ Deep carbon mitigation and water resources conservation are two interacted envir
 
 ## Links
 
-Published [paper](https://www.sciencedirect.com/science/article/pii/S095965262103941X>)
+Published [paper](https://www.sciencedirect.com/science/article/pii/S095965262103941X)
 
 Self-archiving [pdf](/files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf)
 

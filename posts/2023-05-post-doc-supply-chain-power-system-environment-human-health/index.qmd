@@ -13,14 +13,14 @@ css: /custom.css
 
 ## Position filled
 
-This position is no longer available and is archived, please follow our website for future opportunities.
+This position is no longer available and is archived. Please follow our website for future opportunities.
 
 :::
 
 
 ## Position Overview
 
-We are seeking a highly motivated post-doctoral researcher to join our interdisciplinary team studying the carbon mitigation, air quality, and human health benefits of global clean energy supply chains, with support from the Global Energy Initiative at ClimateWorks Foundation. The ideal candidate will have expertise in power system modeling, air pollution and human health modeling.
+We are seeking a highly motivated postdoctoral researcher to join our interdisciplinary team studying the carbon mitigation, air quality, and human health benefits of global clean energy supply chains, with support from the Global Energy Initiative at ClimateWorks Foundation. The ideal candidate will have expertise in power system modeling, air pollution, and human health modeling.
 
 ## Key Responsibilities
 
@@ -47,7 +47,7 @@ We are seeking a highly motivated post-doctoral researcher to join our interdisc
 *	Familiarity with global supply chains and sustainability issues.  
 *	Experience with spatial analysis and GIS software (e.g., ArcGIS or QGIS).  
 
-This is a full-time, one-year position with the possibility of extension based on performance and funding availability. The position offers salary and benefits package, as well as opportunities for professional development and networking. Applicants should submit a CV, cover letter, and contact information for three references. Applications will be reviewed on a rolling basis until the position is filled.
+This is a full-time, one-year position with the possibility of extension based on performance and funding availability. The position offers a salary and benefits package, as well as opportunities for professional development and networking. Applicants should submit a CV, cover letter, and contact information for three references. Applications will be reviewed on a rolling basis until the position is filled.
 
 <!--
 <center>

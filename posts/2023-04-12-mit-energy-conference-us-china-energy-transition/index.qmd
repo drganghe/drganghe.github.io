@@ -1,6 +1,6 @@
 ---
 title: "MIT Energy Conference U.S. China Energy Transition"
-description: "Gang joins experts to discuss U.S. China Energy Transition."
+description: "Gang joins experts to discuss the U.S.-China energy transition."
 author: "MIT Energy Conference"
 date: "2023-04-12"
 categories: [news, event, presentation]
@@ -8,7 +8,7 @@ image: "featured.jpeg"
 css: /custom.css
 ---
 
-Welcome to join us for a discussion on parallels between the US and China’s energy transition landscapes.
+You're welcome to join us for a discussion on parallels between the U.S. and China’s energy transition landscapes.
 
 [![](featured.jpeg){fig-align="center"}](https://mitenergyconference.org/agenda)
 

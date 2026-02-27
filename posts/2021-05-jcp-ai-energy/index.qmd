@@ -24,7 +24,7 @@ css: /custom.css
 ::: {.callout-note}
 ## Paper
 An empirical analysis of applications of artificial intelligence algorithms in wind power technology innovation during 1980–2017   
-Mekyung Lee\*, and **Gang He**   
+Mekyung Lee\* and **Gang He**   
 *Journal of Cleaner Production* (2021)   
 DOI: [10.1016/j.jclepro.2021.126536](https://doi.org/10.1016/j.jclepro.2021.126536)  
 :::

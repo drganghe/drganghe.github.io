@@ -1,6 +1,6 @@
 ---
 title: "Baruch College Conference on Climate Research, Teaching, and Collaboration"
-description: "Gang speaks in the Baruch Climate Conference on Global Clean Energy Supply Chain"
+description: "Gang speaks in the Baruch Climate Conference on global clean energy supply chains"
 author: "Baruch Climate Conference"
 date: "2024-02-22"
 categories: [news, event, presentation]
@@ -96,7 +96,7 @@ Infusing Courses Designed for Writing with Ecocritical Theme
 
 - Sochuiwon Priscilla Khapai, Graduate Teaching Fellow, CUNY Graduate Center
 
-Exploring the Connection between, Media Communication, and the Environment   
+Exploring the Connection between Media Communication and the Environment   
 
 - Rianne Subijanto, Weissman School of Arts and Sciences
 
@@ -152,7 +152,7 @@ The Impact of Climate Change on Business Innovation Output
 
 - Priya Rangaswamy, Zicklin School of Business
 
-Stakeholders Stances on Negative Emissions Technologies and Practices
+Stakeholders’ Stances on Negative Emissions Technologies and Practices
 
 - Lucrezia Nava, Zicklin School of Business
 

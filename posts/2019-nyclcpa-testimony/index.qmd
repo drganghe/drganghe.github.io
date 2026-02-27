@@ -1,6 +1,6 @@
 ---
 title: "Testimony on the New York State Climate Leadership and Community Protection Act"
-description: "Dr. Gang He joined a Stony Brook University experts team to testify for NYCLCPA."
+description: "Dr. Gang He joined a Stony Brook University expert team to testify for NYCLCPA."
 author: "Gang He"
 date: "2019-02-15"
 categories: [news, testimony, outreach]
@@ -30,7 +30,7 @@ February 15, 2019—Mineola, New York
 
 Senator Todd Kaminsky, and members of the Committee on Environmental Conservation, I am very pleased to have the opportunity to testify before the committee. I appreciate the attention your committee is giving to the vital issues of greenhouse gas emissions reduction and clean energy.
 
-I’m an assistant professor in the Department of Technology and Society at Stony Brook University. My research focuses on energy system modeling, energy economic, energy and climate policy.
+I’m an assistant professor in the Department of Technology and Society at Stony Brook University. My research focuses on energy system modeling, energy economics, and energy and climate policy.
 
 ### Renewable energy is achieving global momentum
 
@@ -53,11 +53,11 @@ Such clean energy transition is not only generating renewable energy and reducin
 
 ### Paving the road for 21st century economic competitiveness
 
-Energy technology innovation, together with other emerging technologies such as AI, big data, internet of things, block chain, and their applications to clean energy sector, are building the next frontiers of economic development and competition. The clean energy workforce, and the education of next generation energy leaders are the new pillars to support a sustainable future for New York State.
+Energy technology innovation, together with other emerging technologies such as AI, big data, the Internet of Things, blockchain, and their applications to the clean energy sector, are building the next frontiers of economic development and competition. The clean energy workforce and the education of next-generation energy leaders are the new pillars to support a sustainable future for New York State.
 
-The key message I’d like to share is that leadership in clean energy development and climate action present an economic opportunity for New York State. The job creation and economic benefits through clean energy innovation and investment is a true opportunity, and New York could harvest those benefit as an earlier mover.
+The key message I’d like to share is that leadership in clean energy development and climate action presents an economic opportunity for New York State. The job creation and economic benefits through clean energy innovation and investment are a true opportunity, and New York could harvest those benefits as an early mover.
 
-The transcprit is also available in [pdf](Gang-He-clcpa-testimony.pdf).
+The transcript is also available in [pdf](Gang-He-clcpa-testimony.pdf).
 
 <!--Include social share buttons-->
 

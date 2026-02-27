@@ -13,9 +13,9 @@ from: markdown+emoji
 {{< include /files/includes/_msclarity.qmd >}}
 
 
-## Ronald J. Konopka and Period Gene
+## Ronald J. Konopka and the Period Gene
 
-Jeffrey C Hall、Michael Rosbash、Michael W Young
+Jeffrey C. Hall, Michael Rosbash, Michael W. Young
 
 
 ## Jeffrey C Hall

@@ -32,7 +32,7 @@ css: /custom.css
 #draft: true
 ---
 
-<!--Include academic icons or bottons-->
+<!--Include academic icons or buttons-->
 
 {{< include /files/includes/_academic.qmd >}}
 
@@ -41,7 +41,7 @@ css: /custom.css
 ::: {.callout-note}
 ## Paper
 Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060   
-Shi Chen, Xi Lu\*, Chris P. Nielsen, Michael B. McElroy\*, Gang He, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang & Jiming Hao   
+Shi Chen, Xi Lu\*, Chris P. Nielsen, Michael B. McElroy\*, Gang He, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang & Jimin Hao   
 *Communications Earth & Environment* (2023)   
 DOI: [10.1038/s43247-023-01006-x](https://doi.org/10.1038/s43247-023-01006-x)     
 :::

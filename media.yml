@@ -48,7 +48,7 @@
       author: 
         - Brad Plumer 
         - Harry Stevens
-      description: "*The New York Times* covered U.S. China's nuclear power race and highlighted our work—reproducing our figure and citing our *Nature* Comment article on nuclear costs."
+      description: "*The New York Times* covered the U.S.-China nuclear power race and highlighted our work—reproducing our figure and citing our *Nature* Comment article on nuclear costs."
       date: "2025-10-23"
       categories: [The New York Times] 
 
@@ -80,7 +80,7 @@
       image: /files/images/media/nature.png
       title: "China–US climate collaboration concerns as Xie and Kerry step down"
       author: Smriti Mallapaty
-      description: "Gang He on the importance to continue the research exchange and colloboration: “If the river freezes over, water will still flow underneath.”"
+      description: "Gang He on the importance of continuing research exchange and collaboration: “If the river freezes over, water will still flow underneath.”"
       date: "2024-03-12"
       categories: [Nature] 
 
@@ -173,7 +173,7 @@
       image: /files/images/media/ee-news.png
       title: "Surging coal use in China threatens global CO2 goals"
       author: Benjamin Storrow
-      description: "The fast decrease in the cost of solar, wind and storage, and technological innovation has fundamentally changed the economics of renewables, said Gang He, our analysis shows that such a fast decarbonization and clean power transition is both technically feasible and economicallybeneficial."
+      description: "The fast decrease in the cost of solar, wind and storage, and technological innovation has fundamentally changed the economics of renewables, said Gang He. Our analysis shows that such a fast decarbonization and clean power transition is both technically feasible and economically beneficial."
       date: "2020-06-09"
       categories: [E&E News]
 
@@ -229,7 +229,7 @@
       image: /files/images/media/scientific-american.png
       title: "Beijing Emission Cuts May Underestimate Use of Coal"
       author: Kandy Wong
-      description: "It should be noted that the coal industry is gradualtly being opened to market, while the electricity industry is still highly regulated. The scattered management of energy issues within the central government makes the energy administration's mission very difficult one."
+      description: "It should be noted that the coal industry is gradually being opened to market, while the electricity industry is still highly regulated. The scattered management of energy issues within the central government makes the energy administration's mission very difficult."
       date: "2012-05-07"
       categories: [Scientific American, E&E News]
 
@@ -237,7 +237,7 @@
       image: /files/images/media/national-geographic.png
       title: "Seeking a Pacific Northwest Gateway for U.S. Coal"
       author: Stacey Schultz
-      description: "The middle kingdom's appetite for imported coal seems insatiable, wrote researchers Richard Morse and Gang He in a 2010 working paperm refering to China. And the China Factor appears to have ushered in a new paradigm for the global coal market."
+      description: "The middle kingdom's appetite for imported coal seems insatiable, wrote researchers Richard Morse and Gang He in a 2010 working paper referring to China. And the China Factor appears to have ushered in a new paradigm for the global coal market."
       date: "2011-10-20"
       categories: [National Geographic]
 

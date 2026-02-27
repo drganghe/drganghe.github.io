@@ -18,12 +18,12 @@ css: /custom.css
 >
 >The report also features individual country profiles for 20 major fossil-fuel-producing countries, evaluating governments’ latest climate ambitions and their plans, policies, and strategies that support fossil fuel production or the transition away from it: Australia, Brazil, Canada, China, Colombia, Germany, India, Indonesia, Kazakhstan, Kuwait, Mexico, Nigeria, Norway, Qatar, the Russian Federation, Saudi Arabia, South Africa, the United Arab Emirates, the United States of America, and the United Kingdom of Great Britain and Northern Ireland.
 >
->This report is produced by the Stockholm Environment Institute(SEI), Climate Analytics, E3G, the International Institute for Sustainable Development(IISD), and the UN Environment Programme(UNEP).
+>This report is produced by the Stockholm Environment Institute (SEI), Climate Analytics, E3G, the International Institute for Sustainable Development (IISD), and the UN Environment Programme (UNEP).
 
 
 ## Links
 
-Check UNEP official [release](https://www.unep.org/news-and-stories/press-release/governments-plan-produce-double-fossil-fuels-2030-15degc-warming){.external target="_blank"}. 
+Check the UNEP official [release](https://www.unep.org/news-and-stories/press-release/governments-plan-produce-double-fossil-fuels-2030-15degc-warming){.external target="_blank"}. 
 
 [Production Gap Report 2023](https://productiongap.org/2023report/){.external target="_blank"}
 

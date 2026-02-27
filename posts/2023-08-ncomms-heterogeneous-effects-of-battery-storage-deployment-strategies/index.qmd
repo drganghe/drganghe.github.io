@@ -1,7 +1,7 @@
 ---
 title: "Heterogeneous effects of battery storage deployment strategies on decarbonization of provincial power systems in China"
 subtitle: "*Nature Communications*"
-description: "We find heterogeneous strategy provides the lowest system costs, however, carbon emissions depend on carbon prices."
+description: "We find heterogeneous strategies provide the lowest system costs; however, carbon emissions depend on carbon prices."
 author: 
   - name: Liqun Peng
   - name: Denise L. Mauzerall
@@ -26,7 +26,7 @@ css: /custom.css
 #draft: true
 ---
 
-<!--Include academic icons or bottons-->
+<!--Include academic icons or buttons-->
 
 {{< include /files/includes/_academic.qmd >}}
 

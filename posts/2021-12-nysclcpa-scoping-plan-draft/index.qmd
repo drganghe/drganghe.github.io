@@ -20,7 +20,7 @@ The Climate Leadership and Community Protection Act (Climate Act) was signed int
 
 The Technical Advisory Group provides technical expertise and comments to the Council and the integration analysis of the Draft Scoping Plan. The group includes:
 
-![](TAG.jpeg){fig-alt="Vatsal Bhatt, U.S Green Building Council and Stony Brook University;
+![](TAG.jpeg){fig-alt="Vatsal Bhatt, U.S. Green Building Council and Stony Brook University;
 Gang He, Department of Technology and Society, Stony Brook University;
 Benjamin Houlton, Department of Global Development, Cornell University; 
 Mark Jacobson, Department of Civil and Environmental Engineering, Stanford University;

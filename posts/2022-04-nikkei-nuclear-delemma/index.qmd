@@ -21,11 +21,11 @@ image: "featured.png"
 
 ## Full Response
 
-Q: China, as we know has a long-term plan to increase the proportion of nuclear energy into its energy mix. What are the advantages and risks of such ambition?
+Q: China, as we know, has a long-term plan to increase the proportion of nuclear energy in its energy mix. What are the advantages and risks of such ambition?
 
 A: Energy strategy and policy are about trade-offs and fit in specific conditions and constraints. The political economy dynamics of different energy technologies will have a large impact on the outcomes. 
 
-From my research, China's future power system will be quite sensitive to how much nuclear can China put online. I have seen 2050 nuclear projections and plans range from about 300GW to 500GW, this 200GW differences will need about 800-1000GW more wind and solar capacity to fill the gap, as nuclear plants can run at 90% capacity factor with little or no impact from weather. However, if China manages to accelerate the expansion and integration of solar, wind, and other renewables, then the need for nuclear will be reduced to its lower end, with less pressure on nuclear risks and nuclear waste management. 
+From my research, China's future power system will be quite sensitive to how much nuclear power China can put online. I have seen 2050 nuclear projections and plans range from about 300 GW to 500 GW; this 200 GW difference will need about 800–1,000 GW more wind and solar capacity to fill the gap, as nuclear plants can run at a 90% capacity factor with little or no impact from weather. However, if China manages to accelerate the expansion and integration of solar, wind, and other renewables, then the need for nuclear will be reduced to its lower end, with less pressure on nuclear risks and nuclear waste management. 
 
 We will see renewables and nuclear expand hand in hand in the short term to achieve carbon peak and carbon neutrality in the medium and long-term, but the comparative scale will be shaped by the changing political economy of those technologies.
 

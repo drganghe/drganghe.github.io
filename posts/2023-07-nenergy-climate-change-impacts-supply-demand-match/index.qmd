@@ -1,7 +1,7 @@
 ---
 title: "Climate change impacts on planned supply–demand match in global wind and solar energy systems"
 subtitle: "*Nature Energy*"
-description: "Up to 32% or 44% of non-Antarctic land areas for wind or solar, respectively, are projected to experience supply demand match reductions by the end of this century under an intermediate emission scenario."
+description: "Up to 32% or 44% of non-Antarctic land areas for wind or solar, respectively, are projected to experience supply–demand match reductions by the end of this century under an intermediate emission scenario."
 author: 
   - name: Laibao Liu
   - name: Gang He
@@ -29,7 +29,7 @@ css: /custom.css
 #draft: true
 ---
 
-<!--Include academic icons or bottons-->
+<!--Include academic icons or buttons-->
 
 {{< include /files/includes/_academic.qmd >}}
 
@@ -52,7 +52,7 @@ Climate change modulates both energy demand and wind/solar energy supply, but a 
 
 Published [paper](https://www.nature.com/articles/s41560-023-01304-w)
 
-Open Access [pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)
+Open access [pdf](https://www.nature.com/articles/s41560-023-01304-w.pdf)
 
 Zenodo: [Code and Data](https://zenodo.org/record/6884124)
 
@@ -77,7 +77,7 @@ Notable policy citations:
 <iframe src="/files/slides/climate-power-sdm.html" class="responsive-iframe" width="100%" title="slides"></iframe>
 </div>
 
-Above is the general slides of our paper, I presented it at [APPAM](/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.qmd). Check the [slides](/files/slides/climate-power-sdm.html) in a new tab.
+Above are the general slides for our paper; I presented it at [APPAM](/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/index.qmd). Check the [slides](/files/slides/climate-power-sdm.html) in a new tab.
 
 <!--Include social share buttons-->
 

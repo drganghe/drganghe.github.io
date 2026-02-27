@@ -18,7 +18,7 @@ listing:  #an example of listing external links
 
 #page-layout: full
 execute:
-  freeze: true  # freeze the page so that it is not updated automatically as there is a external link issue
+  freeze: true  # freeze the page so that it is not updated automatically as there is an external link issue
 
 page-navigation: false
 title-block-banner: false

@@ -1,6 +1,6 @@
 ---
 title: "Quantifying the cost savings of global solar photovoltaic supply chains"
-description: "Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."
+description: "Globalized supply chains have saved solar installers in the U.S., Germany, and China $67B from 2008–2020, and solar prices will be 20–30% higher in 2030 if countries move to produce domestically."
 subtitle: "*Nature*"
 author: 
   - name: John Paul Helveston
@@ -24,7 +24,7 @@ google-scholar: true
 css: /custom.css
 ---
 
-<!--Include academic icons or bottons-->
+<!--Include academic icons or buttons-->
 
 {{< include /files/includes/_academic.qmd >}}
 
@@ -114,7 +114,7 @@ Here is the poster for [IAMC2022](https://www.iamconsortium.org/event/fifteenth-
 <iframe src="/files/slides/solar-supply-chains-slides.html" class="responsive-iframe" width="100%" title="slides"></iframe>
 </div>
 
-Above is the general slides of our paper, I presented it at [Tsinghua University](https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g). Check the [slides](/files/slides/solar-supply-chains-slides.html) in a new tab.
+Above are the general slides for our paper; I presented them at [Tsinghua University](https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g). Check the [slides](/files/slides/solar-supply-chains-slides.html) in a new tab.
 
 <!--Include social share buttons-->
 

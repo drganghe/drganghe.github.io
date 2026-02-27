@@ -1,6 +1,6 @@
 ---
 title: "Third Annual Conference on Climate Research, Teaching, and Collaboration"
-description: "Gang speaks in the Baruch Climate Conference on Benefits of Solar PV for Health and Climate in EU"
+description: "Gang speaks in the Baruch Climate Conference on benefits of solar PV for health and climate in the EU"
 author: "Baruch Climate Conference"
 date: "2025-03-06"
 categories: [news, event, presentation]
@@ -87,7 +87,7 @@ Moderator: Samantha McBride, Adjunct Assistant Professor, Public Affairs
 
 3:05–4:05 pm
 
-- **Health and Climate Benefits of Solar Photovoltaic in European Countries and the Role of Imports**, **Gange He**, Assistant Professor, Public Affairs
+- **Health and Climate Benefits of Solar Photovoltaic in European Countries and the Role of Imports**, **Gang He**, Assistant Professor, Public Affairs
 
 - Understanding The World Bank’s Role in Climate Finance, Asli Leblebicioglu, Associate Professor, Public Affairs
 

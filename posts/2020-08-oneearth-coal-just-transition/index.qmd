@@ -1,6 +1,6 @@
 ---
 title: "Enabling a Rapid and Just Transition away from Coal in China"
-description: "Aggressive coal-transition pathway is needed to achieve carbon nutrality goal while achieving water saving, avoiding premature death."
+description: "An aggressive coal-transition pathway is needed to achieve the carbon neutrality goal while achieving water savings and avoiding premature deaths."
 subtitle: "*One Earth*"
 author: 
   - name: Gang He

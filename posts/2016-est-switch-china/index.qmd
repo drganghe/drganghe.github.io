@@ -15,7 +15,7 @@ categories: [paper, poster]
 image: "featured.png"
 citation:
   type: article-journal
-  container-title: "Enironmental Science & Technology"
+  container-title: "Environmental Science & Technology"
   volume: 50
   issue: 11
   page: 5467-5473

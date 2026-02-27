@@ -43,7 +43,7 @@ The scenarios are:
 
 4) Deep carbon constraints scenario (C80), which further constrain the carbon emissions from the power sector to be 80% lower than the 2015 level by 2030.
 
-All scenarios assume the same electricity demand projection, which reaches 8,757 terawatt hours (TWh) in 2030, up from 7,225TWh today.
+All scenarios assume the same electricity demand projection, which reaches 8,757 terawatt hours (TWh) in 2030, up from 7,225 TWh today.
 
 Our modeling results show that, as expected, rapid decreases in the costs of renewable energy sources lead to more wind and solar capacity being installed. If the levelised cost of energy (LCOE) for solar, wind and storage follows recent global trends then, by 2030, China could meet expected demand with 62% of its electricity from non-fossil sources under the R scenario with the lowest overall cost.
 

@@ -24,7 +24,7 @@ google-scholar: true
 css: /custom.css
 ---
 
-<!--Include academic icons or bottons-->
+<!--Include academic icons or buttons-->
 
 {{< include /files/includes/_academic.qmd >}}
 
@@ -63,7 +63,7 @@ Escalating construction expenses threaten to derail global progress on atomic en
 
 Published [paper](https://www.nature.com/articles/d41586-025-02341-z)
 
-SharedIt [full text](https://rdcu.be/eyaXW) 
+SharedIt [full-text](https://rdcu.be/eyaXW) 
 
 Preprint [pdf](/files/papers/2025-nature-nuclear-costs.pdf)
 
