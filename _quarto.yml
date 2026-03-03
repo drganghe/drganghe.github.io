@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  pre-render:
+    - python files/scripts/xlsx_to_yml.py
+  post-render:
+    - python files/scripts/fix-links.py docs/media.html
 
 # Meta
 description-meta: "Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Keywords: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality"

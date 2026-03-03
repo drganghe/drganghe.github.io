@@ -1,0 +1,225 @@
+/* ============================================================
+   Publication Listing Styles
+   Place this in your project's custom.css (or a dedicated
+   pub-listing.css and @import it from custom.css).
+   ============================================================ */
+
+/* ── Container ─────────────────────────────────────────────── */
+.pub-listing {
+  margin-top: 1rem;
+}
+
+/* ── Individual entry ───────────────────────────────────────── */
+.pub-item {
+  margin-bottom: 0.5rem;
+}
+
+/* ── Divider ────────────────────────────────────────────────── */
+hr.pub-divider {
+  width: 90%;
+  margin: 0.75rem 0;
+  border-color: #dee2e6;
+}
+
+/* ── Line 1 – Citation ──────────────────────────────────────── */
+.pub-citation {
+  margin-bottom: 0.3rem;
+  line-height: 1.55;
+}
+
+.pub-year {
+  font-weight: 400;
+}
+
+.pub-title {
+  font-weight: 600;
+}
+
+.pub-doi {
+/*  font-size: 0.88em; */
+  color: #555;
+  word-break: break-all;
+}
+
+/* ── Line 2 – Links row ─────────────────────────────────────── */
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.5rem;
+  margin-bottom: 0.3rem;
+}
+
+/* Base button */
+.pub-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.18rem 0.55rem;
+  font-size: 0.80rem;
+  font-weight: 500;
+  border-radius: 4px;
+  text-decoration: none;
+  line-height: 1.4;
+  transition: filter 0.15s ease;
+}
+
+.pub-btn:hover {
+  filter: brightness(88%);
+  text-decoration: none;
+}
+
+/* PDF – red */
+.btn-pdf {
+  background-color: #c0392b;
+  opacity: 0.8;
+  color: #fff !important;
+  border: 1px solid #a93226;
+}
+
+/* Preprint – teal */
+.btn-preprint {
+  background-color: #117a8b;
+  opacity: 0.8;
+  color: #fff !important;
+  border: 1px solid #0d6370;
+}
+
+/* SharedIt – green */
+.btn-shareit {
+  background-color: #1e7e34;
+  opacity: 0.8;
+  color: #fff !important;
+  border: 1px solid #196429;
+}
+
+/* GitHub – blue */
+.btn-github {
+  background-color: #007bff;
+  opacity: 0.8;
+  color: #fff !important;
+  border: 1px solid #0056b3;
+}
+
+
+/* Code – indigo */
+.btn-code {
+  background-color: #3d3d8f;
+  opacity: 0.8;
+  color: #fff !important;
+  border: 1px solid #2e2e6e;
+}
+
+/* Data – amber */
+.btn-data {
+  background-color: #b45309;
+  opacity: 0.8;
+  color: #fff !important;
+  border: 1px solid #92400e;
+}
+
+/* Supplemental – slate */
+.btn-supplemental {
+  background-color: #475569;
+  opacity: 0.8;
+  color: #fff !important;
+  border: 1px solid #334155;
+}
+
+/* ── Line 3 – Awards ────────────────────────────────────────── */
+.pub-awards {
+  color: #7c4700;
+  margin-bottom: 0.25rem;
+  line-height: 1.45;
+}
+
+.pub-awards .bi-trophy {
+  color: #b45309;
+}
+
+/* ── Line 4 – Media coverage ─────────────────────────────────── */
+.pub-coverage {
+/*  font-size: 0.875rem; */
+  color: #444;
+  margin-bottom: 0.25rem;
+  line-height: 1.45;
+}
+
+/* ── Line 5 – Invited presentations ─────────────────────────── */
+.pub-presentations {
+/*  font-size: 0.875rem; */
+  color: #444;
+  margin-bottom: 0.25rem;
+  line-height: 1.45;
+}
+
+/* Shared label style */
+.pub-label {
+  font-weight: 600;
+  color: #222;
+}
+
+/* ── Line 6 – Category tags ──────────────────────────────────── */
+.pub-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.4rem;
+  margin-bottom: 0.25rem;
+  margin-top: 0.1rem;
+}
+
+.pub-tag {
+  display: inline-block;
+  padding: 0.12rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #ced4da;
+  background-color: #f1f3f5;
+  color: #495057;
+  line-height: 1.5;
+  text-transform: capitalize;
+}
+
+/* Colour variants for common tags – add more as needed */
+.pub-tag--nature-series  { background-color: #e7f5e7; border-color: #74c69d; color: #1b5e20; }
+.pub-tag--energy-policy  { background-color: #fff3e0; border-color: #ffb74d; color: #7c4700; }
+.pub-tag--climate        { background-color: #e3f2fd; border-color: #64b5f6; color: #0d47a1; }
+.pub-tag--health         { background-color: #fce4ec; border-color: #f48fb1; color: #880e4f; }
+.pub-tag--justice        { background-color: #ede7f6; border-color: #b39ddb; color: #4527a0; }
+.pub-tag--review         { background-color: #e8f4f8; border-color: #81c9e0; color: #01579b; }
+
+/* ── Category sidebar / filter (Quarto-generated list) ────────
+   Quarto appends a <ul class="quarto-listing-category-list">
+   outside the listing div. These rules keep it tidy.          */
+.quarto-listing-category {
+  padding-top: 0.25rem;
+}
+
+.quarto-listing-category .category {
+  cursor: pointer;
+  font-size: 0.82rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  transition: background 0.12s ease;
+}
+
+.quarto-listing-category .category:hover,
+.quarto-listing-category .category.active {
+  background-color: #e9ecef;
+  font-weight: 600;
+}
+
+/* ── Responsive tweaks ───────────────────────────────────────── */
+@media (max-width: 600px) {
+  .pub-links {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+span.__dimensions_badge_embed__, div.altmetric-embed {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
