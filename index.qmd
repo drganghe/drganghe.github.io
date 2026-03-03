@@ -76,8 +76,8 @@ listing:
     contents: 
       - posts
       - posts/post-links.yml
-#    exclude:
-#      title: " "
+    exclude:
+      title: "Brown China Summit Renewable Energy Panel"
     type: grid
     max-items: 3
 #    image-height: 150px

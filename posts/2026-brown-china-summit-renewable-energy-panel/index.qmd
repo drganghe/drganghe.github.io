@@ -1,0 +1,30 @@
+---
+title: "Brown China Summit Renewable Energy Panel"
+description: "Gang joins experts to discuss supply chains and renewable energy development in China."
+author: "Brown China Summit"
+date: "2026-03-14"
+categories: [news, event, presentation]
+image: "/files/images/BrownChinaSummit2026.webp"
+---
+
+[![Brown China Summit 2026](2026-BCF-EnergyPanel.webp){fig-align="center"}](https://www.brownchinasummit.org/all-summits/2026-upcoming)
+
+
+**Renewable Energy Panel: Eternal Energy: China’s Investment in Renewables**
+
+5:00 PM - 6:30 PM
+
+Dr. Gang He, Associate Professor of Energy and Climate Policy at Baruch College, City University of New York
+
+Dr. Feng Lin, Associate Professor of Engineering, Brown University
+
+Dr. Hengrui (Henry) Liu, Postdoctoral Scholar, Tufts University
+
+Robert Bouwens, Head of Global Sales at Siemens Energy
+
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
