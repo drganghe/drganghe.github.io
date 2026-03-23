@@ -111,13 +111,16 @@ Zhou, Nan\*, **Gang He**, Christopher Williams, and David Fridley. 2015. [ELITE 
 
 ## Peer-reviewed Journal Paper
 
+Lu, Zhenwei, Bin Ye, Zhe Yu, **Gang He**, and Shuai Shao. 2026. [Emission Trading Scheme Reshapes the Decarbonisation Pathways of China’s Power Sector](https://www.sciencedirect.com/science/article/pii/S0306261926003788). *Applied Energy* 412: 127726. doi: [10.1016/j.apenergy.2026.127726](https://doi.org/10.1016/j.apenergy.2026.127726). [[Author Share Link](https://authors.elsevier.com/c/1morx15eifJiHC)]
+
+
 Danneaux, Augustin\*, Thomas Le Gallic, Julien Lefèvre, Saritha Sudharmma Vishwanathan, and **Gang He**. 2026. [Coal Mine Workers in the Climate Transition: Subnational Vulnerability Disparities in China and India](https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3). *Environmental Research Letters* 21(3): 034026. doi: [10.1088/1748-9326/ae3fb3](https://doi.org/10.1088/1748-9326/ae3fb3). [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3/pdf)] [[data and code](https://zenodo.org/records/18198421)]
 
 Liu, Junhong, Fredrich Kahrl, Liqun Peng, Jiang Lin\*, and **Gang He**. 2026. [Toward Efficient Resource Adequacy: The Role of Shared Reserves in China’s Power Grid](https://www.sciencedirect.com/science/article/pii/S2211467X2600009X). *Energy Strategy Reviews* 63: 102043. doi: [10.1016/j.esr.2026.102043](https://doi.org/10.1016/j.esr.2026.102043). [[pdf](https://authors.elsevier.com/sd/article/S2211-467X(26)00009-X)] [[Data](https://zenodo.org/records/17993437)]
 
-Mu, Xiaoshao, Xiaoling Zhang\*, **Gang He**, and K. M. Liew\*. 2026. [Toward Low-Carbon 3D Concrete Printing through Circular Construction and Waste Valorization](https://www.sciencedirect.com/science/article/pii/S2352710226001294). *Journal of Building Engineering* 119: 115308. doi: [10.1016/j.jobe.2026.115308](https://doi.org/10.1016/j.jobe.2026.115308). Free [full-text](https://authors.elsevier.com/c/1mRus8MyS9HxsE) from Elsevier (before March 6, 2026)
+Mu, Xiaoshao, Xiaoling Zhang\*, **Gang He**, and K. M. Liew\*. 2026. [Toward Low-Carbon 3D Concrete Printing through Circular Construction and Waste Valorization](https://www.sciencedirect.com/science/article/pii/S2352710226001294). *Journal of Building Engineering* 119: 115308. doi: [10.1016/j.jobe.2026.115308](https://doi.org/10.1016/j.jobe.2026.115308). 
 
-Kattel, Gaurav, Anup Paudel, **Gang He**, and Jun-Ki Choi\*. 2026. [Bridging the Industrial Carbon Divide: A Techno-Economic Framework for Carbon Capture Pathways in the Cement Sector of Emerging Economies](https://www.sciencedirect.com/science/article/pii/S0959652625035044). *Journal of Cleaner Production* 538: 147457. doi: [10.1016/j.jclepro.2025.147457](https://doi.org/10.1016/j.jclepro.2025.147457). Free [[pdf](https://authors.elsevier.com/c/1mMtc_LqUdOTkV)] from Elsevier (before February 20, 2026)
+Kattel, Gaurav, Anup Paudel, **Gang He**, and Jun-Ki Choi\*. 2026. [Bridging the Industrial Carbon Divide: A Techno-Economic Framework for Carbon Capture Pathways in the Cement Sector of Emerging Economies](https://www.sciencedirect.com/science/article/pii/S0959652625035044). *Journal of Cleaner Production* 538: 147457. doi: [10.1016/j.jclepro.2025.147457](https://doi.org/10.1016/j.jclepro.2025.147457). 
 
 Yang, Haozhe\*, **Gang He**, Eric Masanet and Ranjit Deshmukh\*. 2025. [Economic benefits and cost competitiveness of green hydrogen in decarbonizing China's electricity and hard-to-electrify sectors](https://iopscience.iop.org/article/10.1088/1748-9326/ae1b1f). *Environmental Research Letters* 20(12): 124012. doi: [10.1088/1748-9326/ae1b1f](https://doi.org/10.1088/1748-9326/ae1b1f). [[pdf](https://iopscience.iop.org/article/10.1088/1748-9326/ae1b1f/pdf)]
 
