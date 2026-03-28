@@ -181,5 +181,17 @@
     "items": [
       "/posts/2023-11-unep-production-gap-report-2023/index.html"
     ]
+  },
+  {
+    "listing": "/pub-listing/publications.html",
+    "items": []
+  },
+  {
+    "listing": "/pub-listing/publications_listing.html",
+    "items": []
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
   }
 ]

@@ -1,0 +1,951 @@
+- section: Selected Work
+  authors: "**He, Gang**\\*"
+  year: 2026
+  date: 2026-01-20
+  title: Renewable integration and AI demand reshaped power grids in 2025
+  path: "https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/index.html"
+  journal: Nature Reviews Clean Technology
+  volume: 2
+  issue: 1
+  pages: 13-14
+  doi: 10.1038/s44359-025-00136-z
+  preprint: "https://drganghe.github.io/files/papers/2026-NRCT-Renewable-Integration-and-AI-Demand-Reshaped-Power-Grids-in-2025.pdf"
+  shareit: "https://rdcu.be/eZUji"
+  categories: [selected]
+
+- section: Selected Work
+  authors: "Qiu, Minghao, **Gang He**\\*, and Peter Marcotullio"
+  year: 2025
+  date: 2025-10-08
+  title: Imported Solar Photovoltaics Contributed to Health and Climate Benefits in the United States
+  path: "https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.html"
+  journal: One Earth
+  volume: 8
+  issue: 11
+  pages: 101467
+  doi: 10.1016/j.oneear.2025.101467
+  preprint: "https://drganghe.github.io/files/papers/2025-one-earth-health-climate-benefits-of-imported-solar-pv-in-the-united-states.pdf"
+  code: "https://zenodo.org/records/16622349"
+  mediacoverage: "[CUNY News](https://www.gc.cuny.edu/news/imported-solar-panels-save-us-lives-and-cut-billions-climate-costs-study-finds) | [PV Magazine](https://www.pv-magazine.com/2025/11/05/us-solar-tariffs-linked-to-preventable-deaths-claim-researchers/) | [The Cool Down](https://www.thecooldown.com/green-tech/imported-solar-panels-benefits-us-citizens-health/)"
+  categories: [selected]
+
+- section: Selected Work
+  authors: "Liu, Shangwei\\*, **Gang He**\\*, Minghao Qiu, and Daniel M. Kammen"
+  year: 2025
+  date: 2025-07-28
+  title: Can China break the 'cost curse' of nuclear power?
+  path: "https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/index.html"
+  journal: Nature
+  volume: 643
+  pages: 1186-88
+  doi: 10.1038/d41586-025-02341-z
+  preprint: "https://drganghe.github.io/files/papers/2025-nature-nuclear-costs.pdf"
+  shareit: "https://rdcu.be/eyaXW"
+  supplemental: "https://media.nature.com/original/magazine-assets/d41586-025-02341-z/51274736"
+  data: "https://www.nature.com/magazine-assets/d41586-025-02341-z/51274734"
+  mediacoverage: "[Harvard News](https://www.belfercenter.org/research-analysis/breaking-cost-escalation-curse-nuclear-power) | [CUNY News](https://www.gc.cuny.edu/news/chinas-nuclear-power-development-strategy-holds-key-lower-costs) | [JHU Hub](https://hub.jhu.edu/2025/07/28/curbing-nuclear-power-plant-costs/) | [*The Economist*](https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry) | [*The New York Times*](https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html) | [ABC Australia](https://www.abc.net.au/news/2025-09-15/albanese-government-2035-climate-emissions-target/105771566) | [*Science and Technology Daily*](https://www.stdaily.com/web/gdxw/2025-07/31/content_378176.html)"
+  categories: [selected]
+
+- section: Selected Work
+  authors: "Liu, Laibao\\*, **Gang He**, Mengxi Wu\\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li"
+  year: 2023
+  date: 2023-07-24
+  title: Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems
+  path: "https://drganghe.github.io/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"
+  journal: Nature Energy
+  volume: 8
+  issue: 8
+  pages: 870-880
+  doi: 10.1038/s41560-023-01304-w
+  pdf: "https://www.nature.com/articles/s41560-023-01304-w.pdf"
+  supplemental: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41560-023-01304-w/MediaObjects/41560_2023_1304_MOESM1_ESM.pdf"
+  code: "https://zenodo.org/record/6884124"
+  highlycited: 1
+  hotpaper: 1
+  categories: [selected]
+
+- section: Selected Work
+  authors: "Helveston, John, **Gang He**\\*, and Michael Davidson"
+  year: 2022
+  date: 2022-10-26
+  title: Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains
+  path: "https://drganghe.github.io/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"
+  journal: Nature
+  volume: 612
+  pages: 83-87
+  doi: 10.1038/s41586-022-05316-6
+  preprint: "https://drganghe.github.io/files/papers/2022-nature-solar-supply-chains-preprint.pdf"
+  shareit: "https://rdcu.be/enuBz"
+  github: "https://github.com/jhelvy/solar-learning-2021"
+  highlycited: 1
+  hotpaper: 1
+  awards: "[IAMC2022 Best Poster Award](https://drganghe.github.io/posts/2022-12-iamc-2022-best-poster-award/index.html)"
+  mediacoverage: "[SBU News](https://news.stonybrook.edu/environmental-stewardship/international-collaboration-is-key-to-addressing-global-climate-change/) | [GWU News](https://mediarelations.gwu.edu/global-collaboration-saved-countries-67-billion-solar-panel-production-costs) | [UCSD News](https://today.ucsd.edu/story/open-trade-saves-countries-billions-in-solar-panel-production) | [*Nature* Research Highlights](https://web.archive.org/web/20230603073317/https://www.natureasia.com/en/research/highlight/14262) | [*E&E News*](https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/) | [*Foreign Policy*](https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/) | [GRID News](https://web.archive.org/web/20240106093827/https://themessenger.com/grid/the-us-is-reducing-its-reliance-on-china-for-green-technology-could-that-slow-progress-on-climate-change) | [PV Magazine](https://pv-magazine-usa.com/2022/10/26/a-globalized-supply-chain-is-key-to-cutting-costs-in-solar-module-manufacturing/) | [dot.LA](https://dot.la/deglobalization-2658510850.html) | [pvbuzz](https://pvbuzz.com/new-study-quantifies-cost-savings-solar-industry-globalized-supply-chains/) | [InnovateLongIsland](https://www.innovateli.com/no-736-on-immigrants-solar-energy-supplies-and-other-american-strengths-with-lots-of-candy-to-share/) | [Mercom India](https://mercomindia.com/imposing-import-tariffs-hamper-of-solar-energy-study/) | [China News](https://www.chinanews.com.cn/cj/2022/10-27/9881042.shtml) | [Science and Technology Daily](http://www.stdaily.com/index/kejixinwen/202210/e38ea5c3a3054d87a43996d39a2924ab.shtml)"
+  invitedpresentation: "[Peking University](https://cese.pku.edu.cn/images/content/2024-03/20240325151929637875.png) | [Tsinghua University](https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g) | [Harvard University](https://www.belfercenter.org/event/energy-policy-seminar-michael-davidson-decoupling-china-clean-tech) (M.D.) | ITIF (J.H.) | [Climate Change Economics Forum](https://mp.weixin.qq.com/s/teDhroPPbaA6z1pVU2JrwA)"
+  categories: [selected, highly-cited, hot-paper, nature-series]
+
+- section: Selected Work
+  authors: "Liu, Zhu\\*, Zhu Deng, **Gang He**, Hailin Wang, Xian Zhang, Jiang Lin, Ye Qi, and Xi Liang"
+  year: 2022
+  date: 2022-03-01
+  title: Challenges and Opportunities for Carbon Neutrality in China
+  path: "https://drganghe.github.io/posts/2022-03-nree-china-carbon-neutrality/index.html"
+  journal: Nature Reviews Earth & Environment
+  volume: 3
+  issue: 2
+  pages: 141-155
+  doi: 10.1038/s43017-021-00244-x
+  shareit: "https://rdcu.be/enuBK"
+  supplemental: "https://static-content.springer.com/esm/art%3A10.1038%2Fs43017-021-00244-x/MediaObjects/43017_2021_244_MOESM1_ESM.pdf"
+  highlycited: 1
+  hotpaper: 1
+  mediacoverage: "[Carbon Brief](https://www.carbonbrief.org/china-briefing-23-december-2021-analysis-of-beijings-new-pledge-interview-with-senior-advisers-economic-planning-meeting)"
+  categories: [selected, highly-cited, hot-paper, nature-series]
+
+- section: Selected Work
+  authors: "Lee, Mekyung\\*, and **Gang He**"
+  year: 2021
+  date: 2021-05-15
+  title: An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation during 1980-2017
+  path: "https://drganghe.github.io/posts/2021-05-jcp-ai-energy/index.html"
+  journal: Journal of Cleaner Production
+  volume: 297
+  pages: 126536
+  doi: 10.1016/j.jclepro.2021.126536
+  pdf: "https://drganghe.github.io/files/papers/2021-JCP-AIandWindTechnologyInnovation.pdf"
+  categories: [selected]
+
+- section: Selected Work
+  authors: "**He, Gang**\\*, Jiang Lin\\*, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke\\*"
+  year: 2020
+  date: 2020-05-15
+  title: Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China's Power System
+  path: "https://drganghe.github.io/posts/2020-05-ncomms-rapid-re-cost/index.html"
+  journal: Nature Communications
+  volume: 11
+  issue: 1
+  pages: 2486
+  doi: 10.1038/s41467-020-16184-x
+  pdf: "https://www.nature.com/articles/s41467-020-16184-x.pdf"
+  supplemental: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-020-16184-x/MediaObjects/41467_2020_16184_MOESM1_ESM.pdf"
+  github: "https://github.com/switch-model/switch-china-open-model"
+  highlycited: 1
+  mediacoverage: "[SBU News](https://news.stonybrook.edu/newsroom/study-shows-decrease-in-renewable-energy-costs-may-serve-as-an-accelerator-for-clean-energy-expansion/) | [LBL News](https://eta.lbl.gov/news/falling-prices-could-accelerate-china) | [*Carbon Brief* Headline](https://www.carbonbrief.org/guest-post-chinas-power-sector-could-be-10-per-cent-cheaper-in-2030-with-more-renewables) | [*InsideClimateNews*](https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/) | [*E&E News*/*ClimateWire*](https://subscriber.politicopro.com/article/eenews/1063354565) | [*Forbes*](https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/?sh=29fa3f2f1519) | [*Nature* News](https://www.nature.com/articles/d41586-020-02927-9)"
+  invitedpresentation: "[Asia Pacific Energy Research Centre (APERC) Annual Conference 2020](https://aperc.or.jp/presentations/event_detail.php?article_info__id=388) | [Beijing Institute of Technology](https://ceep.bit.edu.cn/xzhd/xshdyg/8c8df4e81437434fb80b7ebb8d973b4c.htm) | Dartmouth College | [Harvard Kennedy School Growth Lab](https://growthlab.hks.harvard.edu/event/research-seminar-achieving-power-sector-carbon-neutrality-in-a-low-cost-renewable-era/)"
+  categories: [selected, highly-cited, nature-series]
+
+- section: Selected Work
+  authors: "**He, Gang**\\*, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang"
+  year: 2020
+  date: 2020-08-21
+  title: Enabling a Rapid and Just Transition Away from Coal in China
+  path: "https://drganghe.github.io/posts/2020-08-oneearth-coal-just-transition/index.html"
+  journal: One Earth
+  volume: 3
+  issue: 2
+  pages: 187-94
+  doi: 10.1016/j.oneear.2020.07.012
+  pdf: "https://www.cell.com/action/showPdf?pii=S2590-3322%2820%2930356-0"
+  github: "https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China"
+  mediacoverage: "[SBU News](https://news.stonybrook.edu/homespotlight/study-shows-huge-benefits-of-transitioning-away-from-coal-in-china/) | [*Nature* News](https://www.nature.com/articles/d41586-020-02927-9)"
+  invitedpresentation: "Coal Transition Network | Peking University"
+  categories: [selected]
+
+- section: Selected Work
+  authors: "**He, Gang**\\*, David Victor"
+  year: 2017
+  date: 2017-07-15
+  title: Experiences and lessons from China's success in providing electricity for all
+  path: "https://drganghe.github.io/posts/2017-china-electricity-for-all/index.html"
+  journal: "Resources, Conservation and Recycling"
+  volume: 122
+  pages: 335-338
+  doi: 10.1016/j.resconrec.2017.03.011
+  preprint: "https://drganghe.github.io/files/papers/2017-china-electricity-for-all.pdf"
+  invitedpresentation: "[Energy Information Administration](https://www.eia.gov/conference/2017/) | [International Association of Energy Economics](https://iaee2017.sg/programme/)"
+  categories: [selected]
+
+- section: Selected Work
+  authors: "**He, Gang**\\*, Hongliang Zhang\\*, Yuan Xu\\*, Xi Lu\\*"
+  year: 2017
+  date: 2017-06-01
+  title: "China's clean power transition: Current status and future prospect"
+  path: "https://www.sciencedirect.com/science/article/pii/S0921344916303202"
+  journal: "Resources, Conservation and Recycling"
+  volume: 121
+  pages: 3-10
+  doi: 10.1016/j.resconrec.2016.11.003
+  pdf: "https://drganghe.github.io/files/papers/2017-RCR-CleanPowerTransition.pdf"
+  categories: [selected]
+
+- section: Selected Work
+  authors: "**He, Gang**\\*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen\\*"
+  year: 2016
+  date: 2016-05-08
+  title: "SWITCH-China: A Systems Approach to Decarbonizing China's Power System"
+  path: "https://drganghe.github.io/posts/2016-est-switch-china/index.html"
+  journal: Environmental Science & Technology
+  volume: 50
+  issue: 11
+  pages: 5467-5473
+  doi: 10.1021/acs.est.6b01345
+  pdf: "https://drganghe.github.io/files/papers/2016-EST-SWITCH-China.pdf"
+  invitedpresentation: "Lawrence Berkeley National Laboratory | Carnegie Mellon University | Michigan State University"
+  categories: [selected]
+
+- section: Selected Work
+  authors: "**He, Gang**\\*, Daniel M. Kammen\\*"
+  year: 2016
+  date: 2016-01-15
+  title: "Where, when and how much solar is available? A provincial-scale solar resource assessment for China"
+  path: "https://drganghe.github.io/posts/2016-re-china-provincial-solar-resource-assessment/index.html"
+  journal: Renewable Energy
+  volume: 85
+  pages: 74-82
+  doi: 10.1016/j.renene.2015.06.027
+  pdf: "https://drganghe.github.io/files/papers/2016-RE-ChinaProvincialSolar.pdf"
+  data: "https://www.researchgate.net/publication/278679097_Where_when_and_how_much_solar_is_available_A_provincial-scale_solar_resource_assessment_for_China_Dataset"
+  highlycited: 1
+  categories: [selected]
+
+- section: Selected Work
+  authors: "Zhou, Nan\\*, **Gang He**, Christopher Williams, and David Fridley"
+  year: 2015
+  date: 2015-01-15
+  title: "ELITE Cities: A Low-carbon Eco-city Evaluation Tool for China"
+  path: "https://drganghe.github.io/posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.html"
+  journal: Ecological Indicators
+  volume: 48
+  pages: 448-456
+  doi: 10.1016/j.ecolind.2014.09.018
+  pdf: "https://drganghe.github.io/files/papers/2015-EI-ELITE-Cities.pdf"
+  code: "https://drganghe.github.io/files/tools/elite-cities-final-en.zip"
+  mediacoverage: "[The Guardian](https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly)"
+  categories: [selected]
+
+- section: Selected Work
+  authors: "**He, Gang**\\*, Daniel M. Kammen"
+  year: 2014
+  date: 2014-11-15
+  title: "Where, when and how much wind is available? A provincial-scale wind resource assessment for China"
+  path: "https://drganghe.github.io/posts/2014-ep-china-provincial-wind-resource-assessment/index.html"
+  journal: Energy Policy
+  volume: 74
+  pages: 116-122
+  doi: 10.1016/j.enpol.2014.07.003
+  pdf: "https://drganghe.github.io/files/papers/2014-EP-ChinaProvincialWind.pdf"
+  data: "https://www.researchgate.net/publication/273258314_Where_when_and_how_much_wind_is_available_A_provincial-scale_wind_resource_assessment_for_China_Dataset"
+  categories: [selected]
+
+- section: Selected Work
+  authors: "**He, Gang**\\*, Richard Morse"
+  year: 2013
+  date: 2013-12-15
+  title: "Addressing Carbon Offsetters' Paradox: Lessons from Chinese Wind CDM"
+  path: "https://drganghe.github.io/posts/2013-ep-carbon-offsetters-paradox/index.html"
+  journal: Energy Policy
+  volume: 63
+  pages: 1051-1055
+  doi: 10.1016/j.enpol.2013.09.021
+  pdf: "https://drganghe.github.io/files/papers/2013-EP-ChinaWindCDM.pdf"
+  mediacoverage: "[Caixin Online](https://www.marketwatch.com/story/china-wind-power-stalls-as-international-funds-cut-2010-04-13)"
+  invitedpresentation: UNFCCC CDM Executive Board meeting
+  categories: [selected]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lu, Zhenwei, Bin Ye, Zhe Yu, **Gang He**, and Shuai Shao"
+  year: 2026
+  date: 2026-06-01
+  title: Emission Trading Scheme Reshapes the Decarbonisation Pathways of China's Power Sector
+  path: "https://www.sciencedirect.com/science/article/pii/S0306261926003788"
+  journal: Applied Energy
+  volume: 412
+  pages: 127726
+  doi: 10.1016/j.apenergy.2026.127726
+  shareit: "https://authors.elsevier.com/c/1morx15eifJiHC"
+  supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S0306261926003788-mmc1.docx"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Danneaux, Augustin\\*, Thomas Le Gallic, Julien Lefèvre, Saritha Sudharmma Vishwanathan, and **Gang He**"
+  year: 2026
+  date: 2026-02-10
+  title: "Coal Mine Workers in the Climate Transition: Subnational Vulnerability Disparities in China and India"
+  path: "https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3"
+  journal: Environmental Research Letters
+  volume: 21
+  issue: 3
+  pages: 034026
+  doi: 10.1088/1748-9326/ae3fb3
+  pdf: "https://iopscience.iop.org/article/10.1088/1748-9326/ae3fb3/pdf"
+  code: "https://zenodo.org/records/18198421"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Liu, Junhong, Fredrich Kahrl, Liqun Peng, Jiang Lin\\*, and **Gang He**"
+  year: 2026
+  date: 2026-01-20
+  title: "Toward Efficient Resource Adequacy: The Role of Shared Reserves in China's Power Grid"
+  path: "https://www.sciencedirect.com/science/article/pii/S2211467X2600009X"
+  journal: Energy Strategy Reviews
+  volume: 63
+  pages: 102043
+  doi: 10.1016/j.esr.2026.102043
+  pdf: "https://authors.elsevier.com/sd/article/S2211-467X(26)00009-X"
+  data: "https://zenodo.org/records/17993437"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Mu, Xiaoshao, Xiaoling Zhang\\*, **Gang He**, and K. M. Liew\\*"
+  year: 2026
+  date: 2026-02-01
+  title: Toward Low-Carbon 3D Concrete Printing through Circular Construction and Waste Valorization
+  path: "https://www.sciencedirect.com/science/article/abs/pii/S2352710226001294"
+  journal: Journal of Building Engineering
+  volume: 119
+  pages: 115308
+  doi: 10.1016/j.jobe.2026.115308
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Kattel, Gaurav, Anup Paudel, **Gang He**, and Jun-Ki Choi\\*"
+  year: 2026
+  date: 2026-01-01
+  title: "Bridging the Industrial Carbon Divide: A Techno-Economic Framework for Carbon Capture Pathways in the Cement Sector of Emerging Economies"
+  path: "https://www.sciencedirect.com/science/article/pii/S095965262502815X"
+  journal: Journal of Cleaner Production
+  volume: 538
+  pages: 147457
+  doi: 10.1016/j.jclepro.2025.147457
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Yang, Haozhe\\*, **Gang He**, Eric Masanet and Ranjit Deshmukh\\*"
+  year: 2025
+  date: 2025-11-27
+  title: Economic benefits and cost competitiveness of green hydrogen in decarbonizing China's electricity and hard-to-electrify sectors
+  path: "https://iopscience.iop.org/article/10.1088/1748-9326/ae1b1f"
+  journal: Environmental Research Letters
+  volume: 20
+  issue: 12
+  pages: 124012
+  doi: 10.1088/1748-9326/ae1b1f
+  pdf: "https://iopscience.iop.org/article/10.1088/1748-9326/ae1b1f/pdf"
+  github: "https://github.com/cetlab-ucsb/gridpath/tree/H2_CCS"
+  data: "https://zenodo.org/records/13937324"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Li, Bo, Mingxia Yang, **Gang He**, Guangchun Ruan, Jianxiao Wang\\*, Xueqin Cui, Haiwang Zhong\\*, and Daniel M. Kammen\\*"
+  year: 2025
+  date: 2025-10-27
+  title: A Provincial Cost Analysis of Electric Vehicle Operation in China
+  path: "https://www.sciencedirect.com/science/article/pii/S2589004225017651"
+  journal: iScience
+  volume: 28
+  issue: 10
+  pages: 113504
+  doi: 10.1016/j.isci.2025.113504
+  pdf: "https://www.cell.com/action/showPdf?pii=S2589-0042%2825%2901765-1"
+  supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S2589004225017651-mmc1.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Zhang, Chao\\*, Yujie Dong, Lijin Zhong\\*, Haoqi Qian\\*, Shuangtong Wang, and **Gang He**"
+  year: 2025
+  date: 2025-09-01
+  title: "Avoided CO2 Emissions in China's Power Sector by Structural Change and Efficiency Gain: An Electric Generating Unit Level Analysis"
+  path: "https://www.sciencedirect.com/science/article/abs/pii/S0921344925003982"
+  journal: "Resources, Conservation and Recycling"
+  volume: 223
+  pages: 108520
+  doi: 10.1016/j.resconrec.2025.108520
+  pdf: "https://www.sciencedirect.com/science/article/pii/S0921344925003982/pdfft"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Peng, Liqun, **Gang He**, and Jiang Lin\\*"
+  year: 2025
+  date: 2025-12-01
+  title: Role of pumped hydro storage in China's power system decarbonization
+  path: "https://www.sciencedirect.com/science/article/abs/pii/S1040619025000326"
+  journal: The Electricity Journal
+  volume: 38
+  issue: 4
+  pages: 107487
+  doi: 10.1016/j.tej.2025.107487
+  preprint: "https://escholarship.org/content/qt5s56m1rm/qt5s56m1rm.pdf"
+  data: "https://zenodo.org/records/15795307"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Luo, Qian, Liqun Peng, **Gang He** and Jiang Lin\\*"
+  year: 2025
+  date: 2025-03-31
+  title: "Cost-effectiveness of removing the last 10-20% emissions of China's power sector"
+  path: "https://iopscience.iop.org/article/10.1088/1748-9326/adc0b3"
+  journal: Environmental Research Letters
+  volume: 20
+  issue: 4
+  pages: 044035
+  doi: 10.1088/1748-9326/adc0b3
+  pdf: "https://iopscience.iop.org/article/10.1088/1748-9326/adc0b3/pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Nikmehr, Nima, Peng Zhang\\*, Honghao Zheng, Tzu-Chieh Wei, **Gang He**, and Yacov A. Shamash"
+  year: 2025
+  date: 2025-01-01
+  title: "Quantum Annealing-Infused Microgrids Formation: Distribution System Restoration and Resilience Enhancement"
+  path: "https://ieeexplore.ieee.org/document/10526448"
+  journal: IEEE Transactions on Power Systems
+  volume: 40
+  issue: 1
+  pages: 463-75
+  doi: 10.1109/TPWRS.2024.3399122
+  pdf: "https://drganghe.github.io/files/papers/2025-IEEETPS-Quantum-Annealing-Infused-Microgrids-Formation.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Wu, Huihuang, Junfeng Liu\\*, Xiurong Hu, **Gang He**, Yuhan Zhou, Xian Wang, Ying Liu, Jianmin Ma, and Shu Tao"
+  year: 2024
+  date: 2024-11-15
+  title: "Fewer than 15% of Coal Power Plant Workers in China Can Easily Shift to Green Jobs by 2060"
+  path: "https://www.sciencedirect.com/science/article/pii/S259033222400530X"
+  journal: One Earth
+  volume: 7
+  issue: 11
+  pages: 1994-2007
+  doi: 10.1016/j.oneear.2024.10.006
+  pdf: "https://www.cell.com/action/showPdf?pii=S2590-3322%2824%2900530-X"
+  supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S259033222400530X-mmc1.pdf"
+  data: "https://doi.org/10.6084/m9.figshare.27394602.v1"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Yang, Haozhe, Qian Luo, **Gang He**, Jiang Lin, Jeremiah X. Johnson, Fernando Garcia-Menendez, Olivier Deschenes, Ana Mileva, Ranjit Deshmukh\\*"
+  year: 2024
+  date: 2024-04-22
+  title: Regional disparities in health and employment outcomes of China's transition to a low-carbon electricity system
+  path: "https://iopscience.iop.org/article/10.1088/2753-3751/ad3bb8"
+  journal: "Environmental Research: Energy"
+  volume: 1
+  issue: 2
+  pages: 025001
+  doi: 10.1088/2753-3751/ad3bb8
+  pdf: "https://iopscience.iop.org/article/10.1088/2753-3751/ad3bb8/pdf"
+  github: "https://github.com/blue-marble/gridpath"
+  code: "https://github.com/cetlab-ucsb/China-low-carbon"
+  data: "https://zenodo.org/records/10873443"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Peng, Liqun, Yang Guo, Shangwei Liu, **Gang He**, and Denise L. Mauzerall\\*"
+  year: 2024
+  date: 2024-03-15
+  title: Subsidizing Grid-Based Electrolytic Hydrogen Will Increase Greenhouse Gas Emissions in Coal Dominated Power Systems
+  path: "https://pubs.acs.org/doi/10.1021/acs.est.3c03045"
+  journal: Environmental Science & Technology
+  volume: 58
+  issue: 12
+  pages: 5187-5195
+  doi: 10.1021/acs.est.3c03045
+  pdf: "https://pubs.acs.org/doi/pdf/10.1021/acs.est.3c03045"
+  supplemental: "https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c03045/suppl_file/es3c03045_si_001.pdf"
+  data: "https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c03045/suppl_file/es3c03045_si_002.xlsx"
+  awards: "The [2024 ES&T Best Paper Awards](https://pubs.acs.org/doi/pdf/10.1021/acs.est.5c15123?ref=article_openPDF), First Joint Runner-Up in the Policy Analysis Category"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Chen, Shi, Xi Lu\\*, Chris P. Nielsen, Michael B. McElroy\\*, **Gang He**, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang, and Jimin Hao"
+  year: 2023
+  date: 2023-10-11
+  title: Deploying Solar Photovoltaic Energy First in Carbon-Intensive Regions Brings Gigatons More Carbon Mitigations to 2060
+  path: "https://www.nature.com/articles/s43247-023-01006-x"
+  journal: Communications Earth & Environment
+  volume: 4
+  pages: 369
+  doi: 10.1038/s43247-023-01006-x
+  pdf: "https://www.nature.com/articles/s43247-023-01006-x.pdf"
+  data: "https://doi.org/10.5281/zenodo.8275019"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Luo, Qian, Fernando Garcia-Menendez, Jiang Lin, **Gang He**, and Jeremiah X. Johnson\\*"
+  year: 2023
+  date: 2023-09-25
+  title: "Accelerating China's Power Sector Decarbonization Can Save Lives: Integrating Public Health Goals into Power Sector Decisions"
+  path: "https://iopscience.iop.org/article/10.1088/1748-9326/acf84b"
+  journal: Environmental Research Letters
+  volume: 18
+  issue: 10
+  pages: 104023
+  doi: 10.1088/1748-9326/acf84b
+  pdf: "https://iopscience.iop.org/article/10.1088/1748-9326/acf84b/pdf"
+  supplemental: "https://iopscience.iop.org/article/10.1088/1748-9326/acf84b/data"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Peng, Liqun, Denise L. Mauzerall\\*, Yaofeng D. Zhong, and **Gang He**\\*"
+  year: 2023
+  date: 2023-08-11
+  title: Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China
+  path: "https://www.nature.com/articles/s41467-023-40337-3"
+  journal: Nature Communications
+  volume: 14
+  pages: 4858
+  doi: 10.1038/s41467-023-40337-3
+  pdf: "https://www.nature.com/articles/s41467-023-40337-3.pdf"
+  github: "https://github.com/switch-model/switch-china-open-model"
+  data: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-023-40337-3/MediaObjects/41467_2023_40337_MOESM3_ESM.xls"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Yue Qin\\*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liangdian Huang, Chaopeng Hong\\*, Edward Byers, Daniel Gingerich, Jeff M. Bielicki, and **Gang He**"
+  year: 2023
+  date: 2023-08-07
+  title: Global assessment of the carbon–water tradeoff of dry cooling for thermal power generation
+  path: "https://www.nature.com/articles/s44221-023-00120-6"
+  journal: Nature Water
+  volume: 1
+  issue: 8
+  pages: 682-693
+  doi: 10.1038/s44221-023-00120-6
+  shareit: "https://rdcu.be/diKmv"
+  supplemental: "https://www.nature.com/articles/s44221-023-00120-6#Sec14"
+  data: "https://www.nature.com/articles/s44221-023-00120-6#Sec15"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Li, Bo\\*, Dekai Jing, Haiwang Zhong, **Gang He**, Ziming Ma, Guangchun Ruan, Minyou Chen, and Daniel M. Kammen"
+  year: 2023
+  date: 2023-09-01
+  title: Centralized Charging Station Planning for Battery Electric Trucks Considering the Impacts on Electricity Distribution Systems
+  path: "https://www.sciencedirect.com/science/article/pii/S2352484723004547"
+  journal: Energy Reports
+  volume: 9
+  pages: 346-57
+  doi: 10.1016/j.egyr.2023.04.090
+  pdf: "https://www.sciencedirect.com/science/article/pii/S2352484723004547/pdfft"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Luo, Qian, Fernando Garcia-Menendez, Haozhe Yang, Ranjit Deshmukh, **Gang He**, Jiang Lin\\*, and Jeremiah X. Johnson"
+  year: 2023
+  date: 2023-02-09
+  title: The Health and Climate Benefits of Economic Dispatch in China's Power System
+  path: "https://pubs.acs.org/doi/10.1021/acs.est.2c05663"
+  journal: Environmental Science & Technology
+  volume: 57
+  issue: 7
+  pages: 2898-2906
+  doi: 10.1021/acs.est.2c05663
+  pdf: "https://pubs.acs.org/doi/pdf/10.1021/acs.est.2c05663"
+  supplemental: "https://pubs.acs.org/doi/suppl/10.1021/acs.est.2c05663/suppl_file/es2c05663_si_001.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Liu, Manzhi\\*, Jinfeng Wang, Jixin Wen, **Gang He**\\*, Jixin Wu, Huayang Chen, and Xiaotao Yang"
+  year: 2022
+  date: 2022-09-01
+  title: "Carbon Emission and Structure Analysis of Transport Industry Based on Input-Output Method: China as an Example"
+  path: "https://www.sciencedirect.com/science/article/abs/pii/S2352550922001671"
+  journal: Sustainable Production and Consumption
+  volume: 33
+  pages: 168-88
+  doi: 10.1016/j.spc.2022.06.021
+  pdf: "https://drganghe.github.io/files/papers/2022-SPC-CarbonEmissionAndStructureAnalysisOfTransport.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Liu, Laibao, Yang Wang, Zheng Wang, Shuangcheng Li, Jiangtao Li, **Gang He**, Yan Li, Yanxu Liu, Shilong Piao, Ziqi Gao, Rui Chang, Wenjun Tang, Kejun Jinag, Shijin Wang, Jun Wang, Lin Zhao, and Qingchen Chao"
+  year: 2022
+  date: 2022-05-01
+  title: Potential Contributions of Wind and Solar Power to China's Carbon Neutrality
+  path: "https://www.sciencedirect.com/science/article/abs/pii/S0921344922000039"
+  journal: "Resources, Conservation and Recycling"
+  volume: 180
+  pages: 106155
+  doi: 10.1016/j.resconrec.2022.106155
+  pdf: "https://drganghe.github.io/files/papers/2022-RCR-PotentialContributionsOfWindAndSolar.pdf"
+  data: 1
+  highlycited: 1
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lin, Jiang\\*, Nikit Abhyankar, **Gang He**, Xu Liu, and Shengfei Yin"
+  year: 2022
+  date: 2022-02-18
+  title: Large Balancing Areas and Dispersed Renewable Investment Enhances Grid Flexibility in a Renewable-Dominant Power System in China
+  path: "https://www.cell.com/iscience/fulltext/S2589-0042(22)00019-0"
+  journal: iScience
+  volume: 25
+  issue: 2
+  pages: 103749
+  doi: 10.1016/j.isci.2022.103749
+  pdf: "https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2900019-0"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Qin, Yue\\*, Mi Zhou, Da Pan, Zbigniew Klimont, Daniel B. Gingerich, Denise L. Mauzerall, Lei Zhao, **Gang He**, and Jeffrey M. Bielicki"
+  year: 2022
+  date: 2022-01-31
+  title: Environmental Consequences of Potential Strategies for China to Prepare for Natural Gas Import Disruptions
+  path: "https://pubs.acs.org/doi/10.1021/acs.est.1c03685"
+  journal: Environmental Science & Technology
+  volume: 56
+  issue: 2
+  pages: 1183-1193
+  doi: 10.1021/acs.est.1c03685
+  pdf: "https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c03685"
+  supplemental: "https://pubs.acs.org/doi/suppl/10.1021/acs.est.1c03685/suppl_file/es1c03685_si_001.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Li, Bo, Minyou Chen\\*, Ziming Ma, **Gang He**, Wei Dai, Dongran Liu, Chi Zhang, and Haiwang Zhong"
+  year: 2022
+  date: 2022-04-15
+  title: "Modeling Integrated Power and Transportation Systems: Impacts of Power-to-Gas on the Deep Decarbonization"
+  path: "https://drganghe.github.io/posts/2022-04-ieeetia-hydrogen-integrated-power-and-transport/index.html"
+  journal: IEEE Transactions on Industry Applications
+  volume: 58
+  issue: 2
+  pages: 2677-2693
+  doi: 10.1109/TIA.2021.3116916
+  pdf: "https://drganghe.github.io/files/papers/2022-IEEE-ModelingIntegratedPowerAndTransportationSystems.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Zhang, Tao, Yingchi Qu, and **Gang He**\\*"
+  year: 2022
+  date: 2022-06-01
+  title: Pricing Strategy for Green Products Based on Disparities in Energy Consumption
+  path: "https://ieeexplore.ieee.org/document/8705646"
+  journal: IEEE Transactions on Engineering Management
+  volume: 69
+  issue: 3
+  pages: 616-627
+  doi: 10.1109/TEM.2019.2907872
+  pdf: "https://drganghe.github.io/files/papers/2022-IEEETEM-PricingStrategyForGreenProducts.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Liu, Manzhi, Liyuan Liu, Mengqian Shi, **Gang He**, Shiru Zhang, Mingzhu Shi, Yue Ren, and Bowen Luan"
+  year: 2022
+  date: 2022-06-01
+  title: "Effect of Comparative Feedback on Consumers' Energy-Saving Behavior: A College Dormitory Example"
+  path: "https://ieeexplore.ieee.org/document/9162077"
+  journal: IEEE Transactions on Engineering Management
+  volume: 69
+  issue: 3
+  pages: 589-601
+  doi: 10.1109/TEM.2020.3007872
+  pdf: "https://drganghe.github.io/files/papers/2022-IEEETEM-ComparativeFeedbackOnEnergySavingBehavior.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Zhang, Chao, **Gang He**\\*, Josiah Johnston, and Lijin Zhong"
+  year: 2021
+  date: 2021-12-20
+  title: Long-Term Transition of China's Power Sector under Carbon Neutrality Target and Water Withdrawal Constraint
+  path: "https://www.sciencedirect.com/science/article/pii/S095965262103941X"
+  journal: Journal of Cleaner Production
+  volume: 329
+  pages: 129765
+  doi: 10.1016/j.jclepro.2021.129765
+  pdf: "https://drganghe.github.io/files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf"
+  supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S095965262103941X-mmc1.docx"
+  github: "https://github.com/switch-model/switch-china-open-model"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Tang, Liwei, and **Gang He**\\*"
+  year: 2021
+  date: 2021-11-15
+  title: How to Improve Total Factor Energy Efficiency? An Empirical Analysis of the Yangtze River Economic Belt of China
+  path: "https://www.sciencedirect.com/science/article/pii/S0360544221016236"
+  journal: Energy
+  volume: 235
+  pages: 121375
+  doi: 10.1016/j.energy.2021.121375
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Li, Haoran, Xueqin Cui, Jingxuan Hui, **Gang He**, Yuwei Weng, Yaoyu Nie, Can Wang, and Wenjia Cai\\*"
+  year: 2021
+  date: 2021-07-15
+  title: Catchment-Level Water Stress Risk of Coal Power Transition in China under 2°C/1.5°C Targets
+  path: "https://www.sciencedirect.com/science/article/pii/S0306261921004554"
+  journal: Applied Energy
+  volume: 294
+  pages: 116986
+  doi: 10.1016/j.apenergy.2021.116986
+  pdf: "https://drganghe.github.io/files/papers/2021-AE-Catchment-levelWaterStressRisk.pdf"
+  supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S0306261921004554-mmc1.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Li, Bo, Ziming Ma, Patricia Hidalgo-Gonzalez, Alex Lathem, Natalie Fedorova, **Gang He**, Haiwang Zhong, Minyou Chen\\*, and Daniel M. Kammen\\*"
+  year: 2021
+  date: 2021-02-01
+  title: "Modeling the Impact of EVs in the Chinese Power System: Pathways for Implementing Emissions Reduction Commitments in the Power and Transportation Sectors"
+  path: "https://www.sciencedirect.com/science/article/pii/S030142152030673X"
+  journal: Energy Policy
+  volume: 149
+  pages: 111962
+  doi: 10.1016/j.enpol.2020.111962
+  pdf: "https://drganghe.github.io/files/papers/2021-EP-ModelingEVPowerSystems.pdf"
+  supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S030142152030673X-mmc1.docx"
+  data: "https://ars.els-cdn.com/content/image/1-s2.0-S030142152030673X-mmc2.xml"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Zhang, Yang, Hongtao Bai, Huimin Hou, Yi Zhang, He Xu, Yijun Ji, **Gang He**, and Yingxuan Zhang"
+  year: 2021
+  date: 2021-01-26
+  title: "Exploring the Consumption-Based Carbon Emissions of Industrial Cities in China: A Case Study of Tianjin"
+  path: "https://link.springer.com/article/10.1007/s11356-021-12563-z"
+  journal: Environmental Science and Pollution Research
+  volume: 28
+  pages: 26948-26960
+  doi: 10.1007/s11356-021-12563-z
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Liu, Laibao, Zheng Wang, Yang Wang\\*, Jun Wang, Rui Chang, **Gang He**, Wenjun Tang, Ziqi Gao, Jiangtao Li, Changyi Liu, Lin Zhao, Dahe Qin, Shuangcheng Li\\*"
+  year: 2020
+  date: 2020-10-01
+  title: Optimizing Wind/Solar Combinations at Finer Scales to Mitigate Renewable Energy Variability in China
+  path: "https://www.sciencedirect.com/science/article/pii/S1364032120304421"
+  journal: Renewable and Sustainable Energy Reviews
+  volume: 132
+  pages: 110151
+  doi: 10.1016/j.rser.2020.110151
+  pdf: "https://drganghe.github.io/files/papers/2020-RSER-OptimizingWindSolarCombinations.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Zhang, Wenhua, Qingyou Yan, Jiahai Yuan, **Gang He**, Tian-Lih Teng, Meijuan Zhang, and Ying Zeng"
+  year: 2020
+  date: 2020-12-01
+  title: A Realistic Pathway for Coal-Fired Power in China from 2020 to 2030
+  path: "https://www.sciencedirect.com/science/article/pii/S0959652620329048"
+  journal: Journal of Cleaner Production
+  volume: 275
+  pages: 122859
+  doi: 10.1016/j.jclepro.2020.122859
+  pdf: "https://drganghe.github.io/files/papers/2020-JCP-RealisticCoalPowerPathway.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Jia, Xinyu, Huibin Du, Hongyang Zou, and **Gang He**"
+  year: 2020
+  date: 2020-07-20
+  title: Assessing the Effectiveness of China's Net-Metering Subsidies for Household Distributed Photovoltaic Systems
+  path: "https://www.sciencedirect.com/science/article/pii/S0959652620312087"
+  journal: Journal of Cleaner Production
+  volume: 262
+  pages: 121161
+  doi: 10.1016/j.jclepro.2020.121161
+  pdf: "https://drganghe.github.io/files/papers/2020-JCP-EffectivenessNetMeteringPVSubsides.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lin, Jiang, Xu Liu, and **Gang He**"
+  year: 2020
+  date: 2020-06-01
+  title: Regional Electricity Demand and Economic Transition in China
+  path: "https://www.sciencedirect.com/science/article/abs/pii/S0957178720300424"
+  journal: Utilities Policy
+  volume: 64
+  pages: 101047
+  doi: 10.1016/j.jup.2020.101047
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Liu, Manzhi, Shuai Tan, Mengya Zhang, **Gang He**, Zhizhi Chen, Zhiwei Fu, and Changjin Luan"
+  year: 2020
+  date: 2020-02-01
+  title: "Waste Paper Recycling Decision System Based on Material Flow Analysis and Life Cycle Assessment: A Case Study of Waste Paper Recycling from China"
+  path: "https://www.sciencedirect.com/science/article/pii/S0301479719315774"
+  journal: Journal of Environmental Management
+  volume: 255
+  pages: 109859
+  doi: 10.1016/j.jenvman.2019.109859
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Zhang, Tao, **Gang He**, and Yinuo Han"
+  year: 2020
+  date: 2020-01-20
+  title: How to Optimize Retailers' Recovery Strategies for Electronic Waste
+  path: "https://www.sciencedirect.com/science/article/pii/S0959652619336662"
+  journal: Journal of Cleaner Production
+  volume: 244
+  pages: 118796
+  doi: 10.1016/j.jclepro.2019.118796
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Zhang, Chao\\*, **Gang He**, Qian Zhang\\*, Sai Liang, Samuel C. Zipper, Ru Guo, Xu Zhao, Lijin Zhong, and Jiao Wang"
+  year: 2020
+  date: 2020-01-01
+  title: The Evolution of Virtual Water Flows in China's Electricity Transmission Network and Its Driving Forces
+  path: "https://www.sciencedirect.com/science/article/pii/S0959652619332068"
+  journal: Journal of Cleaner Production
+  volume: 242
+  pages: 118336
+  doi: 10.1016/j.jclepro.2019.118336
+  pdf: "https://drganghe.github.io/files/papers/2020-JCP-EvolutionOfVirtualWaterFlow.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Qin, Chao\\*, Qingyou Yan, and **Gang He**\\*"
+  year: 2019
+  date: 2019-12-01
+  title: "Integrated Energy Systems Planning with Electricity, Heat and Gas Using Particle Swarm Optimization"
+  path: "https://www.sciencedirect.com/science/article/pii/S0360544219317396"
+  journal: Energy
+  volume: 188
+  pages: 116044
+  doi: 10.1016/j.energy.2019.116044
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "**He, Gang**"
+  year: 2019
+  date: 2019-06-01
+  title: "Financing the Last Mile of Electricity-for-All Programs: Experiences from China"
+  path: "https://eeep.iaee.org/financing-the-last-mile-of-electricity-for-all-programs-experiences-from-china/"
+  journal: Economics of Energy & Environmental Policy
+  volume: 8
+  issue: 1
+  doi: 10.5547/2160-5890.8.1.ghe
+  pdf: "https://drganghe.github.io/files/papers/2019-He-EEEP-FinancingLastMile.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Xu, Jia, Xiujie Tan, **Gang He**, and Yu Liu"
+  year: 2019
+  date: 2019-02-01
+  title: Disentangling the Drivers of Carbon Prices in China's ETS Pilots — An EEMD Approach
+  path: "https://www.sciencedirect.com/science/article/pii/S0040162518313350"
+  journal: Technological Forecasting and Social Change
+  volume: 139
+  pages: 1-9
+  doi: 10.1016/j.techfore.2018.11.009
+  pdf: "https://drganghe.github.io/files/papers/2019-TFSC-DriversOfCarbonPrices.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Wang, Qiang, Siqi Li, **Gang He**, Rongrong Li, and Xuefeng Wang"
+  year: 2018
+  date: 2018-11-20
+  title: "Evaluating Sustainability of Water-Energy-Food (WEF) Nexus Using an Improved Matter-Element Extension Model: A Case Study of China"
+  path: "https://www.sciencedirect.com/science/article/pii/S0959652618325629"
+  journal: Journal of Cleaner Production
+  volume: 202
+  pages: 1097-1106
+  doi: 10.1016/j.jclepro.2018.08.213
+  pdf: "https://drganghe.github.io/files/papers/2018-JCP-EvaluatingWEFNexus.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Bai, Hongtao\\*, Xiangyu Feng, Huimin Hou, **Gang He**\\*, Yan Dong, and He Xu"
+  year: 2018
+  date: 2018-10-01
+  title: Mapping inter-industrial CO2 flows within China
+  path: "https://www.sciencedirect.com/science/article/pii/S1364032118304039"
+  journal: Renewable and Sustainable Energy Reviews
+  volume: 93
+  pages: 400-408
+  doi: 10.1016/j.rser.2018.05.054
+  pdf: "https://drganghe.github.io/files/papers/2018-RSER-MappingInter-industrialCO2Flows.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Wang, Qiang, Rongrong Li, and **Gang He**"
+  year: 2018
+  date: 2018-07-01
+  title: "Research Status of Nuclear Power: A Review"
+  path: "https://www.sciencedirect.com/science/article/pii/S1364032118301345"
+  journal: Renewable and Sustainable Energy Reviews
+  volume: 90
+  pages: 90-96
+  doi: 10.1016/j.rser.2018.03.044
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Liu, Manzhi\\*, Meng Chen, and **Gang He**\\*"
+  year: 2017
+  date: 2017-10-01
+  title: The Origin and Prospect of Billion-Ton Coal Production Capacity in China
+  path: "https://www.sciencedirect.com/science/article/pii/S0921344917301532"
+  journal: "Resources, Conservation and Recycling"
+  volume: 125
+  pages: 70-85
+  doi: 10.1016/j.resconrec.2017.05.015
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Zhang, Ning, Zhaoguang Hu, Bo Shen, **Gang He**, and Yanan Zheng"
+  year: 2017
+  date: 2017-05-01
+  title: "An Integrated Source-Grid-Load Planning Model at the Macro Level: Case Study for China's Power Sector"
+  path: "https://www.sciencedirect.com/science/article/pii/S0360544217303845"
+  journal: Energy
+  volume: 126
+  pages: 231-246
+  doi: 10.1016/j.energy.2017.03.026
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Hu, Jianlin, Lin Huang, Mindong Chen, **Gang He**\\*, Hongliang Zhang\\*"
+  year: 2017
+  date: 2027-06-01
+  title: "Impacts of Power Generation on Air Quality in China -- Part II: Future Scenarios"
+  path: "https://www.sciencedirect.com/science/article/pii/S0921344916300957"
+  journal: "Resources, Conservation and Recycling"
+  volume: 121
+  pages: 115-127
+  doi: 10.1016/j.resconrec.2016.04.011
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Lin, Jiang\\*, **Gang He**\\*, Alexandria Yuan"
+  year: 2016
+  date: 2016-04-01
+  title: Economic Rebalancing and Electricity Demand in China
+  path: "https://www.sciencedirect.com/science/article/abs/pii/S1040619016300227"
+  journal: The Electricity Journal
+  volume: 29
+  issue: 3
+  pages: 48-54
+  doi: 10.1016/j.tej.2016.03.010
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Avrin, Anne-Perrine, **Gang He**, Daniel M. Kammen"
+  year: 2015
+  date: 2015-03-16
+  title: Assessing the impacts of nuclear desalination and geoengineering to address China's water shortages
+  path: "https://www.sciencedirect.com/science/article/pii/S0011916414006754"
+  journal: Desalination
+  volume: 360
+  pages: 1-7
+  doi: 10.1016/j.desal.2014.12.028
+  pdf: "https://drganghe.github.io/files/papers/2015-DESAL-Nuclear-desalination-and-water-shortages-in-China.pdf"
+  supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S0011916414006754-mmc1.pdf"
+  categories: [peer-reviewed]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Yang, Pingjian, **Gang He**, Guozhu Mao, Yong Liu, Mingzhu Xu, Huaicheng Guo\\*, and Xi Liu"
+  year: 2013
+  date: 2013-06-01
+  title: Sustainability needs and practices assessment in the building industry of China
+  path: "https://www.sciencedirect.com/science/article/pii/S0301421513000736"
+  journal: Energy Policy
+  volume: 57
+  pages: 212-220
+  doi: 10.1016/j.enpol.2013.01.046
+  categories: [peer-reviewed]

@@ -1,0 +1,106 @@
+<%
+/*
+  pub-listing.ejs  —  Quarto custom listing template for academic publications
+  ─────────────────────────────────────────────────────────────────────────────
+  Line 1: authors. year. title. journal vol(issue): pages. doi
+  Line 2: PDF | Preprint | SharedIt | Code | Data | Supplemental | Dimensions | Altmetric
+  Line 3: Awards (if any)
+  Line 4: Media coverage (if any)
+  Line 5: Invited presentations (if any)
+  Line 6: Category tags (if any, excluding listing-internal tags)
+*/
+%>
+
+<div class="pub-listing">
+<div class="list">
+<% for (const item of items) {
+     /* ── Normalise categories array ──────────────────────────────── */
+     const catsArr = Array.isArray(item.categories)
+       ? item.categories
+       : (item.categories ? String(item.categories).split(/[,;|]/).map(s => s.trim()).filter(Boolean) : []);
+     const catsText = catsArr.join(", ");
+
+     /* Tags shown as visible pills (exclude purely internal filter tags) */
+     const hiddenTags = new Set(["selected", "peer-reviewed", "highly-cited", "hot-paper"]);
+     const visibleTags = catsArr.filter(c => !hiddenTags.has(c));
+%>
+<div class="pub-item" data-categories="<%- catsText %>">
+  <span class="listing-categories d-none"><%- catsText %></span>
+
+  <%/* ── LINE 1: Full citation ──────────────────────────────────── */%>
+  <%
+    const vol = item.volume || "";
+    const iss = item.issue  || "";
+    const pgs = item.pages  || "";
+    let volRef = "";
+    if (vol) volRef += vol;
+    if (iss) volRef += "(" + iss + ")";
+    if (pgs) volRef += ": " + pgs;
+  %>
+  <p class="pub-citation"><%
+    %><span class="pub-authors"><%- item.authors %></span>. <%
+    if (item.year) { %><span class="pub-year"><%= item.year %></span>. <% } %><%
+    if (item.path && item.path !== "") { %><a href="<%= item.path %>" class="pub-title"><%- item.title %></a><%
+    } else { %><span class="pub-title"><%- item.title %></span><% } %>.<%
+    if (item.journal) { %> <em class="pub-journal"><%- item.journal %></em><%
+    if (volRef) { %> <%- volRef %><% } %>.<% } %><%
+    if (item.doi && item.doi !== "") {
+    %> doi: <a href="https://doi.org/<%= item.doi %>" target="_blank" rel="noopener" class="pub-doi"><%= item.doi %></a>.<% } %>
+    <% if (item["highly-cited"]) { %> <img src="/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" alt="Highly cited paper" width="20" style="vertical-align:middle;"><% } %>
+    <% if (item["hot-paper"]) { %> <img src="/files/images/hot-paper-badge.png" title="ESI Hot Paper" alt="Hot paper" width="20" style="vertical-align:middle;"><% } %>
+  </p>
+
+  <%/* ── LINE 2: Links & badges ─────────────────────────────────── */%>
+  <%
+    const hasDoi          = item.doi              && item.doi          !== "";
+    const hasPdf          = item.pdf              && item.pdf          !== "";
+    const hasPreprint     = item.preprint         && item.preprint     !== "";
+    const hasShareIt      = item.shareit          && item.shareit      !== "";
+    const hasCode         = item.code             && item.code         !== "";
+    const hasData         = item.data             && item.data         !== "";
+    const hasSupplemental = item.supplemental     && item.supplemental !== "";
+    const hasLinks = hasDoi || hasPdf || hasPreprint || hasShareIt || hasCode || hasData || hasSupplemental;
+  %>
+  <% if (hasLinks) { %><p class="pub-links"><%
+    if (hasPdf) { %><a href="<%= item.pdf %>" class="pub-btn btn-pdf" target="_blank" rel="noopener"><i class="bi bi-file-earmark-pdf"></i> PDF</a> <% } %><%
+    if (hasPreprint) { %><a href="<%= item.preprint %>" class="pub-btn btn-preprint" target="_blank" rel="noopener"><i class="bi bi-file-earmark-text"></i> Preprint</a> <% } %><%
+    if (hasShareIt) { %><a href="<%= item.shareit %>" class="pub-btn btn-shareit" target="_blank" rel="noopener"><i class="bi bi-share"></i> SharedIt</a> <% } %><%
+    if (hasCode) { %><a href="<%= item.code %>" class="pub-btn btn-code" target="_blank" rel="noopener"><i class="bi bi-code-slash"></i> Code</a> <% } %><%
+    if (hasData) { %><a href="<%= item.data %>" class="pub-btn btn-data" target="_blank" rel="noopener"><i class="bi bi-database"></i> Data</a> <% } %><%
+    if (hasSupplemental) { %><a href="<%= item.supplemental %>" class="pub-btn btn-supplemental" target="_blank" rel="noopener"><i class="bi bi-paperclip"></i> Supplemental</a> <% } %><%
+    if (hasDoi) { %><span class="__dimensions_badge_embed__" data-doi="<%= item.doi %>" data-style="large_rectangle" data-hide-zero-citations="true" style="display:inline-block;vertical-align:middle;"></span> <% } %><%
+    if (hasDoi) { %><span class="altmetric-embed" data-badge-popover="right" data-badge-type="1" data-doi="<%= item.doi %>" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;"></span><% } %>
+  </p><% } %>
+
+  <%/* ── LINE 3: Awards ─────────────────────────────────────────── */%>
+  <% if (item.award && item.award !== "") { %>
+  <p class="pub-awards"><span class="pub-label"><i class="bi bi-trophy"></i> Award:</span> <%- item.award %></p>
+  <% } %>
+
+  <%/* ── LINE 4: Media Coverage ──────────────────────────────────── */%>
+  <% if (item["media-coverage"] && item["media-coverage"] !== "") { %>
+  <p class="pub-coverage"><span class="pub-label">Coverage:</span> <%- item["media-coverage"] %></p>
+  <% } %>
+
+  <%/* ── LINE 5: Invited Presentations ──────────────────────────── */%>
+  <% if (item["invited-presentation"] && item["invited-presentation"] !== "") { %>
+  <p class="pub-presentations"><span class="pub-label">Invited presentation:</span> <%- item["invited-presentation"] %></p>
+  <% } %>
+
+  <%/* ── LINE 6: Category tags ───────────────────────────────────── */%>
+  <% if (visibleTags.length > 0) { %>
+  <p class="pub-tags"><%
+    for (const tag of visibleTags) {
+      const slug = tag.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+  %><span class="pub-tag pub-tag--<%- slug %>"><%- tag %></span> <%
+    }
+  %></p>
+  <% } %>
+
+</div>
+
+<hr class="pub-divider">
+<% } %>
+
+</div>
+</div>
