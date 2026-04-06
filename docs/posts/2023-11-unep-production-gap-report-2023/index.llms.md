@@ -1,0 +1,49 @@
+# UNEP releases the Production Gap Report 2023
+
+news
+
+outreach
+
+Gang joins a global expert team that contributed to the Production Gap Report 2023
+
+Author
+
+SEI, Climate Analytics, E3G, IISD, UNEP
+
+Published
+
+November 8, 2023
+
+[![](featured.jpg)](https://productiongap.org/2023report/)
+
+UNEP Production Gap Report 2023
+
+## Summary
+
+> The Production Gap Report tracks the misalignment between governments’ planned and projected production of coal, oil, and gas and the global production levels consistent with the Paris Agreement’s temperature goal. Now, in its fourth edition, this year’s report features two major updates to the production gap analysis, drawing on changes in government plans and projections since August 2021 and the new mitigation scenarios database compiled for the Intergovernmental Panel on Climate Change’s Sixth Assessment Report. The report provides a more detailed assessment of the global coal, oil, and gas reduction pathways needed to keep the 1.5°C goal in reach.
+>
+> The report also features individual country profiles for 20 major fossil-fuel-producing countries, evaluating governments’ latest climate ambitions and their plans, policies, and strategies that support fossil fuel production or the transition away from it: Australia, Brazil, Canada, China, Colombia, Germany, India, Indonesia, Kazakhstan, Kuwait, Mexico, Nigeria, Norway, Qatar, the Russian Federation, Saudi Arabia, South Africa, the United Arab Emirates, the United States of America, and the United Kingdom of Great Britain and Northern Ireland.
+>
+> This report is produced by the Stockholm Environment Institute (SEI), Climate Analytics, E3G, the International Institute for Sustainable Development (IISD), and the UN Environment Programme (UNEP).
+
+## Links
+
+Check the UNEP official [release](https://www.unep.org/news-and-stories/press-release/governments-plan-produce-double-fossil-fuels-2030-15degc-warming).
+
+[Production Gap Report 2023](https://productiongap.org/2023report/)
+
+## Key messages
+
+> Governments, in aggregate, still plan to produce more than double the amount of fossil fuels in 2030 than would be consistent with limiting warming to 1.5°C. The persistence of the global production gap puts a well-managed and equitable energy transition at risk.
+>
+> Global levels of coal, oil , and gas estimated under the government plans and projections pathways would be 460%, 29%, and 82% higher than those under the respective 1.5°C-consistent pathways. The global levels of fossil fuel production implied by governments’ plans and projections, taken together, also exceed those implied by their stated climate mitigation policies and implied by their announced climate pledges as of September 2022, as modelled by the International Energy Agency.
+>
+> Given risks and uncertainties of CCS and CDR, countries should aim for a near total phase-out of coal production and use by 2040 and a combined reduction in oil and gas production and use by three-quarters by 2050 from 2020 levels, at a minimum. The potential failure of these measures to become sufficiently viable at scale, the non-climatic near-term harms of fossil fuels, and other lines of evidence, call for an even more rapid global phase-out of all fossil fuels.
+
+![](PGR2023_Fig-2-2.webp)
+
+Global levels of coal, oil , and gas estimated under the government plans and projections pathways would be 460%, 29%, and 82% higher than those under the respective 1.5°C-consistent pathways
+
+## Contributors
+
+[![](pgr2023-contributors.png)](https://productiongap.org/2023report/)

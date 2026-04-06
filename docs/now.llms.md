@@ -1,0 +1,50 @@
+# Now
+
+What I’m up to
+
+A few things keep me busy these days:
+
+## Kids
+
+- Raising two young kids and spending 12 hours a day with them when school is closed
+
+## Research
+
+> **TIP:**
+>
+> How can we achieve carbon neutrality by mid-century to address climate change?  
+> How to make the clean energy transition more:
+>
+> - Sustainable (energy and environment)
+> - Resilient (energy and climate)
+> - Equitable (energy and justice)
+
+- Working with Kaifang Luo, Michael Davidson, Ahmad Lashkaripour, Ilaria Mazzocco, Minghao Qiu and collaborators and partners on the project [Made in America: Drivers and Impacts of Domestic Clean Energy Manufacturing in the United States](https://madeinamerica.netlify.app/) supported by the Alfred P. Sloan Foundation.
+- Working with California China Climate Institute to study clean energy supply chains and power system resource adequacy  
+- Working with Baruch colleagues on exploring energy burden among older adults and people with disabilities in New York City public housing communities  
+- Working on the climate, air pollution, and human health effects of imported solar PV supported by the ClimateWorks Foundation  
+- Collaborating with LBL on power system decarbonization
+
+### I welcome collaborations on
+
+- Clean energy global supply chains
+- Power system decarbonization modeling
+- Climate impact on energy systems
+- Just energy transition
+- Energy-water-carbon nexus  
+- Other interdisciplinary aspects of carbon neutrality
+
+## Teaching
+
+Fall Semester:
+
+- PAF 9187: [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy)
+
+Spring Semester:
+
+- PAF 3195: [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society)
+- PAF 9174: [Program Evaluation](https://drganghe.github.io/program-evaluation)
+
+I’m seeking guest speakers who are passionate about sharing their experiences and inspiring the next generation of climate leaders:
+
+- [Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/about.html)

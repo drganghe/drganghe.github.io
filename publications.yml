@@ -148,7 +148,7 @@
   doi: 10.1016/j.oneear.2020.07.012
   pdf: "https://www.cell.com/action/showPdf?pii=S2590-3322%2820%2930356-0"
   github: "https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China"
-  mediacoverage: "[SBU News](https://news.stonybrook.edu/homespotlight/study-shows-huge-benefits-of-transitioning-away-from-coal-in-china/) | [*Nature* News](https://www.nature.com/articles/d41586-020-02927-9)"
+  mediacoverage: "[SBU News](https://news.stonybrook.edu/homespotlight/study-shows-huge-benefits-of-transitioning-away-from-coal-in-china/) | [*Nature* News](https://www.nature.com/articles/d41586-020-02927-9) | [The Diplomat](https://thediplomat.com/2021/12/india-and-china-can-quit-coal-earlier-but-the-world-must-work-alongside-them/) | [Eco-Business](https://www.eco-business.com/news/health-and-climate-risks-overlap-in-coal-burning-southeast-asia/)"
   invitedpresentation: "Coal Transition Network | Peking University"
   categories: [2020, selected, peer-reviewed, china, coal, just-transition]
 
@@ -366,6 +366,7 @@
   pages: 108520
   doi: 10.1016/j.resconrec.2025.108520
   pdf: "https://www.sciencedirect.com/science/article/pii/S0921344925003982/pdfft"
+  mediacoverage: "[Carbon Brief](https://www.carbonbrief.org/china-briefing-21-august-2025-chinas-co2-decline-two-mountains-chinas-cement-challenge/)"
   categories: [2025, peer-reviewed, power-system, energy-efficiency]
 
 - section: Peer-reviewed Journal Paper
@@ -425,7 +426,7 @@
   pdf: "https://www.cell.com/action/showPdf?pii=S2590-3322%2824%2900530-X"
   supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S259033222400530X-mmc1.pdf"
   data: "https://doi.org/10.6084/m9.figshare.27394602.v1"
-  awards: "Cell Press 2024 China [Annual Paper](https://mp.weixin.qq.com/s/ZuXip64ASEsaJUDDfO_3bg) in the Sustainable Development Category"
+  awards: "Cell Press 2024 China [Annual Papers](https://mp.weixin.qq.com/s/ZuXip64ASEsaJUDDfO_3bg) in the Sustainable Development Category"
   categories: [2024, peer-reviewed, award, china, just-transition, coal]
 
 - section: Peer-reviewed Journal Paper
@@ -476,6 +477,7 @@
   pdf: "https://www.nature.com/articles/s43247-023-01006-x.pdf"
   supplemental: "https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-023-01006-x/MediaObjects/43247_2023_1006_MOESM2_ESM.pdf"
   data: "https://doi.org/10.5281/zenodo.8275019"
+  mediacoverage: "[Tsinghua University](https://www.tsinghua.edu.cn/info/1175/107135.htm)"
   categories: [2023, peer-reviewed, nature-series, supply-chain, carbon, solar, lca]
 
 - section: Peer-reviewed Journal Paper
@@ -523,6 +525,7 @@
   shareit: "https://rdcu.be/diKmv"
   supplemental: "https://www.nature.com/articles/s44221-023-00120-6#Sec14"
   data: "https://www.nature.com/articles/s44221-023-00120-6#Sec15"
+  mediacoverage: "[Peking University](https://news.pku.edu.cn/jxky/0d1098aa267a4ddfa1908784ff023570.htm) | [Stony Brook University](https://news.stonybrook.edu/newsroom/taking-a-global-look-at-dry-and-alternative-water-cooling-of-power-plants/)"
   categories: [2023, peer-reviewed, nature-series, energy-nexus, water, carbon]
 
 - section: Peer-reviewed Journal Paper
@@ -552,6 +555,7 @@
   pdf: "https://pubs.acs.org/doi/pdf/10.1021/acs.est.2c05663"
   supplemental: "https://pubs.acs.org/doi/suppl/10.1021/acs.est.2c05663/suppl_file/es2c05663_si_001.pdf"
   github: "https://github.com/blue-marble/gridpath"
+  mediacoverage: "[Carbon Brief](https://www.carbonbrief.org/china-briefing-15-june-cbam-fight-new-energy-milestone-extreme-heat/)"
   categories: [2023, peer-reviewed, power-system, health, climate]
 
 - section: Peer-reviewed Journal Paper
@@ -593,6 +597,7 @@
   pages: 103749
   doi: 10.1016/j.isci.2022.103749
   pdf: "https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2900019-0"
+  mediacoverage: "[Carbon Brief](https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/)"
   categories: [2022, peer-reviewed, power-system]
 
 - section: Peer-reviewed Journal Paper
