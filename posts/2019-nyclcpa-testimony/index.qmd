@@ -3,7 +3,7 @@ title: "Testimony on the New York State Climate Leadership and Community Protect
 description: "Dr. Gang He joined a Stony Brook University expert team to testify for NYCLCPA."
 author: "Gang He"
 date: "2019-02-15"
-categories: [news, testimony, outreach]
+categories: [news, testimony, outreach, featured]
 image: "featured.png"
 ---
 

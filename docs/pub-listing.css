@@ -210,16 +210,68 @@ hr.pub-divider {
   font-weight: 600;
 }
 
+/* ── Quick-links bar ─────────────────────────────────────────── 
+.pub-quicklinks {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.5rem;
+  margin: 0.25rem 0 1.25rem 0;
+  padding: 0.5rem 0.85rem;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  background-color: #f8f9fa;
+}
+*/
+
+
+.pub-quicklinks {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.5rem;
+  margin: 0.25rem 0 1.25rem 0;
+}
+
+ 
+/* Quarto wraps inline content in <p> — strip its margins so padding is even */
+.pub-quicklinks p {
+  display: contents;
+}
+
+.pub-ql-btn {
+  display: inline-flex;
+  vertical-align: middle;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.22rem;
+  font-size: 0.80rem;
+  font-weight: 500;
+  border-radius: 4px;
+  text-decoration: none !important;
+  line-height: 1.4;
+  border: 1px solid transparent;
+  transition: filter 0.15s ease, box-shadow 0.15s ease;
+}
+ 
+.pub-ql-btn:hover {
+  filter: brightness(88%);
+  text-decoration: none !important;
+}
+ 
+/* Per-type colours */
+.pub-ql-first        { background-color: #1e5fa8; opacity: 0.8; color: #fff !important; border-color: #174d8a; }
+.pub-ql-corresponding{ background-color: #060363; opacity: 0.8; color: #fff !important; border-color: #101551; }
+.pub-ql-highly-cited { background-color: #b45309; opacity: 0.8; color: #fff !important; border-color: #92400e; }
+.pub-ql-hot          { background-color: #b91c1c; opacity: 0.8; color: #fff !important; border-color: #991b1b; }
+.pub-ql-nature       { background-color: #0d6efd; opacity: 0.8; color: #fff !important; border-color: #0a58ca; }
+.pub-ql-other        { background-color: #556070; opacity: 0.8; color: #fff !important; border-color: #3f464c; } 
+.pub-ql-all          { background-color: #411ea8; opacity: 0.8; color: #fff !important; border-color: #49178a; } 
+
 /* ── Responsive tweaks ───────────────────────────────────────── */
 @media (max-width: 600px) {
   .pub-links {
     flex-direction: column;
     align-items: flex-start;
   }
-}
-
-span.__dimensions_badge_embed__, div.altmetric-embed {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
 }

@@ -11,7 +11,7 @@
   doi: 10.1038/s44359-025-00136-z
   preprint: "https://drganghe.github.io/files/papers/2026-NRCT-Renewable-Integration-and-AI-Demand-Reshaped-Power-Grids-in-2025.pdf"
   shareit: "https://rdcu.be/eZUji"
-  categories: [2026, selected, power-system, AI]
+  categories: [2026, first-author, corresponding-author, selected, nature-series, power-system, AI]
 
 - section: Selected Work
   authors: "Qiu, Minghao, **Gang He**\\*, and Peter Marcotullio"
@@ -27,7 +27,7 @@
   preprint: "https://drganghe.github.io/files/papers/2025-one-earth-health-climate-benefits-of-imported-solar-pv-in-the-united-states.pdf"
   code: "https://zenodo.org/records/16622349"
   mediacoverage: "[CUNY News](https://www.gc.cuny.edu/news/imported-solar-panels-save-us-lives-and-cut-billions-climate-costs-study-finds) | [PV Magazine](https://www.pv-magazine.com/2025/11/05/us-solar-tariffs-linked-to-preventable-deaths-claim-researchers/) | [The Cool Down](https://www.thecooldown.com/green-tech/imported-solar-panels-benefits-us-citizens-health/)"
-  categories: [2025, selected, peer-reviewed, solar, supply-chain, energy-nexus, united-states, health, climate, carbon]
+  categories: [2025, selected, corresponding-author, peer-reviewed, solar, supply-chain, energy-nexus, united-states, health, climate, carbon]
 
 - section: Selected Work
   authors: "Liu, Shangwei\\*, **Gang He**\\*, Minghao Qiu, and Daniel M. Kammen"
@@ -44,7 +44,7 @@
   supplemental: "https://media.nature.com/original/magazine-assets/d41586-025-02341-z/51274736"
   data: "https://www.nature.com/magazine-assets/d41586-025-02341-z/51274734"
   mediacoverage: "[Harvard News](https://www.belfercenter.org/research-analysis/breaking-cost-escalation-curse-nuclear-power) | [CUNY News](https://www.gc.cuny.edu/news/chinas-nuclear-power-development-strategy-holds-key-lower-costs) | [JHU Hub](https://hub.jhu.edu/2025/07/28/curbing-nuclear-power-plant-costs/) | [*The Economist*](https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry) | [*The New York Times*](https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html) | [ABC Australia](https://www.abc.net.au/news/2025-09-15/albanese-government-2035-climate-emissions-target/105771566) | [*Science and Technology Daily*](https://www.stdaily.com/web/gdxw/2025-07/31/content_378176.html)"
-  categories: [2025, selected, nature-series, power-system, china, supply-chain, nuclear]
+  categories: [2025, selected, corresponding-author, nature-series, power-system, china, supply-chain, nuclear]
 
 - section: Selected Work
   authors: "Liu, Laibao\\*, **Gang He**, Mengxi Wu\\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li"
@@ -62,6 +62,7 @@
   code: "https://zenodo.org/record/6884124"
   highlycited: 1
   hotpaper: 1
+  mediacoverage: "[State of the Planet](https://news.climate.columbia.edu/2024/10/31/how-climate-change-impacts-affect-renewable-energy/) | [PKU News](https://news.pku.edu.cn/jxky/2d853f8a7dc544bca53aca9143e8085a.htm)"
   categories: [2023, selected, peer-reviewed, highly-cited, hot-paper, nature-series, climate, solar, wind]
 
 - section: Selected Work
@@ -83,7 +84,7 @@
   awards: "[IAMC2022 Best Poster Award](https://drganghe.github.io/posts/2022-12-iamc-2022-best-poster-award/index.html)"
   mediacoverage: "[SBU News](https://news.stonybrook.edu/environmental-stewardship/international-collaboration-is-key-to-addressing-global-climate-change/) | [GWU News](https://mediarelations.gwu.edu/global-collaboration-saved-countries-67-billion-solar-panel-production-costs) | [UCSD News](https://today.ucsd.edu/story/open-trade-saves-countries-billions-in-solar-panel-production) | [*Nature* Research Highlights](https://web.archive.org/web/20230603073317/https://www.natureasia.com/en/research/highlight/14262) | [*E&E News*](https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/) | [*Foreign Policy*](https://foreignpolicy.com/2023/09/21/us-china-climate-cooperation-trade-ira-green-technology/) | [GRID News](https://web.archive.org/web/20240106093827/https://themessenger.com/grid/the-us-is-reducing-its-reliance-on-china-for-green-technology-could-that-slow-progress-on-climate-change) | [PV Magazine](https://pv-magazine-usa.com/2022/10/26/a-globalized-supply-chain-is-key-to-cutting-costs-in-solar-module-manufacturing/) | [dot.LA](https://dot.la/deglobalization-2658510850.html) | [pvbuzz](https://pvbuzz.com/new-study-quantifies-cost-savings-solar-industry-globalized-supply-chains/) | [InnovateLongIsland](https://www.innovateli.com/no-736-on-immigrants-solar-energy-supplies-and-other-american-strengths-with-lots-of-candy-to-share/) | [Mercom India](https://mercomindia.com/imposing-import-tariffs-hamper-of-solar-energy-study/) | [China News](https://www.chinanews.com.cn/cj/2022/10-27/9881042.shtml) | [Science and Technology Daily](http://www.stdaily.com/index/kejixinwen/202210/e38ea5c3a3054d87a43996d39a2924ab.shtml)"
   invitedpresentation: "[Peking University](https://cese.pku.edu.cn/images/content/2024-03/20240325151929637875.png) | [Tsinghua University](https://mp.weixin.qq.com/s/c_Z0RHwzkjziq-QvdUzs-g) | [Harvard University](https://www.belfercenter.org/event/energy-policy-seminar-michael-davidson-decoupling-china-clean-tech) (M.D.) | ITIF (J.H.) | [Climate Change Economics Forum](https://mp.weixin.qq.com/s/teDhroPPbaA6z1pVU2JrwA)"
-  categories: [2022, selected, peer-reviewed, award, highly-cited, hot-paper, nature-series, supply-chain, solar, united-states, china, germany]
+  categories: [2022, selected, peer-reviewed, corresponding-author, award, highly-cited, hot-paper, nature-series, supply-chain, solar, united-states, china, germany]
 
 - section: Selected Work
   authors: "Liu, Zhu\\*, Zhu Deng, **Gang He**, Hailin Wang, Xian Zhang, Jiang Lin, Ye Qi, and Xi Liang"
@@ -133,7 +134,7 @@
   highlycited: 1
   mediacoverage: "[SBU News](https://news.stonybrook.edu/newsroom/study-shows-decrease-in-renewable-energy-costs-may-serve-as-an-accelerator-for-clean-energy-expansion/) | [LBL News](https://eta.lbl.gov/news/falling-prices-could-accelerate-china) | [*Carbon Brief* Headline](https://www.carbonbrief.org/guest-post-chinas-power-sector-could-be-10-per-cent-cheaper-in-2030-with-more-renewables) | [*InsideClimateNews*](https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/) | [*E&E News*/*ClimateWire*](https://subscriber.politicopro.com/article/eenews/1063354565) | [*Forbes*](https://www.forbes.com/sites/energyinnovation/2020/08/10/plummeting-renewable-energy-battery-prices-mean-china-could-hit-62-clean-power-and-cut-costs-11-by-2030/?sh=29fa3f2f1519) | [*Nature* News](https://www.nature.com/articles/d41586-020-02927-9)"
   invitedpresentation: "[Asia Pacific Energy Research Centre (APERC) Annual Conference 2020](https://aperc.or.jp/presentations/event_detail.php?article_info__id=388) | [Beijing Institute of Technology](https://ceep.bit.edu.cn/xzhd/xshdyg/8c8df4e81437434fb80b7ebb8d973b4c.htm) | Dartmouth College | [Harvard Kennedy School Growth Lab](https://growthlab.hks.harvard.edu/event/research-seminar-achieving-power-sector-carbon-neutrality-in-a-low-cost-renewable-era/)"
-  categories: [2020, selected, peer-reviewed, highly-cited, nature-series, power-system, switch-china, solar, wind, storage]
+  categories: [2020, selected, peer-reviewed, first-author, corresponding-author, highly-cited, nature-series, power-system, switch-china, solar, wind, storage]
 
 - section: Selected Work
   authors: "**He, Gang**\\*, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang"
@@ -148,9 +149,9 @@
   doi: 10.1016/j.oneear.2020.07.012
   pdf: "https://www.cell.com/action/showPdf?pii=S2590-3322%2820%2930356-0"
   github: "https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China"
-  mediacoverage: "[SBU News](https://news.stonybrook.edu/homespotlight/study-shows-huge-benefits-of-transitioning-away-from-coal-in-china/) | [*Nature* News](https://www.nature.com/articles/d41586-020-02927-9)"
+  mediacoverage: "[SBU News](https://news.stonybrook.edu/homespotlight/study-shows-huge-benefits-of-transitioning-away-from-coal-in-china/) | [*Nature* News](https://www.nature.com/articles/d41586-020-02927-9) | [The Diplomat](https://thediplomat.com/2021/12/india-and-china-can-quit-coal-earlier-but-the-world-must-work-alongside-them/) | [Eco-Business](https://www.eco-business.com/news/health-and-climate-risks-overlap-in-coal-burning-southeast-asia/)"
   invitedpresentation: "Coal Transition Network | Peking University"
-  categories: [2020, selected, peer-reviewed, china, coal, just-transition]
+  categories: [2020, selected, peer-reviewed, first-author, corresponding-author, china, coal, just-transition]
 
 - section: Selected Work
   authors: "**He, Gang**\\*, David Victor"
@@ -164,7 +165,7 @@
   doi: 10.1016/j.resconrec.2017.03.011
   preprint: "https://drganghe.github.io/files/papers/2017-china-electricity-for-all.pdf"
   invitedpresentation: "[Energy Information Administration](https://www.eia.gov/conference/2017/) | [International Association of Energy Economics](https://iaee2017.sg/programme/)"
-  categories: [2017, selected, peer-reviewed, china, electricity]
+  categories: [2017, selected, peer-reviewed, first-author, corresponding-author, china, electricity]
 
 - section: Selected Work
   authors: "**He, Gang**\\*, Hongliang Zhang\\*, Yuan Xu\\*, Xi Lu\\*"
@@ -177,7 +178,7 @@
   pages: 3-10
   doi: 10.1016/j.resconrec.2016.11.003
   pdf: "https://drganghe.github.io/files/papers/2017-RCR-CleanPowerTransition.pdf"
-  categories: [2017, selected, peer-reviewed, power-system]
+  categories: [2017, selected, first-author, corresponding-author, peer-reviewed, power-system]
 
 - section: Selected Work
   authors: "**He, Gang**\\*, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, and Daniel M. Kammen\\*"
@@ -194,7 +195,7 @@
   supplemental: "https://pubs.acs.org/doi/suppl/10.1021/acs.est.6b01345/suppl_file/es6b01345_si_001.pdf"
   github: "https://github.com/switch-model/switch-china-open-model"
   invitedpresentation: "Lawrence Berkeley National Laboratory | Carnegie Mellon University | Michigan State University"
-  categories: [2016, selected, peer-reviewed, power-system, switch-china]
+  categories: [2016, selected, peer-reviewed, first-author, corresponding-author, power-system, switch-china]
 
 - section: Selected Work
   authors: "**He, Gang**\\*, Daniel M. Kammen\\*"
@@ -209,7 +210,7 @@
   pdf: "https://drganghe.github.io/files/papers/2016-RE-ChinaProvincialSolar.pdf"
   data: "https://www.researchgate.net/publication/278679097_Where_when_and_how_much_solar_is_available_A_provincial-scale_solar_resource_assessment_for_China_Dataset"
   highlycited: 1
-  categories: [2016, selected, peer-reviewed, highly-cited, china, solar]
+  categories: [2016, selected, peer-reviewed, first-author, corresponding-author, highly-cited, china, solar]
 
 - section: Selected Work
   authors: "Zhou, Nan\\*, **Gang He**, Christopher Williams, and David Fridley"
@@ -238,7 +239,7 @@
   doi: 10.1016/j.enpol.2014.07.003
   pdf: "https://drganghe.github.io/files/papers/2014-EP-ChinaProvincialWind.pdf"
   data: "https://www.researchgate.net/publication/273258314_Where_when_and_how_much_wind_is_available_A_provincial-scale_wind_resource_assessment_for_China_Dataset"
-  categories: [2014, selected, peer-reviewed, china, wind]
+  categories: [2014, selected, peer-reviewed, first-author, corresponding-author, china, wind]
 
 - section: Selected Work
   authors: "**He, Gang**\\*, Richard Morse"
@@ -253,7 +254,21 @@
   pdf: "https://drganghe.github.io/files/papers/2013-EP-ChinaWindCDM.pdf"
   mediacoverage: "[Caixin Online](https://www.marketwatch.com/story/china-wind-power-stalls-as-international-funds-cut-2010-04-13)"
   invitedpresentation: UNFCCC CDM Executive Board meeting
-  categories: [2013, selected, peer-reviewed, china, carbon]
+  categories: [2013, selected, peer-reviewed, first-author, corresponding-author, china, carbon]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\\*"
+  year: 2026
+  date: 2026-04-21
+  title: Aligning offshore wind deployment with local priorities to accelerate power system decarbonization
+  path: "https://www.nature.com/articles/s43247-026-03533-9"
+  journal: Communications Earth & Environment
+  doi: 10.1038/s43247-026-03533-9
+  pdf: "https://www.nature.com/articles/s43247-026-03533-9.pdf"
+  supplemental: "https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-026-03533-9/MediaObjects/43247_2026_3533_MOESM2_ESM.pdf"
+  github: "https://github.com/blue-marble/gridpath"
+  data: "https://doi.org/10.5281/zenodo.19375841"
+  categories: [2026, nature-series, wind, power-system, grid-path]
 
 - section: Peer-reviewed Journal Paper
   authors: "Lu, Zhenwei, Bin Ye\\*, Zhe Yu, **Gang He**, and Shuai Shao"
@@ -366,6 +381,7 @@
   pages: 108520
   doi: 10.1016/j.resconrec.2025.108520
   pdf: "https://www.sciencedirect.com/science/article/pii/S0921344925003982/pdfft"
+  mediacoverage: "[Carbon Brief](https://www.carbonbrief.org/china-briefing-21-august-2025-chinas-co2-decline-two-mountains-chinas-cement-challenge/)"
   categories: [2025, peer-reviewed, power-system, energy-efficiency]
 
 - section: Peer-reviewed Journal Paper
@@ -425,7 +441,7 @@
   pdf: "https://www.cell.com/action/showPdf?pii=S2590-3322%2824%2900530-X"
   supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S259033222400530X-mmc1.pdf"
   data: "https://doi.org/10.6084/m9.figshare.27394602.v1"
-  awards: "Cell Press 2024 China [Annual Paper](https://mp.weixin.qq.com/s/ZuXip64ASEsaJUDDfO_3bg) in the Sustainable Development Category"
+  awards: "Cell Press 2024 China [Annual Papers](https://mp.weixin.qq.com/s/ZuXip64ASEsaJUDDfO_3bg) in the Sustainable Development Category"
   categories: [2024, peer-reviewed, award, china, just-transition, coal]
 
 - section: Peer-reviewed Journal Paper
@@ -476,6 +492,7 @@
   pdf: "https://www.nature.com/articles/s43247-023-01006-x.pdf"
   supplemental: "https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-023-01006-x/MediaObjects/43247_2023_1006_MOESM2_ESM.pdf"
   data: "https://doi.org/10.5281/zenodo.8275019"
+  mediacoverage: "[THU News](https://www.tsinghua.edu.cn/info/1175/107135.htm)"
   categories: [2023, peer-reviewed, nature-series, supply-chain, carbon, solar, lca]
 
 - section: Peer-reviewed Journal Paper
@@ -507,7 +524,7 @@
   supplemental: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-023-40337-3/MediaObjects/41467_2023_40337_MOESM1_ESM.pdf"
   github: "https://github.com/switch-model/switch-china-open-model"
   data: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-023-40337-3/MediaObjects/41467_2023_40337_MOESM3_ESM.xls"
-  categories: [2023, peer-reviewed, nature-series, power-system, china, storage, switch-china]
+  categories: [2023, peer-reviewed, corresponding-author, nature-series, power-system, china, storage, switch-china]
 
 - section: Peer-reviewed Journal Paper
   authors: "Yue Qin\\*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liangdian Huang, Chaopeng Hong\\*, Edward Byers, Daniel Gingerich, Jeff M. Bielicki, and **Gang He**"
@@ -523,6 +540,7 @@
   shareit: "https://rdcu.be/diKmv"
   supplemental: "https://www.nature.com/articles/s44221-023-00120-6#Sec14"
   data: "https://www.nature.com/articles/s44221-023-00120-6#Sec15"
+  mediacoverage: "[PKU News](https://news.pku.edu.cn/jxky/0d1098aa267a4ddfa1908784ff023570.htm) | [SBU News](https://news.stonybrook.edu/newsroom/taking-a-global-look-at-dry-and-alternative-water-cooling-of-power-plants/)"
   categories: [2023, peer-reviewed, nature-series, energy-nexus, water, carbon]
 
 - section: Peer-reviewed Journal Paper
@@ -552,6 +570,7 @@
   pdf: "https://pubs.acs.org/doi/pdf/10.1021/acs.est.2c05663"
   supplemental: "https://pubs.acs.org/doi/suppl/10.1021/acs.est.2c05663/suppl_file/es2c05663_si_001.pdf"
   github: "https://github.com/blue-marble/gridpath"
+  mediacoverage: "[Carbon Brief](https://www.carbonbrief.org/china-briefing-15-june-cbam-fight-new-energy-milestone-extreme-heat/)"
   categories: [2023, peer-reviewed, power-system, health, climate]
 
 - section: Peer-reviewed Journal Paper
@@ -565,7 +584,7 @@
   pages: 168-88
   doi: 10.1016/j.spc.2022.06.021
   pdf: "https://drganghe.github.io/files/papers/2022-SPC-CarbonEmissionAndStructureAnalysisOfTransport.pdf"
-  categories: [2022, peer-reviewed, industry, carbon, transport]
+  categories: [2022, peer-reviewed, corresponding-author, industry, carbon, transport]
 
 - section: Peer-reviewed Journal Paper
   authors: "Liu, Laibao\\*, Yang Wang\\*, Zheng Wang, Shuangcheng Li\\*, Jiangtao Li, **Gang He**, Yan Li, Yanxu Liu, Shilong Piao, Ziqi Gao, Rui Chang, Wenjun Tang, Kejun Jiang, Shijin Wang, Jun Wang, Lin Zhao, and Qingchen Chao"
@@ -593,6 +612,7 @@
   pages: 103749
   doi: 10.1016/j.isci.2022.103749
   pdf: "https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2900019-0"
+  mediacoverage: "[Carbon Brief](https://www.carbonbrief.org/china-briefing-17-february-2022-new-energy-transition-guidance-five-coal-plants-approved-energy-efficiency-targets-raised/)"
   categories: [2022, peer-reviewed, power-system]
 
 - section: Peer-reviewed Journal Paper
@@ -636,7 +656,7 @@
   pages: 616-627
   doi: 10.1109/TEM.2019.2907872
   pdf: "https://drganghe.github.io/files/papers/2022-IEEETEM-PricingStrategyForGreenProducts.pdf"
-  categories: [2022, peer-reviewed]
+  categories: [2022, peer-reviewed, corresponding-author]
 
 - section: Peer-reviewed Journal Paper
   authors: "Liu, Manzhi\\*, Liyuan Liu, Mengqian Shi, **Gang He**, Shiru Zhang, Mingzhu Shi, Yue Ren, and Bowen Luan"
@@ -665,7 +685,7 @@
   pdf: "https://drganghe.github.io/files/papers/2021-JCP-ChinaPowerCarbonWaterNexus.pdf"
   supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S095965262103941X-mmc1.docx"
   github: "https://github.com/switch-model/switch-china-open-model"
-  categories: [2021, peer-reviewed, energy-nexus, power-system, water, switch-china]
+  categories: [2021, peer-reviewed, corresponding-author, energy-nexus, power-system, water, switch-china]
 
 - section: Peer-reviewed Journal Paper
   authors: "Tang, Liwei, and **Gang He**\\*"
@@ -677,7 +697,7 @@
   volume: 235
   pages: 121375
   doi: 10.1016/j.energy.2021.121375
-  categories: [2021, peer-reviewed, energy-efficiency]
+  categories: [2021, peer-reviewed, corresponding-author, energy-efficiency]
 
 - section: Peer-reviewed Journal Paper
   authors: "Li, Haoran, Xueqin Cui, Jingxuan Hui, **Gang He**, Yuwei Weng, Yaoyu Nie, Can Wang, and Wenjia Cai\\*"
@@ -781,7 +801,7 @@
   volume: 255
   pages: 109859
   doi: 10.1016/j.jenvman.2019.109859
-  categories: [2020, peer-reviewed, waste, lca]
+  categories: [2020, peer-reviewed, corresponding-author, waste, lca]
 
 - section: Peer-reviewed Journal Paper
   authors: "Zhang, Tao, **Gang He**\\*, and Yinuo Han"
@@ -793,7 +813,7 @@
   volume: 244
   pages: 118796
   doi: 10.1016/j.jclepro.2019.118796
-  categories: [2020, peer-reviewed, waste]
+  categories: [2020, peer-reviewed, corresponding-author, waste]
 
 - section: Peer-reviewed Journal Paper
   authors: "Zhang, Chao\\*, **Gang He**, Qian Zhang\\*, Sai Liang, Samuel C. Zipper, Ru Guo, Xu Zhao, Lijin Zhong, and Jiao Wang"
@@ -818,7 +838,7 @@
   volume: 188
   pages: 116044
   doi: 10.1016/j.energy.2019.116044
-  categories: [2019, peer-reviewed, power-system, electricity, heat, natural-gas]
+  categories: [2019, peer-reviewed, corresponding-author, power-system, electricity, heat, natural-gas]
 
 - section: Peer-reviewed Journal Paper
   authors: "**He, Gang**\\*"
@@ -831,7 +851,7 @@
   issue: 1
   doi: 10.5547/2160-5890.8.1.ghe
   pdf: "https://drganghe.github.io/files/papers/2019-He-EEEP-FinancingLastMile.pdf"
-  categories: [2019, peer-reviewed, electricity, china]
+  categories: [2019, peer-reviewed, first-author, corresponding-author, electricity, china]
 
 - section: Peer-reviewed Journal Paper
   authors: "Xu, Jia, Xiujie Tan\\*, **Gang He**, and Yu Liu"
@@ -870,7 +890,7 @@
   pages: 400-408
   doi: 10.1016/j.rser.2018.05.054
   pdf: "https://drganghe.github.io/files/papers/2018-RSER-MappingInter-industrialCO2Flows.pdf"
-  categories: [2018, peer-reviewed, industry, carbon]
+  categories: [2018, peer-reviewed, corresponding-author, industry, carbon]
 
 - section: Peer-reviewed Journal Paper
   authors: "Wang, Qiang\\*, Rongrong Li, and **Gang He**"
@@ -894,7 +914,7 @@
   volume: 125
   pages: 70-85
   doi: 10.1016/j.resconrec.2017.05.015
-  categories: [2017, peer-reviewed, coal, china]
+  categories: [2017, peer-reviewed, corresponding-author, coal, china]
 
 - section: Peer-reviewed Journal Paper
   authors: "Zhang, Ning\\*, Zhaoguang Hu, Bo Shen, **Gang He**, and Yanan Zheng"
@@ -919,7 +939,7 @@
   pages: 115-127
   doi: 10.1016/j.resconrec.2016.04.011
   supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S0921344916300957-mmc1.docx"
-  categories: [2017, peer-reviewed, power-system]
+  categories: [2017, peer-reviewed, corresponding-author, power-system]
 
 - section: Peer-reviewed Journal Paper
   authors: "Lin, Jiang\\*, **Gang He**\\*, Alexandria Yuan"
@@ -932,7 +952,7 @@
   issue: 3
   pages: 48-54
   doi: 10.1016/j.tej.2016.03.010
-  categories: [2016, peer-reviewed, electricity, demand]
+  categories: [2016, peer-reviewed, corresponding-author, electricity, demand]
 
 - section: Peer-reviewed Journal Paper
   authors: "Avrin, Anne-Perrine, **Gang He**, Daniel M. Kammen\\*"

@@ -1,6 +1,6 @@
 ---
 title: "Winning the Baruch Faculty Research Award"
-description: "Dr. Gang He won the Baruch Faculty Research Award in the Third Annual Faculty Cross-College Faculty Research Symposium for his collaborative work on climate impacts on energy systems."
+description: "Gang wins the Baruch Faculty Research Award in the Third Annual Faculty Cross-College Faculty Research Symposium for his collaborative work on climate impacts on energy systems."
 author: "Provost’s Newsletter"
 date: "2024-03-22"
 categories: [news, recognition]

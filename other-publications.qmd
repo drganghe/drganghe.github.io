@@ -1,0 +1,101 @@
+---
+## First run: python xlsx_to_yml.py to convert publications.xlsx to publications.yml
+## then run quarto render to generate the publications.html file, need pub-listing.ejs and pub-listing.css in the same folder
+title: "Other Publications"
+subtitle: "Book chapters, conference proceedings, and other publications"
+title-block-banner: false
+---
+
+{{< include /files/includes/_msclarity.qmd >}}
+{{< include /files/includes/_academic.qmd >}}
+
+
+## Journal Paper in Chinese
+
+Li, Bo, Minyou Chen, Haiwang Zhong, Ziming Ma, Dongran Liu, **He Gang**. 2022. A Review of Long-term Planning of New Power Systems with a Large Share of Renewable Energy. *Proceedings of the CSEE*. doi: [10.13334/j.0258-8013.pcsee.212716](https://doi.org/10.13334/j.0258-8013.pcsee.212716)
+
+Zhang Wenhua, Yan Qingyou, **He Gang**, Yuan Jiahai. The pathway and strategy of China's power system low-carbon transition under the constraints of climate change. *Climate Change Research* 2021, 17(1): 18-26. doi: [10.12006/j.issn.1673-1719.2020.205](https://doi.org/10.12006/j.issn.1673-1719.2020.205)
+
+Peng, Jian, Cai Yunlong, **He Gang**, Wang Wenbo, Huang Qiuhao, and Yan Fen. 2007. Land use/cover change in ecologically fragile karst areas: a case study in Maotiaohe river basin, Guizhou. *Journal of Mountain Sciences* 25(5): 566–576.
+
+**He, Gang**, Cai Yunlong. 2006. Comparative Study on Fractal Dimensions of the River Basins in China at Different Map Scales. *Chinese Geographical Science* 26(4): 461–465.
+
+**He, Gang**, Wu Honglin, Wang Wenbo, Tong De, Sun Xinliang, Li Yejin, and Cao Lige. 2005. Tourists Investigation Study in the Planning of National Forestry Park: Case Study of Taibai Mountain in Shaanxi Province. *Research of Soil and Water Conservation* 12(4): 70–73.
+
+**He, Gang**, Liu Hongyan. 2004. Vegetation Development and Aeolian Activities in Bashang Area of Hebei Province and Otindag Sandy Land of Inner Mongolia. *Acta Scientiarum Naturalium Universitatis Pekinensis* 40(4): 669–675.
+
+**He, Gang**, Cai Yunlong. 2003. Scale Perspective on Ecological Rehabilitation Model — Case Study in Karst Area of Southwest China. *Research of Soil and Water Conservation* 10(3): 83–86.
+
+Wan, Jun, Cai Yunlong, Lu Yunge, and **He Gang**. 2003. Soil erosion risk assessment in karst area — Case Study in Guanling County of Guizhou Province. *Research of Soil and Water Conservation* 10(3): 148–153.
+
+## Book Chapter
+
+Ohshita, Stephanie, et al. [Low Carbon Development for Cities: Methods and Measures](http://onlinelibrary.wiley.com/doi/10.1002/9781118991978.hces107/abstract). *Handbook of Clean Energy Systems*. 2015: 1–23. doi: [10.1002/9781118991978.hces107](https://doi.org/10.1002/9781118991978.hces107)
+
+**He, Gang**, Richard Morse. [China's Coal Import Behavior and Its Impacts to Global Energy Market](http://www.worldscientific.com/doi/abs/10.1142/9789814566582_0032). *Globalization, Development and Security in Asia Vol. 3*. Singapore: World Scientific. 2014: 69–85. doi: [10.1142/9789814566582_0032](https://doi.org/10.1142/9789814566582_0032)
+
+**He, Gang**. [Engaging Emerging Countries: Implications of China's Major Shifts in Climate Policy](http://link.springer.com/chapter/10.1007%2F978-981-4451-12-3_2). *Governments' Responses to Climate Change*. Springer Singapore. 2014: 11–24. doi: [10.1007/978-981-4451-12-3_2](https://doi.org/10.1007/978-981-4451-12-3_2)
+
+## Conference Proceeding
+
+Lee, Mekyung, and **Gang He**. 2017. "Why Is Korea Lagging behind in Electric Vehicle Technology Innovation?" In PICMET '17 Conference. Portland, Oregon, USA.
+
+Ohshita, Stephanie, Nina Khanna, **Gang He**, et al. 2015. Urban form as a "first fuel" for low-carbon mobility in Chinese cities. ECEEE 2015 Summer Study on Energy Efficiency.
+
+**He, Gang**, Nan Zhou, Lixuan Hong, David Fridley, Yong Zhou. 2014. Is Your City Really Sustainable? A Tale of Jinan City Using Quantitative Low-Carbon Eco-city Tools. 2014 ACEEE Summer Study: 119–130.
+
+**He, Gang**, Nan Zhou, Christopher Williams, and David Fridley. 2013. ELITE Cities: A Low-carbon Eco-city Evaluation Tool for China. ECEEE 2013 Summer Study.
+
+Williams, Christopher, Nan Zhou, **Gang He**, and Mark Levine. 2012. Measuring in All the Right Places. 2012 ACEEE Study on Energy Efficiency in Buildings.
+
+## Working Paper
+
+Karali, Nihan, et al. [Towards uniform benefit-cost analysis for smart grid projects](https://eta.lbl.gov/publications/towards-uniform-benefit-cost-analysis). LBNL-1003908. 2015.
+
+**He, Gang**, Jiang Lin, Alexandria Yuan. [Economic Rebalancing and Electricity Demand in China](https://www.osti.gov/servlets/purl/1235078). LBNL-1003799. 2015.
+
+Rui, Huaichuan, Richard Morse, **Gang He**. [Remaking the World's Largest Coal Market](http://pesd.stanford.edu/publications/remaking_the_worlds_largest_coal_market_the_quest_to_develop_large_coalpower_bases_in_china/). PESD WP #98. 2010.
+
+Morse, Richard, **Gang He**. [The World's Greatest Coal Arbitrage](http://pesd.stanford.edu/publications/the_worlds_greatest_coal_arbitrage_chinas_coal_import_behavior_and_implications_for_the_global_coal_market/). PESD WP #94. 2010.
+
+**He, Gang**, Richard Morse. [Making Carbon Offsets Work in Developing World](http://pesd.stanford.edu/publications/making_carbon_offsets_work_in_the_developing_world_lessons_from_the_chinese_wind_controversy/). PESD WP #90. 2010.
+
+Morse, Richard, Varun Rai, **Gang He**. [Real Drivers of Carbon Capture and Storage in China](http://pesd.stanford.edu/publications/the_real_drivers_of_carbon_capture_and_storage_in_china_and_implications_for_climate_policy/). PESD WP #88. 2009.
+
+## Report
+
+Price, Lynn K., et al. 2016. [Low-Carbon City Policy Databook](https://china.lbl.gov/publications/low-carbon-city-policy-databook). LBNL-1006326.
+
+Zhou, Nan, **Gang He**, et al. [A Review of Commercially Available Technologies for Developing Low-Carbon Eco-cities](https://eta.lbl.gov/publications/review-commercially-available). LBNL-179304. 2015.
+
+Asia Society. [A Vital Partnership: California and China Collaborating on Clean Energy and Combating Climate Change](https://asiasociety.org/files/pdf/US_China_Roadmap_on_Climate_Change.pdf). March 4, 2015. (Contributor)
+
+Zhou, Nan, **Gang He**, and Christopher Williams. [China's Development of Low-Carbon Eco-Cities and Associated Indicator Systems](http://china.lbl.gov/publications/china-eco-cities-indicator-systems). LBNL-5873E. 2012.
+
+## Popular Writing
+
+**Gang He**. [Global policy of climate change in Doha](http://www.wem.org.cn/zzlm/fmgs/201303/t20130312_548028.shtml) (in Chinese). *World Environment*. 2013(1).
+
+**Gang He**. Rethinking Shale Gas Revolution (in Chinese). *Energy Observer*. 2012(8).
+
+Daniel Kammen, **Gang He**. [Critical test for Sino-US ties: Clean energy](http://usa.chinadaily.com.cn/epaper/2011-01/21/content_11896339.htm). *China Daily* (USA). January 21, 2011.
+
+**Gang He**, Richard Morse. [Lessons from controversy](http://www.chinadialogue.net/article/show/single/en/3664-Lessons-from-controversy-1-). *China Dialogue*. June 11, 2010.
+
+**Gang He**, C S Kiang. [China, climate change and the equity principle](http://www.chinadialogue.net/article/show/single/en/1589-China-climate-change-and-the-equity-principle). *China Dialogue*. Dec 2007.
+
+**Gang He**. [Chinese Society Confronted with Climate Change](http://www.cefc.com.hk/perspectives.php?iid=166). *China Perspective*. 2007(1). p.77.
+
+## Translation
+
+Alice Frazer Evans, Robert A. Evans and Ronald S. Kraybill. Translated by Keqin Wei and **Gang He**. [Peace Skills: Manual for Community Mediators](http://product.dangdang.com/product.aspx?product_id=22525092) (Chinese). Nanjing University Press. 2011.
+
+Asia Society. Translated by Sonia Song, **Gang He**, and Michael Zhao. [A Roadmap for US-China Collaboration on Carbon Capture and Storage](http://asiasociety.org/files/pdf/AS_CCS_TaskForceReport_Chinese.pdf) (Chinese). 2009.
+
+Denis Hayes. Translated by Keqin Wei and **Gang He**. [Charting a Bold Course](http://www.wem.org.cn/zzlm/tbbd_20507/200904/t20090415_548656.shtml) (Chinese). *World Environment*. 2008(1).
+
+Gus Speth. Translated by **Gang He**. The Heart of the Matter (Chinese). *World Environment*. 2006(2).
+
+Youth Summit Team. Translated by **Gang He**. Our Climate, Our Challenge, Our Future — the Montreal International Youth Declaration (Chinese). *World Environment*. 2005(6).
+
+{{< include /files/includes/_socialshare.qmd >}}

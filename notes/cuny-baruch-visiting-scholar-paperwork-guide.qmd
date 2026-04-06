@@ -18,7 +18,7 @@ from: markdown+emoji
 ```{mermaid}
 flowchart LR
   A[Conditional Invitation] --> 
-  B(Appointment Letter) -->
+  B(Official Invitation Letter) -->
   C{{DS-2019}} -->
   D{{Visa Application}}  -->
   E(Visiting Baruch)
@@ -34,7 +34,7 @@ To begin, you need to secure a conditional invitation letter from a faculty memb
 
 Your potential host may schedule an interview to discuss your proposal and assess the possibilities.
 
-### Step 2: Appointment Letter
+### Step 2: Official Invitation Letter
 
 Once you receive the fellowship or scholarship certificate, forward it to your host faculty member. The certificate is useful for the department or school to issue an official invitation letter. You may skip the first step if you were hired or supported by your host faculty.
 
@@ -50,15 +50,79 @@ The DS-2019 form involves several internal approval processes before the designa
 - Export Control Clearance  
 
 
-Overview of the process for Baruch College export control clearance for J-1 Research Scholars 
+**Overview of the process for Baruch College export control clearance for J-1 Research Scholars** 
 
 <blockquote>
 
 To comply with the “[Guidance on Onboarding J-1 Researchers and Scholars Exchange Visitors](https://www.cuny.edu/wp-content/uploads/sites/4/media-assets/CUNYIntStudentGuidelines-Fall24-03-06-24.pdf)” memorandum dated July 26, 2021 from Robert T. Maruca, CUNY Associate University Provost for Planning, and Tamera Schneider, CUNY Associate Vice Chancellor & University Provost for Research, the Weissman Center for International Business has devised the following procedure for obtaining export control clearance for all prospective J-1 Research Scholars.* 
 
-The process involves several steps.
-
 The process begins whenever a Baruch department or other College office (“Department”) receives an inquiry from someone requesting to be hosted as a prospective international J-1 Research Scholar (“Scholar”). If the Department decides it wishes to host this Scholar, these steps must be taken:
+
+**Documentation from the Host Department**
+
+The host department (faculty mentor) must provide specific program details and certifications.
+
+- **Official Invitation/Offer Letter**: This letter must be on department letterhead, signed by the faculty host and/or department chair, and include:
+  - Specific job title (e.g., Research Scholar, Visiting Professor).
+  - Detailed description of the research activities, project goals, and activities.
+  - Proposed start and end dates of the J-1 program.
+  - Funding source and exact amount if the department is funding the scholar.
+- **English Language Proficiency Certification**: A document confirming that the scholar possesses sufficient English skills (speaking, reading, and understanding) to function successfully in the program and on a day-to-day basis. This is typically satisfied by one of the following:
+  - A recognized standardized test score (e.g., TOEFL, IELTS).
+  - A signed confirmation from the faculty host after a formal interview (the most common method).
+ 
+
+**Documentation from the Scholar**
+
+The scholar must provide evidence of identity, qualifications, and financial ability.
+
+- **Passport**: A clear copy of the biographical page for the scholar and all accompanying J-2 dependents (spouse and children under 21). The passport must be valid for at least six months beyond the J-1 program end date.
+- **Curriculum Vitae (CV) / Resume**: A current CV outlining the scholar's education, research experience, and publications.
+- **Highest Degree Diploma/Certificate**: Copy of the highest degree earned (e.g., Bachelor's, Master's, or Ph.D.).
+- **Prior U.S. Immigration Documents (if applicable)**: Copies of any previous J-1, J-2, or F-1 documents (e.g., all prior DS-2019s, I-20s, and U.S. visa stamps).
+
+**Financial Support Documentation**
+
+The scholar must demonstrate sufficient funding to cover their living expenses for the entire duration of the program.
+
+  - **Evidence of Funding**: This must meet the minimum monthly funding requirement set by the U.S. Department of State and the university's ISSC Office (this minimum varies). Acceptable documents include:
+  - **University Offer/Appointment Letter**: If the host university is providing salary/stipend (must clearly state the amount and dates).
+  - **Award/Grant Letter**: From a government, sponsoring agency, or employer (must be on letterhead, signed, in English, and state the exact amount in USD or equivalent currency).
+  - **Personal Funds**: Current bank statement (dated within the last 6 months) showing the account holder's name and the sufficient available balance.
+  - **Dependent Funding**: Additional funding documentation is required for each accompanying J-2 dependent (usually a set monthly amount per person).
+  - **Completion of the J-1 application**: Forms - Enrollment Management
+  - **J-1 Export-Control-Questionnaire** 
+ 
+
+J-1 exchange visiting professors are not required to complete the step below. Only Short-Term and Research Scholars are required to obtain export control clearance. This process has the following steps:
+
+The hosting department sends to the exchange visitor the attached documents:
+- Foreign Influence Due Diligence form
+- CUNY J-1 Export Control Questionnaire
+Application for the Certificate of Eligibility (Form DS-2019)
+
+Upon receipt, the Department completes and signs the following:
+- Foreign Influence Due Diligence form
+- Application to Host a J-1 Scholar/Professor/Specialist
+ 
+
+Preliminary Steps for Issuance of Form DS-2019
+
+1. Campus Review
+
+The RO or ARO reviews the documents and forwards them to the Baruch College Provost.
+The Provost consults with relevant stakeholders and endorses the request.
+
+2. CUNY Screening
+
+The ISSC RO or ARO submits the dossier for Visual Compliance Screening to the CUNY Office of International Student and Scholar Services (ISSS).
+
+3. Final Campus Review
+
+Upon completion of the visual screening, the dossier is returned to ISSC and forwarded to the Baruch College Provost for final review.
+
+<!--
+The process involves several steps.
 
 Phase I: Departmental Preparation
 
@@ -72,7 +136,7 @@ Phase I: Departmental Preparation
 - Baruch College Application to Host International J-1 Scholar  
 - CUNY Foreign Influence Due Diligence Form for J-1 Visiting Scholar  
 
-4. The Department submits the following materials (completed and with all required signatures) to the SEVIS Responsible Officer (RO) for this J-1 program (currently Dr. Richard Mitten):
+4. The Department submits the following materials (completed and with all required signatures) to the SEVIS Responsible Officer (RO) for this J-1 program:
 
 - Application for Prospective International J-1 Scholar and accompanying documentation (completed by Scholar)  
 - CUNY J-1 Export-Control Questionnaire (completed by Scholar)  
@@ -104,6 +168,8 @@ Phase IV: Final Campus Review
 *Please note: The process described below applies to prospective J-1 Research Scholars only (Short-Term Scholars are processed by the International Student Service Center).
 
 </blockquote>
+
+-->
 
 Additional documents:
 
@@ -152,17 +218,12 @@ This page is for reference only. You should always follow the official guide to 
 
 - Baruch Faculty [Profiles](https://www.baruch.cuny.edu/profiles)
 
-- Study Abroad [Office](https://zicklin.baruch.cuny.edu/faculty-research/centers-institutes/weissman-center-international-business/study-abroad/faculty-staff-resources/)
-
 - CUNY International Student & Scholar Services ([ISSS](https://www.cuny.edu/academics/academic-programs/international-education/isss/))
 
 - CUNY [Export Control](https://www.cuny.edu/research/research-compliance/export-control/)
 
 
-
-
-
-Created: January 3, 2025
+Updated: April 29, 2026; Created: January 3, 2025
 
 <!--Include social share buttons-->
 

@@ -1,10 +1,13 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - "files/"
   pre-render:
     - python files/scripts/xlsx_to_yml.py
   post-render:
-    - python files/scripts/fix-links.py docs/media.html
+    # Only runs fix-links when media.qmd changed or media.html still needs patching
+    - python files/scripts/fix-links-if-media-changed.py docs/media.html media.qmd
 
 # Meta
 description-meta: "Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Keywords: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality"
@@ -14,15 +17,19 @@ website:
   title: "Dr. Gang He"
   image: "/files/gang-he-profile.jpeg"
   description: "Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition."
+  llms-txt: true
  
   navbar:
-    background: light
+    background: "#05336B"
+    foreground: "#FFFFFF"
 
     left:
 #      - text: Home
 #        href: index.qmd
       - text: About
         menu:
+          - text: Bio
+            href: bio.qmd
           - text: News
             href: posts.qmd#category=news
           - text: Events
@@ -73,6 +80,12 @@ website:
       - icon: github
         href: https://github.com/drganghe
         target: _blank
+      - text: "{{< fa brands linkedin >}}"
+        href: https://linkedin.com/in/hegang
+        target: _blank        
+      - text: "{{< fa brands youtube >}}"
+        href: https://www.youtube.com/@DrGangHe
+        target: _blank         
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/hegang.bsky.social
         target: _blank
@@ -86,6 +99,8 @@ website:
   page-navigation: true
   
   page-footer: 
+  #  left: "Energy, Climate, and Sustainability"
+  #  center: "[Bio](bio.qmd) | [Publications](publications.qmd) | [Teaching](teaching.qmd) | [Media](media.qmd) | [Policy Citations](notable-policy-citations.qmd)"
     center: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
     # left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
     # right:  
@@ -125,7 +140,7 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, custom.scss]
     css: styles.css
     toc: true
     footnotes-hover: true

@@ -2,6 +2,15 @@
 /*https://github.com/quarto-dev/quarto-web/blob/main/index.css*/
 /*#447099*/
 
+/* Remove space below navbar */
+body {
+  padding-top: 0 !important;
+}
+
+.hero-left img {
+  border-radius: 8px;  /* adjust to your liking */
+}
+
 .hero-header {
   margin-top: 0px; /* Remove top margin completely */
 }
@@ -32,7 +41,7 @@
 
 .btn-action-primary {
   color: white;
-  background-color: #4169E1 !important;
+  background-color: #05336B !important;
 }
 
 .btn-action-primary:hover {
@@ -89,7 +98,8 @@
 
 /*ChatGPT*/
 span.__dimensions_badge_embed__, div.altmetric-embed {
-  display: inline-block;
+  display: inline-flex;
+  vertical-align: middle;
 }
 
 /*https://stackoverflow.com/questions/35814653/automatic-height-when-embedding-a-youtube-video*/

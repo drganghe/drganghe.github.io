@@ -1,0 +1,95 @@
+/* Remove left border when stacked on mobile */
+@media (max-width: 768px) {
+  .g-col-12.g-col-md-4 {
+    border-left: none !important;
+    padding-left: 0 !important;
+    border-top: 1px solid #ccc;
+    padding-top: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  /* Remove border from first column */
+  .g-col-12.g-col-md-4:first-child {
+    border-top: none;
+    padding-top: 0;
+    margin-top: 0;
+  }
+}
+
+
+/* Hero section */
+.hero-left img {
+  border-radius: 8px;  /* adjust to your liking */
+}
+
+/* Hero stretch to the width of the section */
+.hero-section {
+  margin-bottom: 2rem;
+  align-items: stretch;
+}
+
+/* Add vertical line between columns */
+.hero-right {
+  border-left: 1px solid #ccc;
+  padding-left: 2rem;
+}
+
+/* Reduce space between buttons */
+.hero-links {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  justify-content: center;    /* center the buttons */
+}
+
+.hero-links p {
+  margin: 0;
+  padding: 0;
+}
+
+.hero-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+  padding: 0.35rem 0rem 0.35rem 0.75rem;
+  border: 1px solid #ced4da;   /* slightly darker border */
+  text-decoration: none;
+  font-size: 0.85rem;
+  color: inherit;
+  transition: background 0.15s;
+  width: auto;
+  white-space: nowrap;
+  background-color: white;
+}
+
+.hero-links a:hover {
+  background-color: #f8f9fa;
+}
+
+@media (max-width: 768px) {
+  .hero-right {
+    border-left: none;
+    border-top: 1px solid #ccc;
+    padding-left: 0;
+    padding-top: 1.5rem;
+  }
+
+  .hero-links {
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .hero-links p {
+    width: 100%;        /* each p takes full width so button stretches */
+    margin: 0;
+  }
+  
+  .hero-links a {
+    width: 100%;              /* stretch to full width */
+    box-sizing: border-box;
+  }  
+}

@@ -1,0 +1,39 @@
+# Role of Global Clean Energy Supply Chains in Achieving Climate Goals
+
+event
+
+presentation
+
+Gang is invited to give a guest lecture at Peking University
+
+Author
+
+CESE
+
+Published
+
+March 27, 2024
+
+## Title
+
+Role of Global Clean Energy Supply Chains in Achieving Climate Goals
+
+## Speaker
+
+HE Gang, Baruch College, City University of New York
+
+## Abstract
+
+Achieving carbon neutrality requires deploying renewable energy at unprecedented speed and scale, a process that relies on an efficient global clean energy supply chain. However, the pandemic, geopolitical tensions, and climate-driven events, present significant risks to the stability of the global clean energy supply chains. This talk will discuss the changing landscape and evolving debate over global clean energy supply chain, by analyzing the costs implication, carbon savings, air pollution and human health benefits of global clean energy supply chain, using solar PV as an example. In addressing these challenges and maximizing the benefits, there is a pressing need for a commonly agreed framework for a just, resilient, and sustainable clean energy supply chain.
+
+## Bio
+
+Gang He’s work focuses on energy systems, energy and climate policy, and energy transition. His research advances data-driven, evidence-based energy and climate policy research and offers policy insights for energy decisions and climate actions to achieve carbon neutrality. His work has appeared in high-impact interdisciplinary and field journals such as Nature, Nature Communications, Nature Energy, One Earth, Environmental Science & Technology, Energy Policy. His research has been reported by Nature, Scientific American, Carbon Brief, National Geographic, New York Times, E&E News, among others. His work has direct policy impacts. He testified for the New York State Climate Leadership and Community Protection Act before it became law and has advised the New York State Climate Action Council’s Scoping Plan. He has also been involved in the U.S.-China collaboration on energy and climate change. He received his Ph.D. in Energy and Resources from the University of California, Berkeley. He also holds an M.A. in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.
+
+## Relevant papers
+
+[Other papers »](../../posts.llms.md#category=paper)
+
+## Flyer
+
+[![](../../files/flyers/20240327PKU.png)](https://cese.pku.edu.cn/images/content/2024-03/20240325151929637875.png)

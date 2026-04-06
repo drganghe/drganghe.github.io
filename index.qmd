@@ -1,5 +1,5 @@
 ---
-title: "Gang He, PhD"
+title: "Gang He"
 subtitle: |
   Associate Professor \
   Marxe School of Public and International Affairs \
@@ -11,65 +11,17 @@ image: "files/profile/Gang_He_2025_CUNY_2.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
-page-layout: full
-
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 80%
-  links:
-    - icon: sun
-      text: DeepPolicyLab
-      href: https://deeppolicylab.github.io
-      target: _blank
-    - text: "![](/files/images/cuny-logo.png){width=20} CUNYprofile"   # use image logo
-      href: https://www.baruch.cuny.edu/profiles/faculty/Gang-He
-      target: _blank     
-#    - icon: globe
-#      text: CUNYprofile
-#      href: https://www.baruch.cuny.edu/profiles/faculty/Gang-He
-#      target: _blank
-#    - icon: envelope
-#     text: E-mail
-#      href: mailto:gang.he@baruch.cuny.edu
-#    - icon: github
-#      text: Github
-#      href: https://github.com/drganghe
-#    - icon: twitter
-#      text: Twitter
-#      href: https://twitter.com/DrGangHe
-#    - icon: mastodon
-#      text: Mastodon
-#      href: https://mastodon.social/@hegang      
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/hegang
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com/@DrGangHe     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed
-      href: https://orcid.org/0000-0002-8416-1965
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com/wos/author/record/N-4549-2013  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
-      target: _blank
-    - text: "{{< ai semantic-scholar >}} Semantic Scholar"
-      href: https://www.semanticscholar.org/author/Gang-He/49430802
-      target: _blank
-    - text: "![](/files/images/dimensions-logo.jpeg){width=15} Dimensions"  # use customize image or logo
-      href: https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50
-      target: _blank      
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com/citations?user=vf90AuEAAAAJ
-      target: _blank
-    - text: "{{< ai researchgate >}} Research Gate"
-      href: https://www.researchgate.net/profile/Gang-He-19
-      target: _blank
+page-layout: custom
+css: custom.css
+format:
+  html:
+    link-external-icon: false
+    include-in-header:
+      - file: files/includes/_mswebmaster.js
+      - text: |
+          <style>
+          .quarto-title-block { display: none; }
+          </style>
 
 listing:
   - id: recent-posts
@@ -77,18 +29,50 @@ listing:
       - posts
       - posts/post-links.yml
     exclude:
-      title: "Brown China Summit Renewable Energy Panel"
+      categories: [paper, featured]
     type: grid
+    grid-columns: 3
     max-items: 3
 #    image-height: 150px
     page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
+    fields: [image, date, title]
     max-description-length: 75
     sort: 
       - "date desc"
       - "title asc"
-include-in-header: 
-  - file: files/includes/_mswebmaster.js
+  - id: latest-papers
+    contents: 
+      - posts
+      - posts/post-links.yml
+    include:
+      categories: [paper]
+    type: grid
+    grid-columns: 3
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"         
+  - id: featured-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+    include:
+      categories: [featured]
+    type: grid
+    grid-columns: 3
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"      
+
 ---
 
 <link rel="me" href="https://mastodon.social/@hegang">
@@ -96,29 +80,89 @@ include-in-header:
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
+::: {.background-frame .alt-background}
+::: {.content-block}
 
-:::{#hero-heading}
+<div style="height: 40px;"></div>
 
-Gang He is an energy scholar, researcher, and teacher whose research focuses on the intersection of energy systems, climate policy, and sustainable development.  He is an Associate Professor at the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/our-community/faculty-and-staff/full-time-faculty/){.external target="_blank"}, Baruch College, City University of New York (CUNY). He also serves as Doctoral Faculty in [Earth and Environmental Sciences](https://www.gc.cuny.edu/people/gang-he){.external target="_blank"} at the CUNY Graduate Center, and is a Faculty Affiliate at the [CUNY Institute for Demographic Research](https://www.cuny.edu/about/centers-and-institutes/demographic-research/){.external target="_blank"}. He is the founder and director of the [Deep Energy and Climate Policy Lab](https://deeppolicylab.github.io){.external target="_blank"}, aiming at deep analysis and deep insights for deep decarbonization. 
+::: {.grid}
+::: {.g-col-12 .g-col-md-5 .hero-left}
 
-He teaches [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society/){.external target="_blank"} at the undergraduate level, and [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy/){.external target="_blank"} and [Program Evaluation](https://drganghe.github.io/program-evaluation/){.external target="_blank"} at the graduate level. He organizes the [Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/){.external target="_blank"} series which brings in experts and professionals to talk about climate challenges and solutions to inspire the next generation of climate leaders.
-
-His research explores how the world can achieve carbon neutrality by mid-century to address climate change—and how the clean energy transition can be made more sustainable, resilient, and equitable. His leading and collaborative [work](/posts.qmd#category=paper) has appeared in high-impact interdisciplinary and field journals such as [*Nature*](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd), [*Nature Communications*](/posts/2020-05-ncomms-rapid-re-cost/index.qmd), [*Nature Energy*](/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd), [*Nature Water*](/posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/index.qmd), [*One Earth*](/posts/2020-08-oneearth-coal-just-transition/index.qmd), [*Environmental Science \& Technology*](/posts/2016-est-switch-china/index.qmd), and [*Energy Policy*](/posts/2013-ep-carbon-offsetters-paradox/index.qmd). 
-
-His research has been [supported](https://deeppolicylab.github.io/projects.html) by a diverse range of sources, including federal and state agencies, NGOs, foundations, and industry partners. His work has been [reported](/media.qmd) by leading outlets such as *Nature*, *The Economist*, *The New York Times*, *Scientific American*, *Carbon Brief*, *National Geographic*, and *E\&E News*.
-
-His work has informed policy discussions and processes. His research findings have been [cited](notable-policy-citations.qmd) in notable reports by global institutions such as the IPCC (AR6), IIASA, World Bank, UNEP, IRENA, WTO, SEI, IISD, CSIS, and Brookings. He testified for the [New York State Climate Leadership and Community Protection Act](/posts/2019-nyclcpa-testimony/index.qmd) and has advised the New York State Climate Action Council’s [Scoping Plan](/posts/2021-12-nysclcpa-scoping-plan-draft/index.qmd). He has also been involved in the [U.S.-China collaboration on energy and climate change](/posts/2024-06-us-china-working-group-on-enhancing-climate-action/index.qmd) as an expert member in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s.
-
-He has been selected as Asia 21 Young Leaders (2007), Aspen Environment Forum Scholars (2011), Young Scholar of the Institute for New Economic Thinking (2013), [ITIF Energy Innovation Policy and Management Scholar](https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/){.external target="_blank"} (2019), [Public Intellectuals Program Fellow](https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/){.external target="_blank"} (2025) of the National Committee on US-China Relations, and recognized as [World's Top 2% Scientists](/posts/stanford-elsevier-top-2percent-scientists/index.qmd) (2024, 2025) on the Stanford/Elsevier Top 2% Scientists List.
-
-He has worked for the [Department of Technology and Society](https://www.stonybrook.edu/commcms/est/faculty/affiliated-faculty/GangHe){.external target="_blank"} at Stony Brook University, the [Energy Technology Area](https://eta.lbl.gov/people/gang-he){.external target="_blank"} at Lawrence Berkeley National Laboratory, and the [Program on Energy and Sustainable Development](https://pesd.fsi.stanford.edu/people/Gang_He){.external target="_blank"} at Stanford University. He received his Ph.D. in [Energy and Resources](https://erg.berkeley.edu/people/gang-he/){.external target="_blank"} from University of California, Berkeley. He also holds an M.A. in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.
+[![](files/profile/Gang_He_2025_CUNY_2.jpg){width=90% fig-align="center"}](bio.qmd)
 
 :::
 
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+
+::: {.g-col-12 .g-col-md-7 .hero-right}
+
+<p align="center" style="font-size:2rem; font-weight:bold;">Gang He</p>
+
+<p align="center" style="font-size:1.5rem;">
+Associate Professor of Energy and Climate Policy\
+Marxe School of Public and International Affairs \
+Baruch College \
+City University of New York \
+Email: gang.he@baruch.cuny.edu
+</p>
+
+::: {.button}
+[Full Bio](bio.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+
+<p align="center" style="font-size:2rem;">
+[{{< fa sun >}}](https://deeppolicylab.github.io){style="color: #05336B;"}&ensp;[{{< fa globe >}}](https://www.baruch.cuny.edu/profiles/faculty/Gang-He){style="color: #05336B;"}&ensp;[{{< ai google-scholar >}}](https://scholar.google.com/citations?user=vf90AuEAAAAJ){style="color: #05336B;"}&ensp;[{{< ai researchgate >}}](https://www.researchgate.net/profile/Gang-He-19){style="color: #05336B;"}&ensp;[{{< ai orcid >}}](https://orcid.org/0000-0002-8416-1965){style="color: #05336B;"}&ensp;[{{< ai clarivate >}}](https://www.webofscience.com/wos/author/record/N-4549-2013){style="color: #05336B;"}&ensp;[{{< ai scopus >}}](https://www.scopus.com/authid/detail.uri?authorId=55607981900){style="color: #05336B;"}&ensp;[{{< ai semantic-scholar >}}](https://www.semanticscholar.org/author/Gang-He/49430802){style="color: #05336B;"}  
+</p>
+
+:::
+
+:::
+
+:::
+:::
+
+
+::: {.background-frame}
+::: {.content-block}
+
+<p align="center" style="font-size:32px; font-weight:bold;">Recent Posts</p>
 
 :::{#recent-posts}
 :::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+::: {.button}
+[More posts](posts.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::
+
+::: {.background-frame .alt-background}
+::: {.content-block}
+
+<p align="center" style="font-size:32px; font-weight:bold;">Latest Papers</p>
+
+:::{#latest-papers}
+:::
+
+::: {.button}
+[More papers](posts.qmd#category=paper){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::
+
+::: {.background-frame}
+::: {.content-block}
+
+<p align="center" style="font-size:32px; font-weight:bold;">Featured Posts</p>
+
+:::{#featured-posts}
+:::
+
+::: {.button}
+[More featured](posts.qmd#category=featured){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::

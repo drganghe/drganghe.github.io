@@ -40,7 +40,7 @@ I had the pleasure of teaching the EMPA class Program Evaluation with Professor 
 - [John Muir and National Park System](https://drganghe.github.io/program-evaluation/2024/john-muir-and-national-park.html){target="_blank"}    
 - [Esther Duflo and RCTs](https://drganghe.github.io/program-evaluation/2024/esther-duflo-and-rcts.html){target="_blank"}
 - [Fei-Fei Li and ImageNet](https://drganghe.github.io/program-evaluation/2024/feifei-li-imagenet-and-ai-revolution.html){target="_blank"} 
-- [Hans Rosling and Storytelling](https://drganghe.github.io/program-evaluation/2024/hans-rosling-data-visualization-and-storystelling.html){target="_blank"} 
+- [Hans Rosling and Storytelling](https://drganghe.github.io/program-evaluation/2024/hans-rosling-data-visualization-and-storytelling.html){target="_blank"} 
 - [Robert Bullard and Environmental Justice](https://drganghe.github.io/program-evaluation/2024/robert-bullard-and-environmental-justice.html){target="_blank"} 
 - [The Moral Machine](https://drganghe.github.io/program-evaluation/2024/the-moral-machine-and-ethics.html){target="_blank"} 
 

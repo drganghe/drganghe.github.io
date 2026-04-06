@@ -11,7 +11,7 @@ author:
   - name: Jianwei Tian
   - name: Daniel M. Kammen
 date: "2016-05-08"
-categories: [paper, poster]
+categories: [paper, poster, featured]
 image: "featured.png"
 citation:
   type: article-journal

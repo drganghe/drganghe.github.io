@@ -9,7 +9,7 @@
 <meta name="author" content="Gang He">
 <meta name="description" content="Gang He is an energy scholar, researcher, and teacher. He is an Associate Professor at the Marxe School of Public and International Affairs, Baruch College, City University of New York. He studies and teaches energy systems, energy and climate policy, and clean energy transition.">
 
-<title>Gang He, PhD – Dr.&nbsp;Gang He</title>
+<title>Gang He – Dr.&nbsp;Gang He</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -41,11 +41,16 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-346337e101949f30c9d2a2307ffdd10b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-849d3b85365a1725b7647c0c4b332f6e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-849d3b85365a1725b7647c0c4b332f6e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-849d3b85365a1725b7647c0c4b332f6e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
@@ -86,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 3,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
@@ -94,6 +99,64 @@ ul.task-list li input[type="checkbox"] {
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-latest-papers .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 3,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-latest-papers'] = new List('listing-latest-papers', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-featured-posts .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 3,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-featured-posts'] = new List('listing-featured-posts', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -140,6 +203,9 @@ https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a
 -->
 
 <meta name="msvalidate.01" content="9C59F9F1BA58645E8B9B3CD7CF36F352">
+<style>
+.quarto-title-block { display: none; }
+</style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -172,7 +238,8 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Gang He, PhD – Dr.&nbsp;Gang He">
+<link rel="stylesheet" href="custom.css">
+<meta property="og:title" content="Gang He – Dr.&nbsp;Gang He">
 <meta property="og:description" content="Associate Professor
 Marxe School of Public and International Affairs
 Baruch College
@@ -180,7 +247,7 @@ City University of New York
 Email: gang.he@baruch.cuny.edu">
 <meta property="og:image" content="https://drganghe.github.io/files/profile/Gang_He_2025_CUNY_2.jpg">
 <meta property="og:site_name" content="Dr.&nbsp;Gang He">
-<meta name="twitter:title" content="Gang He, PhD – Dr.&nbsp;Gang He">
+<meta name="twitter:title" content="Gang He – Dr.&nbsp;Gang He">
 <meta name="twitter:description" content="Associate Professor
 Marxe School of Public and International Affairs
 Baruch College
@@ -190,7 +257,7 @@ Email: gang.he@baruch.cuny.edu">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -212,6 +279,10 @@ Email: gang.he@baruch.cuny.edu">
  <span class="menu-text">About</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./bio.html">
+ <span class="dropdown-text">Bio</span></a>
+  </li>  
         <li>
     <a class="dropdown-item" href="./posts.html#category=news">
  <span class="dropdown-text">News</span></a>
@@ -312,6 +383,14 @@ Email: gang.he@baruch.cuny.edu">
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="https://linkedin.com/in/hegang" target="_blank"> 
+<span class="menu-text"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.youtube.com/@DrGangHe" target="_blank"> 
+<span class="menu-text"><i class="fa-brands fa-youtube" aria-label="youtube"></i></span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="https://bsky.app/profile/hegang.bsky.social" target="_blank"> 
 <span class="menu-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span></a>
   </li>  
@@ -328,14 +407,33 @@ Email: gang.he@baruch.cuny.edu">
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-layout-custom page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Gang He</h1>
+<p class="subtitle lead">Associate Professor<br>
+Marxe School of Public and International Affairs<br>
+Baruch College<br>
+City University of New York<br>
+Email: gang.he@baruch.cuny.edu</p>
+</div>
 
 
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
 
 
 <p><link rel="me" href="https://mastodon.social/@hegang"></p>
@@ -350,78 +448,135 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/profile/Gang_He_2025_CUNY_2.jpg" class="about-image
-  rounded " style="width: 80%;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Gang He, PhD</h1>
-<p class="subtitle lead">Associate Professor<br>
+<div class="background-frame alt-background">
+<div class="content-block">
+<div style="height: 40px;">
+
+</div>
+<div class="grid">
+<div class="g-col-12 g-col-md-5 hero-left">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="./bio.html"><img src="files/profile/Gang_He_2025_CUNY_2.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:90.0%"></a></p>
+</figure>
+</div>
+</div>
+<div class="g-col-12 g-col-md-7 hero-right">
+<p align="center" style="font-size:2rem; font-weight:bold;">
+Gang He
+</p>
+<p align="center" style="font-size:1.5rem;">
+Associate Professor of Energy and Climate Policy<br>
 Marxe School of Public and International Affairs<br>
 Baruch College<br>
 City University of New York<br>
-Email: gang.he@baruch.cuny.edu</p>
+Email: gang.he@baruch.cuny.edu
+</p>
+<div class="button">
+<p><a href="./bio.html" class="btn-action-primary btn-action btn btn-success btn-lg" role="button" style="margin-top: 0em;">Full Bio</a></p>
 </div>
-<div class="quarto-title-meta column-page">
-  </div>
-</header>
-    <div class="about-links">
-  <a href="https://deeppolicylab.github.io" class="about-link" rel="" target="_blank">
-    <i class="bi bi-sun"></i>
-     <span class="about-link-text">DeepPolicyLab</span>
-  </a>
-  <a href="https://www.baruch.cuny.edu/profiles/faculty/Gang-He" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><img src="./files/images/cuny-logo.png" class="img-fluid" width="20"> CUNYprofile</span>
-  </a>
-  <a href="https://linkedin.com/in/hegang" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://www.youtube.com/@DrGangHe" class="about-link" rel="" target="_blank">
-    <i class="bi bi-youtube"></i>
-     <span class="about-link-text">YouTube</span>
-  </a>
-  <a href="https://orcid.org/0000-0002-8416-1965" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-orcid"></i> ORCID</span>
-  </a>
-  <a href="https://www.webofscience.com/wos/author/record/N-4549-2013" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-clarivate"></i> Web of Science</span>
-  </a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=55607981900" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-scopus"></i> Scopus</span>
-  </a>
-  <a href="https://www.semanticscholar.org/author/Gang-He/49430802" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-semantic-scholar"></i> Semantic Scholar</span>
-  </a>
-  <a href="https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><img src="./files/images/dimensions-logo.jpeg" class="img-fluid" width="15"> Dimensions</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=vf90AuEAAAAJ" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-google-scholar"></i> Google Scholar</span>
-  </a>
-  <a href="https://www.researchgate.net/profile/Gang-He-19" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-researchgate"></i> Research Gate</span>
-  </a>
+<p align="center" style="font-size:2rem;">
+<a href="https://deeppolicylab.github.io" style="color: #05336B;"><i class="fa-solid fa-sun" aria-label="sun"></i></a> <a href="https://www.baruch.cuny.edu/profiles/faculty/Gang-He" style="color: #05336B;"><i class="fa-solid fa-globe" aria-label="globe"></i></a> <a href="https://scholar.google.com/citations?user=vf90AuEAAAAJ" style="color: #05336B;"><i class="ai  ai-google-scholar"></i></a> <a href="https://www.researchgate.net/profile/Gang-He-19" style="color: #05336B;"><i class="ai  ai-researchgate"></i></a> <a href="https://orcid.org/0000-0002-8416-1965" style="color: #05336B;"><i class="ai  ai-orcid"></i></a> <a href="https://www.webofscience.com/wos/author/record/N-4549-2013" style="color: #05336B;"><i class="ai  ai-clarivate"></i></a> <a href="https://www.scopus.com/authid/detail.uri?authorId=55607981900" style="color: #05336B;"><i class="ai  ai-scopus"></i></a> <a href="https://www.semanticscholar.org/author/Gang-He/49430802" style="color: #05336B;"><i class="ai  ai-semantic-scholar"></i></a>
+</p>
 </div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p>Gang He is an energy scholar, researcher, and teacher whose research focuses on the intersection of energy systems, climate policy, and sustainable development. He is an Associate Professor at the <a href="https://marxe.baruch.cuny.edu/homepage/our-community/faculty-and-staff/full-time-faculty/" class="external" target="_blank">Marxe School of Public and International Affairs</a>, Baruch College, City University of New York (CUNY). He also serves as Doctoral Faculty in <a href="https://www.gc.cuny.edu/people/gang-he" class="external" target="_blank">Earth and Environmental Sciences</a> at the CUNY Graduate Center, and is a Faculty Affiliate at the <a href="https://www.cuny.edu/about/centers-and-institutes/demographic-research/" class="external" target="_blank">CUNY Institute for Demographic Research</a>. He is the founder and director of the <a href="https://deeppolicylab.github.io" class="external" target="_blank">Deep Energy and Climate Policy Lab</a>, aiming at deep analysis and deep insights for deep decarbonization.</p>
-<p>He teaches <a href="https://drganghe.github.io/energy-climate-society/" class="external" target="_blank">Energy, Climate, and Society</a> at the undergraduate level, and <a href="https://drganghe.github.io/energy-climate-policy/" class="external" target="_blank">Energy and Climate Policy</a> and <a href="https://drganghe.github.io/program-evaluation/" class="external" target="_blank">Program Evaluation</a> at the graduate level. He organizes the <a href="https://drganghe.github.io/climate-guest-speakers/" class="external" target="_blank">Climate Guest Speakers</a> series which brings in experts and professionals to talk about climate challenges and solutions to inspire the next generation of climate leaders.</p>
-<p>His research explores how the world can achieve carbon neutrality by mid-century to address climate change—and how the clean energy transition can be made more sustainable, resilient, and equitable. His leading and collaborative <a href="./posts.html#category=paper">work</a> has appeared in high-impact interdisciplinary and field journals such as <a href="./posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"><em>Nature</em></a>, <a href="./posts/2020-05-ncomms-rapid-re-cost/index.html"><em>Nature Communications</em></a>, <a href="./posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"><em>Nature Energy</em></a>, <a href="./posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/index.html"><em>Nature Water</em></a>, <a href="./posts/2020-08-oneearth-coal-just-transition/index.html"><em>One Earth</em></a>, <a href="./posts/2016-est-switch-china/index.html"><em>Environmental Science &amp; Technology</em></a>, and <a href="./posts/2013-ep-carbon-offsetters-paradox/index.html"><em>Energy Policy</em></a>.</p>
-<p>His research has been <a href="https://deeppolicylab.github.io/projects.html">supported</a> by a diverse range of sources, including federal and state agencies, NGOs, foundations, and industry partners. His work has been <a href="./media.html">reported</a> by leading outlets such as <em>Nature</em>, <em>The Economist</em>, <em>The New York Times</em>, <em>Scientific American</em>, <em>Carbon Brief</em>, <em>National Geographic</em>, and <em>E&amp;E News</em>.</p>
-<p>His work has informed policy discussions and processes. His research findings have been <a href="./notable-policy-citations.html">cited</a> in notable reports by global institutions such as the IPCC (AR6), IIASA, World Bank, UNEP, IRENA, WTO, SEI, IISD, CSIS, and Brookings. He testified for the <a href="./posts/2019-nyclcpa-testimony/index.html">New York State Climate Leadership and Community Protection Act</a> and has advised the New York State Climate Action Council’s <a href="./posts/2021-12-nysclcpa-scoping-plan-draft/index.html">Scoping Plan</a>. He has also been involved in the <a href="./posts/2024-06-us-china-working-group-on-enhancing-climate-action/index.html">U.S.-China collaboration on energy and climate change</a> as an expert member in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s.</p>
-<p>He has been selected as Asia 21 Young Leaders (2007), Aspen Environment Forum Scholars (2011), Young Scholar of the Institute for New Economic Thinking (2013), <a href="https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/" class="external" target="_blank">ITIF Energy Innovation Policy and Management Scholar</a> (2019), <a href="https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/" class="external" target="_blank">Public Intellectuals Program Fellow</a> (2025) of the National Committee on US-China Relations, and recognized as <a href="./posts/stanford-elsevier-top-2percent-scientists/index.html">World’s Top 2% Scientists</a> (2024, 2025) on the Stanford/Elsevier Top 2% Scientists List.</p>
-<p>He has worked for the <a href="https://www.stonybrook.edu/commcms/est/faculty/affiliated-faculty/GangHe" class="external" target="_blank">Department of Technology and Society</a> at Stony Brook University, the <a href="https://eta.lbl.gov/people/gang-he" class="external" target="_blank">Energy Technology Area</a> at Lawrence Berkeley National Laboratory, and the <a href="https://pesd.fsi.stanford.edu/people/Gang_He" class="external" target="_blank">Program on Energy and Sustainable Development</a> at Stanford University. He received his Ph.D.&nbsp;in <a href="https://erg.berkeley.edu/people/gang-he/" class="external" target="_blank">Energy and Resources</a> from University of California, Berkeley. He also holds an M.A.&nbsp;in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.</p>
-</div></div>
 </div>
-
-<section id="recent-posts" class="level2">
-<h2 data-anchor-id="recent-posts">Recent Posts</h2>
-<p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
+</div>
+</div>
+<div class="background-frame">
+<div class="content-block">
+<p align="center" style="font-size:32px; font-weight:bold;">
+Recent Posts
+</p>
 <div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1768885200000" data-listing-file-modified-sort="1772207330140" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1138">
+<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ3JlY29nbml0aW9u" data-listing-date-sort="1779336000000" data-listing-file-modified-sort="1781135387266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
+<a href="./posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/featured.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Receiving the Sandi Cooper Award for Outstanding Research for Associate Professors
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 21, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="bmV3cyUyQ2V2ZW50JTJDcHJlc2VudGF0aW9u" data-listing-date-sort="1776225600000" data-listing-file-modified-sort="1778580773826" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="487">
+<a href="./posts/2026-04-15-fourth-baruch-climate-conference/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026-04-15-fourth-baruch-climate-conference/featured.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fourth Annual Conference on Climate Research, Teaching, and Collaboration
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 15, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="bmV3cyUyQ2V2ZW50JTJDcHJlc2VudGF0aW9u" data-listing-date-sort="1773460800000" data-listing-file-modified-sort="1775153923642" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="62">
+<a href="./posts/2026-brown-china-summit-renewable-energy-panel/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./files/images/BrownChinaSummit2026.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Brown China Summit Renewable Energy Panel
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 14, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<div class="button">
+<p><a href="./posts.html" class="btn-action-primary btn-action btn btn-success btn-lg" role="button" style="margin-top: 0em;">More posts</a></p>
+</div>
+</div>
+</div>
+<div class="background-frame alt-background">
+<div class="content-block">
+<p align="center" style="font-size:32px; font-weight:bold;">
+Latest Papers
+</p>
+<div id="listing-latest-papers" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1776744000000" data-listing-file-modified-sort="1778580774056" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="232">
+<a href="./posts/2026-04-commsee-aligning-offshore-wind-development-with-local-priorities/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026-04-commsee-aligning-offshore-wind-development-with-local-priorities/figure1a.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Aligning offshore wind deployment with local priorities to accelerate power system decarbonization
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 21, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="cGFwZXI=" data-listing-date-sort="1768885200000" data-listing-file-modified-sort="1772207330140" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1138">
 <a href="./posts/2026-01-nrct-grid-decarbonization-year-in-review/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -431,9 +586,6 @@ Email: gang.he@baruch.cuny.edu</p>
 <h5 class="no-anchor card-title listing-title">
 Renewable integration and AI demand reshaped power grids in 2025
 </h5>
-<div class="card-subtitle listing-subtitle">
-<em>Nature Reviews Clean Technology</em>
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jan 20, 2026
@@ -442,7 +594,40 @@ Jan 20, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1765947600000">
+<div class="g-col-1" data-index="2" data-categories="cGFwZXIlMkNpbmZvZ3JhcGhpYw==" data-listing-date-sort="1759896000000" data-listing-file-modified-sort="1778580774090" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="243">
+<a href="./posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Imported solar photovoltaics contributed to health and climate benefits in the United States
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Oct 8, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<div class="button">
+<p><a href="./posts.html#category=paper" class="btn-action-primary btn-action btn btn-success btn-lg" role="button" style="margin-top: 0em;">More papers</a></p>
+</div>
+</div>
+</div>
+<div class="background-frame">
+<div class="content-block">
+<p align="center" style="font-size:32px; font-weight:bold;">
+Featured Posts
+</p>
+<div id="listing-featured-posts" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2ZlYXR1cmVk" data-listing-date-sort="1765947600000">
 <a href="https://deeppolicylab.github.io/news/2025-12-17-sloan-grant-drivers-and-impacts-domestic-manufacturing.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -460,19 +645,37 @@ Dec 17, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1765861200000" data-listing-file-modified-sort="1772202908336" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
-<a href="./posts/2025-12-baruch-17-lex-society-feature-story/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="bmV3cyUyQ3JlY29nbml0aW9uJTJDZmVhdHVyZWQ=" data-listing-date-sort="1758254400000" data-listing-file-modified-sort="1778580774200" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="232">
+<a href="./posts/stanford-elsevier-top-2percent-scientists/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./posts/2025-12-baruch-17-lex-society-feature-story/featured.webp" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./files/awards/Top2Percent.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-17 Lex Society Feature Story: Research That Powers Change
+Included in World’s Top 2% Scientists List 2025
 </h5>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
-Dec 16, 2025
+Sep 19, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="bmV3cyUyQ3JlY29nbml0aW9uJTJDZmVhdHVyZWQ=" data-listing-date-sort="1755057600000">
+<a href="https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./files/images/pip-fellow-2025.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Selected as Public Intellectuals Program Fellow
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Aug 13, 2025
 </div>
 </div>
 </div>
@@ -481,18 +684,25 @@ Dec 16, 2025
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<p align="right">
-<a href="./posts.html">All Posts »</a>
-</p>
+<div class="button">
+<p><a href="./posts.html#category=featured" class="btn-action-primary btn-action btn btn-success btn-lg" role="button" style="margin-top: 0em;">More featured</a></p>
+</div>
+</div>
+</div>
 
 
 
 
-</section>
 
-</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

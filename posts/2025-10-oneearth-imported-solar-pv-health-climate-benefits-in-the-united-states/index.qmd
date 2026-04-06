@@ -53,7 +53,7 @@ Release [summary](https://deeppolicylab.github.io/news/2025-10-08-one-earth-impo
 
 ## Infographic
 
-![Credit: Jason M. Epstein and Marxe Communications team](Infographic.jpg)
+[![Credit: Jason M. Epstein and Marxe Communications team](Infographic.jpg)](https://marxe.baruch.cuny.edu/wp-content/uploads/sites/7/2025/11/Infographic-Gang.jpg)
 
 <!--Include social share buttons-->
 

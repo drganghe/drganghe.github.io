@@ -5,7 +5,7 @@
       author: "Alfred P. Sloan Foundation"
       description: "Gang He, Kaifang Luo, Michael Davidson, Ahmad Lashkaripour, Ilaria Mazzocco, and Minghao Qiu are awarded a $750,000 new Alfred P. Sloan Foundation grant to study the drivers and impacts of domestic clean manufacturing interventions, resulting from an Open Call on Energy System Interactions in the United States."
       date: "2025-12-17"
-      categories: [news] 
+      categories: [news, featured] 
 
 
     - path: https://deeppolicylab.github.io/events/2025-09-23-nyc-climate-week-nuclear-energy-panel/index.html
@@ -22,7 +22,7 @@
       author: "National Committee on US-China Relations"
       description: "Gang He was selected as a Ninth Round Public Intellectuals Program Fellow of the National Committee on US-China Relations."
       date: "2025-08-13"
-      categories: [news, recognition]
+      categories: [news, recognition, featured]
 
     - path: https://deeppolicylab.github.io/events/2025-07-01-mes-supply-chains-in-energy-systems-panel/index.html
       image: /files/flyers/20250701mes-supply-chains-flyer-small.png
@@ -64,4 +64,4 @@
       author: "ITIF"
       description: "Grateful to join a group of energy innovation scholars in the ITIF/Sloan Energy Innovation Policy and Management Scholars program"
       date: "2019-05-20"
-      categories: [news, recognition]
+      categories: [news, recognition, featured]

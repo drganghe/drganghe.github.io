@@ -10,7 +10,7 @@ author:
   - name: Nikit Abhyankar
   - name: Amol Phadke
 date: "2020-05-15"
-categories: [paper]
+categories: [paper, featured]
 image: "featured.png"
 citation:
   type: article-journal

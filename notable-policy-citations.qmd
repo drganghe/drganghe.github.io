@@ -8,6 +8,25 @@ title-block-banner: false
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+<span style="font-size: 2rem; color: #05336B; font-weight: bold;">80</span> policy documents
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<span style="font-size: 2rem; color: #05336B; font-weight: bold;">30</span> leading policy institutions
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<span style="font-size: 2rem; color: #05336B; font-weight: bold;">5</span> continents
+:::
+
+:::
+
+
+[![](files/images/policy-citations-map-2026.png){width=100% fig-align="center"}](https://policyprofiles.sagepub.com/profile/35156/gang-he)
+
+
 ## *Nature* 2022
 
 Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd). *Nature* 612: 83–87. doi: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6). Cited by:

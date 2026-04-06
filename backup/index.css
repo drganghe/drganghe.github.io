@@ -1,0 +1,155 @@
+/* Remove left border when stacked on mobile */
+@media (max-width: 768px) {
+  .g-col-12.g-col-md-4 {
+    border-left: none !important;
+    padding-left: 0 !important;
+    border-top: 1px solid #ccc;
+    padding-top: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  /* Remove border from first column */
+  .g-col-12.g-col-md-4:first-child {
+    border-top: none;
+    padding-top: 0;
+    margin-top: 0;
+  }
+}
+
+
+/* Hero section */
+.hero-left img {
+  border-radius: 8px;  /* adjust to your liking */
+}
+
+/* Hero stretch to the width of the section */
+.hero-section {
+  margin-bottom: 2rem;
+  align-items: stretch;
+}
+
+/* Add vertical line between columns */
+.hero-right {
+  border-left: 1px solid #ccc;
+  padding-left: 2rem;
+}
+
+/* Reduce space between buttons */
+.hero-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;        /* reduced from 0.4rem */
+  margin-top: 1rem;
+}
+
+.hero-links p {
+  margin: 0;           /* remove default paragraph margin Quarto adds */
+  padding: 0.25rem;
+}
+
+.hero-links a {
+  display: flex;
+  align-items: center;      /* vertically center icon and text */
+  justify-content: center;  /* horizontally center both */
+  gap: 0.4rem;              /* space between icon and text */
+  padding: 0.4rem 0.6rem;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  color: inherit;
+  transition: background 0.15s;
+}
+
+.hero-links a:hover {
+  background-color: #f8f9fa;
+}
+
+@media (max-width: 768px) {
+  .hero-right {
+    border-left: none;
+    border-top: 1px solid #ccc;
+    padding-left: 0;
+    padding-top: 1.5rem;
+  }
+
+  .hero-links {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .hero-links p {
+    width: 100%;        /* each p takes full width so button stretches */
+    margin: 0;
+  }
+}
+
+
+.hero-header {
+  margin-top: 0px; /* Remove top margin completely */
+}
+
+.background-frame {
+  padding-bottom: 1rem;
+}
+
+.button {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.hero-banner {
+  position: relative;
+  background-color: rgb(240,245,249);
+  display: flex;
+  justify-content: center;
+}
+
+
+.alt-background {
+  background-color: rgb(247,249,251);
+  border-top: 1px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
+}
+
+
+.btn-action-primary {
+  color: white;
+  background-color: #4169E1 !important;
+}
+
+.btn-action-primary:hover {
+  color: white;
+}
+
+.btn-action {
+  min-width: 165px;
+  border-radius: 30px;
+  border: none;
+}
+
+
+
+.content-block {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+
+@media(min-width: 900px) {
+.content-block {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+}
+
+@media (min-width: 1200px) {
+.content-block {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+}

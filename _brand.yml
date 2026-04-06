@@ -1,0 +1,20 @@
+color:
+  palette:
+    baruch-blue: "#05336B"
+    cuny-blue: "#1D3A83"
+    cuny-orange: "#FFA400"
+    berkeley-blue: "#003262"
+    berkeley-gold: "#FDB515"
+  # background: blue
+  # foreground: dark-grey
+  # primary: black
+
+#logo: 
+#  medium: logo.png
+
+# typography:
+#   fonts:
+#     - family: Jura
+#       source: google
+#   base: Jura
+#   headings: Jura

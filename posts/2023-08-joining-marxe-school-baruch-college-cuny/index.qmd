@@ -3,7 +3,7 @@ title: "Joining the Marxe School of Public and International Affairs"
 description: "Welcome new collaborations"
 author: "Gang He"
 date: "2023-08-25"
-categories: [news]
+categories: [news, featured]
 image: "featured.jpeg"
 css: /custom.css
 #draft: true
