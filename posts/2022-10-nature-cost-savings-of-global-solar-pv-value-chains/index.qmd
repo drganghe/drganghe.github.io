@@ -7,7 +7,7 @@ author:
   - name: Gang He
   - name: Michael R. Davidson
 date: "2022-10-26"
-categories: [paper, poster, slides]
+categories: [paper, poster, slides, featured]
 image: "featured.jpg"
 citation:
   type: article-journal

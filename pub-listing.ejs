@@ -98,8 +98,8 @@
     if (hasCode)     { %><a href="<%= item.code %>"         class="pub-btn btn-code"         target="_blank" rel="noopener"><i class="bi bi-code-slash"></i> Code</a> <% } %><%
     if (hasData)     { %><a href="<%= item.data %>"         class="pub-btn btn-data"         target="_blank" rel="noopener"><i class="bi bi-database"></i> Data</a> <% } %><%
     if (hasSup)      { %><a href="<%= item.supplemental %>" class="pub-btn btn-supplemental" target="_blank" rel="noopener"><i class="bi bi-paperclip"></i> Supplemental</a> <% } %><%
-    if (hasDoi)      { %><span class="__dimensions_badge_embed__" data-doi="<%= item.doi %>" data-style="large_rectangle" data-hide-zero-citations="true"  style="display:inline-block;vertical-align:middle;"></span> <% } %><%
-    if (hasDoi)      { %><span class="altmetric-embed" data-doi="<%= item.doi %>" data-badge-type="1" data-badge-popover="right" data-hide-no-mentions="true" style="display:inline-block;vertical-align:middle;"></span><% } %>
+    if (hasDoi)      { %><span class="__dimensions_badge_embed__" data-doi="<%= item.doi %>" data-style="large_rectangle" data-hide-zero-citations="true" style="display:inline-flex;vertical-align:middle;"></span> <% } %><%
+    if (hasDoi)      { %><span class="altmetric-embed" data-doi="<%= item.doi %>" data-badge-type="1" data-badge-popover="right" data-hide-no-mentions="true" style="display:inline-flex;vertical-align:middle;"></span><% } %>
   </p>
   <% } %>
 

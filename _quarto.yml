@@ -1,10 +1,13 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - "files/"
   pre-render:
     - python files/scripts/xlsx_to_yml.py
   post-render:
-    - python files/scripts/fix-links.py docs/media.html
+    # Only runs fix-links when media.qmd changed or media.html still needs patching
+    - python files/scripts/fix-links-if-media-changed.py docs/media.html media.qmd
 
 # Meta
 description-meta: "Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Keywords: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality"
@@ -14,6 +17,7 @@ website:
   title: "Dr. Gang He"
   image: "/files/gang-he-profile.jpeg"
   description: "Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition."
+  llms-txt: true
  
   navbar:
     background: light

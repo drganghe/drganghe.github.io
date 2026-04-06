@@ -8,7 +8,7 @@ author:
   - name: Minghao Qiu
   - name: Daniel M. Kammen
 date: "2025-07-28"
-categories: [paper]
+categories: [paper, featured]
 image: "fig1.png"
 citation:
   type: article-journal

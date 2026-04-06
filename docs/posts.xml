@@ -15,7 +15,215 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Sat, 14 Mar 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Apr 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Aligning offshore wind deployment with local priorities to accelerate power system decarbonization</title>
+  <dc:creator>Liqun Peng</dc:creator>
+  <dc:creator>Gang He</dc:creator>
+  <dc:creator>Nikit Abhyankar</dc:creator>
+  <dc:creator>Haozhe Yang</dc:creator>
+  <dc:creator>Umed Paliwal</dc:creator>
+  <dc:creator>Jiang Lin</dc:creator>
+  <link>https://drganghe.github.io/posts/2026-04-commsee-aligning-offshore-wind-development-with-local-priorities/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or buttons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2026-04-commsee-aligning-offshore-wind-development-with-local-priorities/featured.png" class="img-fluid figure-img"></p>
+<figcaption>Energy self-sufficiency of coastal provinces under the Base, MOSW, and AOSW scenarios</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Aligning offshore wind deployment with local priorities to accelerate power system decarbonization<br>
+Peng, Liqun, <strong>Gang He</strong>, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin*<br>
+<em>Communications Earth &amp; Environment</em> (2026)<br>
+DOI: <a href="https://doi.org/10.1038/s43247-026-03533-9">10.1038/s43247-026-03533-9</a></p>
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Accelerating offshore wind power deployment, a critical but underutilized resource for decarbonizing power systems, requires balancing national and local interests. Using China, the global leader in offshore wind, as a case study, here we evaluate how its deployment creates benefits, such as improved energy self-sufficiency, greater resource diversity, enhanced grid reliability, and increased local investment and employment. Our results show that offshore wind can bolster the energy self-sufficiency of coastal provinces, shifting them from net electricity importers to exporters. Furthermore, expanding offshore wind reduces the need for energy storage in a grid with high renewable penetration and drives substantial local investment and job creation. After quantifying uncertainties in policies, technology costs, and electricity demand, we find offshore wind could provide 3–18% of China’s electricity by 2050. Aligning local interests with offshore wind development can facilitate more ambitious targets and accelerate power system decarbonization with limited increases in system costs.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.nature.com/articles/s43247-026-03533-9">paper</a></p>
+<p>Open-access <a href="https://www.nature.com/articles/s43247-026-03533-9.pdf">pdf</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s43247-026-03533-9">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s43247-026-03533-9" data-hide-zero-citations="true" data-style="small_circle"></span>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{peng2026,
+  author = {Peng, Liqun and He, Gang and Abhyankar, Nikit and Yang,
+    Haozhe and Paliwal, Umed and Lin, Jiang},
+  title = {Aligning Offshore Wind Deployment with Local Priorities to
+    Accelerate Power System Decarbonization},
+  journal = {Communications Earth \&amp; Environment},
+  volume = {7},
+  date = {2026-04-21},
+  url = {https://www.nature.com/articles/s43247-026-03533-9},
+  doi = {10.1038/s43247-026-03533-9},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-peng2026" class="csl-entry quarto-appendix-citeas">
+Peng, Liqun, Gang He, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and
+Jiang Lin. 2026. <span>“Aligning Offshore Wind Deployment with Local
+Priorities to Accelerate Power System Decarbonization.”</span>
+<em>Communications Earth &amp; Environment</em> 7 (April). <a href="https://doi.org/10.1038/s43247-026-03533-9">https://doi.org/10.1038/s43247-026-03533-9</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/posts/2026-04-commsee-aligning-offshore-wind-development-with-local-priorities/</guid>
+  <pubDate>Tue, 21 Apr 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2026-04-commsee-aligning-offshore-wind-development-with-local-priorities/figure1a.png" medium="image" type="image/png" height="67" width="144"/>
+</item>
+<item>
+  <title>Fourth Annual Conference on Climate Research, Teaching, and Collaboration</title>
+  <dc:creator>Baruch Climate Conference</dc:creator>
+  <link>https://drganghe.github.io/posts/2026-04-15-fourth-baruch-climate-conference/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.baruch.cuny.edu/climateconference/"><img src="https://drganghe.github.io/posts/2026-04-15-fourth-baruch-climate-conference/featured.webp" class="img-fluid"></a></p>
+<section id="fourth-annual-conference-on-climate-research-teaching-and-collaboration" class="level2">
+<h2 class="anchored" data-anchor-id="fourth-annual-conference-on-climate-research-teaching-and-collaboration">Fourth Annual Conference on Climate Research, Teaching, and Collaboration</h2>
+<p>Wednesday, April 15, 2026<br>
+9:30 am – 3:30 pm<br>
+Information and Technology Building<br>
+Rackow Conference Center, Room 750</p>
+<p><strong>Multidisciplinary Climate Research and Teaching</strong></p>
+<blockquote class="blockquote">
+<p>We will highlight the innovative climate research of our Baruch and CUNY faculty from the Austin W. Marxe School of Public and International Affairs, Weissman School of Arts and Sciences, and Zicklin School of Business.</p>
+</blockquote>
+</section>
+<section id="registration" class="level2">
+<h2 class="anchored" data-anchor-id="registration">Registration</h2>
+<p>9:30–9:50 am</p>
+</section>
+<section id="welcome" class="level2">
+<h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
+<p>9:50–10 am</p>
+<p>Chester Zarnoch, Weissman School of Arts and Sciences, Baruch College, CUNY</p>
+</section>
+<section id="group-1-research-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="group-1-research-presentations">Group 1: Research Presentations</h2>
+<p>10–10:45 am</p>
+<ul>
+<li>Extreme heat, occupational segregation, and disparities in older adult disability, Mara Sheftel, Instructor, Department of Health Behavior, Society and Policy, Rutgers University</li>
+<li>Interdisciplinary Collaboration at the Science and Resilience Institute at Jamaica Bay, Brett Branco, Associate Professor, Brooklyn College, CUNY; Director, Science and Resilience, Institute at Jamaica Bay</li>
+<li>The reporting of greenhouse gas emissions: evidence from the GHG protocol scope 2 standard, Svenja Dube, Associate Professor, Stan Ross Dpt. of Accountancy, Zicklin School of Business</li>
+</ul>
+</section>
+<section id="networking-break" class="level2">
+<h2 class="anchored" data-anchor-id="networking-break">Networking Break</h2>
+<p>10:45–11:15am</p>
+</section>
+<section id="group-2-research-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="group-2-research-presentations">Group 2: Research Presentations</h2>
+<p>11:15 am–12:00 pm</p>
+<ul>
+<li>Student and Community Led Research with the NYC Climate Justice Hub, Katherine Silverman, Assistant Director, Sustainability in the Urban Environment, City College of New York, CUNY</li>
+<li>Watch the label! Consumers’ preferences, willingness to pay and understanding of plant-based food, Patrycja Sleboda, Assistant Professor, Psychology, Weissman School of Arts and Sciences</li>
+<li><strong>Balancing Sustainability, Import Dependence &amp; Economic Opportunity in Global vs.&nbsp;National Solar PV Supply Chains, Gange He, Associate Professor, Marxe School of Public and International Affairs</strong></li>
+</ul>
+</section>
+<section id="lunch" class="level2">
+<h2 class="anchored" data-anchor-id="lunch">Lunch</h2>
+<p>12:00–1:00 pm</p>
+</section>
+<section id="group-3-research-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="group-3-research-presentations">Group 3: Research Presentations</h2>
+<p>1:00–2:00 pm</p>
+<ul>
+<li>Building Sustainability Capabilities through Place-Based, Stakeholder-Embedded Learning: Evidence from a Municipal Living Lab in Crete, Greece, Tania Ploumi, Assistant Professor, Narendra Paul Loomba Department of Management, Zicklin School of Business</li>
+<li>Adaptive Strategies for Collaborative Watershed Management, Yixin Liu, Assistant Professor, Marxe School of Public and International Affairs</li>
+<li>Using 3000 Level Courses to Introduce Students to Graduate Studies: Astrobiology as a case study, Ana Gonzalez-Nayeck, Assistant Professor, Natural Sciences, Weissman School of Arts and Sciences</li>
+<li>Inspiring student resilience and growth through climate education and program leadership, Brian Haggerty, Adjunct Lecturer, Natural Sciences, Weissman School of Arts and Sciences; Visiting Assistant Professor, Mercy University</li>
+</ul>
+</section>
+<section id="networking-break-1" class="level2">
+<h2 class="anchored" data-anchor-id="networking-break-1">Networking Break</h2>
+<p>2:00–2:30 pm</p>
+</section>
+<section id="group-4-research-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="group-4-research-presentations">Group 4: Research Presentations</h2>
+<p>2:30–3:45 pm</p>
+<ul>
+<li>NISAR: Imaging Radar Unveiling the Changing Earth, Kyle McDonald, Professor, Earth and Atmospheric Sciences, City College of New York</li>
+<li>Pricing Wildfire Risk in Residential Real Estate—Invasive Grass Fire Cycle, Preston Wong, Adjunct Lecturer, William Newman Department of Real Estate, Zicklin School of Business; PhD Student, CUNY Graduate Center</li>
+<li>Beans and Screens, Potatoes and Plastic: Consumption Studies in Writing 2150, Evelyn Adler, Adjunct Professor, English, Weissman School of Arts and Sciences</li>
+<li>Hudson River Park: A Field-Based Site for Urban Climate Research, Beryl Kahn, Research Coordinator, Hudson River Park Trust</li>
+<li>Seawalls &amp; Bulkheads as Habitat Supports Sara Ellen Durand, Associate Professor, Natural Sciences, LaGuardia Community College, CUNY</li>
+</ul>
+<p>Welcome to join us to learn more about climate-related activities at CUNY.</p>
+</section>
+<section id="conference-website" class="level2">
+<h2 class="anchored" data-anchor-id="conference-website">Conference Website</h2>
+<p><a href="https://www.baruch.cuny.edu/climateconference/" class="uri">https://www.baruch.cuny.edu/climateconference/</a></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>event</category>
+  <category>presentation</category>
+  <guid>https://drganghe.github.io/posts/2026-04-15-fourth-baruch-climate-conference/</guid>
+  <pubDate>Wed, 15 Apr 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2026-04-15-fourth-baruch-climate-conference/featured.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>Brown China Summit Renewable Energy Panel</title>
   <dc:creator>Brown China Summit</dc:creator>
@@ -111,10 +319,10 @@ DOI: <a href="https://doi.org/10.1038/s44359-025-00136-z">10.1038/s44359-025-001
 <h2 class="anchored" data-anchor-id="main-text">Main text</h2>
 <p>In 2025, for the first time, renewable electricity generation surpassed coal <span class="citation" data-cites="wiatros-motykaGlobalElectricityMidYear2025">(Wiatros-Motyka and Rangelova 2025)</span>, a symbolic and structural milestone in the history of the power sector. This shift was the result of decades of wind and solar deployment, supported by marked cost declines, industrial policy, and net-zero targets. Yet 2025 also revealed deeper challenges to grid decarbonization—extreme weather, rising electrification, and surging loads from artificial-intelligence (AI) data centers all tested grids and highlighted the growing importance of reliability, affordability, and resilience.</p>
 <p>These challenges were brought into sharp focus by the Iberian Blackout, a cascading system failure originating from a voltage disturbance that disconnected gigawatts of solar and wind power in Spain in April 2025. As solar and wind push inverter-based generation to high penetrations, the traditional sources of grid inertia provided by synchronous generators are disappearing. The Iberian event demonstrated that renewable-integration challenges are no longer theoretical; they are unfolding on real power systems serving tens of millions of people. The incident accelerated a global shift toward grid-forming inverters, which can emulate the inertial and voltage-control properties of conventional generators <span class="citation" data-cites="icsinvestigationexpertpanelGridIncidentSpain2025">(ICS Investigation Expert Panel 2025)</span>. <a href="https://eepublicdownloads.entsoe.eu/clean-documents/Publications/SOC/20240503_First_interim_report_in_technical_requirements.pdf">European operators</a> moved toward mandating grid-forming capabilities in new installations, while pilot and demonstration programs were launched in <a href="https://www.ceic.com/gjnyjtwwEn/xwzx/202404/72feddf672de4e859517bd9104c2ef2d.shtml">China</a> and the <a href="https://www.energy.gov/sites/default/files/2023-10/CX-028809.pdf">United States</a>. The blackout became a defining moment for grid decarbonization in 2025, underscoring that system stability must be reinforced alongside rapid renewable expansion.</p>
-<p>Flexibility constraints also became increasingly visible in electricity markets. <a href="https://info.montel.energy/-gb-ireland-renewable-curtailment-report">Curtailment of wind power in the United Kingdom and Ireland reached</a> 4.6 TWh in the first half of 2025, and Europe experienced nearly double the number of hours with negative wholesale electricity prices compared to the previous year <span class="citation" data-cites="internationalenergyagencyElectricityMidYearUpdate2025">(International Energy Agency 2025b)</span>. These signals reflect a structural imbalance between accelerating renewable supply and insufficient system flexibility, demand response, and transmission. Battery storage prices continued to decline, although trade tensions <a href="https://www.bloomberg.com/news/articles/2025-01-15/trade-wars-seen-slowing-battery-price-plunge-in-2025">slowed</a> the pace of cost reductions. The lack of utility-scale long-duration energy storage (LDES)—systems capable of delivering ten or more hours of energy—emerged as a defining constraint on deeper decarbonization <span class="citation" data-cites="dowlingRoleLongDurationEnergy2020">(Dowling et al. 2020)</span>.</p>
+<p>Flexibility constraints also became increasingly visible in electricity markets. <a href="https://info.montel.energy/-gb-ireland-renewable-curtailment-report">Curtailment of wind power in the United Kingdom and Ireland reached</a> 4.6 TWh in the first half of 2025, and Europe experienced nearly double the number of hours with negative wholesale electricity prices compared to the previous year <span class="citation" data-cites="internationalenergyagencyElectricityMidYearUpdate2025">(International Energy Agency 2025a)</span>. These signals reflect a structural imbalance between accelerating renewable supply and insufficient system flexibility, demand response, and transmission. Battery storage prices continued to decline, although trade tensions <a href="https://www.bloomberg.com/news/articles/2025-01-15/trade-wars-seen-slowing-battery-price-plunge-in-2025">slowed</a> the pace of cost reductions. The lack of utility-scale long-duration energy storage (LDES)—systems capable of delivering ten or more hours of energy—emerged as a defining constraint on deeper decarbonization <span class="citation" data-cites="dowlingRoleLongDurationEnergy2020">(Dowling et al. 2020)</span>.</p>
 <p>LDES commercialization nonetheless advanced in 2025. The first <a href="https://www.bbc.com/future/article/20251009-the-liquid-air-alternative-to-fossil-fuels">commercial-scale liquid-air energy storage facility</a> in the United Kingdom was connected to the grid, and a <a href="https://www.enerdata.net/publications/daily-energy-news/china-commissions-two-hydropower-plants-hebei-and-qinghai-59-gw.html">3.6-GW pumped hydropower plant</a> in Hebei province, China, entered its first year of full operation. Multiple companies commissioned thermal-storage pilots and flow-battery demonstrations, testing their performance at grid scale. Policymakers responded as well: China’s <a href="https://english.news.cn/20251028/efbfd0c774fd4b1c8daeb741c0351431/c.html">15th Five-Year Plan</a> elevated storage as a core pillar of its “new electricity system”; Ireland’s transmission system operator <a href="https://consult.eirgrid.ie/en/consultation/long-duration-energy-storage-ldes-procurement-mechanism-consultation">proposed dedicated procurement mechanisms</a> to deliver 201 MW of storage capacity by 2030; and California’s battery storage capacity reached <a href="https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-energy-storage-system-survey">16.9 GW</a>, helping <a href="https://escholarship.org/uc/item/34b106b2">tame its well-known duck curve</a>. Across regions, LDES is increasingly viewed as core infrastructure needed to close the gap between variable generation and continuous load.</p>
-<p>Policy developments diverged sharply across regions. China’s <a href="https://unfccc.int/sites/default/files/2025-11/2035%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%87%AA%E4%B8%BB%E8%B4%A1%E7%8C%AE%E6%8A%A5%E5%91%8A.pdf">Nationally Determined Contribution for 2035</a> commits to reducing greenhouse-gas emissions by 7–10% from peak levels, raising the share of non-fossil fuels above 30% of total energy use, and expanding wind and solar capacity to 3,600 GW—more than six times 2020 levels. The United States, by contrast, withdrew from the Paris Agreement for a second time and adopted an energy-independence strategy focused on expanding fossil-fuel production. Modeling suggests that rollbacks of federal clean-energy subsidies could slow U.S. decarbonization and raise emissions and energy expenditures over 2025–2035 <span class="citation" data-cites="jenkinsImpactsOneBig2025">(Jenkins, Farbes, and Haley 2025)</span>.</p>
-<p>Despite policy uncertainty, global clean-energy investment reached a record US$2 trillion in 2025 <span class="citation" data-cites="internationalenergyagencyWorldEnergyInvestment2025">(International Energy Agency 2025a)</span>. Lower-income economies emerged as important engines of renewable growth. <a href="https://ember-energy.org/countries-and-regions/pakistan/">Pakistan</a>’s share of solar electricity nearly quadrupled between 2021 and 2024, rising from 3% to 11%. Solar exports from China to low- and middle-income economies surpassed shipments to high-income economies for the first time in early 2025 <span class="citation" data-cites="emberFirstEvidenceTakeoff2025">(EMBER 2025)</span>. Europe continued advancing complementary technologies, with <a href="https://www.blackridgeresearch.com/blog/latest-list-of-largest-biggest-upcoming-green-hydrogen-h2-projects-plants-in-european-union-commission-council">industrial-scale green-hydrogen plants</a> moving toward operation and large carbon-capture hubs in <a href="https://www.iea.org/commentaries/ccus-projects-around-the-world-are-reaching-new-milestones">Northwest Europe</a> shifting from planning to construction. Together, these developments signal a transition from a generation-centric decarbonization model toward a portfolio approach combining renewables, storage, hydrogen, and carbon capture.</p>
+<p>Policy developments diverged sharply across regions. China’s <a href="https://unfccc.int/sites/default/files/2025-11/2035%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%87%AA%E4%B8%BB%E8%B4%A1%E7%8C%AE%E6%8A%A5%E5%91%8A.pdf">Nationally Determined Contribution for 2035</a> commits to reducing greenhouse-gas emissions by 7–10% from peak levels, raising the share of non-fossil fuels above 30% of total energy use, and expanding wind and solar capacity to 3,600 GW—more than six times 2020 levels. The United States, by contrast, withdrew from the Paris Agreement for a second time and adopted an energy-independence strategy focused on expanding fossil-fuel production. Modeling suggests that rollbacks of federal clean-energy subsidies could slow U.S. decarbonization and raise emissions and energy expenditures over 2025–2035 <span class="citation" data-cites="jenkinsImpactsOneBig2025">(Jenkins et al. 2025)</span>.</p>
+<p>Despite policy uncertainty, global clean-energy investment reached a record US$2 trillion in 2025 <span class="citation" data-cites="internationalenergyagencyWorldEnergyInvestment2025">(International Energy Agency 2025b)</span>. Lower-income economies emerged as important engines of renewable growth. <a href="https://ember-energy.org/countries-and-regions/pakistan/">Pakistan</a>’s share of solar electricity nearly quadrupled between 2021 and 2024, rising from 3% to 11%. Solar exports from China to low- and middle-income economies surpassed shipments to high-income economies for the first time in early 2025 <span class="citation" data-cites="emberFirstEvidenceTakeoff2025">(EMBER 2025)</span>. Europe continued advancing complementary technologies, with <a href="https://www.blackridgeresearch.com/blog/latest-list-of-largest-biggest-upcoming-green-hydrogen-h2-projects-plants-in-european-union-commission-council">industrial-scale green-hydrogen plants</a> moving toward operation and large carbon-capture hubs in <a href="https://www.iea.org/commentaries/ccus-projects-around-the-world-are-reaching-new-milestones">Northwest Europe</a> shifting from planning to construction. Together, these developments signal a transition from a generation-centric decarbonization model toward a portfolio approach combining renewables, storage, hydrogen, and carbon capture.</p>
 <p>Transmission expansion was another defining theme of 2025. The United States adopted <a href="https://www.ferc.gov/media/order-1920-b">FERC Order No.&nbsp;1920</a>, mandating long-term regional transmission planning and cost allocation. China continued extending <a href="https://ember-energy.org/app/uploads/2025/09/China-Energy-Transition-Review-2025.pdf">ultra-high-voltage corridors</a> to connect desert solar resources with coastal load centers. Meanwhile, the <a href="https://asean.org/adb-and-world-bank-group-launch-the-asean-power-grid-financing-initiative-with-the-asean-secretariat-and-the-asean-centre-for-energy-ace/">ASEAN Power Grid</a> and the <a href="https://greengridsinitiative.net/news/climate-finance-principles-to-unlock-grids-financing-finalised-and-endorsed-by-climate-bonds-initiative/">African Green Grids Initiative</a> gained momentum, both aiming to strengthen regional interconnection and reduce dependence on isolated national systems. These initiatives point toward a future of more interconnected and flexible grids.</p>
 <p>Perhaps the most transformative development of 2025 was the emergence of <em>energy for AI</em> as a primary driver of electricity demand. As AI models grow in size and commercial deployment accelerates, the energy footprint of data centers has surged, potentially reaching 12% of U.S. electricity demand by 2028 <span class="citation" data-cites="shehabi2024UnitedStates2024">(Shehabi et al. 2024)</span>. This demand wave is reshaping electricity planning and reviving interest in firm, low-carbon baseload power, particularly nuclear energy <span class="citation" data-cites="liuCanChinaBreak2025">(Liu et al. 2025)</span>. Several technology companies announced direct investments and long-term power-purchase agreements with <a href="https://www.nytimes.com/2024/10/16/business/energy-environment/amazon-google-microsoft-nuclear-energy.html">nuclear plants</a>, signaling a shift from annual “100% renewable” targets toward 24/7 zero-carbon energy strategies. At the same time, AI-driven demand is pushing electricity prices upward, with <a href="https://www.cmu.edu/work-that-matters/energy-innovation/data-center-growth-could-increase-electricity-bills">modelling</a> suggesting consumer power bills increasing 8% nationally and up to 25% in some regions in the U.S., raising concerns about affordability and equity, even as electric-vehicle adoption and managed charging are helping reduce system costs in some regions <span class="citation" data-cites="muratoriTrends2025Insights2025">(Muratori et al. 2025)</span>.</p>
 <p>By the end of 2025, renewable energy had begun to dominate power systems in several regions. The challenge ahead is scaling this dominance globally while ensuring that decarbonizing grids are reliable, resilient, and intelligent enough to serve rapidly electrifying and digitally intensive economies. Technological progress in grid-forming inverters, long-duration storage, and digital grid management must be matched by ambitious policy reforms, faster interconnection processes, and deeper community engagement. As power systems transmit more electricity from renewables than from coal, aligning technology, investment, and governance will be essential to making renewable integration the backbone of a reliable and affordable net-zero grid—and the foundation for powering the rapidly expanding AI economy.</p>
@@ -148,36 +356,36 @@ https://quarto.org/docs/authoring/includes.html
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-dowlingRoleLongDurationEnergy2020" class="csl-entry">
-Dowling, Jacqueline A., Katherine Z. Rinaldi, Tyler H. Ruggles, Steven J. Davis, Mengyao Yuan, Fan Tong, Nathan S. Lewis, and Ken Caldeira. 2020. <span>“Role of <span>Long-Duration Energy Storage</span> in <span>Variable Renewable Electricity Systems</span>.”</span> <em>Joule</em> 4 (9): 1907–28. <a href="https://doi.org/10.1016/j.joule.2020.07.007">https://doi.org/10.1016/j.joule.2020.07.007</a>.
+Dowling, Jacqueline A., Katherine Z. Rinaldi, Tyler H. Ruggles, et al. 2020. <span>“Role of <span>Long-Duration Energy Storage</span> in <span>Variable Renewable Electricity Systems</span>.”</span> <em>Joule</em> 4 (9): 1907–28. <a href="https://doi.org/10.1016/j.joule.2020.07.007">https://doi.org/10.1016/j.joule.2020.07.007</a>.
 </div>
 <div id="ref-emberFirstEvidenceTakeoff2025" class="csl-entry">
-EMBER. 2025. <span>“The First Evidence of a Take-Off in Solar in <span>Africa</span>.”</span> <a href="https://ember-energy.org/latest-insights/the-first-evidence-of-a-take-off-in-solar-in-africa/">https://ember-energy.org/latest-insights/the-first-evidence-of-a-take-off-in-solar-in-africa/</a>.
+EMBER. 2025. <em>The First Evidence of a Take-Off in Solar in <span>Africa</span></em>. <a href="https://ember-energy.org/latest-insights/the-first-evidence-of-a-take-off-in-solar-in-africa/">https://ember-energy.org/latest-insights/the-first-evidence-of-a-take-off-in-solar-in-africa/</a>.
 </div>
 <div id="ref-icsinvestigationexpertpanelGridIncidentSpain2025" class="csl-entry">
-ICS Investigation Expert Panel. 2025. <span>“Grid <span>Incident</span> in <span>Spain</span> and <span>Portugal</span> on 28 <span>April</span> 2025.”</span> <a href="https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/">https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/</a>.
-</div>
-<div id="ref-internationalenergyagencyWorldEnergyInvestment2025" class="csl-entry">
-International Energy Agency. 2025a. <span>“World <span>Energy Investment</span> 2025.”</span> <a href="https://www.iea.org/reports/world-energy-investment-2025">https://www.iea.org/reports/world-energy-investment-2025</a>.
+ICS Investigation Expert Panel. 2025. <em>Grid <span>Incident</span> in <span>Spain</span> and <span>Portugal</span> on 28 <span>April</span> 2025</em>. <a href="https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/">https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/</a>.
 </div>
 <div id="ref-internationalenergyagencyElectricityMidYearUpdate2025" class="csl-entry">
-———. 2025b. <span>“Electricity <span>Mid-Year Update</span> 2025.”</span> <a href="https://www.iea.org/reports/electricity-mid-year-update-2025">https://www.iea.org/reports/electricity-mid-year-update-2025</a>.
+International Energy Agency. 2025a. <em>Electricity <span>Mid-Year Update</span> 2025</em>. <a href="https://www.iea.org/reports/electricity-mid-year-update-2025">https://www.iea.org/reports/electricity-mid-year-update-2025</a>.
+</div>
+<div id="ref-internationalenergyagencyWorldEnergyInvestment2025" class="csl-entry">
+International Energy Agency. 2025b. <em>World <span>Energy Investment</span> 2025</em>. <a href="https://www.iea.org/reports/world-energy-investment-2025">https://www.iea.org/reports/world-energy-investment-2025</a>.
 </div>
 <div id="ref-jenkinsImpactsOneBig2025" class="csl-entry">
-Jenkins, Jesse, Jamil Farbes, and Ben Haley. 2025. <span>“Impacts of the <span>One Big Beautiful Bill On The US Energy Transition</span> – <span>Summary Report</span>.”</span> REPEAT Project. <a href="https://doi.org/10.5281/zenodo.15801701">https://doi.org/10.5281/zenodo.15801701</a>.
+Jenkins, Jesse, Jamil Farbes, and Ben Haley. 2025. <em>Impacts of the <span>One Big Beautiful Bill On The US Energy Transition</span> – <span>Summary Report</span></em>. REPEAT Project. <a href="https://doi.org/10.5281/zenodo.15801701">https://doi.org/10.5281/zenodo.15801701</a>.
 </div>
 <div id="ref-liuCanChinaBreak2025" class="csl-entry">
 Liu, Shangwei, Gang He, Minghao Qiu, and Daniel M. Kammen. 2025. <span>“Can <span>China</span> Break the <span>‘Cost Curse’</span> of Nuclear Power?”</span> <em>Nature</em> 643 (8074): 1186–88. <a href="https://doi.org/10.1038/d41586-025-02341-z">https://doi.org/10.1038/d41586-025-02341-z</a>.
 </div>
 <div id="ref-muratoriTrends2025Insights2025" class="csl-entry">
-Muratori, Matteo, Doug Arent, Morgan D. Bazilian, John Bistline, Brennan Borlaug, Austin Brown, Pierpaolo Cazzola, et al. 2025. <span>“Trends and 2025 Insights on the Rise of Electric Vehicles in the <span>USA</span>.”</span> <em>Nature Reviews Clean Technology</em>, October, 1–19. <a href="https://doi.org/10.1038/s44359-025-00108-3">https://doi.org/10.1038/s44359-025-00108-3</a>.
+Muratori, Matteo, Doug Arent, Morgan D. Bazilian, et al. 2025. <span>“Trends and 2025 Insights on the Rise of Electric Vehicles in the <span>USA</span>.”</span> <em>Nature Reviews Clean Technology</em>, October 9, 1–19. <a href="https://doi.org/10.1038/s44359-025-00108-3">https://doi.org/10.1038/s44359-025-00108-3</a>.
 </div>
 <div id="ref-shehabi2024UnitedStates2024" class="csl-entry">
-Shehabi, Arman, Alex Newkirk, Sarah J. Smith, Alex Hubbard, Nuoa Lei, Md Abu Bakar Siddik, Billie Holecek, Jonathan Koomey, Eric Masanet, and Dale Sartor. 2024. <span>“2024 <span>United States Data Center Energy Usage Report</span>,”</span> December. <a href="https://doi.org/10.71468/P1WC7Q">https://doi.org/10.71468/P1WC7Q</a>.
+Shehabi, Arman, Alex Newkirk, Sarah J. Smith, et al. 2024. <em>2024 <span>United States Data Center Energy Usage Report</span></em>. December 20. <a href="https://doi.org/10.71468/P1WC7Q">https://doi.org/10.71468/P1WC7Q</a>.
 </div>
 <div id="ref-wiatros-motykaGlobalElectricityMidYear2025" class="csl-entry">
-Wiatros-Motyka, Małgorzata, and Kostantsa Rangelova. 2025. <span>“Global <span>Electricity Mid-Year Insights</span> 2025.”</span> Ember. October 7, 2025. <a href="https://ember-energy.org/latest-insights/global-electricity-mid-year-insights-2025">https://ember-energy.org/latest-insights/global-electricity-mid-year-insights-2025</a>.
+Wiatros-Motyka, Małgorzata, and Kostantsa Rangelova. 2025. <span>“Global <span>Electricity Mid-Year Insights</span> 2025.”</span> Ember, October 7. <a href="https://ember-energy.org/latest-insights/global-electricity-mid-year-insights-2025">https://ember-energy.org/latest-insights/global-electricity-mid-year-insights-2025</a>.
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{he2026,
   author = {He, Gang},
@@ -207,6 +415,7 @@ Power Grids in 2025.”</span> <em>Nature Reviews Clean Technology</em> 2
   <link>https://drganghe.github.io/</link>
   <description>Gang He, Kaifang Luo, Michael Davidson, Ahmad Lashkaripour, Ilaria Mazzocco, and Minghao Qiu are awarded a $750,000 new Alfred P. Sloan Foundation grant to study the drivers and impacts of domestic clean manufacturing interventions, resulting from an Open Call on Energy System Interactions in the United States.</description>
   <category>news</category>
+  <category>featured</category>
   <guid>https://drganghe.github.io/</guid>
   <pubDate>Wed, 17 Dec 2025 05:00:00 GMT</pubDate>
   <media:content url="https://deeppolicylab.github.io/files/images/funders/sloan-logo.png" medium="image" type="image/png"/>
@@ -382,7 +591,7 @@ Note: Click the image to see the full view
 <h2 class="anchored" data-anchor-id="相关文章">相关文章</h2>
 <div id="listing-related-posts" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXIlMkNpbmZvZ3JhcGhpYw==" data-listing-date-sort="1759896000000" data-listing-file-modified-sort="1766082586772" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="243">
+<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXIlMkNpbmZvZ3JhcGhpYw==" data-listing-date-sort="1759896000000" data-listing-file-modified-sort="1777851201216" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="243">
 <div class="thumbnail"><a href="../../posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" class="thumbnail-image">
@@ -407,7 +616,7 @@ Minghao Qiu, Gang He, Peter Marcotullio
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Y29tbWVudGFyeQ==" data-listing-date-sort="1701752400000" data-listing-file-modified-sort="1714754169037" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1134">
+<div class="quarto-post image-right" data-index="1" data-categories="Y29tbWVudGFyeQ==" data-listing-date-sort="1701752400000" data-listing-file-modified-sort="1772207889239" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1134">
 <div class="thumbnail"><a href="../../posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/cop28.png" class="thumbnail-image">
@@ -432,7 +641,7 @@ Gang He, Daniel M Kammen, Muhammad Husni Mubarok, Shoon So Oo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1768599416910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3623">
+<div class="quarto-post image-right" data-index="2" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXMlMkNmZWF0dXJlZA==" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1777727060681" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3623">
 <div class="thumbnail"><a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/featured.jpg" class="thumbnail-image">
@@ -443,7 +652,7 @@ Gang He, Daniel M Kammen, Muhammad Husni Mubarok, Shoon So Oo
 <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="no-external">Quantifying the cost savings of global solar photovoltaic supply chains</a>
 </h3>
 <div class="delink listing-description"><a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="no-external">
-<p>Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if…</p>
+<p>Globalized supply chains have saved solar installers in the U.S., Germany, and China $67B from 2008–2020, and solar prices will be 20–30% higher in…</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -543,7 +752,7 @@ DOI: <a href="https://doi.org/10.1016/j.oneear.2025.101467">10.1016/j.oneear.202
 <h2 class="anchored" data-anchor-id="infographic">Infographic</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/Infographic.jpg" class="img-fluid figure-img"></p>
+<p><a href="https://marxe.baruch.cuny.edu/wp-content/uploads/sites/7/2025/11/Infographic-Gang.jpg"><img src="https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/Infographic.jpg" class="img-fluid figure-img"></a></p>
 <figcaption>Credit: Jason M. Epstein and Marxe Communications team</figcaption>
 </figure>
 </div>
@@ -712,46 +921,35 @@ https://quarto.org/docs/authoring/includes.html
 <li>Energy</li>
 </ul></li>
 </ul>
-<p>This is the second time I’ve been included in this list. I want to take a moment to thank my family, current and former students, visiting scholars, mentors, collaborators, funders, editors, reviewers, and colleagues for their invaluable support.</p>
+<p>I was first included in this list in <a href="../../files/awards/top2scientists.png">2024</a>. This is the second time I’ve been listed. I want to take a moment to thank my family, current and former students, visiting scholars, mentors, collaborators, funders, editors, reviewers, and colleagues for their invaluable support.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://topscinet.com/scientist_profile/He,%20Gang/2004/?stype=single_year"><img src="https://drganghe.github.io/files/awards/Top2PercentScientists2025.webp" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
 </figure>
 </div>
-<section id="related-posts" class="level2">
-<h2 class="anchored" data-anchor-id="related-posts">Related Posts</h2>
-<div id="listing-related-posts" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ3JlY29nbml0aW9uJTJDdmlkZW8=" data-listing-date-sort="1726545600000" data-listing-file-modified-sort="1762864749991" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="229">
-<div class="thumbnail"><a href="../../posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html" class="no-external">
-
-<img loading="lazy" data-src="../../files/awards/Top2Percent.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html" class="no-external">Included in World’s Top 2% Scientists List 2024</a>
-</h3>
-<div class="delink listing-description"><a href="../../posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html" class="no-external">
-<p>Thank you for supporting our work!</p>
-</a></div>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Baruch News, <a href="https://newscenter.baruch.cuny.edu/news/baruch-college-faculty-included-in-worlds-top-scientist-list/" class="external" target="_blank">Baruch College Faculty Included in World’s Top Scientist List</a></p>
+<blockquote class="twitter-tweet blockquote"><p lang="en" dir="ltr">🎉 Congratulations to <a href="https://twitter.com/hashtag/MarxeFaculty?src=hash&amp;ref_src=twsrc%5Etfw">#MarxeFaculty</a> Deborah Balk <a href="https://twitter.com/CIDR_NYC?ref_src=twsrc%5Etfw">@CIDR_NYC</a>, <a href="https://twitter.com/j_jgreene?ref_src=twsrc%5Etfw">@j_jgreene</a>, and <a href="https://twitter.com/DrGangHe?ref_src=twsrc%5Etfw">@DrGangHe</a>, along with six other <a href="https://twitter.com/hashtag/BaruchFaculty?src=hash&amp;ref_src=twsrc%5Etfw">#BaruchFaculty</a> members, for being named to <a href="https://twitter.com/Stanford?ref_src=twsrc%5Etfw">@Stanford</a> University and Elsevier’s “World’s Top 2% Scientists” list for 2024! 🌍✨ <br><br>👉🔗 <a href="https://t.co/fdUPQIZoRR">https://t.co/fdUPQIZoRR</a> <a href="https://t.co/7UVra18g7S">pic.twitter.com/7UVra18g7S</a></p>— Marxe School (@BaruchMarxe) <a href="https://twitter.com/BaruchMarxe/status/1850920524072833515?ref_src=twsrc%5Etfw">October 28, 2024</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="../../files/videos/world-top-scientists.mp4"></video></div>
+<p>Source: Marxe School</p>
+</section>
+<section id="about-worlds-top-2-scientists" class="level2">
+<h2 class="anchored" data-anchor-id="about-worlds-top-2-scientists">About World’s Top 2% Scientists</h2>
+<blockquote class="blockquote">
+<p>Stanford University’s list of “World’s Top 2%” scientists is based on a 2% or above percentile rank, or the top 100,000 by c-score (with and without self-citations). This prestigious list identifies the world’s leading researchers, representing approximately 2% of all scientists worldwide. It encompasses standardised data on citations, h-index, and a wide range of bibliometric indicators. Researchers are classified into 22 scientific fields and 174 sub-fields, drawing from Scopus data provided by Elsevier through ICSR Lab.</p>
+</blockquote>
+<p>Learn more <a href="https://topresearcherslist.com/Home/AboutUs">here</a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
-<div class="metadata">
-<a href="../../posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html" class="no-external">
-<div class="listing-date">
-Sep 17, 2024
-</div>
-<div class="listing-author">
-Stanford/Elsevier
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-
-</div>
-
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
@@ -759,6 +957,7 @@ Stanford/Elsevier
  ]]></description>
   <category>news</category>
   <category>recognition</category>
+  <category>featured</category>
   <guid>https://drganghe.github.io/posts/stanford-elsevier-top-2percent-scientists/</guid>
   <pubDate>Fri, 19 Sep 2025 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/files/awards/Top2Percent.png" medium="image" type="image/png" height="81" width="144"/>
@@ -769,6 +968,7 @@ Stanford/Elsevier
   <description>Gang He was selected as a Ninth Round Public Intellectuals Program Fellow of the National Committee on US-China Relations.</description>
   <category>news</category>
   <category>recognition</category>
+  <category>featured</category>
   <guid>https://drganghe.github.io/</guid>
   <pubDate>Wed, 13 Aug 2025 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/files/images/pip-fellow-2025.png" medium="image" type="image/png" height="75" width="144"/>
@@ -936,7 +1136,7 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-rothwellProjectedElectricityCosts2022" class="csl-entry">
 Rothwell, Geoffrey. 2022. <span>“Projected Electricity Costs in International Nuclear Power Markets.”</span> <em>Energy Policy</em> 164 (May): 112905. <a href="https://doi.org/10.1016/j.enpol.2022.112905">https://doi.org/10.1016/j.enpol.2022.112905</a>.
 </div>
@@ -963,6 +1163,7 @@ Liu, Shangwei, Gang He, Minghao Qiu, and Daniel M. Kammen. 2025.
 Power?”</span> <em>Nature</em> 643 (July): 1186–88. <a href="https://doi.org/10.1038/d41586-025-02341-z">https://doi.org/10.1038/d41586-025-02341-z</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
+  <category>featured</category>
   <guid>https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/</guid>
   <pubDate>Mon, 28 Jul 2025 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig1.png" medium="image" type="image/png" height="81" width="144"/>
@@ -1331,10 +1532,9 @@ https://quarto.org/docs/authoring/includes.html
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-wu2024" class="csl-entry quarto-appendix-citeas">
-Wu, Huihuang, Junfeng Liu, Xiurong Hu, Gang He, Yuhan Zhou, Xian Wang,
-Ying Liu, Jianmin Ma, and Shu Tao. 2024. <span>“Fewer Than 15% of Coal
-Power Plant Workers in China Can Easily Shift to Green Jobs by
-2060.”</span> <em>One Earth</em> 7 (11): 1994–2007. <a href="https://doi.org/10.1016/j.oneear.2024.10.006">https://doi.org/10.1016/j.oneear.2024.10.006</a>.
+Wu, Huihuang, Junfeng Liu, Xiurong Hu, et al. 2024. <span>“Fewer Than
+15% of Coal Power Plant Workers in China Can Easily Shift to Green Jobs
+by 2060.”</span> <em>One Earth</em> 7 (11): 1994–2007. <a href="https://doi.org/10.1016/j.oneear.2024.10.006">https://doi.org/10.1016/j.oneear.2024.10.006</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
   <guid>https://drganghe.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/</guid>
@@ -1409,182 +1609,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2024-10-china-needs-to-optimise-pumped-hydro-and-battery-storage-mix/</guid>
   <pubDate>Mon, 28 Oct 2024 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-10-china-needs-to-optimise-pumped-hydro-and-battery-storage-mix/featured.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Power Systems Decarbonization: Technology, Policy Responses, and Implications</title>
-  <dc:creator>CESE </dc:creator>
-  <link>https://drganghe.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="title" class="level2">
-<h2 class="anchored" data-anchor-id="title">Title</h2>
-<p>Power Systems Decarbonization: Technology, Policy Responses, and Implications</p>
-</section>
-<section id="speaker" class="level2">
-<h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
-<p>HE Gang, Baruch College, City University of New York</p>
-</section>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>“Electrifying energy and decarbonizing electricity” lies at the core of the global clean energy transition. In this talk, I will first provide an overview of the current global landscape of electrification and power system transitions. I will then focus on China, which hosts the world’s largest power system, to take a deep dive into the technological, policy, and systemic challenges of achieving carbon neutrality in the power sector. I will also discuss the technological and policy responses designed to address these challenges. The goal is to explore the complexity of the clean power transition under climate change and examine potential pathways to net-zero emissions and their environmental, climate, human health, and socio-economic implications.</p>
-</section>
-<section id="bio" class="level2">
-<h2 class="anchored" data-anchor-id="bio">Bio</h2>
-<p>Gang He’s work focuses on energy systems, energy and climate policy, and energy transition. His research advances data-driven, evidence-based energy and climate policy research and offers policy insights for energy decisions and climate actions to achieve carbon neutrality. His leading and collaborative work has appeared in high-impact interdisciplinary and field journals such as Nature, Nature Communications, Nature Energy, One Earth, Environmental Science &amp; Technology, and Energy Policy. His research has been reported by Nature, Scientific American, Carbon Brief, National Geographic, The New York Times, E&amp;E News, among others. His work has informed policy processes. He testified for the New York State Climate Leadership and Community Protection Act and has advised the New York State Climate Action Council’s Scoping Plan. He has also been involved in the U.S.-China collaboration on energy and climate change. He received his Ph.D.&nbsp;in Energy and Resources from the University of California, Berkeley. He also holds an M.A.&nbsp;in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.</p>
-</section>
-<section id="flyer" class="level2">
-<h2 class="anchored" data-anchor-id="flyer">Flyer</h2>
-<p><a href="https://cese.pku.edu.cn/images/content/2024-10/20241022124634828698.jpg"><img src="https://drganghe.github.io/files/flyers/20241024PKU.jpg" class="img-fluid" style="width:90.0%"></a></p>
-</section>
-<section id="relevant-posts" class="level2">
-<h2 class="anchored" data-anchor-id="relevant-posts">Relevant posts</h2>
-<div id="listing-papers" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDc2xpZGVzJTJDdmlkZW8lMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1772207894941" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
-<a href="../../posts/2023-11-switch-china-open-model/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="../../posts/2023-11-switch-china-open-model/featured.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-SWITCH-China: Open Source Model for the World’s Largest Power System
-</h5>
-<div class="card-text listing-description delink">
-<p>Open model to study China’s clean power transition</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-SWITCH China
-</div>
-<div class="listing-date">
-Nov 13, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXI=" data-listing-date-sort="1639976400000" data-listing-file-modified-sort="1772208523613" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="318">
-<a href="../../posts/2021-12-jcp-power-water-carbon/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="../../posts/2021-12-jcp-power-water-carbon/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Long-term transition of China’s power sector under carbon neutrality target and water withdrawal constraint
-</h5>
-<div class="card-text listing-description delink">
-<p>Low-cost renewables reduced the need for CCS by 80%, and water…</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Chao Zhang, Gang He, Josiah Johnston, Lijin Zhong
-</div>
-<div class="listing-date">
-Dec 20, 2021
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1772202763174" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="859">
-<a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="../../posts/2020-05-ncomms-rapid-re-cost/featured.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System
-</h5>
-<div class="card-text listing-description delink">
-<p>A renewable-dominant pathway is not just technologically sound, but also…</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, Amol Phadke
-</div>
-<div class="listing-date">
-May 15, 2020
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="cGFwZXIlMkNwb3N0ZXI=" data-listing-date-sort="1462680000000" data-listing-file-modified-sort="1772203677192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="268">
-<a href="../../posts/2016-est-switch-china/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" data-src="../../posts/2016-est-switch-china/featured.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-SWITCH-China: A Systems Approach to Decarbonizing China’s Power System
-</h5>
-<div class="card-text listing-description delink">
-<p>SWITCH-China, an integrated model for power sector decarbonization.</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, Daniel M. Kammen
-</div>
-<div class="listing-date">
-May 8, 2016
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-
-</div>
-</section>
-<section id="references" class="level2">
-<h2 class="anchored" data-anchor-id="references">References</h2>
-<ul>
-<li><span class="citation" data-cites="he_rapid_2020">Gang He et al. <span>“Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System,”</span> <em>Nature Communications</em> 11, no. 1 (May 19, 2020): 2486, <a href="https://doi.org/10.1038/s41467-020-16184-x">https://doi.org/10.1038/s41467-020-16184-x</a>.</span></li>
-<li><span class="citation" data-cites="heSWITCHChinaSystemsApproach2016">Gang He et al. <span>“<span>SWITCH</span>-<span>China</span>: <span>A</span> <span>Systems</span> <span>Approach</span> to <span>Decarbonizing</span> <span>China</span>’s <span>Power</span> <span>System</span>,”</span> <em>Environmental Science &amp; Technology</em> 50, no. 11 (June 2016): 5467–73, <a href="https://doi.org/10.1021/acs.est.6b01345">https://doi.org/10.1021/acs.est.6b01345</a>.</span></li>
-<li><span class="citation" data-cites="zhangLongtermTransitionChina2021">Chao Zhang et al. <span>“Long-Term Transition of <span>China</span>’s Power Sector Under Carbon Neutrality Target and Water Withdrawal Constraint,”</span> <em>Journal of Cleaner Production</em> 329 (December 2021): 129765, <a href="https://doi.org/10.1016/j.jclepro.2021.129765">https://doi.org/10.1016/j.jclepro.2021.129765</a>.</span></li>
-<li><span class="citation" data-cites="linLargeBalancingAreas2022">Jiang Lin et al. <span>“Large Balancing Areas and Dispersed Renewable Investment Enhance Grid Flexibility in a Renewable-Dominant Power System in <span>China</span>,”</span> <em>iScience</em> 25, no. 2 (February 2022): 103749, <a href="https://doi.org/10.1016/j.isci.2022.103749">https://doi.org/10.1016/j.isci.2022.103749</a>.</span></li>
-<li><span class="citation" data-cites="pengHeterogeneousEffectsBattery2023">Liqun Peng et al. <span>“Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in <span>China</span>,”</span> <em>Nature Communications</em> 14, no. 1 (August 2023): 4858, <a href="https://doi.org/10.1038/s41467-023-40337-3">https://doi.org/10.1038/s41467-023-40337-3</a>.</span></li>
-<li><span class="citation" data-cites="luoAcceleratingChinaPower2023">Qian Luo et al. <span>“Accelerating <span>China</span>’s Power Sector Decarbonization Can Save Lives: Integrating Public Health Goals into Power Sector Planning Decisions,”</span> <em>Environmental Research Letters</em> 18, no. 10 (September 2023): 104023, <a href="https://doi.org/10.1088/1748-9326/acf84b">https://doi.org/10.1088/1748-9326/acf84b</a>.</span></li>
-<li><span class="citation" data-cites="yangRegionalDisparitiesHealth2024">Haozhe Yang et al. <span>“Regional Disparities in Health and Employment Outcomes of <span>China</span>’s Transition to a Low-Carbon Electricity System,”</span> <em>Environmental Research: Energy</em> 1, no. 2 (April 2024): 025001, <a href="https://doi.org/10.1088/2753-3751/ad3bb8">https://doi.org/10.1088/2753-3751/ad3bb8</a>.</span></li>
-</ul>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-
-</section>
-
- ]]></description>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/</guid>
-  <pubDate>Thu, 24 Oct 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/featured.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Climate Week NYC 2024: Clean Energy Global Supply Chains Panel</title>
-  <link>https://drganghe.github.io/</link>
-  <description>Join us to discuss the role of clean energy global supply chains in achieving climate goals during Climate Week NYC 2024.</description>
-  <category>event</category>
-  <guid>https://drganghe.github.io/</guid>
-  <pubDate>Thu, 26 Sep 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/files/images/climate-week-logo.png" medium="image" type="image/png" height="65" width="144"/>
 </item>
 </channel>
 </rss>

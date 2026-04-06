@@ -89,7 +89,8 @@
 
 /*ChatGPT*/
 span.__dimensions_badge_embed__, div.altmetric-embed {
-  display: inline-block;
+  display: inline-flex;
+  vertical-align: middle;
 }
 
 /*https://stackoverflow.com/questions/35814653/automatic-height-when-embedding-a-youtube-video*/

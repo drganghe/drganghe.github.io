@@ -42,10 +42,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-346337e101949f30c9d2a2307ffdd10b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7cbc7aa5ff5e154f66dbb0bd5f188b97.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-7cbc7aa5ff5e154f66dbb0bd5f188b97.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7cbc7aa5ff5e154f66dbb0bd5f188b97.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
@@ -86,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 3,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
@@ -94,6 +98,64 @@ ul.task-list li input[type="checkbox"] {
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-latest-papers .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 3,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-latest-papers'] = new List('listing-latest-papers', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-featured-posts .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 3,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-featured-posts'] = new List('listing-featured-posts', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -172,6 +234,7 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="index-grids.css">
 <meta property="og:title" content="Gang He, PhD – Dr.&nbsp;Gang He">
 <meta property="og:description" content="Associate Professor
 Marxe School of Public and International Affairs
@@ -408,7 +471,7 @@ Email: gang.he@baruch.cuny.edu</p>
   <div class="about-contents"><div id="hero-heading">
 <p>Gang He is an energy scholar, researcher, and teacher whose research focuses on the intersection of energy systems, climate policy, and sustainable development. He is an Associate Professor at the <a href="https://marxe.baruch.cuny.edu/homepage/our-community/faculty-and-staff/full-time-faculty/" class="external" target="_blank">Marxe School of Public and International Affairs</a>, Baruch College, City University of New York (CUNY). He also serves as Doctoral Faculty in <a href="https://www.gc.cuny.edu/people/gang-he" class="external" target="_blank">Earth and Environmental Sciences</a> at the CUNY Graduate Center, and is a Faculty Affiliate at the <a href="https://www.cuny.edu/about/centers-and-institutes/demographic-research/" class="external" target="_blank">CUNY Institute for Demographic Research</a>. He is the founder and director of the <a href="https://deeppolicylab.github.io" class="external" target="_blank">Deep Energy and Climate Policy Lab</a>, aiming at deep analysis and deep insights for deep decarbonization.</p>
 <p>He teaches <a href="https://drganghe.github.io/energy-climate-society/" class="external" target="_blank">Energy, Climate, and Society</a> at the undergraduate level, and <a href="https://drganghe.github.io/energy-climate-policy/" class="external" target="_blank">Energy and Climate Policy</a> and <a href="https://drganghe.github.io/program-evaluation/" class="external" target="_blank">Program Evaluation</a> at the graduate level. He organizes the <a href="https://drganghe.github.io/climate-guest-speakers/" class="external" target="_blank">Climate Guest Speakers</a> series which brings in experts and professionals to talk about climate challenges and solutions to inspire the next generation of climate leaders.</p>
-<p>His research explores how the world can achieve carbon neutrality by mid-century to address climate change—and how the clean energy transition can be made more sustainable, resilient, and equitable. His leading and collaborative <a href="./posts.html#category=paper">work</a> has appeared in high-impact interdisciplinary and field journals such as <a href="./posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"><em>Nature</em></a>, <a href="./posts/2020-05-ncomms-rapid-re-cost/index.html"><em>Nature Communications</em></a>, <a href="./posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"><em>Nature Energy</em></a>, <a href="./posts/2023-08-naturewater-global-assessment-of-the-carbon-water-tradeoff-of-dry-cooling/index.html"><em>Nature Water</em></a>, <a href="./posts/2020-08-oneearth-coal-just-transition/index.html"><em>One Earth</em></a>, <a href="./posts/2016-est-switch-china/index.html"><em>Environmental Science &amp; Technology</em></a>, and <a href="./posts/2013-ep-carbon-offsetters-paradox/index.html"><em>Energy Policy</em></a>.</p>
+<p>His research explores how the world can achieve carbon neutrality by mid-century to address climate change—and how the clean energy transition can be made more sustainable, resilient, and equitable. His leading and collaborative <a href="./posts.html#category=paper">work</a> has appeared in high-impact interdisciplinary and field journals such as <a href="./posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html"><em>Nature</em></a>, <a href="./posts/2020-05-ncomms-rapid-re-cost/index.html"><em>Nature Communications</em></a>, <a href="./posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html"><em>Nature Energy</em></a>, <a href="./posts/2020-08-oneearth-coal-just-transition/index.html"><em>One Earth</em></a>, <a href="./posts/2016-est-switch-china/index.html"><em>Environmental Science &amp; Technology</em></a>, and <a href="./posts/2013-ep-carbon-offsetters-paradox/index.html"><em>Energy Policy</em></a>.</p>
 <p>His research has been <a href="https://deeppolicylab.github.io/projects.html">supported</a> by a diverse range of sources, including federal and state agencies, NGOs, foundations, and industry partners. His work has been <a href="./media.html">reported</a> by leading outlets such as <em>Nature</em>, <em>The Economist</em>, <em>The New York Times</em>, <em>Scientific American</em>, <em>Carbon Brief</em>, <em>National Geographic</em>, and <em>E&amp;E News</em>.</p>
 <p>His work has informed policy discussions and processes. His research findings have been <a href="./notable-policy-citations.html">cited</a> in notable reports by global institutions such as the IPCC (AR6), IIASA, World Bank, UNEP, IRENA, WTO, SEI, IISD, CSIS, and Brookings. He testified for the <a href="./posts/2019-nyclcpa-testimony/index.html">New York State Climate Leadership and Community Protection Act</a> and has advised the New York State Climate Action Council’s <a href="./posts/2021-12-nysclcpa-scoping-plan-draft/index.html">Scoping Plan</a>. He has also been involved in the <a href="./posts/2024-06-us-china-working-group-on-enhancing-climate-action/index.html">U.S.-China collaboration on energy and climate change</a> as an expert member in the energy transition sub-working group of the U.S.-China Working Group on Enhancing Climate Action in the 2020s.</p>
 <p>He has been selected as Asia 21 Young Leaders (2007), Aspen Environment Forum Scholars (2011), Young Scholar of the Institute for New Economic Thinking (2013), <a href="https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/" class="external" target="_blank">ITIF Energy Innovation Policy and Management Scholar</a> (2019), <a href="https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/" class="external" target="_blank">Public Intellectuals Program Fellow</a> (2025) of the National Committee on US-China Relations, and recognized as <a href="./posts/stanford-elsevier-top-2percent-scientists/index.html">World’s Top 2% Scientists</a> (2024, 2025) on the Stanford/Elsevier Top 2% Scientists List.</p>
@@ -416,45 +479,54 @@ Email: gang.he@baruch.cuny.edu</p>
 </div></div>
 </div>
 
-<section id="recent-posts" class="level2">
-<h2 data-anchor-id="recent-posts">Recent Posts</h2>
-<p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
-<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1768885200000" data-listing-file-modified-sort="1772207330140" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1138">
-<a href="./posts/2026-01-nrct-grid-decarbonization-year-in-review/index.html" class="quarto-grid-link">
+<!--
+## Recent Posts
+Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>
+-->
+<hr>
+<div class="grid">
+<div class="g-col-12 g-col-md-4" style="display: flex; flex-direction: column;">
+<p align="center" style="font-size:24px; font-weight:bold;">
+Recent Posts
+</p>
+<div id="listing-recent-posts" style="flex: 1;" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-1">
+<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDcHJlc2VudGF0aW9u" data-listing-date-sort="1776225600000" data-listing-file-modified-sort="1776083655845" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="487">
+<a href="./posts/2026-04-15-fourth-baruch-climate-conference/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./posts/2026-04-15-fourth-baruch-climate-conference/featured.webp" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Renewable integration and AI demand reshaped power grids in 2025
+Fourth Annual Conference on Climate Research, Teaching, and Collaboration
 </h5>
-<div class="card-subtitle listing-subtitle">
-<em>Nature Reviews Clean Technology</em>
-</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
-Jan 20, 2026
+Apr 15, 2026
 </div>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1765947600000">
-<a href="https://deeppolicylab.github.io/news/2025-12-17-sloan-grant-drivers-and-impacts-domestic-manufacturing.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="bmV3cyUyQ2V2ZW50JTJDcHJlc2VudGF0aW9u" data-listing-date-sort="1773460800000" data-listing-file-modified-sort="1775153923642" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="62">
+<a href="./posts/2026-brown-china-summit-renewable-energy-panel/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://deeppolicylab.github.io/files/images/funders/sloan-logo.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./files/images/BrownChinaSummit2026.webp" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-New Grant to Study the Drivers and Impacts of Domestic Clean Energy Manufacturing
+Brown China Summit Renewable Energy Panel
 </h5>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
-Dec 17, 2025
+Mar 14, 2026
 </div>
 </div>
 </div>
@@ -481,14 +553,155 @@ Dec 16, 2025
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<p align="right">
+<div class="button" style="margin-top: auto;">
+<p align="center">
 <a href="./posts.html">All Posts »</a>
 </p>
+</div>
+</div>
+<div class="g-col-12 g-col-md-4" style="border-left: 1px solid #ccc; padding-left: 24px; display: flex; flex-direction: column;">
+<p align="center" style="font-size:24px; font-weight:bold;">
+Latest Papers
+</p>
+<div id="listing-latest-papers" style="flex: 1;" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-1">
+<div class="g-col-1" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1776744000000" data-listing-file-modified-sort="1777399447566" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="232">
+<a href="./posts/2026-04-commsee-aligning-offshore-wind-development-with-local-priorities/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026-04-commsee-aligning-offshore-wind-development-with-local-priorities/figure1a.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Aligning offshore wind deployment with local priorities to accelerate power system decarbonization
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 21, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="cGFwZXI=" data-listing-date-sort="1768885200000" data-listing-file-modified-sort="1772207330140" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1138">
+<a href="./posts/2026-01-nrct-grid-decarbonization-year-in-review/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Renewable integration and AI demand reshaped power grids in 2025
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 20, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="cGFwZXIlMkNpbmZvZ3JhcGhpYw==" data-listing-date-sort="1759896000000" data-listing-file-modified-sort="1777851201216" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="243">
+<a href="./posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Imported solar photovoltaics contributed to health and climate benefits in the United States
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Oct 8, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<div class="button" style="margin-top: auto;">
+<p align="center">
+<a href="./posts.html#category=paper">More Papers »</a>
+</p>
+</div>
+</div>
+<div class="g-col-12 g-col-md-4" style="border-left: 1px solid #ccc; padding-left: 24px; display: flex; flex-direction: column;">
+<p align="center" style="font-size:24px; font-weight:bold;">
+Featured
+</p>
+<div id="listing-featured-posts" style="flex: 1;" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-1">
+<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2ZlYXR1cmVk" data-listing-date-sort="1765947600000">
+<a href="https://deeppolicylab.github.io/news/2025-12-17-sloan-grant-drivers-and-impacts-domestic-manufacturing.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://deeppolicylab.github.io/files/images/funders/sloan-logo.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+New Grant to Study the Drivers and Impacts of Domestic Clean Energy Manufacturing
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Dec 17, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="bmV3cyUyQ3JlY29nbml0aW9uJTJDZmVhdHVyZWQ=" data-listing-date-sort="1758254400000" data-listing-file-modified-sort="1778358037908" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="232">
+<a href="./posts/stanford-elsevier-top-2percent-scientists/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./files/awards/Top2Percent.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Included in World’s Top 2% Scientists List 2025
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Sep 19, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="bmV3cyUyQ3JlY29nbml0aW9uJTJDZmVhdHVyZWQ=" data-listing-date-sort="1755057600000">
+<a href="https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./files/images/pip-fellow-2025.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Selected as Public Intellectuals Program Fellow
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Aug 13, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<div class="button" style="margin-top: auto;">
+<p align="center">
+<a href="./posts.html#category=featured">Featured Posts »</a>
+</p>
+</div>
+</div>
+</div>
 
 
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

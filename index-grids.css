@@ -1,0 +1,17 @@
+/* Remove left border when stacked on mobile */
+@media (max-width: 768px) {
+  .g-col-12.g-col-md-4 {
+    border-left: none !important;
+    padding-left: 0 !important;
+    border-top: 1px solid #ccc;
+    padding-top: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  /* Remove border from first column */
+  .g-col-12.g-col-md-4:first-child {
+    border-top: none;
+    padding-top: 0;
+    margin-top: 0;
+  }
+}
