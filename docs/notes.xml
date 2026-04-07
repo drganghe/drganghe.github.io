@@ -15,7 +15,535 @@
 <link>https://drganghe.github.io/notes.html</link>
 </image>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Fri, 03 Jan 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Apr 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Autogenerate a Quarto publications listing from Excel (xlsx → YAML → custom listing)</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/notes/generate-publications-listing.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
+<!--  {{< include /files/includes/_adsense.qmd >}} -->
+<section id="what-problem-does-this-solve" class="level2">
+<h2 class="anchored" data-anchor-id="what-problem-does-this-solve">What problem does this solve?</h2>
+<p>Editing a long <strong>publications list</strong> as raw YAML is error-prone and awkward for researchers. Instead, import publications from a BibTeX file or maintain publication rows in <strong>Excel</strong> (<code>publications.xlsx</code>), run <strong><code>xlsx_to_yml.py</code></strong> to produce <strong><code>publications.yml</code></strong>, and let Quarto’s <a href="https://quarto.org/docs/websites/website-listings.html#custom-listings"><strong>custom listing</strong></a> plus your own <strong><code>pub-listing.ejs</code></strong> and <strong><code>pub-listing.css</code></strong> render the page with categories, filters, links, and badges as your template defines.</p>
+<p>In this repository the script lives at <code>files/scripts/xlsx_to_yml.py</code>, and <code>_quarto.yml</code> runs it under <code>pre-render</code> before each build when needed (see below).</p>
+</section>
+<section id="prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
+<ol type="1">
+<li><p><strong>Python 3</strong> and:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">pip</span> install openpyxl</span></code></pre></div></div>
+<p>Optional: install <code>pyyaml</code>; the script will try to validate the written YAML with PyYAML if available.</p></li>
+<li><p>Place <strong><code>publications.xlsx</code></strong> in the project root (next to <code>_quarto.yml</code>). By default the script reads that file and writes <strong><code>publications.yml</code></strong>; you can pass different paths on the command line.</p></li>
+<li><p>Copy <strong><code>pub-listing.ejs</code></strong> and <strong><code>pub-listing.css</code></strong> from the template repo (or author your own), and keep them where your listing <code>.qmd</code> (e.g.&nbsp;<code>publications.qmd</code>) expects—often alongside that page.</p></li>
+</ol>
+</section>
+<section id="step-1-prepare-the-spreadsheet" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-prepare-the-spreadsheet">Step 1: Prepare the spreadsheet</h2>
+<p>The <strong>first row must be headers</strong>, and header text must match the table below exactly (case and spaces matter). Columns not in the mapping become lowercase hyphenated keys; sticking to the table avoids stray fields. For first time users, especially if you have a long list of publications, you can use bib file to create the spreadsheet using online tools, such as this <a href="https://paperpile.com/t/ris-to-excel-converter/">one</a>.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Excel column</th>
+<th>YAML key</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Section</td>
+<td><code>section</code></td>
+<td>Drives Quarto <code>include: section: "..."</code> blocks, e.g.&nbsp;<code>Selected Work</code> vs <code>Peer-reviewed Journal Paper</code></td>
+</tr>
+<tr class="even">
+<td>Authors</td>
+<td><code>authors</code></td>
+<td>Markdown allowed (bold, <code>*</code> for corresponding author, etc.)</td>
+</tr>
+<tr class="odd">
+<td>Year</td>
+<td><code>year</code></td>
+<td>Prefer a number; the script coerces to int when possible</td>
+</tr>
+<tr class="even">
+<td>Date</td>
+<td><code>date</code></td>
+<td>Optional; useful for sort or display</td>
+</tr>
+<tr class="odd">
+<td>Title</td>
+<td><code>title</code></td>
+<td>Paper title</td>
+</tr>
+<tr class="even">
+<td>Paper Link</td>
+<td><code>path</code></td>
+<td>Primary URL (site post or external)</td>
+</tr>
+<tr class="odd">
+<td>Journal</td>
+<td><code>journal</code></td>
+<td>Journal name</td>
+</tr>
+<tr class="even">
+<td>Volume</td>
+<td><code>volume</code></td>
+<td>Volume</td>
+</tr>
+<tr class="odd">
+<td>Issue</td>
+<td><code>issue</code></td>
+<td>Issue</td>
+</tr>
+<tr class="even">
+<td>Pages</td>
+<td><code>pages</code></td>
+<td>Pages</td>
+</tr>
+<tr class="odd">
+<td>DOI</td>
+<td><code>doi</code></td>
+<td>DOI</td>
+</tr>
+<tr class="even">
+<td>PDF</td>
+<td><code>pdf</code></td>
+<td>PDF URL</td>
+</tr>
+<tr class="odd">
+<td>Preprint</td>
+<td><code>preprint</code></td>
+<td>Preprint URL</td>
+</tr>
+<tr class="even">
+<td>SharedIt</td>
+<td><code>sharedit</code></td>
+<td>Share / readcube-style link</td>
+</tr>
+<tr class="odd">
+<td>Supplemental Information</td>
+<td><code>supplemental</code></td>
+<td>Supplementary materials</td>
+</tr>
+<tr class="even">
+<td>GitHub</td>
+<td><code>github</code></td>
+<td>Repository</td>
+</tr>
+<tr class="odd">
+<td>Code</td>
+<td><code>code</code></td>
+<td>Code archive (e.g.&nbsp;Zenodo)</td>
+</tr>
+<tr class="even">
+<td>Data</td>
+<td><code>data</code></td>
+<td>Data URL</td>
+</tr>
+<tr class="odd">
+<td>Highly Cited</td>
+<td><code>highlycited</code></td>
+<td>Flag; rendering depends on EJS/CSS</td>
+</tr>
+<tr class="even">
+<td>Hot Paper</td>
+<td><code>hotpaper</code></td>
+<td>Flag</td>
+</tr>
+<tr class="odd">
+<td>Awards</td>
+<td><code>awards</code></td>
+<td>Awards text</td>
+</tr>
+<tr class="even">
+<td>Media Coverage</td>
+<td><code>mediacoverage</code></td>
+<td>Press links (e.g.&nbsp;<code>|</code> inside the cell; parsed by template)</td>
+</tr>
+<tr class="odd">
+<td>Invited Presentation</td>
+<td><code>invitedpresentation</code></td>
+<td>Invited talk, etc.</td>
+</tr>
+<tr class="even">
+<td>Categories</td>
+<td><code>categories</code></td>
+<td><strong>List</strong>: separate with comma, semicolon, or pipe, e.g.&nbsp;<code>2025, selected, peer-reviewed</code></td>
+</tr>
+</tbody>
+</table>
+<p>Empty rows are skipped; rows that yield no fields after parsing are omitted from the YAML.</p>
+</section>
+<section id="step-2-run-the-converter" class="level2">
+<h2 class="anchored" data-anchor-id="step-2-run-the-converter">Step 2: Run the converter</h2>
+<p>From the project root (default <code>publications.xlsx</code> → <code>publications.yml</code>):</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">python</span> files/scripts/xlsx_to_yml.py</span></code></pre></div></div>
+<p>Or pass explicit paths:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">python</span> files/scripts/xlsx_to_yml.py path/to/in.xlsx path/to/out.yml</span></code></pre></div></div>
+<p><strong>Incremental runs:</strong> if the output file already exists, the script compares modification times of <code>publications.xlsx</code> and <code>publications.yml</code> and <strong>only regenerates</strong> when Excel is newer, avoiding redundant writes. To force a rebuild:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">python</span> files/scripts/xlsx_to_yml.py <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">--force</span></span></code></pre></div></div>
+</section>
+<section id="step-3-hook-into-quarto-pre-render" class="level2">
+<h2 class="anchored" data-anchor-id="step-3-hook-into-quarto-pre-render">Step 3: Hook into Quarto (<code>pre-render</code>)</h2>
+<p>Under <strong><code>project</code></strong> in <strong><code>_quarto.yml</code></strong>, add <code>pre-render</code> so every <code>quarto render</code> / <code>quarto preview</code> runs the converter first (still subject to the “only if Excel changed” logic):</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb5-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">project</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span></span>
+<span id="cb5-2"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">  </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">type</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> website</span></span>
+<span id="cb5-3"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">  </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">pre-render</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span></span>
+<span id="cb5-4"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">-</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> python files/scripts/xlsx_to_yml.py</span></span></code></pre></div></div>
+<p>If your script sits at the repo root instead of <code>files/scripts/</code>, use <code>python xlsx_to_yml.py</code>.</p>
+</section>
+<section id="step-4-wire-the-publications-page-yaml-custom-template" class="level2">
+<h2 class="anchored" data-anchor-id="step-4-wire-the-publications-page-yaml-custom-template">Step 4: Wire the publications page (YAML + custom template)</h2>
+<p>In <strong><code>publications.qmd</code></strong> (filename up to you), set <code>listing</code> with <code>contents: publications.yml</code>, <code>type: custom</code>, <code>template: pub-listing.ejs</code>, and use <code>include</code> to split listings by <code>section</code>. A minimal pattern matching this site:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb6-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">title</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Publications"</span></span>
+<span id="cb6-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">listing</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span></span>
+<span id="cb6-3"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">  </span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">-</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">id</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> selected-work</span></span>
+<span id="cb6-4"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">contents</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> publications.yml</span></span>
+<span id="cb6-5"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">type</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> custom</span></span>
+<span id="cb6-6"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">page-size</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100</span></span>
+<span id="cb6-7"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">categories</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> numbered</span></span>
+<span id="cb6-8"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">template</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> pub-listing.ejs</span></span>
+<span id="cb6-9"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">include</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span></span>
+<span id="cb6-10"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">section</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Selected Work"</span></span>
+<span id="cb6-11"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">  </span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">-</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">id</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> peer-reviewed</span></span>
+<span id="cb6-12"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">contents</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> publications.yml</span></span>
+<span id="cb6-13"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">type</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> custom</span></span>
+<span id="cb6-14"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">page-size</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100</span></span>
+<span id="cb6-15"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">categories</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> numbered</span></span>
+<span id="cb6-16"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">template</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> pub-listing.ejs</span></span>
+<span id="cb6-17"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">    </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">include</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span></span>
+<span id="cb6-18"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">section</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> </span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Peer-reviewed Journal Paper"</span></span>
+<span id="cb6-19"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">css</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> pub-listing.css</span></span></code></pre></div></div>
+<p>In the body, use fenced divs whose <strong>id</strong> matches each listing <strong>id</strong>:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb7-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">## Selected Work</span></span>
+<span id="cb7-2"></span>
+<span id="cb7-3">::: {#selected-work}</span>
+<span id="cb7-4">:::</span>
+<span id="cb7-5"></span>
+<span id="cb7-6"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">## Other Peer-reviewed Journal Papers</span></span>
+<span id="cb7-7"></span>
+<span id="cb7-8">::: {#peer-reviewed}</span>
+<span id="cb7-9">:::</span></code></pre></div></div>
+<p>This site also uses a Lua filter when raw HTML from EJS interacts badly with Quarto’s listing wrapper; if you see stray <code>:::</code> in output, add <code>filters: [files/scripts/remove-stray-divfence.lua]</code> in <code>publications.qmd</code>.</p>
+</section>
+<section id="examples-and-where-to-get-the-templates" class="level2">
+<h2 class="anchored" data-anchor-id="examples-and-where-to-get-the-templates">Examples and where to get the templates</h2>
+<ul>
+<li>Live demo (academic template): <a href="https://drganghe.github.io/quarto-academic-website-template/pub-listing.html">pub-listing example</a></li>
+<li>Template docs and files: <strong><a href="https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md">quarto-academic-website-template README</a></strong></li>
+<li>This site: <a href="https://drganghe.github.io/publications.html">publications.html</a> and <a href="https://github.com/drganghe/drganghe.github.io/blob/main/publications.qmd"><code>publications.qmd</code></a> in the <a href="https://github.com/drganghe/drganghe.github.io">repo</a></li>
+</ul>
+<p>After copying <code>pub-listing.ejs</code> and <code>pub-listing.css</code>, adjust CSS for your brand.</p>
+</section>
+<section id="troubleshooting" class="level2">
+<h2 class="anchored" data-anchor-id="troubleshooting">Troubleshooting</h2>
+<p><strong>New papers missing after build</strong><br>
+Confirm Excel is saved and that <code>publications.yml</code> is not newer than <code>publications.xlsx</code> unless you intend to skip conversion; run once with <code>--force</code>, then <code>quarto render</code>.</p>
+<p><strong>YAML errors or empty listing</strong><br>
+Verify headers match the table exactly. For tricky titles or authors, the script quotes YAML scalars; if it still fails, simplify the cell temporarily to isolate the issue.</p>
+<p><strong>Local test without editing <code>_quarto.yml</code></strong><br>
+Run <code>python files/scripts/xlsx_to_yml.py</code>, then <code>quarto render publications.qmd</code> (or a full site render).</p>
+</section>
+<section id="cheat-sheet" class="level2">
+<h2 class="anchored" data-anchor-id="cheat-sheet">Cheat sheet</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 11%">
+<col style="width: 88%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Step</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Maintain <code>publications.xlsx</code> with the correct column headers</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Run <code>python files/scripts/xlsx_to_yml.py</code> (or rely on <code>pre-render</code>)</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Point <code>publications.qmd</code> at <code>publications.yml</code> + <code>pub-listing.ejs</code> + <code>pub-listing.css</code></td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td><code>quarto render</code> and publish</td>
+</tr>
+</tbody>
+</table>
+<p>Day-to-day you only edit the spreadsheet; the site listing stays in sync with that data.</p>
+</section>
+<section id="learn-more" class="level2">
+<h2 class="anchored" data-anchor-id="learn-more">Learn more</h2>
+<ul>
+<li><a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic Website Template</a></li>
+<li><a href="https://drganghe.github.io/quarto-academic-site-examples.html">Quarto Academic Website Examples and Tips</a></li>
+</ul>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>tool</category>
+  <category>quarto</category>
+  <guid>https://drganghe.github.io/notes/generate-publications-listing.html</guid>
+  <pubDate>Fri, 10 Apr 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>CUNY Baruch College Visiting Scholar Paperwork Guide</title>
   <dc:creator>Gang He</dc:creator>
@@ -679,10 +1207,20 @@ font-style: inherit;">display</span><span class="ch" style="color: #20794D;
 background-color: null;
 font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">inline-block</span><span class="op" style="color: #5E5E5E;
+font-style: inherit;">inline-flex</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">;</span></span>
-<span id="cb4-3">}</span></code></pre></div></div>
+<span id="cb4-3">  <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">vertical-align</span><span class="ch" style="color: #20794D;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">middle</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">;</span></span>
+<span id="cb4-4">}</span></code></pre></div></div>
 <p>You can also showcase your highly cited and hot papers using custom badges.</p>
 <p><img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> <img src="https://drganghe.github.io/files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"></p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb5-1"><span class="al" style="color: #AD0000;
@@ -749,10 +1287,36 @@ font-style: inherit;">"supply-chain"</span></span></code></pre></div></div>
 <p>Here, <code>publications.yml</code> is a YAML file containing a list of publications with predfined <code>categories</code>, and <code>categories</code> is the key used for filtering. The result will display only publications that match the specified category.</p>
 <p>Here is an <a href="https://deeppolicylab.github.io/research/clean-energy-supply-chains/index.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research/clean-energy-supply-chains/index.qmd">source code</a>.</p>
 </section>
+<section id="automatically-generate-listing-of-publications" class="level3">
+<h3 class="anchored" data-anchor-id="automatically-generate-listing-of-publications">Automatically generate listing of publications</h3>
+<p>Use the workflow below to automatically generate listing of publications from an Excel file <code>publications.xlsx</code> using the <code>xlsx_to_yml.py</code> script. Updating the Excel file is much easier than updating the YAML file.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">python</span> xlsx_to_yml.py </span></code></pre></div></div>
+<p>Or integrate it into your Quarto project by adding the following to your <code>_quarto.yml</code> file:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb8-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">pre-render</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span></span>
+<span id="cb8-2"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">  </span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">-</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> python xlsx_to_yml.py</span></span></code></pre></div></div>
+<p>It will generate a <code>publications.yml</code> file when there is any update in the <code>publications.xlsx</code> file.</p>
+<p>Then you can use the <code>publications.yml</code> file as a custom listing data source. With <code>pub-listing.ejs</code> and <code>pub-listing.css</code>, you can create a custom listing page of publications, with citations, links, flags, categories, and filters.</p>
+<p>Here is an <a href="https://drganghe.github.io/quarto-academic-website-template/pub-listing.html">example</a>. Check more instructions <a href="https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md">here</a>.</p>
+<p>Read more detailed notes <a href="./notes/generate-publications-listing.html">here</a>.</p>
+</section>
 <section id="listing-external-items" class="level3">
 <h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
 <p>To list external resources with key metadata, you can use this format to create clear, linked listings.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb7-1"><span class="at" style="color: #657422;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb9" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb9-1"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">    </span><span class="kw" style="color: #003B4F;
 background-color: null;
@@ -767,7 +1331,7 @@ font-weight: bold;
 font-style: inherit;">:</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;"> https://www.nature.com/articles/s41586-022-05316-6</span></span>
-<span id="cb7-2"><span class="at" style="color: #657422;
+<span id="cb9-2"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -777,7 +1341,7 @@ font-weight: bold;
 font-style: inherit;">:</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;"> /files/images/journal/nature.avif</span></span>
-<span id="cb7-3"><span class="at" style="color: #657422;
+<span id="cb9-3"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -789,7 +1353,7 @@ background-color: null;
 font-style: inherit;"> </span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
-<span id="cb7-4"><span class="at" style="color: #657422;
+<span id="cb9-4"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -801,7 +1365,7 @@ background-color: null;
 font-style: inherit;"> </span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"*Nature*"</span></span>
-<span id="cb7-5"><span class="at" style="color: #657422;
+<span id="cb9-5"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -813,7 +1377,7 @@ background-color: null;
 font-style: inherit;"> </span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
-<span id="cb7-6"><span class="at" style="color: #657422;
+<span id="cb9-6"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -831,7 +1395,7 @@ font-style: inherit;">"2022-10-26"</span></span></code></pre></div></div>
 <section id="exporting-quarto-revealjs-slides-to-pdf" class="level3">
 <h3 class="anchored" data-anchor-id="exporting-quarto-revealjs-slides-to-pdf">Exporting Quarto Revealjs slides to PDF</h3>
 <p>Revealjs’s default <a href="https://revealjs.com/pdf-export/">PDF Export</a> omits footnotes, which is not acceptable if citations and sources are used. A workaround is to use <a href="https://github.com/astefanutti/decktape">decktape</a>:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><span class="ex" style="color: null;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb10" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb10-1"><span class="ex" style="color: null;
 background-color: null;
 font-style: inherit;">decktape</span> automatic lecture1.html lecture1.pdf</span></code></pre></div></div>
 <p>If you encounter font error when opening the PDF:</p>
@@ -864,6 +1428,7 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>tool</category>
+  <category>quarto</category>
   <guid>https://drganghe.github.io/quarto-academic-site-examples.html</guid>
   <pubDate>Tue, 15 Oct 2024 04:00:00 GMT</pubDate>
 </item>

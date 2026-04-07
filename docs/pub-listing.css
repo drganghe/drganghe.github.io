@@ -218,8 +218,3 @@ hr.pub-divider {
   }
 }
 
-span.__dimensions_badge_embed__, div.altmetric-embed {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
