@@ -679,10 +679,20 @@ font-style: inherit;">display</span><span class="ch" style="color: #20794D;
 background-color: null;
 font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">inline-block</span><span class="op" style="color: #5E5E5E;
+font-style: inherit;">inline-flex</span><span class="op" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">;</span></span>
-<span id="cb4-3">}</span></code></pre></div></div>
+<span id="cb4-3">  <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">vertical-align</span><span class="ch" style="color: #20794D;
+background-color: null;
+font-style: inherit;">:</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">middle</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">;</span></span>
+<span id="cb4-4">}</span></code></pre></div></div>
 <p>You can also showcase your highly cited and hot papers using custom badges.</p>
 <p><img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" class="img-fluid" alt="Highly cited paper" width="20"> <img src="https://drganghe.github.io/files/images/hot-paper-badge.png" title="ESI Hot Paper" class="img-fluid" alt="Hot paper" width="20"></p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb5-1"><span class="al" style="color: #AD0000;
@@ -749,10 +759,35 @@ font-style: inherit;">"supply-chain"</span></span></code></pre></div></div>
 <p>Here, <code>publications.yml</code> is a YAML file containing a list of publications with predfined <code>categories</code>, and <code>categories</code> is the key used for filtering. The result will display only publications that match the specified category.</p>
 <p>Here is an <a href="https://deeppolicylab.github.io/research/clean-energy-supply-chains/index.html">example</a>, and <a href="https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research/clean-energy-supply-chains/index.qmd">source code</a>.</p>
 </section>
+<section id="automatically-generate-listing-of-publications" class="level3">
+<h3 class="anchored" data-anchor-id="automatically-generate-listing-of-publications">Automatically generate listing of publications</h3>
+<p>Use the workflow below to automatically generate listing of publications from an Excel file <code>publications.xlsx</code> using the <code>xlsx_to_yml.py</code> script. Updating the Excel file is much easier than updating the YAML file.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">python</span> xlsx_to_yml.py </span></code></pre></div></div>
+<p>Or integrate it into your Quarto project by adding the following to your <code>_quarto.yml</code> file:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb8-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">pre-render</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">:</span></span>
+<span id="cb8-2"><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">  </span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">-</span><span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;"> python xlsx_to_yml.py</span></span></code></pre></div></div>
+<p>It will generate a <code>publications.yml</code> file when there is any update in the <code>publications.xlsx</code> file.</p>
+<p>Then you can use the <code>publications.yml</code> file as a custom listing data source. With <code>pub-listing.ejs</code> and <code>pub-listing.css</code>, you can create a custom listing page of publications, with citations, links, flags, categories, and filters.</p>
+<p>Here is an <a href="https://drganghe.github.io/quarto-academic-website-template/pub-listing.html">example</a>. Check more instructions <a href="https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md">here</a>.</p>
+</section>
 <section id="listing-external-items" class="level3">
 <h3 class="anchored" data-anchor-id="listing-external-items">Listing external items</h3>
 <p>To list external resources with key metadata, you can use this format to create clear, linked listings.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb7-1"><span class="at" style="color: #657422;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb9" style="background: #f1f3f5;"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb9-1"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">    </span><span class="kw" style="color: #003B4F;
 background-color: null;
@@ -767,7 +802,7 @@ font-weight: bold;
 font-style: inherit;">:</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;"> https://www.nature.com/articles/s41586-022-05316-6</span></span>
-<span id="cb7-2"><span class="at" style="color: #657422;
+<span id="cb9-2"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -777,7 +812,7 @@ font-weight: bold;
 font-style: inherit;">:</span><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;"> /files/images/journal/nature.avif</span></span>
-<span id="cb7-3"><span class="at" style="color: #657422;
+<span id="cb9-3"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -789,7 +824,7 @@ background-color: null;
 font-style: inherit;"> </span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Quantifying the cost savings of global solar photovoltaic supply chains"</span></span>
-<span id="cb7-4"><span class="at" style="color: #657422;
+<span id="cb9-4"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -801,7 +836,7 @@ background-color: null;
 font-style: inherit;"> </span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"*Nature*"</span></span>
-<span id="cb7-5"><span class="at" style="color: #657422;
+<span id="cb9-5"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -813,7 +848,7 @@ background-color: null;
 font-style: inherit;"> </span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if countries move to produce domestically."</span></span>
-<span id="cb7-6"><span class="at" style="color: #657422;
+<span id="cb9-6"><span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">      </span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -831,7 +866,7 @@ font-style: inherit;">"2022-10-26"</span></span></code></pre></div></div>
 <section id="exporting-quarto-revealjs-slides-to-pdf" class="level3">
 <h3 class="anchored" data-anchor-id="exporting-quarto-revealjs-slides-to-pdf">Exporting Quarto Revealjs slides to PDF</h3>
 <p>Revealjs’s default <a href="https://revealjs.com/pdf-export/">PDF Export</a> omits footnotes, which is not acceptable if citations and sources are used. A workaround is to use <a href="https://github.com/astefanutti/decktape">decktape</a>:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><span class="ex" style="color: null;
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb10" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb10-1"><span class="ex" style="color: null;
 background-color: null;
 font-style: inherit;">decktape</span> automatic lecture1.html lecture1.pdf</span></code></pre></div></div>
 <p>If you encounter font error when opening the PDF:</p>

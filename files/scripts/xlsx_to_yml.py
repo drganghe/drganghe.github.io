@@ -12,6 +12,7 @@ Requirements:
 """
 
 import sys
+from pathlib import Path
 import openpyxl
 
 # ── Default file paths (edit here or pass as command-line args) ──────────────
@@ -176,7 +177,36 @@ def convert(input_path: str, output_path: str) -> None:
         print(f"WARNING: YAML validation failed — {e}")
 
 
+def should_convert(input_path: str, output_path: str, force: bool = False) -> bool:
+    """Return True only when input is newer than output (or output missing)."""
+    if force:
+        return True
+
+    src = Path(input_path)
+    dst = Path(output_path)
+
+    if not src.exists():
+        raise FileNotFoundError(f"Input file not found: {input_path}")
+    if not dst.exists():
+        print(f"Output missing: {output_path}; running conversion.")
+        return True
+
+    src_mtime = src.stat().st_mtime
+    dst_mtime = dst.stat().st_mtime
+    if src_mtime > dst_mtime:
+        print(f"Detected update in {input_path}; running conversion.")
+        return True
+
+    print(f"No update in {input_path}; skip conversion.")
+    return False
+
+
 if __name__ == "__main__":
-    input_file  = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_INPUT
-    output_file = sys.argv[2] if len(sys.argv) > 2 else DEFAULT_OUTPUT
-    convert(input_file, output_file)
+    args = [a for a in sys.argv[1:] if a != "--force"]
+    force = "--force" in sys.argv[1:]
+
+    input_file = args[0] if len(args) > 0 else DEFAULT_INPUT
+    output_file = args[1] if len(args) > 1 else DEFAULT_OUTPUT
+
+    if should_convert(input_file, output_file, force=force):
+        convert(input_file, output_file)

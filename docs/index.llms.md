@@ -28,6 +28,12 @@ He has worked for the [Department of Technology and Society](https://www.stonybr
 
 Check out the latest  [Papers](posts.llms.md#category=paper) ,  [News](posts.llms.md#category=news) ,  [Events](posts.llms.md#category=event) , and  [More »](posts.llms.md)
 
+![](./posts/2026-04-15-fourth-baruch-climate-conference/featured.webp)
+
+##### Fourth Annual Conference on Climate Research, Teaching, and Collaboration
+
+Apr 15, 2026
+
 ![](./posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg)
 
 ##### Renewable integration and AI demand reshaped power grids in 2025
@@ -41,11 +47,5 @@ Jan 20, 2026
 ##### New Grant to Study the Drivers and Impacts of Domestic Clean Energy Manufacturing
 
 Dec 17, 2025
-
-![](./posts/2025-12-baruch-17-lex-society-feature-story/featured.webp)
-
-##### 17 Lex Society Feature Story: Research That Powers Change
-
-Dec 16, 2025
 
 [All Posts »](posts.llms.md)

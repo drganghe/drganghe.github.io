@@ -287,7 +287,7 @@ Chen, Shi, Xi Lu\*, Chris P. Nielsen, Michael B. McElroy\*, **Gang He**, Shaohui
 
 [ PDF](https://www.nature.com/articles/s43247-023-01006-x.pdf) [ Data](https://doi.org/10.5281/zenodo.8275019) [ Supplemental](https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-023-01006-x/MediaObjects/43247_2023_1006_MOESM2_ESM.pdf)
 
-Coverage: [Tsinghua University](https://www.tsinghua.edu.cn/info/1175/107135.htm)
+Coverage: [THU News](https://www.tsinghua.edu.cn/info/1175/107135.htm)
 
 ------------------------------------------------------------------------
 
@@ -313,7 +313,7 @@ Yue Qin\*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liang
 
 [ SharedIt](https://rdcu.be/diKmv) [ Data](https://www.nature.com/articles/s44221-023-00120-6#Sec15) [ Supplemental](https://www.nature.com/articles/s44221-023-00120-6#Sec14)
 
-Coverage: [Peking University](https://news.pku.edu.cn/jxky/0d1098aa267a4ddfa1908784ff023570.htm) \| [Stony Brook University](https://news.stonybrook.edu/newsroom/taking-a-global-look-at-dry-and-alternative-water-cooling-of-power-plants/)
+Coverage: [PKU News](https://news.pku.edu.cn/jxky/0d1098aa267a4ddfa1908784ff023570.htm) \| [SBU News](https://news.stonybrook.edu/newsroom/taking-a-global-look-at-dry-and-alternative-water-cooling-of-power-plants/)
 
 ------------------------------------------------------------------------
 
@@ -685,7 +685,7 @@ Chen, Shi, Xi Lu\*, Chris P. Nielsen, Michael B. McElroy\*, **Gang He**, Shaohui
 
 [ PDF](https://www.nature.com/articles/s43247-023-01006-x.pdf) [ Data](https://doi.org/10.5281/zenodo.8275019) [ Supplemental](https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-023-01006-x/MediaObjects/43247_2023_1006_MOESM2_ESM.pdf)
 
-Coverage: [Tsinghua University](https://www.tsinghua.edu.cn/info/1175/107135.htm)
+Coverage: [THU News](https://www.tsinghua.edu.cn/info/1175/107135.htm)
 
 ------------------------------------------------------------------------
 
@@ -711,7 +711,7 @@ Yue Qin\*, Yaoping Wang, Shiyu Li, Hang Deng, Niko Wanders, Joyce Bosmans, Liang
 
 [ SharedIt](https://rdcu.be/diKmv) [ Data](https://www.nature.com/articles/s44221-023-00120-6#Sec15) [ Supplemental](https://www.nature.com/articles/s44221-023-00120-6#Sec14)
 
-Coverage: [Peking University](https://news.pku.edu.cn/jxky/0d1098aa267a4ddfa1908784ff023570.htm) \| [Stony Brook University](https://news.stonybrook.edu/newsroom/taking-a-global-look-at-dry-and-alternative-water-cooling-of-power-plants/)
+Coverage: [PKU News](https://news.pku.edu.cn/jxky/0d1098aa267a4ddfa1908784ff023570.htm) \| [SBU News](https://news.stonybrook.edu/newsroom/taking-a-global-look-at-dry-and-alternative-water-cooling-of-power-plants/)
 
 ------------------------------------------------------------------------
 

@@ -84,7 +84,8 @@ To make the badges display in the same line, you can add the following CSS to yo
 
 ``` css
 span.__dimensions_badge_embed__, div.altmetric-embed {
-  display: inline-block;
+  display: inline-flex;
+  vertical-align: middle;
 }
 ```
 
@@ -134,6 +135,27 @@ To display a subset of items, use the `include` and `exclude` [options](https://
 Here, `publications.yml` is a YAML file containing a list of publications with predfined `categories`, and `categories` is the key used for filtering. The result will display only publications that match the specified category.
 
 Here is an [example](https://deeppolicylab.github.io/research/clean-energy-supply-chains/index.html), and [source code](https://github.com/deeppolicylab/deeppolicylab.github.io/blob/main/research/clean-energy-supply-chains/index.qmd).
+
+### Automatically generate listing of publications
+
+Use the workflow below to automatically generate listing of publications from an Excel file `publications.xlsx` using the `xlsx_to_yml.py` script. Updating the Excel file is much easier than updating the YAML file.
+
+``` bash
+python xlsx_to_yml.py 
+```
+
+Or integrate it into your Quarto project by adding the following to your `_quarto.yml` file:
+
+``` yaml
+pre-render:
+  - python xlsx_to_yml.py
+```
+
+It will generate a `publications.yml` file when there is any update in the `publications.xlsx` file.
+
+Then you can use the `publications.yml` file as a custom listing data source. With `pub-listing.ejs` and `pub-listing.css`, you can create a custom listing page of publications, with citations, links, flags, categories, and filters.
+
+Here is an [example](https://drganghe.github.io/quarto-academic-website-template/pub-listing.html). Check more instructions [here](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md).
 
 ### Listing external items
 

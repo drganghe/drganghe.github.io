@@ -2,6 +2,16 @@
 
 Posts on papers, events, news, and more
 
+[![](./posts/2026-04-15-fourth-baruch-climate-conference/featured.webp)](posts/2026-04-15-fourth-baruch-climate-conference/index.llms.md)
+
+### [Fourth Annual Conference on Climate Research, Teaching, and Collaboration](posts/2026-04-15-fourth-baruch-climate-conference/index.llms.md)
+
+Gang speaks in the Baruch Climate Conference on sustainable, resilient, and efficient clean energy supply chains
+
+Apr 15, 2026
+
+Baruch Climate Conference
+
 [![](./files/images/BrownChinaSummit2026.webp)](posts/2026-brown-china-summit-renewable-energy-panel/index.llms.md)
 
 ### [Brown China Summit Renewable Energy Panel](posts/2026-brown-china-summit-renewable-energy-panel/index.llms.md)
