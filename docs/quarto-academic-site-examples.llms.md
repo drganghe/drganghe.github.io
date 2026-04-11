@@ -2,6 +2,8 @@
 
 tool
 
+quarto
+
 Author
 
 Gang He
@@ -156,6 +158,8 @@ It will generate a `publications.yml` file when there is any update in the `publ
 Then you can use the `publications.yml` file as a custom listing data source. With `pub-listing.ejs` and `pub-listing.css`, you can create a custom listing page of publications, with citations, links, flags, categories, and filters.
 
 Here is an [example](https://drganghe.github.io/quarto-academic-website-template/pub-listing.html). Check more instructions [here](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md).
+
+Read more detailed instructions [here](notes/generate-publications-listing.llms.md).
 
 ### Listing external items
 
