@@ -6,7 +6,7 @@ I teach energy systems, energy and climate policy, energy innovations, and metho
 
 [![](./files/images/hex-Energy-Climate-Policy.png)](https://drganghe.github.io/energy-climate-policy/)
 
-[Fall 2025](https://drganghe.github.io/energy-climate-policy/2025/schedule.html),   [Fall 2024](https://drganghe.github.io/energy-climate-policy/2024/schedule.html),   [Fall 2023](https://drganghe.github.io/energy-climate-policy/2023/schedule.html)
+[Fall 2025](https://drganghe.github.io/energy-climate-policy/2025/schedule.html) \| [Fall 2024](https://drganghe.github.io/energy-climate-policy/2024/schedule.html) \| [Fall 2023](https://drganghe.github.io/energy-climate-policy/2023/schedule.html)
 
 The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition toward a sustainable future.
 
@@ -14,7 +14,7 @@ The urgent challenge of climate change demands innovative solutions and comprehe
 
 [![](./files/images/hex-Energy-Climate-Society.png)](https://drganghe.github.io/energy-climate-society/)
 
-[Spring 2026](https://drganghe.github.io/energy-climate-society/2026/schedule.html),   [Spring 2025](https://drganghe.github.io/energy-climate-society/2025/schedule.html),   [Fall 2023](https://drganghe.github.io/energy-climate-society/2023/schedule.html)
+[Spring 2026](https://drganghe.github.io/energy-climate-society/2026/schedule.html) \| [Spring 2025](https://drganghe.github.io/energy-climate-society/2025/schedule.html) \| [Fall 2023](https://drganghe.github.io/energy-climate-society/2023/schedule.html)
 
 Climate change is one of the biggest challenges of our time. This undergraduate course offers a comprehensive and interdisciplinary approach to understanding the science behind climate change, the complex technological and policy considerations, and the necessary pathways to transition toward a carbon-neutral future. Ultimately, the goal of this class is to provide students with a broad understanding of the challenges and opportunities associated with the energy and climate crisis. We aim to empower students with the knowledge and skills needed to make a positive impact on climate solutions.
 
@@ -22,7 +22,7 @@ Climate change is one of the biggest challenges of our time. This undergraduate 
 
 [![](./files/images/hex-Program-Evaluation.png)](https://drganghe.github.io/program-evaluation/)
 
-[Spring 2025](https://drganghe.github.io/program-evaluation/2025/schedule.html),   [Spring 2024](https://drganghe.github.io/program-evaluation/2024/schedule.html)
+[Fall 2026](https://drganghe.github.io/program-evaluation/2026/schedule.html) \| [Spring 2025](https://drganghe.github.io/program-evaluation/2025/schedule.html) \| [Spring 2024](https://drganghe.github.io/program-evaluation/2024/schedule.html)
 
 This course examines the practical aspects of program evaluation within public policy in domestic and international contexts. Emphasis is placed on the design and implementation of small- to medium-scale program evaluations under time and budget constraints using “best feasible” methods. Topics include the types and purposes of evaluation, theory-based evaluation, evaluability and planning, measurement and construct validity, data collection, evaluation design, estimation of program effects, experiments, qualitative and mixed methods, evaluation resistance, building organizational capacity, ethics, cost-effectiveness, and reporting and utilization.
 
