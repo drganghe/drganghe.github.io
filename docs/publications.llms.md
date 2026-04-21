@@ -169,6 +169,14 @@ Invited presentation: UNFCCC CDM Executive Board meeting
 
 ------------------------------------------------------------------------
 
+Aligning offshore wind deployment with local priorities to accelerate power system decarbonization Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\* Apr 21, 2026
+
+Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\*. 2026. [Aligning offshore wind deployment with local priorities to accelerate power system decarbonization](https://www.nature.com/articles/s43247-026-03533-9). *Communications Earth & Environment*. doi: [10.1038/s43247-026-03533-9](https://doi.org/10.1038/s43247-026-03533-9).
+
+[ PDF](https://www.nature.com/articles/s43247-026-03533-9.pdf) [ GitHub](https://github.com/blue-marble/gridpath) [ Data](https://doi.org/10.5281/zenodo.19375841) [ Supplemental](https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-026-03533-9/MediaObjects/43247_2026_3533_MOESM2_ESM.pdf)
+
+------------------------------------------------------------------------
+
 Emission Trading Scheme Reshapes the Decarbonisation Pathways of China's Power Sector Lu, Zhenwei, Bin Ye\*, Zhe Yu, **Gang He**, and Shuai Shao Jun 1, 2026
 
 Lu, Zhenwei, Bin Ye\*, Zhe Yu, **Gang He**, and Shuai Shao. 2026. [Emission Trading Scheme Reshapes the Decarbonisation Pathways of China's Power Sector](https://www.sciencedirect.com/science/article/pii/S0306261926003788). *Applied Energy* 412: 127726. doi: [10.1016/j.apenergy.2026.127726](https://doi.org/10.1016/j.apenergy.2026.127726).
@@ -566,6 +574,14 @@ Yang, Pingjian, **Gang He**, Guozhu Mao, Yong Liu, Mingzhu Xu, Huaicheng Guo\*, 
 ------------------------------------------------------------------------
 
 ## Other Peer-reviewed Journal Papers
+
+Aligning offshore wind deployment with local priorities to accelerate power system decarbonization Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\* Apr 21, 2026
+
+Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\*. 2026. [Aligning offshore wind deployment with local priorities to accelerate power system decarbonization](https://www.nature.com/articles/s43247-026-03533-9). *Communications Earth & Environment*. doi: [10.1038/s43247-026-03533-9](https://doi.org/10.1038/s43247-026-03533-9).
+
+[ PDF](https://www.nature.com/articles/s43247-026-03533-9.pdf) [ GitHub](https://github.com/blue-marble/gridpath) [ Data](https://doi.org/10.5281/zenodo.19375841) [ Supplemental](https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-026-03533-9/MediaObjects/43247_2026_3533_MOESM2_ESM.pdf)
+
+------------------------------------------------------------------------
 
 Emission Trading Scheme Reshapes the Decarbonisation Pathways of China's Power Sector Lu, Zhenwei, Bin Ye\*, Zhe Yu, **Gang He**, and Shuai Shao Jun 1, 2026
 

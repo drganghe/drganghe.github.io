@@ -257,6 +257,20 @@
   categories: [2013, selected, peer-reviewed, china, carbon]
 
 - section: Peer-reviewed Journal Paper
+  authors: "Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\\*"
+  year: 2026
+  date: 2026-04-21
+  title: Aligning offshore wind deployment with local priorities to accelerate power system decarbonization
+  path: "https://www.nature.com/articles/s43247-026-03533-9"
+  journal: Communications Earth & Environment
+  doi: 10.1038/s43247-026-03533-9
+  pdf: "https://www.nature.com/articles/s43247-026-03533-9.pdf"
+  supplemental: "https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-026-03533-9/MediaObjects/43247_2026_3533_MOESM2_ESM.pdf"
+  github: "https://github.com/blue-marble/gridpath"
+  data: "https://doi.org/10.5281/zenodo.19375841"
+  categories: [2026, wind, power-system, grid-path]
+
+- section: Peer-reviewed Journal Paper
   authors: "Lu, Zhenwei, Bin Ye\\*, Zhe Yu, **Gang He**, and Shuai Shao"
   year: 2026
   date: 2026-06-01
