@@ -2,6 +2,16 @@
 
 In the news
 
+[![](./files/images/media/marketplace.svg)](https://www.marketplace.org/story/2026/04/15/why-china-is-well-positioned-in-this-oil-shortage)
+
+### [China spent years preparing for this oil scramble](https://www.marketplace.org/story/2026/04/15/why-china-is-well-positioned-in-this-oil-shortage)
+
+This basically proves China’s strategy, which includes pivoting to renewables, was the right one, said Gang He, a professor of climate and energy policy at City University of New York.“\[It\] shows the benefits to accelerate our energy transition towards more renewable and clean energy,” he said. That could be a lesson other countries learn the hard way.
+
+Apr 15, 2026
+
+Elizabeth Trovall
+
 [![](./files/images/media/bloomberg.png)](https://www.bloomberg.com/news/features/2025-12-14/china-faces-the-cost-of-dismantling-the-world-s-biggest-coal-sector)
 
 ### [China Faces the Cost of Dismantling the World’s Biggest Coal Sector](https://www.bloomberg.com/news/features/2025-12-14/china-faces-the-cost-of-dismantling-the-world-s-biggest-coal-sector)
