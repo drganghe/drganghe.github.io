@@ -1,11 +1,11 @@
 ---
-#title: "Gang He, PhD"
-# subtitle: |
-#   Associate Professor \
-#   Marxe School of Public and International Affairs \
-#   Baruch College \
-#   City University of New York \
-#   Email: gang.he@baruch.cuny.edu
+title: "Gang He, PhD"
+subtitle: |
+  Associate Professor \
+  Marxe School of Public and International Affairs \
+  Baruch College \
+  City University of New York \
+  Email: gang.he@baruch.cuny.edu
 description-meta: "Gang He is an energy scholar, researcher, and teacher. He is an Associate Professor at the Marxe School of Public and International Affairs, Baruch College, City University of New York. He studies and teaches energy systems, energy and climate policy, and clean energy transition."
 image: "files/profile/Gang_He_2025_CUNY_2.jpg"
 page-navigation: false
@@ -13,6 +13,63 @@ toc: false
 #sidebar: false
 page-layout: full
 css: index-grids.css
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 80%
+  links:
+    - icon: sun
+      text: DeepPolicyLab
+      href: https://deeppolicylab.github.io
+      target: _blank
+    - text: "![](/files/images/cuny-logo.png){width=20} CUNYprofile"   # use image logo
+      href: https://www.baruch.cuny.edu/profiles/faculty/Gang-He
+      target: _blank     
+#    - icon: globe
+#      text: CUNYprofile
+#      href: https://www.baruch.cuny.edu/profiles/faculty/Gang-He
+#      target: _blank
+#    - icon: envelope
+#     text: E-mail
+#      href: mailto:gang.he@baruch.cuny.edu
+#    - icon: github
+#      text: Github
+#      href: https://github.com/drganghe
+#    - icon: twitter
+#      text: Twitter
+#      href: https://twitter.com/DrGangHe
+#    - icon: mastodon
+#      text: Mastodon
+#      href: https://mastodon.social/@hegang      
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/hegang
+      target: _blank
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@DrGangHe     
+      target: _blank 
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed
+      href: https://orcid.org/0000-0002-8416-1965
+      target: _blank
+    - text: "{{< ai clarivate >}} Web of Science"
+      href: https://www.webofscience.com/wos/author/record/N-4549-2013  
+      target: _blank
+    - text: "{{< ai scopus >}} Scopus"
+      href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
+      target: _blank
+    - text: "{{< ai semantic-scholar >}} Semantic Scholar"
+      href: https://www.semanticscholar.org/author/Gang-He/49430802
+      target: _blank
+    - text: "![](/files/images/dimensions-logo.jpeg){width=15} Dimensions"  # use customize image or logo
+      href: https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50
+      target: _blank      
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=vf90AuEAAAAJ
+      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Gang-He-19
+      target: _blank
 
 listing:
   - id: recent-posts
@@ -73,51 +130,7 @@ include-in-header:
 {{< include /files/includes/_msclarity.qmd >}}
 
 
-:::: {.grid .hero-section}
-
-::: {.g-col-12 .g-col-md-4 .hero-left}
-
-![](files/profile/Gang_He_2025_CUNY_2.jpg){width=90% fig-align="center"}
-
-
-<p align="center" style="font-size:28px; font-weight:bold;">Gang He, PhD</p>
-
-<center>
-Associate Professor \
-Marxe School of Public and International Affairs \
-Baruch College \
-City University of New York \
-Email: gang.he@baruch.cuny.edu
-</center>
-
-::: {.hero-links}
-[{{< fa sun >}} DeepPolicyLab](https://deeppolicylab.github.io){.external target="_blank"}
-
-[![](/files/images/cuny-logo.png){width=20} CUNYprofile](https://www.baruch.cuny.edu/profiles/faculty/Gang-He){.external target="_blank"}
-
-[{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ){.external target="_blank"}
-
-[{{< ai researchgate >}} Research Gate](https://www.researchgate.net/profile/Gang-He-19){.external target="_blank"}
-
-[{{< ai orcid >}} ORCID](https://orcid.org/0000-0002-8416-1965){.external target="_blank"}
-
-[{{< ai clarivate >}} Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013){.external target="_blank"}
-
-[{{< ai scopus >}} Scopus](https://www.scopus.com/authid/detail.uri?authorId=55607981900){.external target="_blank"}
-
-[{{< ai semantic-scholar >}} Semantic Scholar](https://www.semanticscholar.org/author/Gang-He/49430802){.external target="_blank"}
-
-[![](/files/images/dimensions-logo.jpeg){width=15} Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50){.external target="_blank"}
-
-[{{< fa brands linkedin >}} LinkedIn](https://linkedin.com/in/hegang){.external target="_blank"}
-
-[{{< fa brands youtube >}} YouTube](https://www.youtube.com/@DrGangHe){.external target="_blank"}
-
-:::
-
-:::
-
-::: {.g-col-12 .g-col-md-8 .hero-right}
+:::{#hero-heading}
 
 Gang He is an energy scholar, researcher, and teacher whose research focuses on the intersection of energy systems, climate policy, and sustainable development.  He is an Associate Professor at the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/our-community/faculty-and-staff/full-time-faculty/){.external target="_blank"}, Baruch College, City University of New York (CUNY). He also serves as Doctoral Faculty in [Earth and Environmental Sciences](https://www.gc.cuny.edu/people/gang-he){.external target="_blank"} at the CUNY Graduate Center, and is a Faculty Affiliate at the [CUNY Institute for Demographic Research](https://www.cuny.edu/about/centers-and-institutes/demographic-research/){.external target="_blank"}. He is the founder and director of the [Deep Energy and Climate Policy Lab](https://deeppolicylab.github.io){.external target="_blank"}, aiming at deep analysis and deep insights for deep decarbonization. 
 
@@ -134,8 +147,6 @@ He has been selected as Asia 21 Young Leaders (2007), Aspen Environment Forum Sc
 He has worked for the [Department of Technology and Society](https://www.stonybrook.edu/commcms/est/faculty/affiliated-faculty/GangHe){.external target="_blank"} at Stony Brook University, the [Energy Technology Area](https://eta.lbl.gov/people/gang-he){.external target="_blank"} at Lawrence Berkeley National Laboratory, and the [Program on Energy and Sustainable Development](https://pesd.fsi.stanford.edu/people/Gang_He){.external target="_blank"} at Stanford University. He received his Ph.D. in [Energy and Resources](https://erg.berkeley.edu/people/gang-he/){.external target="_blank"} from University of California, Berkeley. He also holds an M.A. in Climate and Society from Columbia University, and a B.S. and M.S. in Geography from Peking University.
 
 :::
-
-::::
 
 
 <!--

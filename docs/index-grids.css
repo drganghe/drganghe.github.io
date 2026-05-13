@@ -15,3 +15,71 @@
     margin-top: 0;
   }
 }
+
+
+.hero-left img {
+  border-radius: 8px;  /* adjust to your liking */
+}
+
+/* Hero section */
+.hero-section {
+  margin-bottom: 2rem;
+  align-items: stretch;
+}
+
+/* Add vertical line between columns */
+.hero-right {
+  border-left: 1px solid #ccc;
+  padding-left: 2rem;
+}
+
+/* Reduce space between buttons */
+.hero-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;        /* reduced from 0.4rem */
+  margin-top: 1rem;
+}
+
+.hero-links p {
+  margin: 0;           /* remove default paragraph margin Quarto adds */
+  padding: 0.2rem;
+}
+
+.hero-links a {
+  display: flex;
+  align-items: center;      /* vertically center icon and text */
+  justify-content: center;  /* horizontally center both */
+  gap: 0.4rem;              /* space between icon and text */
+  padding: 0.2rem 0.6rem;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  color: inherit;
+  transition: background 0.15s;
+}
+
+.hero-links a:hover {
+  background-color: #f8f9fa;
+}
+
+@media (max-width: 768px) {
+  .hero-right {
+    border-left: none;
+    border-top: 1px solid #ccc;
+    padding-left: 0;
+    padding-top: 1.5rem;
+  }
+
+  .hero-links {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .hero-links p {
+    width: 100%;        /* each p takes full width so button stretches */
+    margin: 0;
+  }
+}

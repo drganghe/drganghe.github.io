@@ -1,6 +1,6 @@
 ![](files/profile/Gang_He_2025_CUNY_2.jpg)
 
-# Gang He, PhD
+Gang He, PhD
 
 Associate Professor  
 Marxe School of Public and International Affairs  
@@ -8,7 +8,27 @@ Baruch College
 City University of New York  
 Email: gang.he@baruch.cuny.edu
 
-[ DeepPolicyLab](https://deeppolicylab.github.io) [![](./files/images/cuny-logo.png) CUNYprofile](https://www.baruch.cuny.edu/profiles/faculty/Gang-He) [ LinkedIn](https://linkedin.com/in/hegang) [ YouTube](https://www.youtube.com/@DrGangHe) [ ORCID](https://orcid.org/0000-0002-8416-1965) [ Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013) [ Scopus](https://www.scopus.com/authid/detail.uri?authorId=55607981900) [ Semantic Scholar](https://www.semanticscholar.org/author/Gang-He/49430802) [![](./files/images/dimensions-logo.jpeg) Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50) [ Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ) [ Research Gate](https://www.researchgate.net/profile/Gang-He-19)
+[ DeepPolicyLab](https://deeppolicylab.github.io)
+
+[![](./files/images/cuny-logo.png) CUNYprofile](https://www.baruch.cuny.edu/profiles/faculty/Gang-He)
+
+[ Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ)
+
+[ Research Gate](https://www.researchgate.net/profile/Gang-He-19)
+
+[ ORCID](https://orcid.org/0000-0002-8416-1965)
+
+[ Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013)
+
+[ Scopus](https://www.scopus.com/authid/detail.uri?authorId=55607981900)
+
+[ Semantic Scholar](https://www.semanticscholar.org/author/Gang-He/49430802)
+
+[![](./files/images/dimensions-logo.jpeg) Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50)
+
+[ LinkedIn](https://linkedin.com/in/hegang)
+
+[ YouTube](https://www.youtube.com/@DrGangHe)
 
 Gang He is an energy scholar, researcher, and teacher whose research focuses on the intersection of energy systems, climate policy, and sustainable development. He is an Associate Professor at the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/our-community/faculty-and-staff/full-time-faculty/), Baruch College, City University of New York (CUNY). He also serves as Doctoral Faculty in [Earth and Environmental Sciences](https://www.gc.cuny.edu/people/gang-he) at the CUNY Graduate Center, and is a Faculty Affiliate at the [CUNY Institute for Demographic Research](https://www.cuny.edu/about/centers-and-institutes/demographic-research/). He is the founder and director of the [Deep Energy and Climate Policy Lab](https://deeppolicylab.github.io), aiming at deep analysis and deep insights for deep decarbonization.
 
