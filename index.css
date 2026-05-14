@@ -17,11 +17,12 @@
 }
 
 
+/* Hero section */
 .hero-left img {
   border-radius: 8px;  /* adjust to your liking */
 }
 
-/* Hero section */
+/* Hero stretch to the width of the section */
 .hero-section {
   margin-bottom: 2rem;
   align-items: stretch;
@@ -43,7 +44,7 @@
 
 .hero-links p {
   margin: 0;           /* remove default paragraph margin Quarto adds */
-  padding: 0.2rem;
+  padding: 0.25rem;
 }
 
 .hero-links a {

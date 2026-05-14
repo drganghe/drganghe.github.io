@@ -1,18 +1,26 @@
 ---
-#title: "Gang He, PhD"
-# subtitle: |
-#   Associate Professor \
-#   Marxe School of Public and International Affairs \
-#   Baruch College \
-#   City University of New York \
-#   Email: gang.he@baruch.cuny.edu
+title: "Gang He, PhD"
+subtitle: |
+  Associate Professor \
+  Marxe School of Public and International Affairs \
+  Baruch College \
+  City University of New York \
+  Email: gang.he@baruch.cuny.edu
 description-meta: "Gang He is an energy scholar, researcher, and teacher. He is an Associate Professor at the Marxe School of Public and International Affairs, Baruch College, City University of New York. He studies and teaches energy systems, energy and climate policy, and clean energy transition."
 image: "files/profile/Gang_He_2025_CUNY_2.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
 page-layout: full
-css: index-grids.css
+css: index.css
+format:
+  html:
+    include-in-header:
+      - file: files/includes/_mswebmaster.js
+      - text: |
+          <style>
+          .quarto-title-block { display: none; }
+          </style>
 
 listing:
   - id: recent-posts
@@ -63,8 +71,7 @@ listing:
     sort: 
       - "date desc"
       - "title asc"      
-include-in-header: 
-  - file: files/includes/_mswebmaster.js
+
 ---
 
 <link rel="me" href="https://mastodon.social/@hegang">
@@ -77,18 +84,18 @@ include-in-header:
 
 ::: {.g-col-12 .g-col-md-4 .hero-left}
 
-![](files/profile/Gang_He_2025_CUNY_2.jpg){width=90% fig-align="center"}
+[![](files/profile/Gang_He_2025_CUNY_2.jpg){width=90% fig-align="center"}](profile-photos.qmd)
 
 
 <p align="center" style="font-size:28px; font-weight:bold;">Gang He, PhD</p>
 
-<center>
+<p align="center" style="font-size:1rem;">
 Associate Professor \
 Marxe School of Public and International Affairs \
 Baruch College \
 City University of New York \
 Email: gang.he@baruch.cuny.edu
-</center>
+</p>
 
 ::: {.hero-links}
 [{{< fa sun >}} DeepPolicyLab](https://deeppolicylab.github.io){.external target="_blank"}
@@ -121,7 +128,7 @@ Email: gang.he@baruch.cuny.edu
 
 Gang He is an energy scholar, researcher, and teacher whose research focuses on the intersection of energy systems, climate policy, and sustainable development.  He is an Associate Professor at the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/our-community/faculty-and-staff/full-time-faculty/){.external target="_blank"}, Baruch College, City University of New York (CUNY). He also serves as Doctoral Faculty in [Earth and Environmental Sciences](https://www.gc.cuny.edu/people/gang-he){.external target="_blank"} at the CUNY Graduate Center, and is a Faculty Affiliate at the [CUNY Institute for Demographic Research](https://www.cuny.edu/about/centers-and-institutes/demographic-research/){.external target="_blank"}. He is the founder and director of the [Deep Energy and Climate Policy Lab](https://deeppolicylab.github.io){.external target="_blank"}, aiming at deep analysis and deep insights for deep decarbonization. 
 
-He teaches [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society/){.external target="_blank"} at the undergraduate level, and [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy/){.external target="_blank"} and [Program Evaluation](https://drganghe.github.io/program-evaluation/){.external target="_blank"} at the graduate level. He organizes the [Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/){.external target="_blank"} series which brings in experts and professionals to talk about climate challenges and solutions to inspire the next generation of climate leaders.
+He teaches [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society/) at the undergraduate level, and [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy/) and [Program Evaluation](https://drganghe.github.io/program-evaluation/) at the graduate level. He organizes the [Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/) series which brings in experts and professionals to talk about climate challenges and solutions to inspire the next generation of climate leaders.
 
 His research explores how the world can achieve carbon neutrality by mid-century to address climate change—and how the clean energy transition can be made more sustainable, resilient, and equitable. His leading and collaborative [work](/posts.qmd#category=paper) has appeared in high-impact interdisciplinary and field journals such as [*Nature*](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd), [*Nature Communications*](/posts/2020-05-ncomms-rapid-re-cost/index.qmd), [*Nature Energy*](/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd), [*One Earth*](/posts/2020-08-oneearth-coal-just-transition/index.qmd), [*Environmental Science \& Technology*](/posts/2016-est-switch-china/index.qmd), and [*Energy Policy*](/posts/2013-ep-carbon-offsetters-paradox/index.qmd). 
 

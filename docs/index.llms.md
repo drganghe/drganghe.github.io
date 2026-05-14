@@ -1,4 +1,12 @@
-![](files/profile/Gang_He_2025_CUNY_2.jpg)
+# Gang He, PhD
+
+Associate Professor  
+Marxe School of Public and International Affairs  
+Baruch College  
+City University of New York  
+Email: gang.he@baruch.cuny.edu
+
+[![](files/profile/Gang_He_2025_CUNY_2.jpg)](profile-photos.llms.md)
 
 Gang He, PhD
 
