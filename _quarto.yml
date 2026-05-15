@@ -77,6 +77,12 @@ website:
       - icon: github
         href: https://github.com/drganghe
         target: _blank
+      - text: "{{< fa brands linkedin >}}"
+        href: https://linkedin.com/in/hegang
+        target: _blank        
+      - text: "{{< fa brands youtube >}}"
+        href: https://www.youtube.com/@DrGangHe
+        target: _blank         
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/hegang.bsky.social
         target: _blank

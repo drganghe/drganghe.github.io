@@ -87,7 +87,7 @@ listing:
 [![](files/profile/Gang_He_2025_CUNY_2.jpg){width=90% fig-align="center"}](profile-photos.qmd)
 
 
-<p align="center" style="font-size:28px; font-weight:bold;">Gang He, PhD</p>
+<p align="center" style="font-size:2rem; font-weight:bold;">Gang He, PhD</p>
 
 <p align="center" style="font-size:1rem;">
 Associate Professor \
@@ -116,9 +116,11 @@ Email: gang.he@baruch.cuny.edu
 
 [![](/files/images/dimensions-logo.jpeg){width=15} Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50){.external target="_blank"}
 
+<!--
 [{{< fa brands linkedin >}} LinkedIn](https://linkedin.com/in/hegang){.external target="_blank"}
 
 [{{< fa brands youtube >}} YouTube](https://www.youtube.com/@DrGangHe){.external target="_blank"}
+-->
 
 :::
 

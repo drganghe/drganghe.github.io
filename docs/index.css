@@ -52,7 +52,7 @@
   align-items: center;      /* vertically center icon and text */
   justify-content: center;  /* horizontally center both */
   gap: 0.4rem;              /* space between icon and text */
-  padding: 0.2rem 0.6rem;
+  padding: 0.4rem 0.6rem;
   border: 1px solid #dee2e6;
   border-radius: 4px;
   text-decoration: none;

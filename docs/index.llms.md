@@ -34,10 +34,6 @@ Email: gang.he@baruch.cuny.edu
 
 [![](./files/images/dimensions-logo.jpeg) Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50)
 
-[ LinkedIn](https://linkedin.com/in/hegang)
-
-[ YouTube](https://www.youtube.com/@DrGangHe)
-
 Gang He is an energy scholar, researcher, and teacher whose research focuses on the intersection of energy systems, climate policy, and sustainable development. He is an Associate Professor at the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/our-community/faculty-and-staff/full-time-faculty/), Baruch College, City University of New York (CUNY). He also serves as Doctoral Faculty in [Earth and Environmental Sciences](https://www.gc.cuny.edu/people/gang-he) at the CUNY Graduate Center, and is a Faculty Affiliate at the [CUNY Institute for Demographic Research](https://www.cuny.edu/about/centers-and-institutes/demographic-research/). He is the founder and director of the [Deep Energy and Climate Policy Lab](https://deeppolicylab.github.io), aiming at deep analysis and deep insights for deep decarbonization.
 
 He teaches [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society/) at the undergraduate level, and [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy/) and [Program Evaluation](https://drganghe.github.io/program-evaluation/) at the graduate level. He organizes the [Climate Guest Speakers](https://drganghe.github.io/climate-guest-speakers/) series which brings in experts and professionals to talk about climate challenges and solutions to inspire the next generation of climate leaders.
