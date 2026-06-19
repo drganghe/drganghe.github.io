@@ -12,7 +12,7 @@ Gang He
 
 Associate Professor of Energy and Climate Policy  
 Marxe School of Public and International Affairs  
-Baruch College  
+Baruch College and Graduate Center  
 City University of New York  
 Email: gang.he@baruch.cuny.edu
 
@@ -48,17 +48,23 @@ Latest Papers
 
 ##### Aligning offshore wind deployment with local priorities to accelerate power system decarbonization
 
+*Communications Earth & Environment*
+
 Apr 21, 2026
 
 ![](./posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg)
 
 ##### Renewable integration and AI demand reshaped power grids in 2025
 
+*Nature Reviews Clean Technology*
+
 Jan 20, 2026
 
 ![](./posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png)
 
 ##### Imported solar photovoltaics contributed to health and climate benefits in the United States
+
+*One Earth*
 
 Oct 8, 2025
 

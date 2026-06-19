@@ -14,7 +14,7 @@ title-block-banner: false
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-<span style="font-size: 2rem; color: #05336B; font-weight: bold;">30</span> leading policy institutions
+<span style="font-size: 2rem; color: #05336B; font-weight: bold;">50</span> leading policy institutions
 :::
 
 ::: {.g-col-12 .g-col-md-4}

@@ -2,23 +2,6 @@
 /*https://github.com/quarto-dev/quarto-web/blob/main/index.css*/
 /*#447099*/
 
-/* Remove space below navbar */
-body {
-  padding-top: 0 !important;
-}
-
-.hero-left img {
-  border-radius: 8px;  /* adjust to your liking */
-}
-
-.hero-header {
-  margin-top: 0px; /* Remove top margin completely */
-}
-
-.background-frame {
-  padding-bottom: 1rem;
-}
-
 .button {
   text-align: center;
   padding-bottom: 10px;

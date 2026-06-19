@@ -30,12 +30,12 @@ website:
         menu:
           - text: Bio
             href: bio.qmd
+          - text: Now
+            href: now.qmd  
           - text: News
             href: posts.qmd#category=news
           - text: Events
-            href: posts.qmd#category=event
-          - text: Now
-            href: now.qmd       
+            href: posts.qmd#category=event     
           - text: Contact
             href: contact.qmd             
       - text: Research
@@ -140,7 +140,7 @@ bibliography: references.bib
 
 format:
   html:
-    theme: [cosmo, custom.scss]
+    theme: cosmo
     css: styles.css
     toc: true
     footnotes-hover: true

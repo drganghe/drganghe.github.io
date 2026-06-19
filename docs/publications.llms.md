@@ -171,7 +171,7 @@ Invited presentation: UNFCCC CDM Executive Board meeting
 
 Aligning offshore wind deployment with local priorities to accelerate power system decarbonization Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\* Apr 21, 2026
 
-Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\*. 2026. [Aligning offshore wind deployment with local priorities to accelerate power system decarbonization](https://www.nature.com/articles/s43247-026-03533-9). *Communications Earth & Environment*. doi: [10.1038/s43247-026-03533-9](https://doi.org/10.1038/s43247-026-03533-9).
+Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\*. 2026. [Aligning offshore wind deployment with local priorities to accelerate power system decarbonization](https://www.nature.com/articles/s43247-026-03533-9). *Communications Earth & Environment* 7: 533. doi: [10.1038/s43247-026-03533-9](https://doi.org/10.1038/s43247-026-03533-9).
 
 [ PDF](https://www.nature.com/articles/s43247-026-03533-9.pdf) [ GitHub](https://github.com/blue-marble/gridpath) [ Data](https://doi.org/10.5281/zenodo.19375841) [ Supplemental](https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-026-03533-9/MediaObjects/43247_2026_3533_MOESM2_ESM.pdf)
 
@@ -573,11 +573,11 @@ Yang, Pingjian, **Gang He**, Guozhu Mao, Yong Liu, Mingzhu Xu, Huaicheng Guo\*, 
 
 ------------------------------------------------------------------------
 
-## Other Peer-reviewed Journal Papers
+## Other Journal Papers
 
 Aligning offshore wind deployment with local priorities to accelerate power system decarbonization Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\* Apr 21, 2026
 
-Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\*. 2026. [Aligning offshore wind deployment with local priorities to accelerate power system decarbonization](https://www.nature.com/articles/s43247-026-03533-9). *Communications Earth & Environment*. doi: [10.1038/s43247-026-03533-9](https://doi.org/10.1038/s43247-026-03533-9).
+Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\*. 2026. [Aligning offshore wind deployment with local priorities to accelerate power system decarbonization](https://www.nature.com/articles/s43247-026-03533-9). *Communications Earth & Environment* 7: 533. doi: [10.1038/s43247-026-03533-9](https://doi.org/10.1038/s43247-026-03533-9).
 
 [ PDF](https://www.nature.com/articles/s43247-026-03533-9.pdf) [ GitHub](https://github.com/blue-marble/gridpath) [ Data](https://doi.org/10.5281/zenodo.19375841) [ Supplemental](https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-026-03533-9/MediaObjects/43247_2026_3533_MOESM2_ESM.pdf)
 

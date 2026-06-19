@@ -12,7 +12,7 @@ page-navigation: false
 toc: false
 #sidebar: false
 page-layout: custom
-css: custom.css
+css: index.css
 format:
   html:
     link-external-icon: false
@@ -51,7 +51,7 @@ listing:
     max-items: 3
 #    image-height: 150px
     page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title]
+    fields: [image, date, title, subtitle]
     max-description-length: 75
     sort: 
       - "date desc"
@@ -99,8 +99,8 @@ listing:
 
 <p align="center" style="font-size:1.5rem;">
 Associate Professor of Energy and Climate Policy\
-Marxe School of Public and International Affairs \
-Baruch College \
+Marxe School of Public and International Affairs\
+Baruch College and Graduate Center\
 City University of New York \
 Email: gang.he@baruch.cuny.edu
 </p>

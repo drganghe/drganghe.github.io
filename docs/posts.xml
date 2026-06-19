@@ -14,7 +14,7 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.9.36</generator>
+<generator>quarto-1.10.11</generator>
 <lastBuildDate>Thu, 21 May 2026 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Receiving the Sandi Cooper Award for Outstanding Research for Associate Professors</title>
@@ -153,6 +153,7 @@ https://quarto.org/docs/authoring/includes.html
     Accelerate Power System Decarbonization},
   journal = {Communications Earth \&amp; Environment},
   volume = {7},
+  pages = {533},
   date = {2026-04-21},
   url = {https://www.nature.com/articles/s43247-026-03533-9},
   doi = {10.1038/s43247-026-03533-9},
@@ -162,7 +163,7 @@ https://quarto.org/docs/authoring/includes.html
 Peng, Liqun, Gang He, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and
 Jiang Lin. 2026. <span>“Aligning Offshore Wind Deployment with Local
 Priorities to Accelerate Power System Decarbonization.”</span>
-<em>Communications Earth &amp; Environment</em> 7 (April). <a href="https://doi.org/10.1038/s43247-026-03533-9">https://doi.org/10.1038/s43247-026-03533-9</a>.
+<em>Communications Earth &amp; Environment</em> 7 (April): 533. <a href="https://doi.org/10.1038/s43247-026-03533-9">https://doi.org/10.1038/s43247-026-03533-9</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
   <guid>https://drganghe.github.io/posts/2026-04-commsee-aligning-offshore-wind-development-with-local-priorities/</guid>

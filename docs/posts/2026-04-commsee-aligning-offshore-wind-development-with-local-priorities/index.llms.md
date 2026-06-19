@@ -57,6 +57,7 @@ BibTeX citation:
     Accelerate Power System Decarbonization},
   journal = {Communications Earth \& Environment},
   volume = {7},
+  pages = {533},
   date = {2026-04-21},
   url = {https://www.nature.com/articles/s43247-026-03533-9},
   doi = {10.1038/s43247-026-03533-9},
@@ -66,4 +67,4 @@ BibTeX citation:
 
 For attribution, please cite this work as:
 
-Peng, Liqun, Gang He, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin. 2026. “Aligning Offshore Wind Deployment with Local Priorities to Accelerate Power System Decarbonization.” *Communications Earth & Environment* 7 (April). <https://doi.org/10.1038/s43247-026-03533-9>.
+Peng, Liqun, Gang He, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin. 2026. “Aligning Offshore Wind Deployment with Local Priorities to Accelerate Power System Decarbonization.” *Communications Earth & Environment* 7 (April): 533. <https://doi.org/10.1038/s43247-026-03533-9>.

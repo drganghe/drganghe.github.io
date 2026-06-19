@@ -40,12 +40,12 @@
   flex-direction: row;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   justify-content: center;    /* center the buttons */
 }
 
 .hero-links p {
-  margin: 0;
+  margin: 0.1rem;
   padding: 0;
 }
 
@@ -53,9 +53,10 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 0.3rem;
+  gap: 20px 5px;
   padding: 0.35rem 0rem 0.35rem 0.75rem;
   border: 1px solid #ced4da;   /* slightly darker border */
+  border-radius: 5px;
   text-decoration: none;
   font-size: 0.85rem;
   color: inherit;
