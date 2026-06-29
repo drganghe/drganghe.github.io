@@ -2,13 +2,15 @@
 
 Selected policy reports and documents that cite our work
 
-80 policy documents
+86 policy mentions
 
-50 leading policy institutions
+54 leading policy institutions
 
-5 continents
+19 countries and IGOs
 
-[![](files/images/policy-citations-map-2026.png)](https://policyprofiles.sagepub.com/profile/35156/gang-he)
+[![](files/images/policy-citations-map-2026.png)](https://deeppolicylab.github.io/policy-citations/)
+
+Data and map from [Sage Policy Profiles](https://policyprofiles.sagepub.com/profile/35156/gang-he), check more details at [Policy Citations Dashboard](https://deeppolicylab.github.io/policy-citations/).
 
 ## *Nature* 2022
 

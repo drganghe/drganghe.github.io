@@ -10,22 +10,25 @@ title-block-banner: false
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
-<span style="font-size: 2rem; color: #05336B; font-weight: bold;">80</span> policy documents
+<span style="font-size: 2rem; color: #05336B; font-weight: bold;">86</span> policy mentions
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-<span style="font-size: 2rem; color: #05336B; font-weight: bold;">50</span> leading policy institutions
+<span style="font-size: 2rem; color: #05336B; font-weight: bold;">54</span> leading policy institutions
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-<span style="font-size: 2rem; color: #05336B; font-weight: bold;">5</span> continents
+<span style="font-size: 2rem; color: #05336B; font-weight: bold;">19</span> countries and IGOs
 :::
 
 :::
 
 
-[![](files/images/policy-citations-map-2026.png){width=100% fig-align="center"}](https://policyprofiles.sagepub.com/profile/35156/gang-he)
+[![](files/images/policy-citations-map-2026.png){width=100% fig-align="center"}](https://deeppolicylab.github.io/policy-citations/)
 
+::: {style="margin-top: -1rem; margin-bottom: 2rem;"}
+Data and map from [Sage Policy Profiles](https://policyprofiles.sagepub.com/profile/35156/gang-he), check more details at [Policy Citations Dashboard](https://deeppolicylab.github.io/policy-citations/).
+:::
 
 ## *Nature* 2022
 
