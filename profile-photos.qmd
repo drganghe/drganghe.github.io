@@ -1,6 +1,6 @@
 ---
 title: "Profile Photos"
-subtitle: "Official Profile Photos at Different Universities"
+subtitle: "Official Profile Photos at Different Institutions"
 title-block-banner: false
 page-layout: full
 ---

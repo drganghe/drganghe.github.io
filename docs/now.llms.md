@@ -37,15 +37,16 @@ A few things keep me busy these days:
 - Energy-water-carbon nexus  
 - Other interdisciplinary aspects of carbon neutrality
 
-## Teaching
+[![](./files/images/two-choices-of-the-future.webp)](https://irene-he.vercel.app/)
 
-Fall Semester:
+Credit: Irene He
+
+## Teaching
 
 - PAF 9187: [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy)
 
-Spring Semester:
-
 - PAF 3195: [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society)
+
 - PAF 9174: [Program Evaluation](https://drganghe.github.io/program-evaluation)
 
 I’m seeking guest speakers who are passionate about sharing their experiences and inspiring the next generation of climate leaders:

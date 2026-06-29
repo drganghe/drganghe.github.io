@@ -44,7 +44,7 @@ Email: gang.he@baruch.cuny.edu
 
 Kraybill, R.S., Evans, R.A., Evans, A.F. 著, 魏可钦, 何钢, 译. [冲突调解的技巧: 调解人手册](http://product.dangdang.com/22525092.html). 南京大学出版社. 2011.
 
-Hayes, D. 著, 魏可钦, 何钢, 译. [制定一个大胆的计划](cn/make-a-bold-plan-cn.llms.md). 世界环境. 2009(1), 27.
+Hayes, D. 著, 魏可钦, 何钢, 译. [制定一个大胆的计划](cn/charting-a-bold-course-cn.llms.md). 世界环境. 2009(1), 27.
 
 Asia Society, 编. 宋嘉, 赵云峰, 何钢, 译. [中美碳捕获与储存合作路线图](http://asiasociety.org/files/pdf/AS_CCS_TaskForceReport_Chinese.pdf). 2009.
 
@@ -62,21 +62,21 @@ UNFCCC CoP 11 Youth Delegation, 著. 何钢, 译. [我们的气候, 我们的挑
 
 ## 中文报刊评论
 
-何钢. [全球气候变化政策的多哈站](https://sites.google.com/view/ganghe/publication/views/global-policy-of-climate-change-in-doha). 世界环境. 2013(1):30–31. 
+何钢. [全球气候变化政策的多哈站](cn/global-climate-policy-in-doha-cn.llms.md). 世界环境. 2013(1):30–31. 
 
-何钢. [页岩气革命的冷思考](https://sites.google.com/view/ganghe/publication/views/shale-gas-revolution-rethinking). 南方能源观察. 2012(8).
+何钢. [页岩气革命的冷思考](cn/shale-gas-revolution-cn.llms.md). 南方能源观察. 2012(8).
 
-何钢. 站在世界边缘的思考. 世界环境. 2010(2):90. 
+何钢. [站在世界边缘的思考](cn/the-bridge-at-the-edge-of-the-world-cn.llms.md). 世界环境. 2010(2):90. 
 
-何钢. 阳光底下的新鲜事: 二十世纪环境史. 世界环境. 2008(5):91. 
+何钢. [阳光底下的新鲜事: 二十世纪环境史](cn/something-new-under-the-sun-cn.llms.md). 世界环境. 2008(5):91. 
 
-何钢. [环保部开始发声但仍缺乏行动](https://sites.google.com/view/ganghe/publication/views/mep-begins-to-bark-but-still-lacks-bite-cn). 资源与人居环境. 2008(20).
+何钢. [环保部开始发声但仍缺乏行动](cn/mep-begins-to-bark-but-still-lacks-bite-cn.llms.md). 资源与人居环境. 2008(20).
 
-何钢. 共同财富: 一个拥挤地球的经济学. 世界环境. 2008(2):90. 
+何钢. [共同财富: 一个拥挤地球的经济学](cn/common-wealth-cn.llms.md). 世界环境. 2008(2):90. 
 
-何钢. [应对气候变化媒体和NGO如何参与](https://sites.google.com/view/ganghe/publication/views/media-and-ngo-confronting-climate-change). 绿叶. 2007(6):58–59.
+何钢. [应对气候变化媒体和NGO如何参与](cn/media-and-ngo-confronting-climate-change-cn.llms.md). 绿叶. 2007(6):58–59.
 
-何钢. [希望“风暴”早点过去](https://sites.google.com/view/ganghe/publication/views/hoping-environmental-storms-pass-quickly). 世界环境. 2007(1):7.
+何钢. [希望“风暴”早点过去](cn/hoping-environmental-storms-pass-quickly-cn.llms.md). 世界环境. 2007(1):7.
 
 何钢. “蒙特利尔”开启“后京都时代”——联合国气候变化会议侧记. 世界环境. 2006(6):19–25. 
 
@@ -132,7 +132,7 @@ UNFCCC CoP 11 Youth Delegation, 著. 何钢, 译. [我们的气候, 我们的挑
 
 ## 所获荣誉奖项 
 
-2026.5, 纽约市立大学桑迪·库珀(Sandi Cooper)副教授杰出研究奖
+2026.5, [纽约市立大学桑迪·库珀(Sandi Cooper)副教授杰出研究奖](posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/index.llms.md)
 
 2025.10, [美中关系全国委员会公共知识分子项目学者](https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/)
 

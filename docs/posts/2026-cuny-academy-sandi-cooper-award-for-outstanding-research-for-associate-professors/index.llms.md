@@ -31,3 +31,11 @@ I greatly appreciate my nominator and referees for their nomination and referenc
 ## CUNY Academy
 
 > The [CUNY Academy](https://www.gc.cuny.edu/cuny-academy-humanities-and-sciences) is a CUNY-wide institute, housed at the Graduate Center, for the promotion and support of CUNY faculty research and scholarship. We offer conference travel support, awards for outstanding research, and opportunities to organize and present the research and scholarship of CUNY faculty of all disciplines. CUNY full-time faculty across all campuses are members of the CUNY Academy and can participate in, organize, or suggest events. The CUNY Academy for the Humanities and Sciences was founded in 1981 and is a central feature of university intellectual life.
+
+## Releases
+
+![](../../files/images/university/baruch.png)
+
+##### Baruch Professor Gang He Receives CUNY Research Award
+
+Baruch College

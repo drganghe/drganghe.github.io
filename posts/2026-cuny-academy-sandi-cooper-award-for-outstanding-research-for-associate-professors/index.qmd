@@ -6,6 +6,25 @@ date: "2026-05-21"
 categories: [news, recognition]
 image: "featured.png"
 #css: /custom.css
+listing:  #an example of listing external links
+- id: releases
+#  sort: "lastname asc"
+  type: grid
+  fields: [image, title, subtitle]
+#  grid-item-align: center  
+  grid-columns: 2
+  image-height: 150px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://newscenter.baruch.cuny.edu/news/baruch-professor-gang-he-receives-cuny-research-award/
+      image: /files/images/university/baruch.png
+      title: "Baruch Professor Gang He Receives CUNY Research Award "
+      subtitle: "Baruch College"
+      author: Baruch College News Center
+      description: "Gang He, PhD, won the 2026 Sandi Cooper Award presented by the CUNY Academy."
+      date: "2026-07-02"   
 ---
 
 [![Sandi Cooper Award for Outstanding Research for Associate Professors](cuny-academy-logo.png)](https://www.gc.cuny.edu/cuny-academy-humanities-and-sciences)
@@ -25,6 +44,11 @@ I greatly appreciate my nominator and referees for their nomination and referenc
 ## CUNY Academy
 
 >The [CUNY Academy](https://www.gc.cuny.edu/cuny-academy-humanities-and-sciences) is a CUNY-wide institute, housed at the Graduate Center, for the promotion and support of CUNY faculty research and scholarship. We offer conference travel support, awards for outstanding research, and opportunities to organize and present the research and scholarship of CUNY faculty of all disciplines. CUNY full-time faculty across all campuses are members of the CUNY Academy and can participate in, organize, or suggest events. The CUNY Academy for the Humanities and Sciences was founded in 1981 and is a central feature of university intellectual life.
+
+## Releases
+
+::: {#releases}
+:::
 
 
 

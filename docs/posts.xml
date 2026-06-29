@@ -47,6 +47,30 @@
 <blockquote class="blockquote">
 <p>The <a href="https://www.gc.cuny.edu/cuny-academy-humanities-and-sciences">CUNY Academy</a> is a CUNY-wide institute, housed at the Graduate Center, for the promotion and support of CUNY faculty research and scholarship. We offer conference travel support, awards for outstanding research, and opportunities to organize and present the research and scholarship of CUNY faculty of all disciplines. CUNY full-time faculty across all campuses are members of the CUNY Academy and can participate in, organize, or suggest events. The CUNY Academy for the Humanities and Sciences was founded in 1981 and is a central feature of university intellectual life.</p>
 </blockquote>
+</section>
+<section id="releases" class="level2">
+<h2 class="anchored" data-anchor-id="releases">Releases</h2>
+<div id="listing-releases" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1782964800000">
+<a href="https://newscenter.baruch.cuny.edu/news/baruch-professor-gang-he-receives-cuny-research-award/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://drganghe.github.io/files/images/university/baruch.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Baruch Professor Gang He Receives CUNY Research Award
+</h5>
+<div class="card-subtitle listing-subtitle">
+Baruch College
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -57,6 +81,7 @@ https://quarto.org/docs/authoring/includes.html
 <p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
 
 
 </section>

@@ -1,6 +1,6 @@
 # Profile Photos
 
-Official Profile Photos at Different Universities
+Official Profile Photos at Different Institutions
 
 ![](files/profile/Gang_He_2025_CUNY_1.jpg)
 

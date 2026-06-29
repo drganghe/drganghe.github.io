@@ -36,6 +36,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -78,6 +80,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-releases .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image","listing-title","listing-subtitle","listing-author","listing-description","listing-date"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-releases'] = new List('listing-releases', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4DYZHP5J7"></script>
 
 <script type="text/javascript">
@@ -108,6 +139,35 @@ https://badge.dimensions.ai/
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="Receiving the Sandi Cooper Award for Outstanding Research for Associate Professors – Dr.&nbsp;Gang He">
@@ -285,6 +345,7 @@ https://badge.dimensions.ai/
   <li><a href="#summary" id="toc-summary" class="nav-link active" data-scroll-target="#summary">Summary</a></li>
   <li><a href="#about-the-award" id="toc-about-the-award" class="nav-link" data-scroll-target="#about-the-award">About the Award</a></li>
   <li><a href="#cuny-academy" id="toc-cuny-academy" class="nav-link" data-scroll-target="#cuny-academy">CUNY Academy</a></li>
+  <li><a href="#releases" id="toc-releases" class="nav-link" data-scroll-target="#releases">Releases</a></li>
   </ul>
 </nav>
     </div>
@@ -353,6 +414,30 @@ https://badge.dimensions.ai/
 <blockquote class="blockquote">
 <p>The <a href="https://www.gc.cuny.edu/cuny-academy-humanities-and-sciences">CUNY Academy</a> is a CUNY-wide institute, housed at the Graduate Center, for the promotion and support of CUNY faculty research and scholarship. We offer conference travel support, awards for outstanding research, and opportunities to organize and present the research and scholarship of CUNY faculty of all disciplines. CUNY full-time faculty across all campuses are members of the CUNY Academy and can participate in, organize, or suggest events. The CUNY Academy for the Humanities and Sciences was founded in 1981 and is a central feature of university intellectual life.</p>
 </blockquote>
+</section>
+<section id="releases" class="level2">
+<h2 class="anchored" data-anchor-id="releases">Releases</h2>
+<div id="listing-releases" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1782964800000">
+<a href="https://newscenter.baruch.cuny.edu/news/baruch-professor-gang-he-receives-cuny-research-award/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../../files/images/university/baruch.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Baruch Professor Gang He Receives CUNY Research Award
+</h5>
+<div class="card-subtitle listing-subtitle">
+Baruch College
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -363,6 +448,7 @@ https://quarto.org/docs/authoring/includes.html
 <p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
 
 
 </section>
