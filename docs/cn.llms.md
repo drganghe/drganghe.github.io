@@ -44,7 +44,7 @@ Email: gang.he@baruch.cuny.edu
 
 Kraybill, R.S., Evans, R.A., Evans, A.F. 著, 魏可钦, 何钢, 译. [冲突调解的技巧: 调解人手册](http://product.dangdang.com/22525092.html). 南京大学出版社. 2011.
 
-Hayes, D. 著, 魏可钦, 何钢, 译. [制定一个大胆的计划](cn/make-a-bold-plan-cn.llms.md). 世界环境. 2009(1), 27.
+Hayes, D. 著, 魏可钦, 何钢, 译. [制定一个大胆的计划](cn/charting-a-bold-course-cn.llms.md). 世界环境. 2009(1), 27.
 
 Asia Society, 编. 宋嘉, 赵云峰, 何钢, 译. [中美碳捕获与储存合作路线图](http://asiasociety.org/files/pdf/AS_CCS_TaskForceReport_Chinese.pdf). 2009.
 
