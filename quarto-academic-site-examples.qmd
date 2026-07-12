@@ -34,6 +34,15 @@ css: /custom.css
 | -------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
 | Academic | <https://drganghe.github.io/quarto-academic-website-template/> | <https://github.com/drganghe/quarto-academic-website-template> |
 
+```{=html}
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/drganghe/quarto-academic-website-template" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star drganghe/quarto-academic-website-template on GitHub">Star</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/drganghe/quarto-academic-website-template/fork" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork drganghe/quarto-academic-website-template on GitHub">Fork</a> 
+```
+
 ### Website examples of the template
 
 | Type        | Web                                                                              | GitHub                                                     |

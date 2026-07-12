@@ -29,6 +29,8 @@ October 15, 2024
 |----|----|----|
 | Academic | <https://drganghe.github.io/quarto-academic-website-template/> | <https://github.com/drganghe/quarto-academic-website-template> |
 
+[Star](https://github.com/drganghe/quarto-academic-website-template) [Fork](https://github.com/drganghe/quarto-academic-website-template/fork)
+
 ### Website examples of the template
 
 | Type | Web | GitHub |
