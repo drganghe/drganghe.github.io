@@ -36,11 +36,12 @@ css: /custom.css
 
 ```{=html}
 <!-- Place this tag in your head or just before your close body tag. -->
+<p style="text-align: right;">
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/drganghe/quarto-academic-website-template" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star drganghe/quarto-academic-website-template on GitHub">Star</a>
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/drganghe/quarto-academic-website-template/fork" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork drganghe/quarto-academic-website-template on GitHub">Fork</a> 
+<a class="github-button" href="https://github.com/drganghe/quarto-academic-website-template/fork" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork drganghe/quarto-academic-website-template on GitHub">Fork</a></p> 
 ```
 
 ### Website examples of the template
