@@ -5,7 +5,7 @@ Total citations as of May 2026:
 - [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,500+ (h-index = 30)
 - [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 7,000+ (h-index = 35, i10-index = 65)
 
-[ First Author (10)](#category=first-author) [\* Corresponding Author (25)](#category=corresponding-author) [![ESI Highly Cited Paper](./files/images/highly-cited-paper-badge.png) Highly Cited (6)](#category=highly-cited) [![ESI Hot Paper](./files/images/hot-paper-badge.png) Hot Paper (3)](#category=hot-paper) [![Nature Series](./files/images/journal/nature-favicon.png) Nature Series (10)](#category=nature-series) [ All](publications.llms.md) [Other](other-publications.llms.md)
+[ First Author (10)](#category=first-author) [\* Corresponding Author (26)](#category=corresponding-author) [![ESI Highly Cited Paper](./files/images/highly-cited-paper-badge.png) Highly Cited (6)](#category=highly-cited) [![ESI Hot Paper](./files/images/hot-paper-badge.png) Hot Paper (3)](#category=hot-paper) [![Nature Series](./files/images/journal/nature-favicon.png) Nature Series (10)](#category=nature-series) [ All](publications.llms.md) [Other](other-publications.llms.md)
 
 ## Selected Work
 
@@ -166,6 +166,14 @@ Addressing Carbon Offsetters' Paradox: Lessons from Chinese Wind CDM **He, Gang*
 Coverage: [Caixin Online](https://www.marketwatch.com/story/china-wind-power-stalls-as-international-funds-cut-2010-04-13)
 
 Invited presentation: UNFCCC CDM Executive Board meeting
+
+------------------------------------------------------------------------
+
+Resilience planning for power systems under deep climate uncertainty Wang, Jiarui, Junqi Liu, Lei Zhu\*, **Gang He**\* Sep 1, 2026
+
+Wang, Jiarui, Junqi Liu, Lei Zhu\*, **Gang He**\*. 2026. [Resilience planning for power systems under deep climate uncertainty](https://www.sciencedirect.com/science/article/pii/S0140988326004068). *Energy Economics* 161: 109527. doi: [10.1016/j.eneco.2026.109527](https://doi.org/10.1016/j.eneco.2026.109527).
+
+[ GitHub](https://github.com/switch-model/switch) [ Supplemental](https://www.sciencedirect.com/science/article/pii/S0140988326004068)
 
 ------------------------------------------------------------------------
 
@@ -576,6 +584,14 @@ Yang, Pingjian, **Gang He**, Guozhu Mao, Yong Liu, Mingzhu Xu, Huaicheng Guo\*, 
 ------------------------------------------------------------------------
 
 ## Other Journal Papers
+
+Resilience planning for power systems under deep climate uncertainty Wang, Jiarui, Junqi Liu, Lei Zhu\*, **Gang He**\* Sep 1, 2026
+
+Wang, Jiarui, Junqi Liu, Lei Zhu\*, **Gang He**\*. 2026. [Resilience planning for power systems under deep climate uncertainty](https://www.sciencedirect.com/science/article/pii/S0140988326004068). *Energy Economics* 161: 109527. doi: [10.1016/j.eneco.2026.109527](https://doi.org/10.1016/j.eneco.2026.109527).
+
+[ GitHub](https://github.com/switch-model/switch) [ Supplemental](https://www.sciencedirect.com/science/article/pii/S0140988326004068)
+
+------------------------------------------------------------------------
 
 Aligning offshore wind deployment with local priorities to accelerate power system decarbonization Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\* Apr 21, 2026
 

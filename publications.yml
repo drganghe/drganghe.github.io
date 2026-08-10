@@ -257,6 +257,20 @@
   categories: [2013, selected, peer-reviewed, first-author, corresponding-author, china, carbon]
 
 - section: Peer-reviewed Journal Paper
+  authors: "Wang, Jiarui, Junqi Liu, Lei Zhu\\*, **Gang He**\\*"
+  year: 2026
+  date: 2026-09-01
+  title: Resilience planning for power systems under deep climate uncertainty
+  path: "https://www.sciencedirect.com/science/article/pii/S0140988326004068"
+  journal: Energy Economics
+  volume: 161
+  pages: 109527
+  doi: 10.1016/j.eneco.2026.109527
+  supplemental: "https://www.sciencedirect.com/science/article/pii/S0140988326004068"
+  github: "https://github.com/switch-model/switch"
+  categories: [2026, peer-reviewed, power-system, corresponding-author]
+
+- section: Peer-reviewed Journal Paper
   authors: "Peng, Liqun, **Gang He**, Nikit Abhyankar, Haozhe Yang, Umed Paliwal, and Jiang Lin\\*"
   year: 2026
   date: 2026-04-21
