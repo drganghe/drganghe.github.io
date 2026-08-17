@@ -42,8 +42,8 @@ Total citations as of May 2026:
 - [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 7,000+ (h-index = 35, i10-index = 65)
 
 :::{.pub-quicklinks}
-[{{< fa user >}} First Author (10)](#category=first-author){.pub-ql-btn .pub-ql-first .no-external target="_self"}
-[\* Corresponding Author (26)](#category=corresponding-author){.pub-ql-btn .pub-ql-corresponding .no-external target="_self"}
+[{{< fa user >}} First Author (11)](#category=first-author){.pub-ql-btn .pub-ql-first .no-external target="_self"}
+[\* Corresponding Author (27)](#category=corresponding-author){.pub-ql-btn .pub-ql-corresponding .no-external target="_self"}
 [![ESI Highly Cited Paper](/files/images/highly-cited-paper-badge.png){width=20} Highly Cited (6)](#category=highly-cited){.pub-ql-btn .pub-ql-highly-cited .no-external target="_self"}
 [![ESI Hot Paper](/files/images/hot-paper-badge.png){width=20} Hot Paper (3)](#category=hot-paper){.pub-ql-btn .pub-ql-hot .no-external target="_self"}
 [![Nature Series](/files/images/journal/nature-favicon.png){width=20} Nature Series (10)](#category=nature-series){.pub-ql-btn .pub-ql-nature .no-external target="_self"}

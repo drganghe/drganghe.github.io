@@ -1,4 +1,12 @@
 
+    - path: https://deeppolicylab.github.io/events/2026-09-23-nyc-climate-week-clean-energy-supply-chains-in-the-era-of-industrial-policy-panel/index.html
+      image: /files/images/nyc-climate-week.jpg
+      title: "Climate Week NYC 2026: Clean Energy Supply Chains in the Era of Industrial Policy"
+      author: "Marxe School"
+      description: "Join us to discuss Clean Energy Supply Chains in the Era of Industrial Policy during Climate Week NYC 2026."
+      date: "2026-09-23"
+      categories: [event]
+
     - path: https://deeppolicylab.github.io/news/2025-12-17-sloan-grant-drivers-and-impacts-domestic-manufacturing.html
       image: https://deeppolicylab.github.io/files/images/funders/sloan-logo.png
       title: "New Grant to Study the Drivers and Impacts of Domestic Clean Energy Manufacturing"

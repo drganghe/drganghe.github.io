@@ -2,6 +2,28 @@
 
 Posts on papers, events, news, and more
 
+[![](./files/images/nyc-climate-week.jpg)](https://deeppolicylab.github.io/events/2026-09-23-nyc-climate-week-clean-energy-supply-chains-in-the-era-of-industrial-policy-panel/index.html)
+
+### [Climate Week NYC 2026: Clean Energy Supply Chains in the Era of Industrial Policy](https://deeppolicylab.github.io/events/2026-09-23-nyc-climate-week-clean-energy-supply-chains-in-the-era-of-industrial-policy-panel/index.html)
+
+Join us to discuss Clean Energy Supply Chains in the Era of Industrial Policy during Climate Week NYC 2026.
+
+Sep 23, 2026
+
+Marxe School
+
+[![](./posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/featured.png)](posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/index.llms.md)
+
+### [How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways](posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/index.llms.md)
+
+[*One Earth*](posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/index.llms.md)
+
+Coordinated, system-wide transitions can accelerate learning, lower costs, strengthen competitiveness, and offer implications for global industrial decarbonization.
+
+Aug 21, 2026
+
+Gang He, Jiang Lin
+
 [![](./posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/featured.png)](posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/index.llms.md)
 
 ### [Receiving the Sandi Cooper Award for Outstanding Research for Associate Professors](posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/index.llms.md)

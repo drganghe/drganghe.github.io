@@ -15,7 +15,180 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.10.11</generator>
-<lastBuildDate>Thu, 21 May 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Climate Week NYC 2026: Clean Energy Supply Chains in the Era of Industrial Policy</title>
+  <link>https://drganghe.github.io/</link>
+  <description>Join us to discuss Clean Energy Supply Chains in the Era of Industrial Policy during Climate Week NYC 2026.</description>
+  <category>event</category>
+  <guid>https://drganghe.github.io/</guid>
+  <pubDate>Wed, 23 Sep 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/files/images/nyc-climate-week.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways</title>
+  <dc:creator>Gang He</dc:creator>
+  <dc:creator>Jiang Lin</dc:creator>
+  <link>https://drganghe.github.io/posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways<br>
+<strong>Gang He</strong> and Jiang Lin<br>
+<em>One Earth</em> (2026)<br>
+DOI: <a href="https://doi.org/10.1016/j.oneear.2026.101784">10.1016/j.oneear.2026.101784</a></p>
+</div>
+</div>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Industrial decarbonization is widely regarded as one of the most difficult and costly challenges, or “hard-to-abate”, in achieving net-zero emissions. Recently in <em>Joule</em>, Dai and colleagues demonstrated accelerated decarbonization pathways at lower costs for China’s industrial sector. Here we argue that coordinated, system-wide transitions can accelerate learning, lower costs, strengthen competitiveness, and offer implications for global industrial decarbonization.</p>
+</section>
+<section id="main-text" class="level2">
+<h2 class="anchored" data-anchor-id="main-text">Main Text</h2>
+<p>Industrial decarbonization is increasingly recognized as one of the persistent challenges of the global energy transition. While remarkable progress has been made in accelerating the deployment of renewable energy technologies and decarbonizing electricity systems, emissions from heavy industry, including steel, aluminum, cement, chemicals, and other energy-intensive sectors, remain stubbornly difficult to eliminate <span class="citation" data-cites="IPCC_2022_WGIII_Ch_11">(Bashmakov et al. 2022)</span>. These sectors account for roughly a quarter of global energy-related carbon dioxide emissions and are deeply embedded in modern economies through long-lived capital assets, complex supply chains, and process emissions that cannot be addressed through fuel switching alone <span class="citation" data-cites="gailaniAssessingPotentialDecarbonization2024">(Gailani et al. 2024)</span>.</p>
+<p>As governments and industries pursue pathways toward net-zero emissions, industrial emissions are often portrayed as the “hard-to-abate” <span class="citation" data-cites="mengTechnologiesGapsDeep2025">(Meng et al. 2025)</span> sectors of climate mitigation: technologically challenging, capital intensive, and inevitably expensive. Against this backdrop, a recent study by Dai and colleagues in <em>Joule</em> demonstrates that accelerated industrial decarbonization may save costs <span class="citation" data-cites="liuAcceleratedPathwaysChinas2026">(Liu et al. 2026)</span>. Through a system-wide assessment of China’s five major industrial sectors, which captures interactions across multiple industrial subsectors and energy carriers using IMED|TEC (Integrated Model of Energy, Environment and Economy for Sustainable Development | Technology Evaluation and Choice) model, the study assesses how technology choices, deployment timing, and infrastructure development jointly shape long-term outcomes.</p>
+<p>The results show that faster transitions can reduce cumulative system costs from 2020 to 2060 by approximately 8% (saving USD 1.8 trillion) while preserving 10–20% of the remaining 1.5°C global carbon budget constraints. Their findings challenge the conventional view that deeper and faster decarbonization necessarily entails economic burdens. By avoiding delayed transitions that require more abrupt and expensive structural changes later, accelerated deployment of low-carbon technologies can lower cumulative system costs. Ultimately, the cost of decarbonization depends not only on where emissions ultimately end up, but also on how they get there (Figure&nbsp;1).</p>
+<div id="fig-1" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://drganghe.github.io/posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/featured.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Why Faster Can Be Cheaper: Cost Dynamics of Accelerated Industrial Decarbonization
+</figcaption>
+</figure>
+</div>
+<p><span style="font-size:0.9em;line-height: 0.8;"><strong>Note</strong>: A) Comparisons between two transition pathways. Delayed transition can lead to fossil lock-in, infrastructure bottlenecks, and compressed deployment schedules that increase cumulative abatement costs. Accelerated deployment enables technology learning, infrastructure coordination, and industrial ecosystem development that lower mitigation costs over time. B) Conceptual evolution of marginal abatement costs under the two pathways. Although accelerated pathways may require greater upfront investment, they can reduce long-term costs through learning-by-doing, economies of scale, and coordinated infrastructure expansion. C) Broader system benefits, including faster emissions reductions, lower cumulative transition costs, greater resilience, and stronger economic opportunities. </span></p>
+<p>Rather than viewing industrial decarbonization as a collection of isolated technology substitutions, the authors frame it as a coordinated system transformation involving energy, infrastructure, industry, and policy. This perspective has implications well beyond China and raises a fundamental question for policymakers and industrial stakeholders worldwide: Are hard-to-abate sectors inherently expensive to decarbonize, or have we been underestimating the value of coordinated action and early investment and deployment?</p>
+</section>
+<section id="why-faster-could-be-cheaper" class="level2">
+<h2 class="anchored" data-anchor-id="why-faster-could-be-cheaper">Why Faster Could Be Cheaper</h2>
+<p>At first glance, the idea that accelerated decarbonization could reduce costs appears counterintuitive. Faster transitions typically require larger upfront investments, more rapid technology deployment, and significant infrastructure expansion. Yet several mechanisms help explain why earlier action can produce lower cumulative costs. Those mechanisms have been observed in the power sector <span class="citation" data-cites="he_rapid_2020">(He et al. 2020)</span>, and are now revealed in the industry sectors.</p>
+<p>One primary mechanism is endogenous technological learning. Historical experience across clean energy technologies has consistently demonstrated that costs decline as production and deployment scales. Solar photovoltaics provide perhaps the most prominent example. Global solar costs have fallen by more than 90% over the past decade, driven largely by manufacturing scale, innovation, and globalized supply-chains <span class="citation" data-cites="nemetHowSolarEnergy2026">(Nemet 2026)</span>. Similar dynamics are emerging for electrolyzers, batteries, hydrogen-based direct reduced iron (H2-DRI), and other breakthrough technologies expected to play critical roles in industrial decarbonization. By accelerating deployment, countries can move technologies down learning curves more rapidly, significantly reducing capital costs for future investments. The Joule study highlights that early policy support can bring emerging technologies to cost parity with conventional processes years ahead of schedule, ensuring that by 2060, over 88% of annual emission reductions can be delivered by technologies costing less than 200 USD per ton of CO2.</p>
+<p>China has been particularly influential in driving these cost reductions. Previous studies showed that globalized supply chains supported by large-scale manufacturing expansion and deployment contributed substantially to the decline in solar photovoltaic costs, saving installation costs worldwide and creating climate and health co-benefits <span class="citation" data-cites="helveston_he_davidson_2022 qiuImportedSolarPhotovoltaics2025">(Helveston et al. 2022; Qiu et al. 2025)</span>. The same logic now extends to industrial decarbonization: by scaling up production of electrolyzers, electric arc furnaces, and other breakthrough equipment, China’s manufacturing ecosystem can accelerate learning and compress the timeline to cost competitiveness for the global market <span class="citation" data-cites="mengTechnologiesGapsDeep2025">(Meng et al. 2025)</span>.</p>
+<p>A second mechanism involves avoiding stranded assets and carbon lock-in<span class="citation" data-cites="ploegStrandedAssetsTransition2020">(Ploeg and Rezai 2020)</span>. Industrial facilities often operate for several decades. Delayed decarbonization risks locking economies into carbon-intensive infrastructure that either continues emitting for years or requires premature retirement. Both outcomes impose significant economic penalties. The Joule study identifies the 2035–2040 period as a critical window for China; missing this window sharply increases reliance on costlier end-of-pipe options like CCUS. Accelerated decarbonization can prevent these lock-in effects and reduce the need for disruptive transitions later.</p>
+<p>A third mechanism arises from systems integration <span class="citation" data-cites="davisNetzeroEmissionsEnergy2018">(Davis et al. 2018)</span>. Industrial decarbonization depends not only on industrial technologies themselves but also on electricity systems, hydrogen production, and carbon transport networks. Coordinated planning can unlock synergies that are unavailable when sectors develop independently. For example, expanding renewable electricity capacity simultaneously supports industrial electrification and green hydrogen production. The Joule study projects that industrial electricity demand alone could reach approximately 4,300 TWh, and green hydrogen demand could reach approximately 66 Mt by mid-century. Shared infrastructure for carbon transport and storage can reduce costs across multiple industries.</p>
+</section>
+<section id="what-applies-globally-and-what-does-not" class="level2">
+<h2 class="anchored" data-anchor-id="what-applies-globally-and-what-does-not">What Applies Globally, and What Does Not</h2>
+<p>China occupies a unique position in the global industrial transition. It produces more steel, cement, chemicals, and clean energy technologies than all other countries combined and its industry alone accounts for about 20% of global energy-related carbon emissions. At the same time, it possesses an unparalleled capacity to deploy infrastructure at scale and mobilize coordinated industrial policies.</p>
+<p>These characteristics make China an important demonstration for exploring industrial decarbonization pathways. The country’s extensive and intensive manufacturing capacity creates opportunities for rapid learning and cost reductions. Strong industrial supply chains facilitate deployment of emerging technologies. Intense regional and domestic competition ensures the survival of capable market players. Long-term planning frameworks enable coordination across sectors.</p>
+<p>Several insights from the study are broadly applicable across countries.</p>
+<p>First, industrial decarbonization requires integrated planning across energy and industrial systems. Decisions regarding power generation, hydrogen production, industrial investments, and transport infrastructure are increasingly interconnected. Treating these domains separately risks creating bottlenecks and inefficiencies.</p>
+<p>Second, early investment matters. Delaying action may appear economically attractive in the short term, but it can increase long-term costs by locking in carbon-intensive assets and slowing technological learning thus ceding industrial competitiveness in the future.</p>
+<p>Third, policy coordination is essential. Industrial decarbonization cannot be achieved through carbon pricing alone. It requires coordinated policies supporting innovation, infrastructure, deployment, workforce transition, and market creation.</p>
+<p>Fourth, global supply chains remain critical. The dramatic cost declines observed in renewable energy technologies demonstrate the value of international specialization, trade, and technology diffusion. Emerging industrial decarbonization technologies may benefit from similar dynamics.</p>
+<p>However, China should not be viewed as a universal template, as many important factors and conditions differ across regions. For example, institutional capacity varies substantially between countries. Access to affordable capital remains a major barrier in many emerging economies. Resource endowments influence the competitiveness of renewable electricity, hydrogen production, and carbon storage opportunities. Geopolitical tensions and trade disputes increasingly shape technology flows and supply-chain structures.</p>
+<p>Consequently, the pace and configuration of industrial transitions will inevitably differ across countries. The challenge for policymakers elsewhere is not to replicate China’s approach directly, but to identify which lessons are transferable and which depend on context-specific conditions. Successful strategies must account for local conditions while drawing upon broader system-level insights.</p>
+</section>
+<section id="remaining-questions-and-looking-ahead" class="level2">
+<h2 class="anchored" data-anchor-id="remaining-questions-and-looking-ahead">Remaining Questions and Looking Ahead</h2>
+<p>Dai and colleagues offer a different perspective, suggesting that the design of decarbonization pathways, not simply the stringency of climate targets, plays a decisive role in determining costs. Despite important insights and implications, substantial uncertainties remain.</p>
+<p>Technology uncertainty persists. The future costs and performance of hydrogen, CCUS, long-duration energy storage, and industrial electrification technologies remain uncertain. Demand trajectories, geopolitical developments, and trade policies may further alter optimal pathways.</p>
+<p>One key challenge concerns governance. How can the system coordination envisioned in the study be achieved in mixed and diverse markets where investment decisions are distributed among numerous actors? Identifying institutional mechanisms that align diverse incentives with system-wide objectives remains a major challenge.</p>
+<p>Infrastructure development presents another challenge. Large-scale deployment of hydrogen networks, carbon transport systems, and expanded transmission infrastructure will require significant planning, permitting, and public acceptance. Delays in these enabling systems could slow industrial transitions even when technologies are commercially available.</p>
+<p>Finally, industrial decarbonization has important social dimensions. The distribution of costs, benefits, socio-economic impacts, and competitiveness outcomes will influence political feasibility. Ensuring that industrial transitions are both effective and equitable remains an essential task.</p>
+<p>China’s experience, as discussed, should not be interpreted as a universal blueprint. Rather, it serves as a proof of concept demonstrating that accelerated industrial decarbonization can be technically feasible and economically viable when approached as a coordinated system transformation. The challenge is to translate these insights into diverse national contexts while maintaining the benefits of global cooperation.</p>
+<p>Achieving this goal will require deeper collaboration across countries, sectors, and institutions. Engineers, economists, policymakers, infrastructure planners, and industry leaders must work together to align technology development, policy and market design, and deployment strategies. As the global community enters the most difficult phase of decarbonization, the central question may no longer be whether hard-to-abate sectors can be transformed, but how quickly societies can organize themselves to make that transformation as fast as possible at manageable costs.</p>
+<section id="acknowledgements" class="level3">
+<h3 class="anchored" data-anchor-id="acknowledgements">Acknowledgements</h3>
+<p>G.H. would like to thank the Alfred P. Sloan Foundation, ClimateWorks Foundation, and Growald Climate Fund for the support of research at the Deep Energy and Climate Policy Lab.</p>
+</section>
+<section id="declaration-of-generative-ai-and-ai-assisted-technologies-in-the-writing-process" class="level3">
+<h3 class="anchored" data-anchor-id="declaration-of-generative-ai-and-ai-assisted-technologies-in-the-writing-process">Declaration of Generative AI and AI-assisted technologies in the writing process</h3>
+<p>During the preparation of this work the authors used ChatGPT for language clarity and proofreading. After using this tool/service, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.</p>
+</section>
+<section id="declaration-of-interests" class="level3">
+<h3 class="anchored" data-anchor-id="declaration-of-interests">Declaration of Interests</h3>
+<p>The authors declare no competing interests.</p>
+</section>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<ul>
+<li>Published <a href="https://doi.org/10.1016/j.oneear.2026.101784">paper</a> in <em>One Earth</em></li>
+<li>Preprint <a href="../../files/papers/2026-One-Earth-How-hard-are-hard-to-abate-sectors.pdf">pdf</a></li>
+</ul>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-IPCC_2022_WGIII_Ch_11" class="csl-entry">
+Bashmakov, I. A., L. J. Nilsson, A. Acquaye, et al. 2022. <span>“Industry.”</span> Book Section to <em>Climate Change 2022: <span>Mitigation</span> of Climate Change. <span>Contribution</span> of Working Group <span>III</span> to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change</em>, edited by P. R. Shukla, J. Skea, R. Slade, et al. Cambridge University Press. <a href="https://doi.org/10.1017/9781009157926.013">https://doi.org/10.1017/9781009157926.013</a>.
+</div>
+<div id="ref-davisNetzeroEmissionsEnergy2018" class="csl-entry">
+Davis, Steven J., Nathan S. Lewis, Matthew Shaner, et al. 2018. <span>“Net-Zero Emissions Energy Systems.”</span> <em>Science</em> 360 (6396): eaas9793. <a href="https://doi.org/10.1126/science.aas9793">https://doi.org/10.1126/science.aas9793</a>.
+</div>
+<div id="ref-gailaniAssessingPotentialDecarbonization2024" class="csl-entry">
+Gailani, Ahmed, Sam Cooper, Stephen Allen, Andrew Pimm, Peter Taylor, and Robert Gross. 2024. <span>“Assessing the Potential of Decarbonization Options for Industrial Sectors.”</span> <em>Joule</em> 8 (3): 576–603. <a href="https://doi.org/10.1016/j.joule.2024.01.007">https://doi.org/10.1016/j.joule.2024.01.007</a>.
+</div>
+<div id="ref-he_rapid_2020" class="csl-entry">
+He, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. <span>“Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.”</span> <em>Nature Communications</em> 11 (1): 2486. <a href="https://doi.org/10.1038/s41467-020-16184-x">https://doi.org/10.1038/s41467-020-16184-x</a>.
+</div>
+<div id="ref-helveston_he_davidson_2022" class="csl-entry">
+Helveston, John, Gang He, and Michael Davidson. 2022. <span>“Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.”</span> <em>Nature</em> 612 (7938): 83–87. <a href="https://doi.org/10.1038/s41586-022-05316-6">https://doi.org/10.1038/s41586-022-05316-6</a>.
+</div>
+<div id="ref-liuAcceleratedPathwaysChinas2026" class="csl-entry">
+Liu, Xinyuan, Yan Yan, Xiao Wu, et al. 2026. <span>“Accelerated Pathways for <span>China</span>’s Industrial Decarbonization Lower System Costs and Preserve the Carbon Budget.”</span> <em>Joule</em>, July, 102542. <a href="https://doi.org/10.1016/j.joule.2026.102542">https://doi.org/10.1016/j.joule.2026.102542</a>.
+</div>
+<div id="ref-mengTechnologiesGapsDeep2025" class="csl-entry">
+Meng, Jing, Weichen Zhao, Jizhe Li, et al. 2025. <span>“Technologies and Gaps in Deep Decarbonization of Hard-to-Abate Industrial Sectors.”</span> <em>Nature Reviews Clean Technology</em> 1 (8): 578–95. <a href="https://doi.org/10.1038/s44359-025-00082-w">https://doi.org/10.1038/s44359-025-00082-w</a>.
+</div>
+<div id="ref-nemetHowSolarEnergy2026" class="csl-entry">
+Nemet, Gregory F. 2026. <em>How <span>Solar Energy Became Cheap</span>: <span>Pathway</span> to a <span>Solar-Centric Economy</span></em>. Routledge.
+</div>
+<div id="ref-ploegStrandedAssetsTransition2020" class="csl-entry">
+Ploeg, Frederick van der, and Armon Rezai. 2020. <span>“Stranded <span>Assets</span> in the <span>Transition</span> to a <span>Carbon-Free Economy</span>.”</span> <em>Annual Review of Resource Economics</em> 12 (October): 281–98. <a href="https://doi.org/10.1146/annurev-resource-110519-040938">https://doi.org/10.1146/annurev-resource-110519-040938</a>.
+</div>
+<div id="ref-qiuImportedSolarPhotovoltaics2025" class="csl-entry">
+Qiu, Minghao, Gang He, and Peter Marcotullio. 2025. <span>“Imported Solar Photovoltaics Contributed to Health and Climate Benefits in the <span>United States</span>.”</span> <em>One Earth</em> 8 (11): 101467. <a href="https://doi.org/10.1016/j.oneear.2025.101467">https://doi.org/10.1016/j.oneear.2025.101467</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{he2026,
+  author = {He, Gang and Lin, Jiang},
+  title = {How {Hard} {Are} {Hard-to-Abate} {Sectors?} {Rethinking}
+    {Industrial} {Decarbonization} {Pathways}},
+  journal = {One Earth},
+  volume = {9},
+  pages = {101784},
+  date = {2026-08-21},
+  url = {https://doi.org/10.1016/j.oneear.2026.101784},
+  doi = {10.1016/j.oneear.2026.101784},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-he2026" class="csl-entry quarto-appendix-citeas">
+He, Gang, and Jiang Lin. 2026. <span>“How Hard Are Hard-to-Abate
+Sectors? Rethinking Industrial Decarbonization Pathways.”</span> <em>One
+Earth</em> 9 (August): 101784. <a href="https://doi.org/10.1016/j.oneear.2026.101784">https://doi.org/10.1016/j.oneear.2026.101784</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/</guid>
+  <pubDate>Fri, 21 Aug 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/featured.png" medium="image" type="image/png" height="77" width="144"/>
+</item>
 <item>
   <title>Receiving the Sandi Cooper Award for Outstanding Research for Associate Professors</title>
   <dc:creator>CUNY Academy</dc:creator>
@@ -1524,109 +1697,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://drganghe.github.io/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/</guid>
   <pubDate>Thu, 21 Nov 2024 05:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/featured.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Fewer than 15% of coal power plant workers in China can easily shift to green jobs by 2060</title>
-  <dc:creator>Huihuang Wu</dc:creator>
-  <dc:creator>Junfeng Liu</dc:creator>
-  <dc:creator>Xiurong Hu</dc:creator>
-  <dc:creator>Gang He</dc:creator>
-  <dc:creator>Yuhan Zhou</dc:creator>
-  <dc:creator>Xian Wang</dc:creator>
-  <dc:creator>Ying Liu</dc:creator>
-  <dc:creator>Jianmin Ma</dc:creator>
-  <dc:creator>Shu Tao</dc:creator>
-  <link>https://drganghe.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Paper
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Fewer than 15% of coal power plant workers in China can easily shift to green jobs by 2060<br>
-Huihuang Wu, Junfeng Liu, Xiurong Hu, <strong>Gang He</strong>, Yuhan Zhou, Xian Wang, Ying Liu, Jianmin Ma, Shu Tao<br>
-<em>One Earth</em> (2024)<br>
-DOI: <a href="https://doi.org/10.1016/j.oneear.2024.10.006">10.1016/j.oneear.2024.10.006</a></p>
-</div>
-</div>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Phasing out coal is essential for climate mitigation but can result in job losses. Although growing literature has reported green job opportunities (e.g., solar technicians) as a potential solution to the displacement of coal sector workers, the extent to which green jobs are easily accessible, regarding co-location and skill requirements, remains unclear. Here, we explore this issue in the context of China’s coal phaseout toward the 2060 carbon neutrality target. Using a coal power plant retirement model of 3,765 coal power units, we find that coal power plant workers must travel long distances (178–242 km) to reach a green job site. When further considering job skill qualifications, in total, fewer than 15% of these workers can easily access green jobs. Postponing the coal phaseout might further exacerbate the job transition challenge. Upstream industries of the renewable energy sector (e.g., electrical machinery), which can be located closer to coal power plants and have better job skill matching, can help alleviate the challenging prospect.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/featured.jpg" class="img-fluid figure-img"></p>
-<figcaption>Spatial relation and skill similarity between coal power plant workers and green jobs</figcaption>
-</figure>
-</div>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://www.sciencedirect.com/science/article/pii/S259033222400530X">paper</a></p>
-<p>Open access <a href="https://www.sciencedirect.com/science/article/pii/S259033222400530X/pdfft?md5=972ca74d333ab90204f8faf849efba7b&amp;pid=1-s2.0-S259033222400530X-main.pdf">pdf</a></p>
-<p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27394602.v1">data and resources</a></p>
-<p>Release <a href="https://deeppolicylab.github.io/news/2024-11-06-one-earth-coal-jobs-transition.html">summary</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.oneear.2024.10.006">
-
-</div>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.oneear.2024.10.006" data-hide-zero-citations="true" data-style="small_circle"></span>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{wu2024,
-  author = {Wu, Huihuang and Liu, Junfeng and Hu, Xiurong and He, Gang
-    and Zhou, Yuhan and Wang, Xian and Liu, Ying and Ma, Jianmin and
-    Tao, Shu},
-  title = {Fewer Than 15\% of Coal Power Plant Workers in {China} Can
-    Easily Shift to Green Jobs by 2060},
-  journal = {One Earth},
-  volume = {7},
-  number = {11},
-  pages = {1994-2007},
-  date = {2024-11-05},
-  url = {https://www.sciencedirect.com/science/article/pii/S259033222400530X},
-  doi = {10.1016/j.oneear.2024.10.006},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-wu2024" class="csl-entry quarto-appendix-citeas">
-Wu, Huihuang, Junfeng Liu, Xiurong Hu, et al. 2024. <span>“Fewer Than
-15% of Coal Power Plant Workers in China Can Easily Shift to Green Jobs
-by 2060.”</span> <em>One Earth</em> 7 (11): 1994–2007. <a href="https://doi.org/10.1016/j.oneear.2024.10.006">https://doi.org/10.1016/j.oneear.2024.10.006</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/</guid>
-  <pubDate>Tue, 05 Nov 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/featured.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>New Grant: Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities</title>
-  <link>https://drganghe.github.io/</link>
-  <description>Gang He, Kaifang Luo, Hilary Botein, and Frank Heiland were awarded an SSA grant.</description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/</guid>
-  <pubDate>Fri, 01 Nov 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/files/images/nyc-mid-town.webp" medium="image" type="image/webp"/>
 </item>
 </channel>
 </rss>

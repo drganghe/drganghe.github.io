@@ -22,6 +22,12 @@ Email: gang.he@baruch.cuny.edu
 
 Recent Posts
 
+![](./files/images/nyc-climate-week.jpg)
+
+##### Climate Week NYC 2026: Clean Energy Supply Chains in the Era of Industrial Policy
+
+Sep 23, 2026
+
 ![](./posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/featured.png)
 
 ##### Receiving the Sandi Cooper Award for Outstanding Research for Associate Professors
@@ -33,12 +39,6 @@ May 21, 2026
 ##### Fourth Annual Conference on Climate Research, Teaching, and Collaboration
 
 Apr 15, 2026
-
-![](./files/images/BrownChinaSummit2026.webp)
-
-##### Brown China Summit Renewable Energy Panel
-
-Mar 14, 2026
 
 [More posts](posts.llms.md)
 

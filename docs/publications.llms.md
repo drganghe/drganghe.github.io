@@ -5,9 +5,17 @@ Total citations as of May 2026:
 - [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,500+ (h-index = 30)
 - [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 7,000+ (h-index = 35, i10-index = 65)
 
-[ First Author (10)](#category=first-author) [\* Corresponding Author (26)](#category=corresponding-author) [![ESI Highly Cited Paper](./files/images/highly-cited-paper-badge.png) Highly Cited (6)](#category=highly-cited) [![ESI Hot Paper](./files/images/hot-paper-badge.png) Hot Paper (3)](#category=hot-paper) [![Nature Series](./files/images/journal/nature-favicon.png) Nature Series (10)](#category=nature-series) [ All](publications.llms.md) [Other](other-publications.llms.md)
+[ First Author (11)](#category=first-author) [\* Corresponding Author (27)](#category=corresponding-author) [![ESI Highly Cited Paper](./files/images/highly-cited-paper-badge.png) Highly Cited (6)](#category=highly-cited) [![ESI Hot Paper](./files/images/hot-paper-badge.png) Hot Paper (3)](#category=hot-paper) [![Nature Series](./files/images/journal/nature-favicon.png) Nature Series (10)](#category=nature-series) [ All](publications.llms.md) [Other](other-publications.llms.md)
 
 ## Selected Work
+
+How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways **He, Gang**\* and Jiang Lin Aug 21, 2026
+
+**He, Gang**\* and Jiang Lin. 2026. [How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways](https://drganghe.github.io/posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/index.html). *One Earth* 9: 101784. doi: [10.1016/j.oneear.2026.101784](https://doi.org/10.1016/j.oneear.2026.101784).
+
+[ Preprint](https://drganghe.github.io/files/papers/2026-One-Earth-How-hard-are-hard-to-abate-sectors.pdf)
+
+------------------------------------------------------------------------
 
 Renewable integration and AI demand reshaped power grids in 2025 **He, Gang**\* Jan 20, 2026
 
