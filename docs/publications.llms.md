@@ -11,9 +11,9 @@ Total citations as of May 2026:
 
 How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways **He, Gang**\* and Jiang Lin Aug 21, 2026
 
-**He, Gang**\* and Jiang Lin. 2026. [How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways](https://drganghe.github.io/posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/index.html). *One Earth* 9: 101784. doi: [10.1016/j.oneear.2026.101784](https://doi.org/10.1016/j.oneear.2026.101784).
+**He, Gang**\* and Jiang Lin. 2026. [How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways](https://drganghe.github.io/posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/index.html). *One Earth* 9(8): 101784. doi: [10.1016/j.oneear.2026.101784](https://doi.org/10.1016/j.oneear.2026.101784).
 
-[ Preprint](https://drganghe.github.io/files/papers/2026-One-Earth-How-hard-are-hard-to-abate-sectors.pdf)
+[ Preprint](https://drganghe.github.io/files/papers/2026-One-Earth-How-hard-are-hard-to-abate-sectors.pdf) [ SharedIt](https://authors.elsevier.com/a/1neek9C%7EIuBbk-)
 
 ------------------------------------------------------------------------
 

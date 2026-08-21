@@ -29,7 +29,7 @@ citation:
   type: article-journal
   container-title: "One Earth"
   volume: 9
-#  issue: 
+  issue: 8
   page: 101784
   doi: "10.1016/j.oneear.2026.101784"
   url: https://doi.org/10.1016/j.oneear.2026.101784

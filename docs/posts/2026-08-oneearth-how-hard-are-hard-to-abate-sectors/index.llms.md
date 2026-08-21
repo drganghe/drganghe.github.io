@@ -142,6 +142,7 @@ BibTeX citation:
     {Industrial} {Decarbonization} {Pathways}},
   journal = {One Earth},
   volume = {9},
+  number = {8},
   pages = {101784},
   date = {2026-08-21},
   url = {https://doi.org/10.1016/j.oneear.2026.101784},
@@ -152,4 +153,4 @@ BibTeX citation:
 
 For attribution, please cite this work as:
 
-He, Gang, and Jiang Lin. 2026. “How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways.” *One Earth* 9 (August): 101784. <https://doi.org/10.1016/j.oneear.2026.101784>.
+He, Gang, and Jiang Lin. 2026. “How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways.” *One Earth* 9 (8): 101784. <https://doi.org/10.1016/j.oneear.2026.101784>.
