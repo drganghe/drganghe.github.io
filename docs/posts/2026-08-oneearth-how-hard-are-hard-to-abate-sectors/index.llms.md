@@ -107,6 +107,7 @@ The authors declare no competing interests.
 
 - Published [paper](https://doi.org/10.1016/j.oneear.2026.101784) in *One Earth*
 - Preprint [pdf](../../files/papers/2026-One-Earth-How-hard-are-hard-to-abate-sectors.pdf)
+- Figure 1 [PPT](Figure1.pptx)
 
 ## References
 

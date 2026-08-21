@@ -44,6 +44,14 @@ Apr 15, 2026
 
 Latest Papers
 
+![](./posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/featured.png)
+
+##### How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways
+
+*One Earth*
+
+Aug 21, 2026
+
 ![](./posts/2026-04-commsee-aligning-offshore-wind-development-with-local-priorities/figure1a.png)
 
 ##### Aligning offshore wind deployment with local priorities to accelerate power system decarbonization
@@ -59,14 +67,6 @@ Apr 21, 2026
 *Nature Reviews Clean Technology*
 
 Jan 20, 2026
-
-![](./posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png)
-
-##### Imported solar photovoltaics contributed to health and climate benefits in the United States
-
-*One Earth*
-
-Oct 8, 2025
 
 [More papers](posts.llms.md#category=paper)
 

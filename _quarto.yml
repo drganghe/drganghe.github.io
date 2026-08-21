@@ -67,7 +67,7 @@ website:
           href: media.qmd        
         - text: Notes
           href: notes.qmd          
-      - text: Deep Policy Lab
+      - text: DEEP Policy Lab
         href: https://deeppolicylab.github.io/
         target: _blank
       - text: 中文

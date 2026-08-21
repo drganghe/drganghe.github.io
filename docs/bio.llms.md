@@ -16,7 +16,7 @@ Baruch College
 City University of New York  
 Email: gang.he@baruch.cuny.edu
 
-[ Deep Policy Lab](https://deeppolicylab.github.io)
+[ DEEP Policy Lab](https://deeppolicylab.github.io)
 
 [![](./files/images/cuny-logo.png) CUNY Profile](https://www.baruch.cuny.edu/profiles/faculty/Gang-He)
 
