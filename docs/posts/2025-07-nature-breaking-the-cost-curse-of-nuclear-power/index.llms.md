@@ -95,7 +95,7 @@ Source: The New York Times, October 23, 2025, How China Raced Ahead of the U.S. 
 
 Energy and Climate Scholar, Researcher, and Teacher; Associate Professor, CUNY Baruch College / Graduate Center; Director, Deep Energy and Climate Policy Lab
 
-10mo Edited
+1y Edited
 
 [LinkedIn](https://www.linkedin.com/feed/?trk=public_post_embed_linkedin-logo-image)
 

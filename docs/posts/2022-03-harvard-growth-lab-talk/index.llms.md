@@ -30,9 +30,9 @@ Clean power transition is central to achieving mid-century carbon neutrality goa
 
 ## Video
 
-# An error occurred.
+# Se produjo un error.
 
-Unable to execute JavaScript.
+No se puede ejecutar JavaScript.
 
 This is a recorded video on the same topic for [INFORMS 2022](https://www.abstractsonline.com/pp8/?__hstc=194041586.8524a11c1c5f954b7845956fbd83f9c6.1672599062893.1672599062893.1672599062893.1&__hssc=194041586.1.1672599062893&__hsfp=1998772865&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/presentation/6340).
 

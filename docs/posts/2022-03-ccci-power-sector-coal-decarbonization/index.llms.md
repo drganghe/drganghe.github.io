@@ -24,9 +24,9 @@ March 8, 2022
 
 ## Recorded Video
 
-# An error occurred.
+# Se produjo un error.
 
-Unable to execute JavaScript.
+No se puede ejecutar JavaScript.
 
 ## Remarks
 
