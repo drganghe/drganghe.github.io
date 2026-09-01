@@ -1,9 +1,9 @@
 # Publications
 
-Total citations as of May 2026:
+Total citations as of August 2026:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,500+ (h-index = 30)
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 7,000+ (h-index = 35, i10-index = 65)
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,500+ (h-index = 33)
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 7,500+ (h-index = 37, i10-index = 70)
 
 [ First Author (11)](#category=first-author) [\* Corresponding Author (27)](#category=corresponding-author) [![ESI Highly Cited Paper](./files/images/highly-cited-paper-badge.png) Highly Cited (6)](#category=highly-cited) [![ESI Hot Paper](./files/images/hot-paper-badge.png) Hot Paper (3)](#category=hot-paper) [![Nature Series](./files/images/journal/nature-favicon.png) Nature Series (10)](#category=nature-series) [ All](publications.llms.md) [Other](other-publications.llms.md)
 
@@ -177,11 +177,19 @@ Invited presentation: UNFCCC CDM Executive Board meeting
 
 ------------------------------------------------------------------------
 
+Unlocking the potential of green development: Can intelligent manufacturing improve corporate environmental performance? Li, Jinkai, Jiexiao Ge\*, Peilin Tian, **Gang He**, Tao Mao, Zhanfeng Dong\* Jan 15, 2027
+
+Li, Jinkai, Jiexiao Ge\*, Peilin Tian, **Gang He**, Tao Mao, Zhanfeng Dong\*. 2027. [Unlocking the potential of green development: Can intelligent manufacturing improve corporate environmental performance?](https://www.sciencedirect.com/science/article/pii/S0195925526003562). *Environmental Impact Assessment Review* 122: 108682. doi: [10.1016/j.eiar.2026.108682](https://doi.org/10.1016/j.eiar.2026.108682).
+
+[ SharedIt](https://authors.elsevier.com/c/1nhF~iZ5tOJzg) [ Supplemental](https://ars.els-cdn.com/content/image/1-s2.0-S0195925526003562-mmc1.docx)
+
+------------------------------------------------------------------------
+
 Resilience planning for power systems under deep climate uncertainty Wang, Jiarui, Junqi Liu, Lei Zhu\*, **Gang He**\* Sep 1, 2026
 
 Wang, Jiarui, Junqi Liu, Lei Zhu\*, **Gang He**\*. 2026. [Resilience planning for power systems under deep climate uncertainty](https://www.sciencedirect.com/science/article/pii/S0140988326004068). *Energy Economics* 161: 109527. doi: [10.1016/j.eneco.2026.109527](https://doi.org/10.1016/j.eneco.2026.109527).
 
-[ GitHub](https://github.com/switch-model/switch) [ Supplemental](https://www.sciencedirect.com/science/article/pii/S0140988326004068)
+[ Preprint](https://drganghe.github.io/files/papers/2026-EnergyEconomics-ResiliencePlanningForPowerSystemsUnderDeepClimateUncertainty.pdf) [ GitHub](https://github.com/switch-model/switch) [ Supplemental](https://www.sciencedirect.com/science/article/pii/S0140988326004068)
 
 ------------------------------------------------------------------------
 
@@ -197,7 +205,7 @@ Emission Trading Scheme Reshapes the Decarbonisation Pathways of China's Power S
 
 Lu, Zhenwei, Bin Ye\*, Zhe Yu, **Gang He**, and Shuai Shao. 2026. [Emission Trading Scheme Reshapes the Decarbonisation Pathways of China's Power Sector](https://www.sciencedirect.com/science/article/pii/S0306261926003788). *Applied Energy* 412: 127726. doi: [10.1016/j.apenergy.2026.127726](https://doi.org/10.1016/j.apenergy.2026.127726).
 
-[ SharedIt](https://authors.elsevier.com/c/1morx15eifJiHC) [ GitHub](https://github.com/switch-model/switch-china-open-model) [ Supplemental](https://ars.els-cdn.com/content/image/1-s2.0-S0306261926003788-mmc1.docx)
+[ GitHub](https://github.com/switch-model/switch-china-open-model) [ Supplemental](https://ars.els-cdn.com/content/image/1-s2.0-S0306261926003788-mmc1.docx)
 
 ------------------------------------------------------------------------
 
@@ -251,7 +259,7 @@ Avoided CO2 Emissions in China's Power Sector by Structural Change and Efficienc
 
 Zhang, Chao\*, Yujie Dong, Lijin Zhong\*, Haoqi Qian\*, Shuangtong Wang, and **Gang He**. 2025. [Avoided CO2 Emissions in China's Power Sector by Structural Change and Efficiency Gain: An Electric Generating Unit Level Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0921344925003982). *Resources, Conservation and Recycling* 223: 108520. doi: [10.1016/j.resconrec.2025.108520](https://doi.org/10.1016/j.resconrec.2025.108520).
 
-[ PDF](https://www.sciencedirect.com/science/article/pii/S0921344925003982/pdfft)
+[ PDF](https://drganghe.github.io/files/papers/2025-RCR-AvoidedCO2EmissionsInChinaPowerSectorByStructuralChangeAndEfficiency.pdf)
 
 Coverage: [Carbon Brief](https://www.carbonbrief.org/china-briefing-21-august-2025-chinas-co2-decline-two-mountains-chinas-cement-challenge/)
 
@@ -593,11 +601,19 @@ Yang, Pingjian, **Gang He**, Guozhu Mao, Yong Liu, Mingzhu Xu, Huaicheng Guo\*, 
 
 ## Other Journal Papers
 
+Unlocking the potential of green development: Can intelligent manufacturing improve corporate environmental performance? Li, Jinkai, Jiexiao Ge\*, Peilin Tian, **Gang He**, Tao Mao, Zhanfeng Dong\* Jan 15, 2027
+
+Li, Jinkai, Jiexiao Ge\*, Peilin Tian, **Gang He**, Tao Mao, Zhanfeng Dong\*. 2027. [Unlocking the potential of green development: Can intelligent manufacturing improve corporate environmental performance?](https://www.sciencedirect.com/science/article/pii/S0195925526003562). *Environmental Impact Assessment Review* 122: 108682. doi: [10.1016/j.eiar.2026.108682](https://doi.org/10.1016/j.eiar.2026.108682).
+
+[ SharedIt](https://authors.elsevier.com/c/1nhF~iZ5tOJzg) [ Supplemental](https://ars.els-cdn.com/content/image/1-s2.0-S0195925526003562-mmc1.docx)
+
+------------------------------------------------------------------------
+
 Resilience planning for power systems under deep climate uncertainty Wang, Jiarui, Junqi Liu, Lei Zhu\*, **Gang He**\* Sep 1, 2026
 
 Wang, Jiarui, Junqi Liu, Lei Zhu\*, **Gang He**\*. 2026. [Resilience planning for power systems under deep climate uncertainty](https://www.sciencedirect.com/science/article/pii/S0140988326004068). *Energy Economics* 161: 109527. doi: [10.1016/j.eneco.2026.109527](https://doi.org/10.1016/j.eneco.2026.109527).
 
-[ GitHub](https://github.com/switch-model/switch) [ Supplemental](https://www.sciencedirect.com/science/article/pii/S0140988326004068)
+[ Preprint](https://drganghe.github.io/files/papers/2026-EnergyEconomics-ResiliencePlanningForPowerSystemsUnderDeepClimateUncertainty.pdf) [ GitHub](https://github.com/switch-model/switch) [ Supplemental](https://www.sciencedirect.com/science/article/pii/S0140988326004068)
 
 ------------------------------------------------------------------------
 
@@ -613,7 +629,7 @@ Emission Trading Scheme Reshapes the Decarbonisation Pathways of China's Power S
 
 Lu, Zhenwei, Bin Ye\*, Zhe Yu, **Gang He**, and Shuai Shao. 2026. [Emission Trading Scheme Reshapes the Decarbonisation Pathways of China's Power Sector](https://www.sciencedirect.com/science/article/pii/S0306261926003788). *Applied Energy* 412: 127726. doi: [10.1016/j.apenergy.2026.127726](https://doi.org/10.1016/j.apenergy.2026.127726).
 
-[ SharedIt](https://authors.elsevier.com/c/1morx15eifJiHC) [ GitHub](https://github.com/switch-model/switch-china-open-model) [ Supplemental](https://ars.els-cdn.com/content/image/1-s2.0-S0306261926003788-mmc1.docx)
+[ GitHub](https://github.com/switch-model/switch-china-open-model) [ Supplemental](https://ars.els-cdn.com/content/image/1-s2.0-S0306261926003788-mmc1.docx)
 
 ------------------------------------------------------------------------
 
@@ -667,7 +683,7 @@ Avoided CO2 Emissions in China's Power Sector by Structural Change and Efficienc
 
 Zhang, Chao\*, Yujie Dong, Lijin Zhong\*, Haoqi Qian\*, Shuangtong Wang, and **Gang He**. 2025. [Avoided CO2 Emissions in China's Power Sector by Structural Change and Efficiency Gain: An Electric Generating Unit Level Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0921344925003982). *Resources, Conservation and Recycling* 223: 108520. doi: [10.1016/j.resconrec.2025.108520](https://doi.org/10.1016/j.resconrec.2025.108520).
 
-[ PDF](https://www.sciencedirect.com/science/article/pii/S0921344925003982/pdfft)
+[ PDF](https://drganghe.github.io/files/papers/2025-RCR-AvoidedCO2EmissionsInChinaPowerSectorByStructuralChangeAndEfficiency.pdf)
 
 Coverage: [Carbon Brief](https://www.carbonbrief.org/china-briefing-21-august-2025-chinas-co2-decline-two-mountains-chinas-cement-challenge/)
 

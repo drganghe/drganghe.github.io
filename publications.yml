@@ -272,6 +272,20 @@
   categories: [2013, selected, peer-reviewed, first-author, corresponding-author, china, carbon]
 
 - section: Peer-reviewed Journal Paper
+  authors: "Li, Jinkai, Jiexiao Ge\\*, Peilin Tian, **Gang He**, Tao Mao, Zhanfeng Dong\\*"
+  year: 2027
+  date: 2027-01-15
+  title: "Unlocking the potential of green development: Can intelligent manufacturing improve corporate environmental performance?"
+  path: "https://www.sciencedirect.com/science/article/pii/S0195925526003562"
+  journal: Environmental Impact Assessment Review
+  volume: 122
+  pages: 108682
+  doi: 10.1016/j.eiar.2026.108682
+  shareit: "https://authors.elsevier.com/c/1nhF~iZ5tOJzg"
+  supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S0195925526003562-mmc1.docx"
+  categories: [2027, peer-reviewed, environment]
+
+- section: Peer-reviewed Journal Paper
   authors: "Wang, Jiarui, Junqi Liu, Lei Zhu\\*, **Gang He**\\*"
   year: 2026
   date: 2026-09-01
@@ -281,6 +295,7 @@
   volume: 161
   pages: 109527
   doi: 10.1016/j.eneco.2026.109527
+  preprint: "https://drganghe.github.io/files/papers/2026-EnergyEconomics-ResiliencePlanningForPowerSystemsUnderDeepClimateUncertainty.pdf"
   supplemental: "https://www.sciencedirect.com/science/article/pii/S0140988326004068"
   github: "https://github.com/switch-model/switch"
   categories: [2026, peer-reviewed, power-system, corresponding-author]
@@ -311,7 +326,6 @@
   volume: 412
   pages: 127726
   doi: 10.1016/j.apenergy.2026.127726
-  shareit: "https://authors.elsevier.com/c/1morx15eifJiHC"
   supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S0306261926003788-mmc1.docx"
   github: "https://github.com/switch-model/switch-china-open-model"
   categories: [2026, peer-reviewed, carbon, china, power-system, switch-china]
@@ -412,7 +426,7 @@
   volume: 223
   pages: 108520
   doi: 10.1016/j.resconrec.2025.108520
-  pdf: "https://www.sciencedirect.com/science/article/pii/S0921344925003982/pdfft"
+  pdf: "https://drganghe.github.io/files/papers/2025-RCR-AvoidedCO2EmissionsInChinaPowerSectorByStructuralChangeAndEfficiency.pdf"
   mediacoverage: "[Carbon Brief](https://www.carbonbrief.org/china-briefing-21-august-2025-chinas-co2-decline-two-mountains-chinas-cement-challenge/)"
   categories: [2025, peer-reviewed, power-system, energy-efficiency]
 

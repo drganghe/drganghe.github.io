@@ -36,10 +36,10 @@ Note: \* corresponding author; ![](/files/images/highly-cited-paper-badge.png "E
 
 -->
 
-Total citations as of May 2026:
+Total citations as of August 2026:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,500+ (h-index = 30)
-- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 7,000+ (h-index = 35, i10-index = 65)
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,500+ (h-index = 33)
+- [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 7,500+ (h-index = 37, i10-index = 70)
 
 :::{.pub-quicklinks}
 [{{< fa user >}} First Author (11)](#category=first-author){.pub-ql-btn .pub-ql-first .no-external target="_self"}

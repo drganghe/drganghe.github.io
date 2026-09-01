@@ -10,7 +10,7 @@ Email: gang.he@baruch.cuny.edu
 
 [ 深度能源与气候政策实验室](https://deeppolicylab.github.io/cn.html) [![](./files/images/cuny-logo.png) CUNY主页](https://www.baruch.cuny.edu/profiles/faculty/Gang-He) [ 领英](https://linkedin.com/in/hegang) [ 优兔](https://www.youtube.com/@DrGangHe) [ ORCID](https://orcid.org/0000-0002-8416-1965) [ Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013) [ Scopus](https://www.scopus.com/authid/detail.uri?authorId=55607981900) [ 语义学者](https://www.semanticscholar.org/author/Gang-He/49430802) [ 谷歌学术](https://scholar.google.com/citations?user=vf90AuEAAAAJ) [ 研究之门](https://www.researchgate.net/profile/Gang-He-19)
 
-何钢是纽约市立大学巴鲁克学院公共和国际事务学院副教授，也是纽约市立大学研究生院和大学中心的博导及人口研究所的兼职教授。他主要从事能源系统、能源和气候政策及能源转型方面的研究和教学。他创建了[深度能源和气候政策实验室](https://deeppolicylab.github.io/cn.html)，致力于为深度减排实现碳中和提供深度分析与深度见解。
+何钢是纽约市立大学巴鲁克学院公共和国际事务学院长聘副教授，也是纽约市立大学研究生院和大学中心的博导及人口研究所的兼职教授。他主要从事能源系统、能源和气候政策及能源转型方面的研究和教学。他创建了[深度能源和气候政策实验室](https://deeppolicylab.github.io/cn.html)，致力于为深度减排实现碳中和提供深度分析与深度见解。
 
 他的研究探索能源转型实现碳中和的技术路径和政策选择，及其对气候、环境与社会经济的影响，旨在实现可持续、韧性及公正的能源转型。聚焦领域包括清洁能源全球供应链、电力系统脱碳建模、气候变化对能源系统的影响、能源-水-碳关联关系、能源与气候公正等。他主导和合作的[研究](publications.llms.md)发表在高影响力的跨学科和专业期刊上，包括《[自然](posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.llms.md)》、《[自然-通讯](posts/2020-05-ncomms-rapid-re-cost/index.llms.md)》、《[自然-能源](posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.llms.md)》、《[一个地球](posts/2020-08-oneearth-coal-just-transition/index.llms.md)》、《[环境科学与技术](posts/2016-est-switch-china/index.llms.md)》和《[能源政策](posts/2013-ep-carbon-offsetters-paradox/index.llms.md)》。
 
