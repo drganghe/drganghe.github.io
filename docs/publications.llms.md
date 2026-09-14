@@ -1,8 +1,8 @@
 # Publications
 
-Total citations as of August 2026:
+Total citations as of September 2026:
 
-- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 4,500+ (h-index = 33)
+- [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 5,000+ (h-index = 33)
 - [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 7,500+ (h-index = 37, i10-index = 70)
 
 [ First Author (11)](#category=first-author) [\* Corresponding Author (27)](#category=corresponding-author) [![ESI Highly Cited Paper](./files/images/highly-cited-paper-badge.png) Highly Cited (6)](#category=highly-cited) [![ESI Hot Paper](./files/images/hot-paper-badge.png) Hot Paper (3)](#category=hot-paper) [![Nature Series](./files/images/journal/nature-favicon.png) Nature Series (10)](#category=nature-series) [ All](publications.llms.md) [Other](other-publications.llms.md)
