@@ -1,7 +1,7 @@
 ---
 title: "我在美国找教职的经历"
 #description-meta: "An unofficial paperwork guide for visiting CUNY Baruch College"
-author: "何钢"
+#author: "何钢"
 categories: [experience]
 date: "2015-03-01"
 title-block-banner: false

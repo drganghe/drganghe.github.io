@@ -64,6 +64,8 @@ Morse, Richard, Varun Rai, **Gang He**. [Real Drivers of Carbon Capture and Stor
 
 ## Report
 
+Xu, Ming, Xiaohui Lu, Jianchuan Qi, Dong Li, Xin Zhou, Roberto Cardinale, Ayyoob Sharifi, Zhifu Mi, **Gang He**. 2026. [Advanceing the Urban Green Economy: Shared Insights from Global Cities](/files/papers/2026-AdvancingUrbanGreenEconomy.pdf). [Chinese version](/files/papers/2026-AdvancingUrbanGreenEconomy-cn.pdf). [Release Note](https://mp.weixin.qq.com/s/oorh6JHKgyNLRSzvFQ-3lA)
+
 Price, Lynn K., et al. 2016. [Low-Carbon City Policy Databook](https://china.lbl.gov/publications/low-carbon-city-policy-databook). LBNL-1006326.
 
 Zhou, Nan, **Gang He**, et al. [A Review of Commercially Available Technologies for Developing Low-Carbon Eco-cities](https://eta.lbl.gov/publications/review-commercially-available). LBNL-179304. 2015.

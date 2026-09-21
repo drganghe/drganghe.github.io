@@ -1,9 +1,5 @@
 # 我在美国找教职的经历
 
-Author
-
-何钢
-
 Published
 
 March 1, 2015

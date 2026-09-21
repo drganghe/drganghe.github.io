@@ -1185,6 +1185,11 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <td><a href="https://drganghe.github.io/climate-guest-speakers/" class="uri">https://drganghe.github.io/climate-guest-speakers/</a></td>
 <td><a href="https://github.com/drganghe/climate-guest-speakers" class="uri">https://github.com/drganghe/climate-guest-speakers</a></td>
 </tr>
+<tr class="odd">
+<td>Project</td>
+<td><a href="https://madeinamerica.netlify.app/" class="uri">https://madeinamerica.netlify.app/</a></td>
+<td><a href="https://github.com/drganghe/quarto-academic-website-template" class="uri">https://github.com/drganghe/quarto-academic-website-template</a></td>
+</tr>
 </tbody>
 </table>
 <p>Note: If you’d like to use the template, please avoid forking my actual websites directly, as you will receive notifications whenever I update it. If you choose to do so, please be sure to remove my personal Google Analytics ID and MS Clarity ID from your site. Instead, I recommend forking the <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic website template</a> to build your own website.</p>
@@ -1363,7 +1368,7 @@ font-weight: bold;
 font-style: inherit;">script</span><span class="dt" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">&gt;</span></span></code></pre></div></div>
-<p>To make the badges display in the same line, you can add the following CSS to your <code>custom.css</code> file and include it in the header of your page.</p>
+<p>To make the badges display in the same line, you can add the following CSS to your <code>custom.css</code> file and include it in the yaml header of your qmd file.</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode css code-with-copy"><code class="sourceCode css"><span id="cb4-1">span<span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">.__dimensions_badge_embed__</span><span class="op" style="color: #5E5E5E;
@@ -1605,7 +1610,6 @@ https://quarto.org/docs/authoring/includes.html
 </item>
 <item>
   <title>我在美国找教职的经历</title>
-  <dc:creator>何钢 </dc:creator>
   <link>https://drganghe.github.io/notes/faculty-job-search-experience-in-the-us-cn.html</link>
   <description><![CDATA[ 
 

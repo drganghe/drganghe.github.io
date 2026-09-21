@@ -52,6 +52,7 @@ css: /custom.css
 | Lab/Group   | <https://deeppolicylab.github.io/>                                               | <https://github.com/deeppolicylab/deeppolicylab.github.io> |
 | Class       | <https://drganghe.github.io/energy-climate-policy/>                              | <https://github.com/drganghe/energy-climate-policy>        |
 | Events      | <https://drganghe.github.io/climate-guest-speakers/>                             | <https://github.com/drganghe/climate-guest-speakers>       |
+| Project     | <https://madeinamerica.netlify.app/>                                             | <https://github.com/drganghe/quarto-academic-website-template> |
 
 Note: If you’d like to use the template, please avoid forking my actual websites directly, as you will receive notifications whenever I update it. If you choose to do so, please be sure to remove my personal Google Analytics ID and MS Clarity ID from your site. Instead, I recommend forking the [Quarto Academic website template](https://github.com/drganghe/quarto-academic-website-template) to build your own website.
 
@@ -104,7 +105,7 @@ Make sure to include below scripts in the same page to enable the badges:
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ```
 
-To make the badges display in the same line, you can add the following CSS to your `custom.css` file and include it in the header of your page.
+To make the badges display in the same line, you can add the following CSS to your `custom.css` file and include it in the yaml header of your qmd file.
 
 ```css
 span.__dimensions_badge_embed__, div.altmetric-embed {
