@@ -30,7 +30,7 @@ Wan, Jun, Cai Yunlong, Lu Yunge, and **He Gang**. 2003. Soil erosion risk assess
 
 ## Book Chapter
 
-Ohshita, Stephanie, et al. [Low Carbon Development for Cities: Methods and Measures](http://onlinelibrary.wiley.com/doi/10.1002/9781118991978.hces107/abstract). *Handbook of Clean Energy Systems*. 2015: 1–23. doi: [10.1002/9781118991978.hces107](https://doi.org/10.1002/9781118991978.hces107)
+Ohshita, Stephanie, Nan Zhou, Lynn Price, David Fridley, Nina Khanna, Lixuan Hong, Hongyou Lu, Cecilia Fino-Chen, **Gang He**. [Low Carbon Development for Cities: Methods and Measures](http://onlinelibrary.wiley.com/doi/10.1002/9781118991978.hces107/abstract). *Handbook of Clean Energy Systems*. 2015: 1–23. doi: [10.1002/9781118991978.hces107](https://doi.org/10.1002/9781118991978.hces107)
 
 **He, Gang**, Richard Morse. [China's Coal Import Behavior and Its Impacts to Global Energy Market](http://www.worldscientific.com/doi/abs/10.1142/9789814566582_0032). *Globalization, Development and Security in Asia Vol. 3*. Singapore: World Scientific. 2014: 69–85. doi: [10.1142/9789814566582_0032](https://doi.org/10.1142/9789814566582_0032)
 
@@ -40,7 +40,7 @@ Ohshita, Stephanie, et al. [Low Carbon Development for Cities: Methods and Measu
 
 Lee, Mekyung, and **Gang He**. 2017. "Why Is Korea Lagging behind in Electric Vehicle Technology Innovation?" In PICMET '17 Conference. Portland, Oregon, USA.
 
-Ohshita, Stephanie, Nina Khanna, **Gang He**, et al. 2015. Urban form as a "first fuel" for low-carbon mobility in Chinese cities. ECEEE 2015 Summer Study on Energy Efficiency.
+Ohshita, Stephanie, David Fridley, Nina Khanna, Nan Zhou, **Gang He**, Lixuan Hong, Yong Zhou. 2015. Urban form as a "first fuel" for low-carbon mobility in Chinese cities. ECEEE 2015 Summer Study on Energy Efficiency.
 
 **He, Gang**, Nan Zhou, Lixuan Hong, David Fridley, Yong Zhou. 2014. Is Your City Really Sustainable? A Tale of Jinan City Using Quantitative Low-Carbon Eco-city Tools. 2014 ACEEE Summer Study: 119–130.
 
@@ -50,7 +50,7 @@ Williams, Christopher, Nan Zhou, **Gang He**, and Mark Levine. 2012. Measuring i
 
 ## Working Paper
 
-Karali, Nihan, et al. [Towards uniform benefit-cost analysis for smart grid projects](https://eta.lbl.gov/publications/towards-uniform-benefit-cost-analysis). LBNL-1003908. 2015.
+Karali, Nihan, Chris Marnay, Tyler Shiqiao Yan, **Gang He**, Robert J Yinger, Josh Mauzey, Kevin Clampitt, Han Zhu. [Towards uniform benefit-cost analysis for smart grid projects](https://eta.lbl.gov/publications/towards-uniform-benefit-cost-analysis). LBNL-1003908. 2015.
 
 **He, Gang**, Jiang Lin, Alexandria Yuan. [Economic Rebalancing and Electricity Demand in China](https://www.osti.gov/servlets/purl/1235078). LBNL-1003799. 2015.
 
@@ -64,11 +64,11 @@ Morse, Richard, Varun Rai, **Gang He**. [Real Drivers of Carbon Capture and Stor
 
 ## Report
 
-Xu, Ming, Xiaohui Lu, Jianchuan Qi, Dong Li, Xin Zhou, Roberto Cardinale, Ayyoob Sharifi, Zhifu Mi, **Gang He**. 2026. [Advanceing the Urban Green Economy: Shared Insights from Global Cities](/files/papers/2026-AdvancingUrbanGreenEconomy.pdf). [Chinese version](/files/papers/2026-AdvancingUrbanGreenEconomy-cn.pdf). [Release Note](https://mp.weixin.qq.com/s/oorh6JHKgyNLRSzvFQ-3lA)
+Xu, Ming, Xiaohui Lu, Jianchuan Qi, Dong Li, Xin Zhou, Roberto Cardinale, Ayyoob Sharifi, Zhifu Mi, **Gang He**. 2026. [Advanceing the Urban Green Economy: Shared Insights from Global Cities](/files/papers/2026-AdvancingUrbanGreenEconomy.pdf). [Chinese version](/files/papers/2026-AdvancingUrbanGreenEconomy-cn.pdf). [Release Note](https://mp.weixin.qq.com/s/oorh6JHKgyNLRSzvFQ-3lA).
 
-Price, Lynn K., et al. 2016. [Low-Carbon City Policy Databook](https://china.lbl.gov/publications/low-carbon-city-policy-databook). LBNL-1006326.
+Price, Lynn K., Nan Zhou, David Fridley, Stephanie Ohshita, Nina Khanna, Hongyou Lu, Lixuan Hong, **Gang He**, John Romankiewicz, Hu Min. 2016. [Low-Carbon City Policy Databook](https://energyanalysis.lbl.gov/publications/low-carbon-city-policy-databook). LBNL-1006326.
 
-Zhou, Nan, **Gang He**, et al. [A Review of Commercially Available Technologies for Developing Low-Carbon Eco-cities](https://eta.lbl.gov/publications/review-commercially-available). LBNL-179304. 2015.
+Zhou, Nan, **Gang He**, John Romankiewicz, David Fridley, Cecilia Fino-Chen. [A Review of Commercially Available Technologies for Developing Low-Carbon Eco-cities](https://eta.lbl.gov/publications/review-commercially-available). LBNL-179304. 2015.
 
 Asia Society. [A Vital Partnership: California and China Collaborating on Clean Energy and Combating Climate Change](https://asiasociety.org/files/pdf/US_China_Roadmap_on_Climate_Change.pdf). March 4, 2015. (Contributor)
 
