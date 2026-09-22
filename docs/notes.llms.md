@@ -10,3 +10,4 @@ Miscellaneous notes and random stuff
 | [New York State Climate Policy Goals Clarified](notes/new-york-state-climate-policy.llms.md) | Nov 1, 2024 |
 | [Quarto Academic Website Examples and Tips](quarto-academic-site-examples.llms.md) | Oct 15, 2024 |
 | [我在美国找教职的经历](notes/faculty-job-search-experience-in-the-us-cn.llms.md) | Mar 1, 2015 |
+| [AMPL Notepad++ UDL Syntax](notes/ampl-notepad-plus-plus-udl-syntax.llms.md) | May 1, 2014 |
