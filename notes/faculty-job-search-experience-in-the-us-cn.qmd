@@ -40,7 +40,7 @@ from: markdown+emoji
 
 我主攻三类职位信息，首选教职，也考虑国际组织、智库研究职位，博士后的机会。
 
-有关教职机会的信息非常分散，而且不定期，简单说就是不知道什么时候在哪里会有相应的消息。所以就要广撒网，但是人的时间和精力总是有限的，所以我主要借助RSS来帮我搜罗，而我只要每天浏览一下标题就可以了。这个是我搜集的[环境、能源、地理、公共政策类的RSS](https://www.ganghe.net/misc/energy-environmental-geography-jobs-rss)，主要是Academicjobsonline，HigherEducation，Chroniclevitae等，你可以直接导入Feedly Reader用。有的网站和学校不提供RSS订阅，那就只好不定期过去逛逛了，尤其是一些重点关注的学校，一些特别想去的机构等等。
+有关教职机会的信息非常分散，而且不定期，简单说就是不知道什么时候在哪里会有相应的消息。所以就要广撒网，但是人的时间和精力总是有限的，所以我主要借助RSS来帮我搜罗，而我只要每天浏览一下标题就可以了。这个是我搜集的[环境、能源、地理、公共政策类的RSS](energy-environment-sustainability-jobs-rss.qmd)，主要是Academicjobsonline，HigherEducation，Chroniclevitae等，你可以直接导入Feedly Reader用。有的网站和学校不提供RSS订阅，那就只好不定期过去逛逛了，尤其是一些重点关注的学校，一些特别想去的机构等等。
 
 可能是历史原因，美国大学的BBS并不常用，或基本没有，而是高度依赖邮件列表，但是邮件信息轰炸，这时候就得靠Gmail的过滤功能。环境类推荐订阅aess\@listserv.ursinus.edu，resecon\@lsv.uky.edu，eejobs\@smartsite.ucdavis.edu，还有Climate-L，Energy-L等IISD的邮件列表。一般院系也会有类似的邮件列表，而且经常会有重复发送的。这就是为什么Gmail的超强过滤和标签功能可以起到事半功倍的作用了，因为只要每天到已删除邮箱看一眼标题就可以了。我建了一个能源、环境和可持续发展学术工作信息谷歌论坛，我不定期的把我收到的不错的学术工作信息转到这个论坛上，欢迎加入，也可邮件订阅。
 

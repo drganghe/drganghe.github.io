@@ -1,0 +1,67 @@
+# Energy, Environment, and Sustainability Jobs RSS
+
+Author
+
+Gang He
+
+Published
+
+September 15, 2014
+
+Academic job information is disperse, and RSS can help to locate openings comparatively easier. The following are a few sources that I track when applying. You can copy the following code to a text file and save it as xml file, or directly download [here](../files/tools/energy-environment-sustainability-jobs-rss.xml). Then import to Feedly or other RSS readers to track opportunities in one single click.
+
+A few mailing lists that I follow:
+
+- [AESS Listserv](https://aessonline.org/ess-forum/) - Association for Environmental Studies and Sciences
+
+- [ResEcon](https://www.aere.org/resecon) - Land & Resource Economics Network
+
+- [AEESP](https://www.aeesp.org/jobs) - Association of Environmental Engineering and Science Professors
+
+- [Energy-L](http://energy-l.iisd.org/about-the-energy-l-mailing-list/) - IISD Energy
+
+- [Climate-L](http://climate-l.iisd.org/about-the-climate-l-mailing-list/) - IISD Climate
+
+``` xml
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<opml version="1.0">
+
+<head>
+
+<title>Energy, Environmental, and Geography Job RSS</title>
+
+</head>
+
+<body>
+
+<outline title="Career" text="Career">
+
+<outline text="HigherEdJobs - Geography" title="HigherEdJobs - Geography" type="rss" xmlUrl="http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=103" htmlUrl="http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=103" />
+
+<outline text="Harvard University Faculty: All Jobs" title="Harvard University Faculty: All Jobs" type="rss" xmlUrl="https://academicpositions.harvard.edu/all_jobs.atom" htmlUrl="http://academicpositions.harvard.edu" />
+
+<outline text="Academicjobsonline.org Job Listing" title="Academicjobsonline.org Job Listing" type="rss" xmlUrl="https://academicjobsonline.org/ajo?joblist-0-0-0-----rss" htmlUrl="https://academicjobsonline.org/ajo" />
+
+<outline text="HigherEdJobs - Geology, Earth Sciences &amp; Oceanography" title="HigherEdJobs - Geology, Earth Sciences &amp; Oceanography" type="rss" xmlUrl="http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=170" htmlUrl="http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=170" />
+
+<outline text="HigherEdJobs - Urban Studies and Planning" title="HigherEdJobs - Urban Studies and Planning" type="rss" xmlUrl="http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=202" htmlUrl="http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=202" />
+
+<outline text="HigherEdJobs - Civil and Environmental Engineering" title="HigherEdJobs - Civil and Environmental Engineering" type="rss" xmlUrl="http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=115" htmlUrl="http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=115" />
+
+<outline text="HigherEdJobs - Environmental Science, Ecology &amp; Forestry" title="HigherEdJobs - Environmental Science, Ecology &amp; Forestry" type="rss" xmlUrl="http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=54" htmlUrl="http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=54" />
+
+<outline text="HigherEdJobs - Agricultural Economics &amp; Agribusiness" title="HigherEdJobs - Agricultural Economics &amp; Agribusiness" type="rss" xmlUrl="http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=50" htmlUrl="http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=50" />
+
+<outline text="Geography Jobs.com - Geography Jobs First - In the US" title="Geography Jobs.com - Geography Jobs First - In the US" type="rss" xmlUrl="http://feeds.feedburner.com/geographyjobs-Academia_and_Education-USA" htmlUrl="http://www.geographyjobs.com/Academia_and_Education.html" />
+
+<outline text="Geography Jobs.com - Geography Jobs First - In the US" title="Geography Jobs.com - Geography Jobs First - In the US" type="rss" xmlUrl="http://feeds.feedburner.com/geographyjobs-Environmental-USA" htmlUrl="http://www.geographyjobs.com/Environmental.html" />
+
+<outline text="Berkeley Lab - Custom Job List" title="Berkeley Lab - Custom Job List" type="rss" xmlUrl="https://lbl.taleo.net/careersection/feed/joblist.rss?lang=en&amp;portal=101430233&amp;searchtype=1&amp;location=260471996" htmlUrl="http://lbl.taleo.net/careersection/2/jobsearch.ftl?lang=en&amp;location=260471996" />
+
+</outline>
+
+</body>
+
+</opml>
+```

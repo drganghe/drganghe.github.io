@@ -1584,6 +1584,11 @@ font-style: inherit;">decktape</span> automatic lecture1.html lecture1.pdf</span
 <li>Go to <code>Use print production</code> &gt; <code>Preflight</code> &gt; <code>Analyze and fix it</code> (default options).</li>
 <li>Apply the necessary font correction.</li>
 </ol>
+</section>
+</section>
+<section id="ai-can-easily-create-a-website-why-should-i-use-this-template" class="level2">
+<h2 class="anchored" data-anchor-id="ai-can-easily-create-a-website-why-should-i-use-this-template">AI can easily create a website, why should I use this template?</h2>
+<p>It is about the control and customization. You can use AI to help you create your website, but you may want to have the full control and customization. With Quarto and this template, you can easily customize your website to your own needs, and you can easily update your website to keep it up to date.</p>
 <!--
 Note: you will see two Google AdSense in this page, it is a test for me to learn how AdSense works, please ignore them.
 -->
@@ -1599,7 +1604,6 @@ https://quarto.org/docs/authoring/includes.html
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
-</section>
 </section>
 
  ]]></description>
@@ -1642,7 +1646,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <section id="寻找机会" class="level2">
 <h2 class="anchored" data-anchor-id="寻找机会">寻找机会</h2>
 <p>我主攻三类职位信息，首选教职，也考虑国际组织、智库研究职位，博士后的机会。</p>
-<p>有关教职机会的信息非常分散，而且不定期，简单说就是不知道什么时候在哪里会有相应的消息。所以就要广撒网，但是人的时间和精力总是有限的，所以我主要借助RSS来帮我搜罗，而我只要每天浏览一下标题就可以了。这个是我搜集的<a href="https://www.ganghe.net/misc/energy-environmental-geography-jobs-rss">环境、能源、地理、公共政策类的RSS</a>，主要是Academicjobsonline，HigherEducation，Chroniclevitae等，你可以直接导入Feedly Reader用。有的网站和学校不提供RSS订阅，那就只好不定期过去逛逛了，尤其是一些重点关注的学校，一些特别想去的机构等等。</p>
+<p>有关教职机会的信息非常分散，而且不定期，简单说就是不知道什么时候在哪里会有相应的消息。所以就要广撒网，但是人的时间和精力总是有限的，所以我主要借助RSS来帮我搜罗，而我只要每天浏览一下标题就可以了。这个是我搜集的<a href="../notes/energy-environment-sustainability-jobs-rss.html">环境、能源、地理、公共政策类的RSS</a>，主要是Academicjobsonline，HigherEducation，Chroniclevitae等，你可以直接导入Feedly Reader用。有的网站和学校不提供RSS订阅，那就只好不定期过去逛逛了，尤其是一些重点关注的学校，一些特别想去的机构等等。</p>
 <p>可能是历史原因，美国大学的BBS并不常用，或基本没有，而是高度依赖邮件列表，但是邮件信息轰炸，这时候就得靠Gmail的过滤功能。环境类推荐订阅aess@listserv.ursinus.edu，resecon@lsv.uky.edu，eejobs@smartsite.ucdavis.edu，还有Climate-L，Energy-L等IISD的邮件列表。一般院系也会有类似的邮件列表，而且经常会有重复发送的。这就是为什么Gmail的超强过滤和标签功能可以起到事半功倍的作用了，因为只要每天到已删除邮箱看一眼标题就可以了。我建了一个能源、环境和可持续发展学术工作信息谷歌论坛，我不定期的把我收到的不错的学术工作信息转到这个论坛上，欢迎加入，也可邮件订阅。</p>
 <p>博士后的信息比较多，不过为职业发展计，我只考虑了不是做项目，而是提供Fellowship的项目。一般是好学校为了吸引优秀博士生，把博士论文最精华的部分在一年或者两年内转化为文章和创造继续深入的平台设置的项目。这类项目的好处就是给你充分的自由做你想做的研究，而不是根据项目需要招工作人员。这里推荐哈佛的Environmental Fellow及HKS的SSP项目，普林斯顿的STEP项目，密歇根大学的Sustainability项目，LBL的Rosenfeld Fellow等。我总结了一个博士后研究项目的清单，欢迎大家帮我补充。</p>
 </section>
@@ -1716,6 +1720,441 @@ https://quarto.org/docs/authoring/includes.html
   <category>experience</category>
   <guid>https://drganghe.github.io/notes/faculty-job-search-experience-in-the-us-cn.html</guid>
   <pubDate>Sun, 01 Mar 2015 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Energy, Environment, and Sustainability Jobs RSS</title>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/notes/energy-environment-sustainability-jobs-rss.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
+<p>Academic job information is disperse, and RSS can help to locate openings comparatively easier. The following are a few sources that I track when applying. You can copy the following code to a text file and save it as xml file, or directly download <a href="../files/tools/energy-environment-sustainability-jobs-rss.xml">here</a>. Then import to Feedly or other RSS readers to track opportunities in one single click.</p>
+<p>A few mailing lists that I follow:</p>
+<ul>
+<li><p><a href="https://aessonline.org/ess-forum/">AESS Listserv</a> - Association for Environmental Studies and Sciences</p></li>
+<li><p><a href="https://www.aere.org/resecon">ResEcon</a> - Land &amp; Resource Economics Network</p></li>
+<li><p><a href="https://www.aeesp.org/jobs">AEESP</a> - Association of Environmental Engineering and Science Professors</p></li>
+<li><p><a href="http://energy-l.iisd.org/about-the-energy-l-mailing-list/">Energy-L</a> - IISD Energy</p></li>
+<li><p><a href="http://climate-l.iisd.org/about-the-climate-l-mailing-list/">Climate-L</a> - IISD Climate</p></li>
+</ul>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode xml code-with-copy"><code class="sourceCode xml"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">&lt;?xml</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">version=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"1.0"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">encoding=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"UTF-8"</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">?&gt;</span></span>
+<span id="cb1-2"></span>
+<span id="cb1-3">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">opml</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">version=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"1.0"</span>&gt;</span>
+<span id="cb1-4"></span>
+<span id="cb1-5">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">head</span>&gt;</span>
+<span id="cb1-6"></span>
+<span id="cb1-7">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">title</span>&gt;Energy, Environmental, and Geography Job RSS&lt;/<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">title</span>&gt;</span>
+<span id="cb1-8"></span>
+<span id="cb1-9">&lt;/<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">head</span>&gt;</span>
+<span id="cb1-10"></span>
+<span id="cb1-11">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">body</span>&gt;</span>
+<span id="cb1-12"></span>
+<span id="cb1-13">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Career"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Career"</span>&gt;</span>
+<span id="cb1-14"></span>
+<span id="cb1-15">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Geography"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Geography"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=103"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=103"</span> /&gt;</span>
+<span id="cb1-16"></span>
+<span id="cb1-17">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Harvard University Faculty: All Jobs"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Harvard University Faculty: All Jobs"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"https://academicpositions.harvard.edu/all_jobs.atom"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://academicpositions.harvard.edu"</span> /&gt;</span>
+<span id="cb1-18"></span>
+<span id="cb1-19">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Academicjobsonline.org Job Listing"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Academicjobsonline.org Job Listing"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"https://academicjobsonline.org/ajo?joblist-0-0-0-----rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"https://academicjobsonline.org/ajo"</span> /&gt;</span>
+<span id="cb1-20"></span>
+<span id="cb1-21">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Geology, Earth Sciences </span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&amp;amp;</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;"> Oceanography"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Geology, Earth Sciences </span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&amp;amp;</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;"> Oceanography"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=170"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=170"</span> /&gt;</span>
+<span id="cb1-22"></span>
+<span id="cb1-23">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Urban Studies and Planning"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Urban Studies and Planning"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=202"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=202"</span> /&gt;</span>
+<span id="cb1-24"></span>
+<span id="cb1-25">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Civil and Environmental Engineering"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Civil and Environmental Engineering"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=115"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=115"</span> /&gt;</span>
+<span id="cb1-26"></span>
+<span id="cb1-27">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Environmental Science, Ecology </span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&amp;amp;</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;"> Forestry"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Environmental Science, Ecology </span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&amp;amp;</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;"> Forestry"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=54"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=54"</span> /&gt;</span>
+<span id="cb1-28"></span>
+<span id="cb1-29">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Agricultural Economics </span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&amp;amp;</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;"> Agribusiness"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"HigherEdJobs - Agricultural Economics </span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&amp;amp;</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;"> Agribusiness"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/rss/categoryFeed.cfm?catID=50"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.higheredjobs.com/search/advanced_action.cfm?JobCat=50"</span> /&gt;</span>
+<span id="cb1-30"></span>
+<span id="cb1-31">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Geography Jobs.com - Geography Jobs First - In the US"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Geography Jobs.com - Geography Jobs First - In the US"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://feeds.feedburner.com/geographyjobs-Academia_and_Education-USA"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.geographyjobs.com/Academia_and_Education.html"</span> /&gt;</span>
+<span id="cb1-32"></span>
+<span id="cb1-33">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Geography Jobs.com - Geography Jobs First - In the US"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Geography Jobs.com - Geography Jobs First - In the US"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://feeds.feedburner.com/geographyjobs-Environmental-USA"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://www.geographyjobs.com/Environmental.html"</span> /&gt;</span>
+<span id="cb1-34"></span>
+<span id="cb1-35">&lt;<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">text=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Berkeley Lab - Custom Job List"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">title=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Berkeley Lab - Custom Job List"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">type=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"rss"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">xmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"https://lbl.taleo.net/careersection/feed/joblist.rss?lang=en</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&amp;amp;</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">portal=101430233</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&amp;amp;</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">searchtype=1</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&amp;amp;</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">location=260471996"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">htmlUrl=</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"http://lbl.taleo.net/careersection/2/jobsearch.ftl?lang=en</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">&amp;amp;</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">location=260471996"</span> /&gt;</span>
+<span id="cb1-36"></span>
+<span id="cb1-37">&lt;/<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">outline</span>&gt;</span>
+<span id="cb1-38"></span>
+<span id="cb1-39">&lt;/<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">body</span>&gt;</span>
+<span id="cb1-40"></span>
+<span id="cb1-41">&lt;/<span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">opml</span>&gt;</span></code></pre></div></div>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>tool</category>
+  <guid>https://drganghe.github.io/notes/energy-environment-sustainability-jobs-rss.html</guid>
+  <pubDate>Mon, 15 Sep 2014 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>AMPL Notepad++ UDL Syntax</title>

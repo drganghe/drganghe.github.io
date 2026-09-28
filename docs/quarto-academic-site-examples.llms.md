@@ -198,3 +198,7 @@ Use Adobe Acrobat tools to fix it:
 1.  Open the PDF in Adobe Acrobat.
 2.  Go to `Use print production` \> `Preflight` \> `Analyze and fix it` (default options).
 3.  Apply the necessary font correction.
+
+## AI can easily create a website, why should I use this template?
+
+It is about the control and customization. You can use AI to help you create your website, but you may want to have the full control and customization. With Quarto and this template, you can easily customize your website to your own needs, and you can easily update your website to keep it up to date.
