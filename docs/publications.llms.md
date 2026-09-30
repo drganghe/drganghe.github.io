@@ -229,7 +229,7 @@ Toward Low-Carbon 3D Concrete Printing through Circular Construction and Waste V
 
 Mu, Xiaoshao, Xiaoling Zhang\*, **Gang He**, and K. M. Liew\*. 2026. [Toward Low-Carbon 3D Concrete Printing through Circular Construction and Waste Valorization](https://www.sciencedirect.com/science/article/abs/pii/S2352710226001294). *Journal of Building Engineering* 119: 115308. doi: [10.1016/j.jobe.2026.115308](https://doi.org/10.1016/j.jobe.2026.115308).
 
-[ PDF](https://drganghe.github.io/files/papers/2026-BuildingEngineering-Toward-low-carbon-3D-concrete-printing-through-circular-construction-and-waste-valorization.pdf)
+[ PDF](https://drganghe.github.io/files/papers/2026-BuildingEngineering-Toward-low-carbon-3D-concrete-printing.pdf)
 
 ------------------------------------------------------------------------
 
@@ -653,7 +653,7 @@ Toward Low-Carbon 3D Concrete Printing through Circular Construction and Waste V
 
 Mu, Xiaoshao, Xiaoling Zhang\*, **Gang He**, and K. M. Liew\*. 2026. [Toward Low-Carbon 3D Concrete Printing through Circular Construction and Waste Valorization](https://www.sciencedirect.com/science/article/abs/pii/S2352710226001294). *Journal of Building Engineering* 119: 115308. doi: [10.1016/j.jobe.2026.115308](https://doi.org/10.1016/j.jobe.2026.115308).
 
-[ PDF](https://drganghe.github.io/files/papers/2026-BuildingEngineering-Toward-low-carbon-3D-concrete-printing-through-circular-construction-and-waste-valorization.pdf)
+[ PDF](https://drganghe.github.io/files/papers/2026-BuildingEngineering-Toward-low-carbon-3D-concrete-printing.pdf)
 
 ------------------------------------------------------------------------
 

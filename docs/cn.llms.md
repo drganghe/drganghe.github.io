@@ -42,7 +42,7 @@ Email: gang.he@baruch.cuny.edu
 
 ## 英中译著译作
 
-Kraybill, R.S., Evans, R.A., Evans, A.F. 著, 魏可钦, 何钢, 译. [冲突调解的技巧: 调解人手册](http://product.dangdang.com/22525092.html). 南京大学出版社. 2011.
+Kraybill, R.S., Evans, R.A., Evans, A.F. 著, 魏可钦, 何钢, 译. [冲突调解的技巧: 调解人手册](http://www.njupco.com/ubook/index.php?action=detail&bid=2689). 南京大学出版社. 2011.
 
 Hayes, D. 著, 魏可钦, 何钢, 译. [制定一个大胆的计划](cn/charting-a-bold-course-cn.llms.md). 世界环境. 2009(1), 27.
 
@@ -52,7 +52,7 @@ Asia Society, 编. 宋嘉, 赵云峰, 何钢, 译. [共同挑战，协作应对�
 
 Speth, J.G.著, 何钢 译. [问题的核心](cn/the-heart-of-the-matter-cn.llms.md). 世界环境. 2006.
 
-UNFCCC CoP 11 Youth Delegation, 著. 何钢, 译. [我们的气候, 我们的挑战, 我们的未来——2005 年蒙特利尔国际青年宣言](cn/our-climate-our-challenge-our-future-cn.llms.md). 世界环境. 2005:6, 29. 
+UNFCCC CoP 11 Youth Delegation, 著. 何钢, 译. [我们的气候, 我们的挑战, 我们的未来——2005年蒙特利尔国际青年宣言](cn/our-climate-our-challenge-our-future-cn.llms.md). 世界环境. 2005:6, 29. 
 
 何钢 译. 地方知识体系. 见: Bruce Mitchell, 著. 蔡运龙, 等, 译. [资源与环境管理](http://www.cp.com.cn/book/7-100-03916-9_82.html). 商务印书馆, 2004.
 
