@@ -6,7 +6,7 @@ I teach energy systems, energy and climate policy, energy innovations, and metho
 
 [![](./files/images/hex-Energy-Climate-Policy.png)](https://drganghe.github.io/energy-climate-policy/)
 
-[Spring 2027](https://drganghe.github.io/energy-climate-policy/2027/schedule.html) \| [Fall 2025](https://drganghe.github.io/energy-climate-policy/2025/schedule.html) \| [Fall 2024](https://drganghe.github.io/energy-climate-policy/2024/schedule.html) \| [Fall 2023](https://drganghe.github.io/energy-climate-policy/2023/schedule.html)
+[Fall 2025](https://drganghe.github.io/energy-climate-policy/2025/schedule.html) \| [Fall 2024](https://drganghe.github.io/energy-climate-policy/2024/schedule.html) \| [Fall 2023](https://drganghe.github.io/energy-climate-policy/2023/schedule.html)
 
 The urgent challenge of climate change demands innovative solutions and comprehensive policy frameworks. This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change. We aim to provide students with a nuanced understanding of the energy transition landscape and prepare them to make a meaningful impact in shaping the policy frameworks that will drive the transition toward a sustainable future.
 
