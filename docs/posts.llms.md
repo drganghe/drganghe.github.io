@@ -2,6 +2,16 @@
 
 Posts on papers, events, news, and more
 
+[![](./files/images/baruch-college.webp)](posts/2026-10-serving-as-provost-faculty-fellow-for-grant-development/index.llms.md)
+
+### [Serving as Provost Faculty Fellow for Grant Development](posts/2026-10-serving-as-provost-faculty-fellow-for-grant-development/index.llms.md)
+
+Gang is appointed as Provost Faculty Fellow 2026–2027 for Grant Development at Baruch College.
+
+Oct 5, 2026
+
+Baruch College
+
 [![](https://deeppolicylab.github.io/events/2026-09-23-nyc-climate-week-clean-energy-supply-chains-in-the-era-of-industrial-policy-panel/featured.jpg)](https://deeppolicylab.github.io/events/2026-09-23-nyc-climate-week-clean-energy-supply-chains-in-the-era-of-industrial-policy-panel/index.html)
 
 ### [Climate Week NYC 2026: Clean Energy Supply Chains in the Era of Industrial Policy](https://deeppolicylab.github.io/events/2026-09-23-nyc-climate-week-clean-energy-supply-chains-in-the-era-of-industrial-policy-panel/index.html)

@@ -22,6 +22,12 @@ Email: gang.he@baruch.cuny.edu
 
 Recent Posts
 
+![](./files/images/baruch-college.webp)
+
+##### Serving as Provost Faculty Fellow for Grant Development
+
+Oct 5, 2026
+
 ![](https://deeppolicylab.github.io/events/2026-09-23-nyc-climate-week-clean-energy-supply-chains-in-the-era-of-industrial-policy-panel/featured.jpg)
 
 ##### Climate Week NYC 2026: Clean Energy Supply Chains in the Era of Industrial Policy
@@ -33,12 +39,6 @@ Sep 23, 2026
 ##### Receiving the Sandi Cooper Award for Outstanding Research for Associate Professors
 
 May 21, 2026
-
-![](./posts/2026-04-15-fourth-baruch-climate-conference/featured.webp)
-
-##### Fourth Annual Conference on Climate Research, Teaching, and Collaboration
-
-Apr 15, 2026
 
 [More posts](posts.llms.md)
 
