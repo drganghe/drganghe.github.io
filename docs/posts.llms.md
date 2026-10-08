@@ -2,6 +2,16 @@
 
 Posts on papers, events, news, and more
 
+[![](./files/awards/Top2Percent.png)](posts/stanford-elsevier-top-2percent-scientists/index.llms.md)
+
+### [Included in World’s Top 2% Scientists List 2024–2026](posts/stanford-elsevier-top-2percent-scientists/index.llms.md)
+
+Thank you for supporting our work!
+
+Oct 7, 2026
+
+Stanford/Elsevier
+
 [![](./files/images/baruch-college.webp)](posts/2026-10-serving-as-provost-faculty-fellow-for-grant-development/index.llms.md)
 
 ### [Serving as Provost Faculty Fellow for Grant Development](posts/2026-10-serving-as-provost-faculty-fellow-for-grant-development/index.llms.md)
@@ -149,16 +159,6 @@ Gang serves as a reviewer for the Production Gap Report 2025
 Sep 22, 2025
 
 SEI, Climate Analytics, IISD
-
-[![](./files/awards/Top2Percent.png)](posts/stanford-elsevier-top-2percent-scientists/index.llms.md)
-
-### [Included in World’s Top 2% Scientists List 2025](posts/stanford-elsevier-top-2percent-scientists/index.llms.md)
-
-Thank you for supporting our work!
-
-Sep 19, 2025
-
-Stanford/Elsevier
 
 [![](./files/images/pip-fellow-2025.png)](https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/)
 

@@ -72,17 +72,17 @@ Jan 20, 2026
 
 Featured Posts
 
+![](./files/awards/Top2Percent.png)
+
+##### Included in World’s Top 2% Scientists List 2024–2026
+
+Oct 7, 2026
+
 ![](https://deeppolicylab.github.io/files/images/funders/sloan-logo.png)
 
 ##### New Grant to Study the Drivers and Impacts of Domestic Clean Energy Manufacturing
 
 Dec 17, 2025
-
-![](./files/awards/Top2Percent.png)
-
-##### Included in World’s Top 2% Scientists List 2025
-
-Sep 19, 2025
 
 ![](./files/images/pip-fellow-2025.png)
 
