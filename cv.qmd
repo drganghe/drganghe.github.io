@@ -1,0 +1,30 @@
+---
+title: "CV"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+css: bio.css
+format:
+  html:
+    include-in-header:
+      - file: files/includes/_mswebmaster.js
+      - text: |
+          <style>
+          .quarto-title-block { display: none; }
+          </style>
+
+---
+
+<link rel="me" href="https://mastodon.social/@hegang">
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+
+```{=html}
+<object data="files/Gang-He-CV.pdf" type="application/pdf" width="100%" height="800px">
+    <p>Your browser does not support PDFs. 
+    <a href="files/Gang-He-CV.pdf">Download the PDF</a> instead.</p>
+</object>
+```

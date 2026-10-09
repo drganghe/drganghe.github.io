@@ -28,6 +28,8 @@ website:
 #        href: index.qmd
       - text: About
         menu:
+          - text: CV
+            href: cv.qmd
           - text: Bio
             href: bio.qmd
           - text: Now
@@ -38,6 +40,7 @@ website:
             href: posts.qmd#category=event     
           - text: Contact
             href: contact.qmd             
+
       - text: Research
         menu:
           - text: List of Publications
@@ -45,56 +48,72 @@ website:
           - text: Selected Papers
             href: posts.qmd#category=paper
           - text: Commentary
-            href: posts.qmd#category=commentary
-          - text: Recognition
-            href: posts.qmd#category=recognition  
+            href: posts.qmd#category=commentary 
           - text: Grants
             href: https://deeppolicylab.github.io/projects.html
             target: _blank                                  
+
+      - text: Impact
+        menu:
+          - text: Policy Citations
+            href: notable-policy-citations.qmd  
+          - text: Recognition
+            href: posts.qmd#category=recognition  
+          - text: Media
+            href: media.qmd  
+
       - text: Teaching
         href: teaching.qmd
+
       - text: Outreach
         menu:
         - text: Policy Engagement
-          href: posts.qmd#category=outreach 
-        - text: Policy Citations
-          href: notable-policy-citations.qmd          
+          href: posts.qmd#category=outreach         
         - text: Presentations
           href: posts.qmd#category=presentation       
         - text: Testimony
           href: posts.qmd#category=testimony
-        - text: Media
-          href: media.qmd        
+
+      - text: Resources
+        menu:      
+        - text: SWITCH-China
+          href: https://github.com/switch-model/switch-china-open-model
+          target: _blank
         - text: Notes
-          href: notes.qmd          
-      - text: DEEP Policy Lab
+          href: notes.qmd 
+        - text: Tools
+          href: notes.qmd#category=tool 
+
+      - text: "**Lab**"
         href: https://deeppolicylab.github.io/
         target: _blank
+
+    right: 
       - text: 中文
         href: cn.qmd
 
-    right: 
-      - text: "**CV**"
-        href: files/Gang-He-CV.pdf
-        target: _blank 
-      - icon: github
-        href: https://github.com/drganghe
-        target: _blank
-      - text: "{{< fa brands linkedin >}}"
-        href: https://linkedin.com/in/hegang
-        target: _blank        
-      - text: "{{< fa brands youtube >}}"
-        href: https://www.youtube.com/@DrGangHe
-        target: _blank         
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app/profile/hegang.bsky.social
-        target: _blank
+
+      # - text: "**CV**"
+      #   href: files/Gang-He-CV.pdf
+      #   target: _blank 
+      # - icon: github
+      #   href: https://github.com/drganghe
+      #   target: _blank
+      # - text: "{{< fa brands linkedin >}}"
+      #   href: https://linkedin.com/in/hegang
+      #   target: _blank        
+      # - text: "{{< fa brands youtube >}}"
+      #   href: https://www.youtube.com/@DrGangHe
+      #   target: _blank         
+      # - text: "{{< fa brands bluesky >}}"
+      #   href: https://bsky.app/profile/hegang.bsky.social
+      #   target: _blank
 #      - icon: twitter-x 
 #        href: https://twitter.com/DrGangHe
 #        target: _blank        
-      - icon: rss
-        href: posts.xml
-        target: _blank
+      # - icon: rss
+      #   href: posts.xml
+      #   target: _blank
   
   page-navigation: true
   

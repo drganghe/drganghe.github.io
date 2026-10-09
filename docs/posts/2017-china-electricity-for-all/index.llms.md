@@ -47,9 +47,9 @@ Source: [PlumX](https://plu.mx/plum/a/policy_citation?doi=10.1016/j.resconrec.20
 
 ## Video
 
-# Se produjo un error.
+# An error occurred.
 
-No se puede ejecutar JavaScript.
+Unable to execute JavaScript.
 
 ## Citation
 

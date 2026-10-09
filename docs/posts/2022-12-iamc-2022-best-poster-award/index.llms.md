@@ -32,9 +32,9 @@ During the Fifteenth IAMC Annual Meeting held from 29 November to 1 December 202
 
 ## Video
 
-# Se produjo un error.
+# An error occurred.
 
-No se puede ejecutar JavaScript.
+Unable to execute JavaScript.
 
 **Transcript**:
 

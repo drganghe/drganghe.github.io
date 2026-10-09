@@ -18,7 +18,7 @@ Email: gang.he@baruch.cuny.edu
 
 [Full Bio](bio.llms.md)
 
-[](https://deeppolicylab.github.io) [](https://www.baruch.cuny.edu/profiles/faculty/Gang-He) [](https://scholar.google.com/citations?user=vf90AuEAAAAJ) [](https://www.researchgate.net/profile/Gang-He-19) [](https://orcid.org/0000-0002-8416-1965) [](https://www.webofscience.com/wos/author/record/N-4549-2013) [](https://www.scopus.com/authid/detail.uri?authorId=55607981900) [](https://www.semanticscholar.org/author/Gang-He/49430802)
+[](https://deeppolicylab.github.io) [](https://www.baruch.cuny.edu/profiles/faculty/Gang-He) [](https://scholar.google.com/citations?user=vf90AuEAAAAJ) [](https://www.researchgate.net/profile/Gang-He-19) [](https://orcid.org/0000-0002-8416-1965) [](https://www.webofscience.com/wos/author/record/N-4549-2013) [](https://www.scopus.com/authid/detail.uri?authorId=55607981900) [](https://www.semanticscholar.org/author/Gang-He/49430802) [](https://linkedin.com/in/hegang) [](https://github.com/drganghe) [](https://www.youtube.com/@DrGangHe) [](https://bsky.app/profile/hegang.bsky.social)
 
 Recent Posts
 

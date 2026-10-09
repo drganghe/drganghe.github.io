@@ -93,7 +93,7 @@ Source: The New York Times, October 23, 2025, How China Raced Ahead of the U.S. 
 
 [Gang He](https://www.linkedin.com/in/hegang?trk=public_post_embed_feed-actor-name)
 
-Energy and Climate Scholar, Researcher, and Teacher; Associate Professor, CUNY Baruch College / Graduate Center; Director, Deep Energy and Climate Policy Lab
+Energy and Climate Scholar, Researcher, and Teacher; Associate Professor, CUNY Baruch College; Director, DEEP Energy and Climate Policy Lab
 
 1y Edited
 

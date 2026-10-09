@@ -30,9 +30,9 @@ China’s power sector in 2022 accounted for about 1/4 of global coal consumptio
 
 ## Video
 
-# Se produjo un error.
+# An error occurred.
 
-No se puede ejecutar JavaScript.
+Unable to execute JavaScript.
 
 ## Slides
 
