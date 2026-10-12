@@ -251,98 +251,179 @@ font-size: 12px;
 }
 
 
+
 /* =====================================================
-   C. FEATURED RESEARCH FINDINGS
-   ===================================================== */
+FEATURED RESEARCH FINDINGS
+===================================================== */
+
+/* Three-column grid */
 
 .findings-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 22px;
-  margin: 20px 0 35px 0;
+  width: 100%;
+  margin: 20px 0 35px;
+  align-items: stretch;
 }
 
-.finding-card {
-  background: #ffffff;
+/* Entire card is clickable */
 
+.finding-card {
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
   border: 1px solid #e0e6ed;
   border-top: 4px solid #05336B;
   border-radius: 12px;
-
   padding: 25px;
-
-  display: flex;
-  flex-direction: column;
-
+  min-width: 0;
+  text-decoration: none !important;
+  color: inherit !important;
+  cursor: pointer;
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
-
   transition:
     transform 0.2s ease,
     box-shadow 0.2s ease;
 }
+
+/* Remove default hyperlink styling */
+
+.finding-card:link,
+.finding-card:visited,
+.finding-card:hover,
+.finding-card:active {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+/* Hover effects */
 
 .finding-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 22px rgba(5, 51, 107, 0.12);
 }
 
+.finding-card:hover h3 {
+  color: #1765a5;
+}
+
+/* Research category */
+
 .finding-category {
   font-size: 0.78rem;
   font-weight: 700;
   color: #49749a;
-
   text-transform: uppercase;
   letter-spacing: 0.6px;
-
+  line-height: 1.5;
   margin-bottom: 12px;
 }
+
+/* Highlighted research finding */
 
 .finding-number {
   font-size: 2rem;
   font-weight: 800;
   color: #05336B;
-
+  line-height: 1.2;
   margin-bottom: 12px;
 }
+
+/* Research title */
 
 .finding-card h3 {
   font-size: 1.15rem;
   font-weight: 700;
   color: #25364a;
-
+  line-height: 1.4;
   margin-top: 0;
   margin-bottom: 15px;
-  line-height: 1.4;
+  transition: color 0.2s ease;
 }
+
+/* Research description */
 
 .finding-card p {
   font-size: 0.94rem;
+  font-weight: 400;
   line-height: 1.7;
   color: #4c5968;
-
+  margin-top: 0;
   margin-bottom: 20px;
-
   flex-grow: 1;
 }
+
+/* Journal and publication year */
 
 .finding-source {
   font-size: 0.82rem;
   color: #7a8795;
-
-  margin-bottom: 12px;
+  line-height: 1.5;
+  margin-top: auto;
+  margin-bottom: 0;
 }
 
-.finding-link {
-  font-size: 0.9rem;
-  font-weight: 700;
-  color: #05336B;
-
-  text-decoration: none;
+.finding-source i,
+.finding-source em {
+  font-style: italic;
 }
 
-.finding-link:hover {
-  color: #1765a5;
-  text-decoration: underline;
+/* Keyboard accessibility */
+
+.finding-card:focus-visible {
+  outline: 3px solid #1765a5;
+  outline-offset: 3px;
+}
+
+/* Remove all hyperlink underlines from Featured Research cards */
+
+a.finding-card,
+a.finding-card:link,
+a.finding-card:visited,
+a.finding-card:hover,
+a.finding-card:active,
+a.finding-card:focus,
+a.finding-card *,
+a.finding-card:hover * {
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+  border-bottom: none !important;
+}
+
+/* Preserve text colors */
+
+a.finding-card .finding-category {
+  color: #49749a !important;
+}
+
+a.finding-card .finding-number {
+  color: #05336B !important;
+}
+
+a.finding-card h3 {
+  color: #25364a !important;
+}
+
+a.finding-card p {
+  color: #4c5968 !important;
+}
+
+a.finding-card .finding-source {
+  color: #7a8795 !important;
+}
+
+/* Optional: Highlight title on hover */
+
+a.finding-card:hover h3 {
+  color: #1765a5 !important;
+}
+
+/* Keep visible keyboard focus */
+
+a.finding-card:focus-visible {
+  outline: 3px solid #1765a5;
+  outline-offset: 3px;
 }
 
 

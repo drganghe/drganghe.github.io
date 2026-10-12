@@ -40,11 +40,21 @@ City University of New York \
 Email: gang.he@baruch.cuny.edu
 </p>
 
+::: {.grid}
 
+::: {.g-col-12 .g-col-md-6}
+::: {.button}
+[Headshots](profile-photos.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
 ::: {.button}
 [CV](cv.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
 :::
+:::
 
+:::
 
 ::: {.hero-links}
 [{{< fa sun >}} DEEP Policy Lab](https://deeppolicylab.github.io){.external target="_blank"}

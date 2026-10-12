@@ -16,8 +16,6 @@ Baruch College and Graduate Center
 City University of New York  
 Email: gang.he@baruch.cuny.edu
 
-[Headshots](profile-photos.llms.md)
-
 [Bio](bio.llms.md)
 
 [CV](cv.llms.md)
@@ -63,8 +61,6 @@ Globalized supply chains have saved solar installers in the U.S., Germany, and C
 
 *Nature* · 2022
 
-[Read the Research →](posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.llms.md)
-
 Climate and Public Health
 
 595 Avoided Deaths
@@ -75,19 +71,15 @@ Imported solar PVs contributed to 178 million tonnes of avoided CO₂ emissions 
 
 *One Earth* · 2025
 
-[Explore the Research →](posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.llms.md)
-
 Accelerating Energy Transitions
 
 11% Cheaper
 
-### Renewable pathway is cost-effective
+### Renewable Pathway Is Cost-Effective
 
 Rapid cost reductions in renewable energy and storage technologies reshaped the energy transition landscape, showing that a renewable-dominant pathway is both technologically sound and cost-effective.
 
 *Nature Communications* · 2020
-
-[Explore the Research →](posts/2020-05-ncomms-rapid-re-cost/index.llms.md)
 
 Recent Posts
 

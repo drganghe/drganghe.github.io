@@ -10,6 +10,8 @@ Baruch College
 City University of New York  
 Email: gang.he@baruch.cuny.edu
 
+[Headshots](profile-photos.llms.md)
+
 [CV](cv.llms.md)
 
 [ DEEP Policy Lab](https://deeppolicylab.github.io)
