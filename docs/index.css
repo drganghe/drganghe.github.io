@@ -165,3 +165,245 @@ font-size: 12px;
     overflow-x: hidden !important;
 }
 
+
+/* =====================================================
+   HOMEPAGE: RESEARCH ACHIEVEMENTS AND FINDINGS
+   ===================================================== */
+
+/* Section headings */
+
+.homepage-section-title {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  color: #05336B;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.homepage-section-subtitle {
+  text-align: center;
+  font-size: 1.05rem;
+  color: #555;
+  max-width: 750px;
+  margin: 0 auto 30px auto;
+  line-height: 1.6;
+}
+
+
+/* =====================================================
+   B. RESEARCH ACHIEVEMENTS
+   ===================================================== */
+
+.achievement-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  margin: 20px 0 35px 0;
+}
+
+.achievement-card {
+  background: #ffffff;
+  border: 1px solid #e0e6ed;
+  border-radius: 12px;
+
+  padding: 25px 15px;
+
+  text-align: center;
+  text-decoration: none !important;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.achievement-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 22px rgba(5, 51, 107, 0.12);
+}
+
+.achievement-number {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #05336B;
+  line-height: 1.2;
+  margin-bottom: 12px;
+}
+
+.achievement-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #25364a;
+  margin-bottom: 8px;
+}
+
+.achievement-detail {
+  font-size: 0.82rem;
+  color: #66788a;
+  line-height: 1.5;
+}
+
+
+/* =====================================================
+   C. FEATURED RESEARCH FINDINGS
+   ===================================================== */
+
+.findings-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  margin: 20px 0 35px 0;
+}
+
+.finding-card {
+  background: #ffffff;
+
+  border: 1px solid #e0e6ed;
+  border-top: 4px solid #05336B;
+  border-radius: 12px;
+
+  padding: 25px;
+
+  display: flex;
+  flex-direction: column;
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.finding-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 22px rgba(5, 51, 107, 0.12);
+}
+
+.finding-category {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #49749a;
+
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+
+  margin-bottom: 12px;
+}
+
+.finding-number {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #05336B;
+
+  margin-bottom: 12px;
+}
+
+.finding-card h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #25364a;
+
+  margin-top: 0;
+  margin-bottom: 15px;
+  line-height: 1.4;
+}
+
+.finding-card p {
+  font-size: 0.94rem;
+  line-height: 1.7;
+  color: #4c5968;
+
+  margin-bottom: 20px;
+
+  flex-grow: 1;
+}
+
+.finding-source {
+  font-size: 0.82rem;
+  color: #7a8795;
+
+  margin-bottom: 12px;
+}
+
+.finding-link {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #05336B;
+
+  text-decoration: none;
+}
+
+.finding-link:hover {
+  color: #1765a5;
+  text-decoration: underline;
+}
+
+
+/* =====================================================
+   RESPONSIVE DESIGN
+   ===================================================== */
+
+/* Tablets */
+
+@media (max-width: 992px) {
+
+  .achievement-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .findings-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+
+  .achievement-grid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+
+  .findings-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .achievement-card {
+    padding: 22px 15px;
+  }
+
+  .finding-card {
+    padding: 22px;
+  }
+
+  .achievement-number,
+  .finding-number {
+    font-size: 1.8rem;
+  }
+
+  .homepage-section-title {
+    font-size: 26px;
+  }
+
+}
+
+/* Accessibility */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .achievement-card,
+  .finding-card {
+    transition: none;
+  }
+
+}

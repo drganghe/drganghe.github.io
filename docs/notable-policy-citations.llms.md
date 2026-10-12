@@ -2,11 +2,11 @@
 
 Selected policy reports and documents that cite our work
 
-86 policy mentions
+95 policy citations
 
-54 leading policy institutions
+61 leading policy institutions
 
-19 countries and IGOs
+21 countries and IGOs
 
 [![](files/images/policy-citations-map-2026.png)](https://deeppolicylab.github.io/policy-citations/)
 

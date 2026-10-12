@@ -55,6 +55,14 @@ Release [summary](https://deeppolicylab.github.io/news/2025-10-08-one-earth-impo
 
 [![Credit: Jason M. Epstein and Marxe Communications team](Infographic.jpg)](https://marxe.baruch.cuny.edu/wp-content/uploads/sites/7/2025/11/Infographic-Gang.jpg)
 
+
+## Video
+
+{{< video /files/videos/imported-solar-benefits-united-states.mp4 >}}
+
+Credit: Jason M. Epstein and Marxe Communications team
+
+
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}

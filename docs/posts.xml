@@ -33,13 +33,35 @@
 <li>Environmental Sciences</li>
 </ul></li>
 </ul>
-<p>I was first included in the list in <a href="../../files/awards/top2scientists.png">2024</a>, and this marks my third consecutive year of inclusion. This year, I’m also included in the <a href="../../files/awards/he-gang-topscinet-career-long-2026.png">Career Long</a> list for the first time.</p>
+<p>I was first included in the list in <a href="../../files/awards/top2scientists.png">2024</a>, and this marks my third consecutive year of inclusion. This year, I’m also included in the Career Long list for the first time.</p>
 <p>Research is never an individual endeavor. I’m deeply grateful to my family, current and former students, visiting scholars, mentors, collaborators, funders, editors, reviewers, and colleagues. Thank you for your support.</p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://topscinet.com/scientist_profile/He,%20Gang/2004/?stype=single_year"><img src="https://drganghe.github.io/files/awards/he-gang-topscinet-single-year-2026.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+<p><img src="https://drganghe.github.io/files/awards/he-gang-topscinet-single-year-2026.png" class="img-fluid figure-img"></p>
+<figcaption>Single Year</figcaption>
 </figure>
 </div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/files/awards/he-gang-topscinet-career-long-2026.png" class="img-fluid figure-img"></p>
+<figcaption>Career Long</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<!--
+::: {layout-ncol=2}
+[![Single Year](/files/awards/he-gang-topscinet-single-year-2026.png)](https://topscinet.com/scientist_profile/He,%20Gang/2004/?stype=single_year)
+
+[![Career Long](/files/awards/he-gang-topscinet-career-long-2026.png)](https://topscinet.com/scientist_profile/He,%20Gang/2004/?stype=career_data)
+:::
+-->
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p>Baruch News, 2024, <a href="https://newscenter.baruch.cuny.edu/news/baruch-college-faculty-included-in-worlds-top-scientist-list/" class="external" target="_blank">Baruch College Faculty Included in World’s Top Scientist List</a></p>
@@ -960,7 +982,7 @@ Note: Click the image to see the full view
 <h2 class="anchored" data-anchor-id="相关文章">相关文章</h2>
 <div id="listing-related-posts" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXIlMkNpbmZvZ3JhcGhpYw==" data-listing-date-sort="1759896000000" data-listing-file-modified-sort="1778580774090" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="243">
+<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXIlMkNpbmZvZ3JhcGhpYw==" data-listing-date-sort="1759896000000" data-listing-file-modified-sort="1791650409666" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="254">
 <div class="thumbnail"><a href="../../posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" class="thumbnail-image">
@@ -1125,6 +1147,11 @@ DOI: <a href="https://doi.org/10.1016/j.oneear.2025.101467">10.1016/j.oneear.202
 <figcaption>Credit: Jason M. Epstein and Marxe Communications team</figcaption>
 </figure>
 </div>
+</section>
+<section id="video" class="level2">
+<h2 class="anchored" data-anchor-id="video">Video</h2>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="../../files/videos/imported-solar-benefits-united-states.mp4"></video></div>
+<p>Credit: Jason M. Epstein and Marxe Communications team</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 

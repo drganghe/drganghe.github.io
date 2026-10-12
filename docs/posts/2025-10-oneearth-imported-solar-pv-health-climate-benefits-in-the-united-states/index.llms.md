@@ -55,6 +55,10 @@ Release [summary](https://deeppolicylab.github.io/news/2025-10-08-one-earth-impo
 
 Credit: Jason M. Epstein and Marxe Communications team
 
+## Video
+
+Credit: Jason M. Epstein and Marxe Communications team
+
 ## Citation
 
 BibTeX citation:

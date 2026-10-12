@@ -13,7 +13,6 @@ format:
           <style>
           .quarto-title-block { display: none; }
           </style>
-
 ---
 
 <link rel="me" href="https://mastodon.social/@hegang">

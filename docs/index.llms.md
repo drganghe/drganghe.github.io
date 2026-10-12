@@ -16,9 +16,78 @@ Baruch College and Graduate Center
 City University of New York  
 Email: gang.he@baruch.cuny.edu
 
-[Full Bio](bio.llms.md)
+[Headshots](profile-photos.llms.md)
 
-[](https://deeppolicylab.github.io) [](https://www.baruch.cuny.edu/profiles/faculty/Gang-He) [](https://scholar.google.com/citations?user=vf90AuEAAAAJ) [](https://www.researchgate.net/profile/Gang-He-19) [](https://orcid.org/0000-0002-8416-1965) [](https://www.webofscience.com/wos/author/record/N-4549-2013) [](https://www.scopus.com/authid/detail.uri?authorId=55607981900) [](https://www.semanticscholar.org/author/Gang-He/49430802) [](https://linkedin.com/in/hegang) [](https://github.com/drganghe) [](https://www.youtube.com/@DrGangHe) [](https://bsky.app/profile/hegang.bsky.social)
+[Bio](bio.llms.md)
+
+[CV](cv.llms.md)
+
+[](https://deeppolicylab.github.io) [](https://www.baruch.cuny.edu/profiles/faculty/Gang-He) [](https://scholar.google.com/citations?user=vf90AuEAAAAJ) [](https://www.researchgate.net/profile/Gang-He-19) [](https://orcid.org/0000-0002-8416-1965) [](https://www.webofscience.com/wos/author/record/N-4549-2013) [](https://www.scopus.com/authid/detail.uri?authorId=55607981900) [](https://www.semanticscholar.org/author/Gang-He/49430802)  
+[](https://linkedin.com/in/hegang) [](https://github.com/drganghe) [](https://www.youtube.com/@DrGangHe) [](https://bsky.app/profile/hegang.bsky.social)
+
+Impactful Research on Clean Energy Transitions, Climate Policy, and Sustainable Development
+
+7,500+
+
+Google Scholar Citations
+
+h-index: 37 · September 2026
+
+DEEP
+
+Founder & Director
+
+Energy and Climate Policy Lab
+
+Top 2%
+
+World's Scientists
+
+Three consecutive years
+
+Global Reach
+
+Research Informing Policy
+
+IPCC · World Bank · UNEP
+
+Featured Research Findings
+
+Clean Energy Supply Chains
+
+\$67 Billion
+
+### Global Solar Supply Chains Reduce Costs
+
+Globalized supply chains have saved solar installers in the U.S., Germany, and China \$67B from 2008–2020, and solar prices will be 20–30% higher in 2030 if countries move to produce domestically.
+
+*Nature* · 2022
+
+[Read the Research →](posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.llms.md)
+
+Climate and Public Health
+
+595 Avoided Deaths
+
+### Imported Solar Panels Deliver Major Benefits
+
+Imported solar PVs contributed to 178 million tonnes of avoided CO₂ emissions and 595 avoided premature deaths in the United States, generating an estimated \$28 billion in climate and health benefits.
+
+*One Earth* · 2025
+
+[Explore the Research →](posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.llms.md)
+
+Accelerating Energy Transitions
+
+11% Cheaper
+
+### Renewable pathway is cost-effective
+
+Rapid cost reductions in renewable energy and storage technologies reshaped the energy transition landscape, showing that a renewable-dominant pathway is both technologically sound and cost-effective.
+
+*Nature Communications* · 2020
+
+[Explore the Research →](posts/2020-05-ncomms-rapid-re-cost/index.llms.md)
 
 Recent Posts
 

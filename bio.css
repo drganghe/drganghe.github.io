@@ -94,3 +94,23 @@
     box-sizing: border-box;
   }  
 }
+
+.btn-action-primary {
+  color: white;
+  background-color: #05336B !important;
+}
+
+.btn-action-primary:hover {
+  color: white;
+}
+
+.btn-action {
+  min-width: 165px;
+  border-radius: 30px;
+  border: none;
+}
+
+.button {
+  text-align: center;
+  padding-bottom: 10px;
+}

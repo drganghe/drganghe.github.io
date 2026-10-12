@@ -10,15 +10,15 @@ title-block-banner: false
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
-<span style="font-size: 2rem; color: #05336B; font-weight: bold;">86</span> policy mentions
+<span style="font-size: 2rem; color: #05336B; font-weight: bold;">95</span> policy citations
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-<span style="font-size: 2rem; color: #05336B; font-weight: bold;">54</span> leading policy institutions
+<span style="font-size: 2rem; color: #05336B; font-weight: bold;">61</span> leading policy institutions
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-<span style="font-size: 2rem; color: #05336B; font-weight: bold;">19</span> countries and IGOs
+<span style="font-size: 2rem; color: #05336B; font-weight: bold;">21</span> countries and IGOs
 :::
 
 :::

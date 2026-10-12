@@ -11,6 +11,8 @@ format:
 #page-layout: full
 from: markdown+emoji
 ---
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
 
 **文／何钢　图／贾峰**
 
@@ -106,3 +108,8 @@ from: markdown+emoji
 贝迩课程从开设到现在，已经走过两年时光，在摸索中渐露头角，在关注中前进，在前进中完善。我们希望会有更多像张昌华这样的学生成长起来，他们将是具有良好环境意识和扎实知识的一代青年，并将在未来的社会实践中引导中国社会走上可持续发展之路。
 
 多方参与、文明对话、国际论坛、研究实践构成了贝迩课程的关键词，也打造了贝迩课程的品牌。第一届贝迩绿色课程的主要成果已经于2005年六五世界环境日出版。在这本名为《环境技术市场化——北京大学贝迩绿色示范课程成果汇编》的蓝色封面小书里，汇集了第一届贝迩课程的探索和思考。“意在透过环境技术市场化这个题目来调整高等教育人才培养和社会实践锻炼之间的供求关系，培育具备可持续发展思想、掌握相关知识和技能的复合型人才。”书的出版见证了课程在这条路上的前进步伐。
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

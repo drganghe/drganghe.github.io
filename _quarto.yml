@@ -34,10 +34,10 @@ website:
             href: bio.qmd
           - text: Now
             href: now.qmd  
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event     
+          # - text: News
+          #   href: posts.qmd#category=news
+          # - text: Events
+          #   href: posts.qmd#category=event     
           - text: Contact
             href: contact.qmd             
 

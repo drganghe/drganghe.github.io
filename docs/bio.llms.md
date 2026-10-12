@@ -1,11 +1,5 @@
 # Gang He
 
-Associate Professor  
-Marxe School of Public and International Affairs  
-Baruch College  
-City University of New York  
-Email: gang.he@baruch.cuny.edu
-
 [![](files/profile/Gang_He_2025_CUNY_2.jpg)](profile-photos.llms.md)
 
 Gang He
@@ -15,6 +9,8 @@ Marxe School of Public and International Affairs
 Baruch College  
 City University of New York  
 Email: gang.he@baruch.cuny.edu
+
+[CV](cv.llms.md)
 
 [ DEEP Policy Lab](https://deeppolicylab.github.io)
 
@@ -33,6 +29,28 @@ Email: gang.he@baruch.cuny.edu
 [ Semantic Scholar](https://www.semanticscholar.org/author/Gang-He/49430802)
 
 [![](./files/images/dimensions-logo.jpeg) Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50)
+
+## One-line Bio (20 words)
+
+Gang He is an energy scholar, researcher, and teacher whose research focuses on the intersection of energy systems, climate policy, and sustainable development.
+
+## Short Bio (50 words)
+
+Gang He is an Associate Professor at CUNY Baruch College, and founder and director of the Deep Energy and Climate Policy Lab. His research focuses on energy systems, climate policy, and sustainable development, with an emphasis on advancing sustainable, resilient, and equitable pathways toward deep decarbonization and carbon neutrality.
+
+## Speaker Bio (100 words)
+
+Gang He is an internationally recognized energy and climate scholar and Associate Professor at the Marxe School of Public and International Affairs, CUNY Baruch College, where he founded and directs the Deep Energy and Climate Policy Lab. His research examines the transformation of energy systems and the policies needed to achieve deep decarbonization while advancing sustainability, resilience, and equity. His work has appeared in leading journals including *Nature*, *Nature Energy*, *Nature Communications*, and *One Earth*, and has informed major international assessments and policy processes. He is a Public Intellectuals Program Fellow and has been recognized among the Stanford/Elsevier World’s Top 2% Scientists.
+
+## Long Bio (200 words)
+
+Gang He is an Associate Professor with tenure at the Marxe School of Public and International Affairs, Baruch College, City University of New York (CUNY), and founder and director of the Deep Energy and Climate Policy Lab. He also serves as Doctoral Faculty at the CUNY Graduate Center and a Faculty Affiliate at the CUNY Institute for Demographic Research.
+
+His research focuses on energy systems, climate policy, and sustainable development, with an emphasis on pathways to carbon neutrality and a more sustainable, resilient, and equitable clean energy transition. His work has appeared in journals including *Nature*, *Nature Communications*, *Nature Energy*, *One Earth*, *Environmental Science & Technology*, and *Energy Policy*, and has informed major assessments and policy processes, including the IPCC Sixth Assessment Report and New York State’s climate planning.
+
+He has contributed to U.S.-China cooperation on energy and climate change and is a Public Intellectuals Program Fellow of the National Committee on U.S.-China Relations. He has been recognized on the Stanford/Elsevier World’s Top 2% Scientists List for three consecutive years (2024–2026). He received his Ph.D. in Energy and Resources from University of California, Berkeley, an M.A. from Columbia University, and B.S. and M.S. degrees from Peking University.
+
+## Full Bio (500 words)
 
 Gang He is an energy scholar, researcher, and teacher whose research focuses on the intersection of energy systems, climate policy, and sustainable development. He is an Associate Professor with tenure at the [Marxe School of Public and International Affairs](https://marxe.baruch.cuny.edu/homepage/our-community/faculty-and-staff/full-time-faculty/), Baruch College, City University of New York (CUNY). He also serves as Doctoral Faculty in [Earth and Environmental Sciences](https://www.gc.cuny.edu/people/gang-he) at the CUNY Graduate Center, and is a Faculty Affiliate at the [CUNY Institute for Demographic Research](https://www.cuny.edu/about/centers-and-institutes/demographic-research/). He is the founder and director of the [Deep Energy and Climate Policy Lab](https://deeppolicylab.github.io), aiming at deep analysis and deep insights for deep decarbonization.
 

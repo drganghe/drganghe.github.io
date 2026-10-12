@@ -22,11 +22,17 @@ I’m grateful to be included in the **[Stanford/Elsevier Top 2% Scientists List
   - Energy
   - Environmental Sciences
 
-I was first included in the list in [2024](../../files/awards/top2scientists.png), and this marks my third consecutive year of inclusion. This year, I’m also included in the [Career Long](../../files/awards/he-gang-topscinet-career-long-2026.png) list for the first time.
+I was first included in the list in [2024](../../files/awards/top2scientists.png), and this marks my third consecutive year of inclusion. This year, I’m also included in the Career Long list for the first time.
 
 Research is never an individual endeavor. I’m deeply grateful to my family, current and former students, visiting scholars, mentors, collaborators, funders, editors, reviewers, and colleagues. Thank you for your support.
 
-[![](../../files/awards/he-gang-topscinet-single-year-2026.png)](https://topscinet.com/scientist_profile/He,%20Gang/2004/?stype=single_year)
+![](../../files/awards/he-gang-topscinet-single-year-2026.png)
+
+Single Year
+
+![](../../files/awards/he-gang-topscinet-career-long-2026.png)
+
+Career Long
 
 ## Links
 

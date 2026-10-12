@@ -11,6 +11,8 @@ format:
 #page-layout: full
 from: markdown+emoji
 ---
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
 
 **文/图：何钢**
 
@@ -164,3 +166,7 @@ COP和COP/MOP高级别会议开幕。
 :::
 
 ![何钢与部分青年代表会场合影](/files/images/COP11-youth.JPG)
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
