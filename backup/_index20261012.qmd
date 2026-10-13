@@ -1,0 +1,356 @@
+---
+title: "Gang He"
+subtitle: |
+  Associate Professor \
+  Marxe School of Public and International Affairs \
+  Baruch College \
+  City University of New York \
+  Email: gang.he@baruch.cuny.edu
+description-meta: "Gang He is an energy scholar, researcher, and teacher. He is an Associate Professor at the Marxe School of Public and International Affairs, Baruch College, City University of New York. He studies and teaches energy systems, energy and climate policy, and clean energy transition."
+image: "files/profile/Gang_He_2025_CUNY_2.jpg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: custom
+css: index.css
+format:
+  html:
+    link-external-icon: false
+    include-in-header:
+      - file: files/includes/_mswebmaster.js
+      - text: |
+          <style>
+          .quarto-title-block { display: none; }
+          </style>
+
+listing:
+  - id: recent-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+    exclude:
+      categories: [paper, featured]
+    type: grid
+    grid-columns: 3
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+  - id: latest-papers
+    contents: 
+      - posts
+      - posts/post-links.yml
+    include:
+      categories: [paper]
+    type: grid
+    grid-columns: 3
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"         
+  - id: featured-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+    include:
+      categories: [featured]
+    type: grid
+    grid-columns: 3
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"      
+
+---
+
+<link rel="me" href="https://mastodon.social/@hegang">
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+::: {.background-frame .alt-background}
+::: {.content-block}
+
+<div style="height: 40px;"></div>
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-5 .hero-left}
+
+[![](files/profile/Gang_He_2025_CUNY_2.jpg){width=90% fig-align="center"}](bio.qmd)
+
+:::
+
+
+::: {.g-col-12 .g-col-md-7 .hero-right}
+
+<p align="center" style="font-size:1.5rem; font-weight:bold;">Gang He</p>
+
+<p align="center" style="font-size:1.3rem;">
+Associate Professor of Energy and Climate Policy\
+Marxe School of Public and International Affairs\
+Baruch College and Graduate Center\
+City University of New York \
+Email: gang.he@baruch.cuny.edu
+</p>
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.button}
+[Bio](bio.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.button}
+[CV](cv.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-2}
+
+:::
+
+:::
+
+<p align="center" style="font-size:2rem;">
+[{{< fa people-group >}}](https://deeppolicylab.github.io){style="color: #05336B;"}&ensp;[{{< fa building-columns >}}](https://www.baruch.cuny.edu/profiles/faculty/Gang-He){style="color: #05336B;"}&ensp;[{{< fa brands google-scholar >}}](https://scholar.google.com/citations?user=vf90AuEAAAAJ){style="color: #05336B;"}&ensp;[{{< fa brands researchgate >}}](https://www.researchgate.net/profile/Gang-He-19){style="color: #05336B;"}&ensp;[{{< ai orcid >}}](https://orcid.org/0000-0002-8416-1965){style="color: #05336B;"}&ensp;[{{< ai clarivate >}}](https://www.webofscience.com/wos/author/record/N-4549-2013){style="color: #05336B;"}&ensp;[{{< ai scopus >}}](https://www.scopus.com/authid/detail.uri?authorId=55607981900){style="color: #05336B;"}&ensp;[{{< ai semantic-scholar >}}](https://www.semanticscholar.org/author/Gang-He/49430802){style="color: #05336B;"}<br>[{{< fa brands linkedin >}}](https://linkedin.com/in/hegang){style="color: #05336B;"}&ensp;[{{< fa brands github >}}](https://github.com/drganghe){style="color: #05336B;"}&ensp;[{{< fa brands youtube >}}](https://www.youtube.com/@DrGangHe){style="color: #05336B;"}&ensp;[{{< fa brands bluesky >}}](https://bsky.app/profile/hegang.bsky.social){style="color: #05336B;"}
+</p>
+
+:::
+
+:::
+
+:::
+:::
+
+::: {.background-frame}
+::: {.content-block}
+
+```{=html}
+<p align="center" style="font-size:24px; font-weight:bold;">Impactful Research on Clean Energy Transitions, Climate Policy, and Sustainable Development</p>
+
+<div class="achievement-grid">
+
+  <a class="achievement-card" href="publications.qmd">
+    <div class="achievement-number">7,500+</div>
+    <div class="achievement-title">Google Scholar Citations</div>
+    <div class="achievement-detail">h-index: 37 · September 2026</div>
+  </a>
+
+  <a class="achievement-card" href="https://deeppolicylab.github.io">
+    <div class="achievement-number">DEEP</div>
+    <div class="achievement-title">Founder &amp; Director</div>
+    <div class="achievement-detail">Energy and Climate Policy Lab</div>
+  </a>
+
+  <a class="achievement-card" href="/posts/stanford-elsevier-top-2percent-scientists/index.qmd">
+    <div class="achievement-number">Top 2%</div>
+    <div class="achievement-title"> World's Scientists</div>
+    <div class="achievement-detail">Three consecutive years</div>
+  </a>
+
+  <a class="achievement-card" href="notable-policy-citations.qmd">
+    <div class="achievement-number">Global Reach</div>
+    <div class="achievement-title">Research Informing Policy</div>
+    <div class="achievement-detail">IPCC · World Bank · UNEP</div>
+  </a>
+
+</div>
+```
+
+:::
+:::
+
+
+::: {.background-frame .alt-background}
+::: {.content-block}
+
+```{=html}
+<p align="center" style="font-size:32px; font-weight:bold;">Featured Research Findings</p>
+
+<div class="findings-grid">
+
+  <a class="finding-card"
+
+     href="/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/"
+
+     aria-label="Read research: Global Solar Supply Chains Reduce Costs">
+
+    <div class="finding-category">
+
+      Clean Energy Supply Chains
+
+    </div>
+
+    <div class="finding-number">
+
+      $67 Billion
+
+    </div>
+
+    <h3>Global Solar Supply Chains Reduce Costs</h3>
+
+    <p>
+
+      Globalized supply chains have saved solar installers in the U.S.,
+
+      Germany, and China $67B from 2008–2020, and solar prices
+
+      will be 20–30% higher in 2030 if countries move to produce domestically.
+
+    </p>
+
+    <div class="finding-source">
+
+      <i>Nature</i> · 2022
+
+    </div>
+
+  </a>
+
+  <a class="finding-card"
+
+     href="/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/"
+
+     aria-label="Read research: Imported Solar Panels Deliver Major Benefits">
+
+    <div class="finding-category">
+
+      Climate and Public Health
+
+    </div>
+
+    <div class="finding-number">
+
+      595 Avoided Deaths
+
+    </div>
+
+    <h3>Imported Solar Panels Deliver Major Benefits</h3>
+
+    <p>
+
+      Imported solar PVs contributed to 178 million tonnes of avoided
+
+      CO₂ emissions and 595 avoided premature deaths in the United States,
+
+      generating an estimated $28 billion in climate and health benefits.
+
+    </p>
+
+    <div class="finding-source">
+
+      <i>One Earth</i> · 2025
+
+    </div>
+
+  </a>
+
+  <a class="finding-card"
+
+     href="/posts/2020-05-ncomms-rapid-re-cost/"
+
+     aria-label="Read research: Renewable Pathway Is Cost-Effective">
+
+    <div class="finding-category">
+
+      Accelerating Energy Transitions
+
+    </div>
+
+    <div class="finding-number">
+
+      11% Cheaper
+
+    </div>
+
+    <h3>Renewable Pathway Is Cost-Effective</h3>
+
+    <p>
+
+      Rapid cost reductions in renewable energy and storage technologies
+
+      reshaped the energy transition landscape, showing that a
+
+      renewable-dominant pathway is both technologically sound
+
+      and cost-effective.
+
+    </p>
+
+    <div class="finding-source">
+
+      <i>Nature Communications</i> · 2020
+
+    </div>
+
+  </a>
+
+</div>
+
+```
+:::
+:::
+
+
+::: {.background-frame}
+::: {.content-block}
+
+<p align="center" style="font-size:32px; font-weight:bold;">Recent Posts</p>
+
+:::{#recent-posts}
+:::
+
+::: {.button}
+[More posts](posts.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::
+
+::: {.background-frame .alt-background}
+::: {.content-block}
+
+<p align="center" style="font-size:32px; font-weight:bold;">Latest Papers</p>
+
+:::{#latest-papers}
+:::
+
+::: {.button}
+[More papers](posts.qmd#category=paper){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::
+
+::: {.background-frame}
+::: {.content-block}
+
+<p align="center" style="font-size:32px; font-weight:bold;">Featured Posts</p>
+
+:::{#featured-posts}
+:::
+
+::: {.button}
+[More featured](posts.qmd#category=featured){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
+:::
+
+:::
+:::

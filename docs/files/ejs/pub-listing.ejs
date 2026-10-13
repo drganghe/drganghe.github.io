@@ -1,0 +1,126 @@
+<%
+/*
+  pub-listing.ejs  —  Quarto custom listing template for academic publications
+  Line 1: authors. year. title. journal vol(issue): pages. doi [badges]
+  Line 2: PDF | Preprint | SharedIt | Code | Data | Supplemental | metrics
+  Line 3: Award (if any)
+  Line 4: Coverage (if any)
+  Line 5: Invited presentations (if any)
+
+  Requires Quarto >= 1.6.42:
+  - metadataAttrs(item) on each item element (enables List.js sort/filter/pagination)
+  - utils.b64encode(category) in category onclick (categories are base64-encoded since 1.6.42)
+  - Outer wrapper must have class="list" for List.js to recognise the container
+*/
+%>
+
+<%/* ── Outer wrapper: class="list" is required for List.js */%>
+<div class="pub-listing list">
+
+<% for (const item of items) {
+  const catsArr = Array.isArray(item.categories)
+    ? item.categories
+    : (item.categories ? String(item.categories).split(new RegExp('[,;|]')).map(function(s){ return s.trim(); }).filter(Boolean) : []);
+
+  const vol = item.volume ? String(item.volume) : "";
+  const iss = item.issue  ? String(item.issue)  : "";
+  const pgs = item.pages  ? String(item.pages)  : "";
+  let volRef = "";
+  if (vol) volRef += vol;
+  if (iss) volRef += "(" + iss + ")";
+  if (pgs) volRef += ": " + pgs;
+
+  const itemMediaCoverage       = item["mediacoverage"]       || "";
+  const itemInvitedPresentation = item["invitedpresentation"] || "";
+  const itemHighlyCited         = item["highlycited"]         || 0;
+  const itemHotPaper            = item["hotpaper"]            || 0;
+
+  const hasDoi      = !!(item.doi          && item.doi          !== "");
+  const hasPdf      = !!(item.pdf          && item.pdf          !== "");
+  const hasPreprint = !!(item.preprint     && item.preprint     !== "");
+  const hasShareIt  = !!(item.shareit      && item.shareit      !== "");
+  const hasGitHub   = !!(item.github       && item.github       !== "");
+  const hasCode     = !!(item.code         && item.code         !== "");
+  const hasData     = !!(item.data         && item.data         !== "");
+  const hasSup      = !!(item.supplemental && item.supplemental !== "");
+
+  const internalTags = ["selected", "peer-reviewed", "highly-cited", "hot-paper"];
+  const visibleTags  = catsArr.filter(function(c){ return internalTags.indexOf(c) === -1; });
+
+  const isoDate = item.date
+    ? String(item.date)
+    : (item.year ? String(item.year) + "-01-01" : "");
+%>
+
+<%/*
+   metadataAttrs(item) emits all the data-* attributes List.js needs for
+   sort / filter / search. It MUST be on the element that wraps each item.
+*/%>
+<div class="pub-item" <%= metadataAttrs(item) %>>
+
+  <%/* Hidden fields for List.js */%>
+  <span class="listing-title d-none"><%- item.title %></span>
+  <span class="listing-author d-none"><%- item.authors %></span>
+  <span class="listing-date d-none"><%= isoDate %></span>
+
+  <%/*
+     listing-categories: each span's onclick must use utils.b64encode(cat)
+     — required for Quarto >= 1.6.42 where categories are base64-encoded.
+  */%>
+  <div class="listing-categories d-none">
+    <% catsArr.forEach(function(cat) { %>
+    <span class="listing-category"
+          onclick="window.quartoListingCategory('<%= utils.b64encode(cat) %>'); return false;"><%- cat %></span>
+    <% }); %>
+  </div>
+
+  <%/* ── LINE 1: Citation ───────────────────────────────────────── */%>
+  <p class="pub-citation"><%
+    %><span class="pub-authors"><%- item.authors %></span>. <%
+    if (item.year) { %><span class="pub-year"><%= item.year %></span>. <% } %><%
+    if (item.path && item.path !== "") { %><a href="<%= item.path %>" class="pub-title"><%- item.title %></a><%
+    } else { %><span class="pub-title"><%- item.title %></span><% } %>.<%
+    if (item.journal) { %> <em class="pub-journal"><%- item.journal %></em><%
+      if (volRef) { %> <%- volRef %><% } %>.<%
+    } %><%
+    if (hasDoi) { %> doi: <a href="https://doi.org/<%= item.doi %>" target="_blank" rel="noopener" class="pub-doi"><%= item.doi %></a>.<% } %><%
+    if (itemHighlyCited) { %> <img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" alt="Highly cited paper" width="20" style="vertical-align:middle;"><% } %><%
+    if (itemHotPaper)    { %> <img src="https://drganghe.github.io/files/images/hot-paper-badge.png"         title="ESI Hot Paper"         alt="Hot paper"          width="20" style="vertical-align:middle;"><% } %>
+  </p>
+
+  <%/* ── LINE 2: Links & metric badges ─────────────────────────── */%>
+  <% if (hasDoi || hasPdf || hasPreprint || hasShareIt || hasGitHub || hasCode || hasData || hasSup) { %>
+  <p class="pub-links"><%
+    if (hasPdf)      { %><a href="<%= item.pdf %>"          class="pub-btn btn-pdf"          target="_blank" rel="noopener"><i class="bi bi-file-earmark-pdf"></i> PDF</a> <% } %><%
+    if (hasPreprint) { %><a href="<%= item.preprint %>"     class="pub-btn btn-preprint"     target="_blank" rel="noopener"><i class="bi bi-file-earmark-text"></i> Preprint</a> <% } %><%
+    if (hasShareIt)  { %><a href="<%= item.shareit %>"      class="pub-btn btn-shareit"      target="_blank" rel="noopener"><i class="bi bi-share"></i> SharedIt</a> <% } %><%
+    if (hasGitHub)   { %><a href="<%= item.github %>"       class="pub-btn btn-github"       target="_blank" rel="noopener"><i class="bi bi-github"></i> GitHub</a> <% } %><%
+    if (hasCode)     { %><a href="<%= item.code %>"         class="pub-btn btn-code"         target="_blank" rel="noopener"><i class="bi bi-code-slash"></i> Code</a> <% } %><%
+    if (hasData)     { %><a href="<%= item.data %>"         class="pub-btn btn-data"         target="_blank" rel="noopener"><i class="bi bi-database"></i> Data</a> <% } %><%
+    if (hasSup)      { %><a href="<%= item.supplemental %>" class="pub-btn btn-supplemental" target="_blank" rel="noopener"><i class="bi bi-paperclip"></i> Supplemental</a> <% } %><%
+    if (hasDoi)      { %><span class="__dimensions_badge_embed__" data-doi="<%= item.doi %>" data-style="large_rectangle" data-hide-zero-citations="true" style="display:inline-flex;vertical-align:middle;"></span> <% } %><%
+    if (hasDoi)      { %><span class="altmetric-embed" data-doi="<%= item.doi %>" data-badge-type="1" data-badge-popover="right" data-hide-no-mentions="true" style="display:inline-flex;vertical-align:middle;"></span><% } %>
+  </p>
+  <% } %>
+
+  <%/* ── LINE 3: Award ──────────────────────────────────────────── */%>
+  <% if (item.awards && item.awards !== "") { %>
+  <p class="pub-awards"><span class="pub-label"><i class="bi bi-trophy"></i> Award:</span> <%- item.awards %></p>
+  <% } %>
+
+  <%/* ── LINE 4: Media coverage */%>
+  <% if (itemMediaCoverage !== "") { %>
+  <p class="pub-coverage"><span class="pub-label">Coverage:</span> <%- itemMediaCoverage %></p>
+  <% } %>
+
+  <%/* ── LINE 5: Invited presentations */%>
+  <% if (itemInvitedPresentation !== "") { %>
+  <p class="pub-presentations"><span class="pub-label">Invited presentation:</span> <%- itemInvitedPresentation %></p>
+  <% } %>
+
+  <hr class="pub-divider">
+
+</div>
+<% } %>
+
+</div><%/* end .pub-listing.list */%>

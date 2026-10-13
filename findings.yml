@@ -1,0 +1,40 @@
+- title: "Global Solar Supply Chains Reduce Costs"
+  category: "Clean Energy Supply Chains"
+  number: "$67 Billion"
+  description: >-
+    Globalized supply chains have saved solar installers in the
+    U.S., Germany, and China $67 billion from 2008–2020.
+    Solar prices could be 20–30% higher in 2030 if countries
+    move toward domestic-only production.
+  journal: "Nature"
+  year: 2022
+  url: "/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/"
+  order: 1
+
+
+- title: "Imported Solar Panels Deliver Major Benefits"
+  category: "Climate and Public Health"
+  number: "595 Avoided Deaths"
+  description: >-
+    Imported solar PVs contributed to 178 million tonnes of
+    avoided CO₂ emissions and 595 avoided premature deaths
+    in the United States, generating an estimated $28 billion
+    in climate and health benefits.
+  journal: "One Earth"
+  year: 2025
+  url: "/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/"
+  order: 2
+
+
+- title: "Renewable Pathway Is Cost-Effective"
+  category: "Accelerating Energy Transitions"
+  number: "11% Cheaper"
+  description: >-
+    Rapid cost reductions in renewable energy and storage
+    technologies reshaped the energy transition landscape,
+    showing that a renewable-dominant pathway is both
+    technologically sound and cost-effective.
+  journal: "Nature Communications"
+  year: 2020
+  url: "/posts/2020-05-ncomms-rapid-re-cost/"
+  order: 3

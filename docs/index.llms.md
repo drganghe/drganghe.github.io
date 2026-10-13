@@ -39,7 +39,7 @@ Energy and Climate Policy Lab
 
 Top 2%
 
-World's Scientists
+World’s Scientists
 
 Three consecutive years
 
@@ -57,7 +57,7 @@ Clean Energy Supply Chains
 
 ### Global Solar Supply Chains Reduce Costs
 
-Globalized supply chains have saved solar installers in the U.S., Germany, and China \$67B from 2008–2020, and solar prices will be 20–30% higher in 2030 if countries move to produce domestically.
+Globalized supply chains have saved solar installers in the U.S., Germany, and China \$67 billion from 2008–2020. Solar prices could be 20–30% higher in 2030 if countries move toward domestic-only production.
 
 *Nature* · 2022
 
