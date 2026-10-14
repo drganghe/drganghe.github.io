@@ -51,16 +51,6 @@ IPCC · World Bank · UNEP
 
 Featured Research Findings
 
-Clean Energy Supply Chains
-
-\$67 Billion
-
-### Global Solar Supply Chains Reduce Costs
-
-Globalized supply chains have saved solar installers in the U.S., Germany, and China \$67 billion from 2008–2020. Solar prices could be 20–30% higher in 2030 if countries move toward domestic-only production.
-
-*Nature* · 2022
-
 Climate and Public Health
 
 595 Avoided Deaths
@@ -70,6 +60,16 @@ Climate and Public Health
 Imported solar PVs contributed to 178 million tonnes of avoided CO₂ emissions and 595 avoided premature deaths in the United States, generating an estimated \$28 billion in climate and health benefits.
 
 *One Earth* · 2025
+
+Clean Energy Supply Chains
+
+\$67 Billion
+
+### Global Solar Supply Chains Reduce Costs
+
+Globalized supply chains have saved solar installers in the U.S., Germany, and China \$67 billion from 2008–2020. Solar prices could be 20–30% higher in 2030 if countries move toward domestic-only production.
+
+*Nature* · 2022
 
 Accelerating Energy Transitions
 
