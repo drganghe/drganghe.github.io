@@ -47,7 +47,7 @@ Global Reach
 
 Research Informing Policy
 
-IPCC · World Bank · UNEP
+IPCC · World Bank · UN · WTO
 
 Featured Research Findings
 

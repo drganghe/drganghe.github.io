@@ -10,7 +10,7 @@ listing:
     type: custom
     page-size: 100
     categories: numbered
-    template: pub-listing.ejs
+    template: /files/ejs/pub-listing.ejs
     include:
       section: "Selected Work"
   - id: peer-reviewed
@@ -18,7 +18,7 @@ listing:
     type: custom
     page-size: 100
     categories: numbered
-    template: pub-listing.ejs
+    template: /files/ejs/pub-listing.ejs
     include:
       section: "Peer-reviewed Journal Paper"
 css: pub-listing.css
