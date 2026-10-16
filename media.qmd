@@ -2,7 +2,7 @@
 title: "Media"
 subtitle: "In the news"
 image: "files/profile/gang-he-cuny-profile.jpg"
-#description-meta: "{{< meta description-meta >}}"
+description-meta: "Interview by New York Times, E&E News, Nature, PV Magazine, and more"
 listing:  #an example of listing external links
 #  template: item-default-external.ejs
   id: media

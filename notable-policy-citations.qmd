@@ -1,5 +1,6 @@
 ---
 title: "Notable Policy Citations"
+description-meta: "Dr. Gang He's research findings have been cited in notable reports by global institutions such as the IPCC (AR6), IIASA, World Bank, UNEP, IRENA, WTO, SEI, IISD, CSIS, and Brookings."
 subtitle: "Selected policy reports and documents that cite our work"
 title-block-banner: false
 #page-layout: full

@@ -75,7 +75,7 @@ Accelerating Energy Transitions
 
 11% Cheaper
 
-### Renewable Pathway Is Cost-Effective
+### Renewable Pathways are Cost-Effective
 
 Rapid cost reductions in renewable energy and storage technologies reshaped the energy transition landscape, showing that a renewable-dominant pathway is both technologically sound and cost-effective.
 

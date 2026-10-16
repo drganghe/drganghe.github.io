@@ -1,6 +1,4 @@
 ---
-## First run: python xlsx_to_yml.py to convert publications.xlsx to publications.yml
-## then run quarto render to generate the publications.html file, need pub-listing.ejs and pub-listing.css in the same folder
 title: "Other Publications"
 subtitle: "Book chapters, conference proceedings, and other publications"
 title-block-banner: false

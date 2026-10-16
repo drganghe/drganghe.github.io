@@ -1,5 +1,6 @@
 ---
 title: "CV"
+description-meta: "CV of Dr. Gang He, Energy and Climate Policy Scholar"
 page-navigation: false
 toc: false
 #sidebar: false

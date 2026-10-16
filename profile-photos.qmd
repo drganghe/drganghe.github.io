@@ -1,6 +1,7 @@
 ---
 title: "Profile Photos"
 subtitle: "Official Profile Photos at Different Institutions"
+description-meta: "Headshots of Dr. Gang He"
 title-block-banner: false
 page-layout: full
 ---
