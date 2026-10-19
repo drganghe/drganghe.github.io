@@ -7,6 +7,22 @@ categories: [event, presentation]
 image: "featured.jpeg"
 css: /custom.css
 #draft: true
+listing:
+  - id: papers
+    contents: 
+        - "../2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd"
+        - "../2023-10-commsee-deploying-solar-pv-first-in-carbon-intensive-regions/index.qmd"
+        - "../2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.qmd"
+        - "../2023-12-just-resilient-sustainable-clean-energy-supply-chains/index.qmd"
+    type: grid
+    max-items: 4
+    grid-columns: 2
+    page-size: 0 #set as 0 will remove the page setting
+    fields: [image, date, title]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
 ---
 
 ## Title

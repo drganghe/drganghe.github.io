@@ -32,6 +32,22 @@ Gang He’s work focuses on energy systems, energy and climate policy, and energ
 
 ## Relevant papers
 
+##### Imported solar photovoltaics contributed to health and climate benefits in the United States
+
+Oct 8, 2025
+
+##### Advancing a just, resilient, and sustainable clean energy supply chain
+
+Dec 5, 2023
+
+##### Deploying solar photovoltaic energy first in carbon-intensive regions brings gigatons more carbon mitigations to 2060
+
+Oct 11, 2023
+
+##### Quantifying the cost savings of global solar photovoltaic supply chains
+
+Oct 26, 2022
+
 [Other papers »](../../posts.llms.md#category=paper)
 
 ## Flyer

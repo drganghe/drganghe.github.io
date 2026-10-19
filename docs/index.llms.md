@@ -51,7 +51,7 @@ IPCC · World Bank · UN · WTO
 
 Featured Research Findings
 
-Climate and Public Health
+Energy, Trade, and Health
 
 595 Avoided Deaths
 
@@ -65,7 +65,7 @@ Clean Energy Supply Chains
 
 \$67 Billion
 
-### Global Solar Supply Chains Reduce Costs
+### Global Supply Chains Reduce Solar Costs
 
 Globalized supply chains have saved solar installers in the U.S., Germany, and China \$67 billion from 2008–2020. Solar prices could be 20–30% higher in 2030 if countries move toward domestic-only production.
 

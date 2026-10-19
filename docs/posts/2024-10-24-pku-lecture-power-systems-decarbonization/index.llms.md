@@ -38,33 +38,17 @@ Gang He’s work focuses on energy systems, energy and climate policy, and energ
 
 ##### SWITCH-China: Open Source Model for the World’s Largest Power System
 
-Open model to study China’s clean power transition
-
-SWITCH China
-
 Nov 13, 2023
 
 ##### Long-term transition of China’s power sector under carbon neutrality target and water withdrawal constraint
-
-Low-cost renewables reduced the need for CCS by 80%, and water…
-
-Chao Zhang, Gang He, Josiah Johnston, Lijin Zhong
 
 Dec 20, 2021
 
 ##### Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System
 
-A renewable-dominant pathway is not just technologically sound, but also…
-
-Gang He, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, Amol Phadke
-
 May 15, 2020
 
 ##### SWITCH-China: A Systems Approach to Decarbonizing China’s Power System
-
-SWITCH-China, an integrated model for power sector decarbonization.
-
-Gang He, Anne-Perrine Avrin, James H. Nelson, Josiah Johnston, Ana Mileva, Jianwei Tian, Daniel M. Kammen
 
 May 8, 2016
 

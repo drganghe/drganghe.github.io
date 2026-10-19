@@ -22,7 +22,7 @@ listing:
     max-items: 4
     grid-columns: 2
     page-size: 0 #set as 0 will remove the page setting
-    fields: [image, date, title, author, description]
+    fields: [image, date, title]
     max-description-length: 75
     sort: 
       - "date desc"
