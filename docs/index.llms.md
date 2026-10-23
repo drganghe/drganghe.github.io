@@ -83,6 +83,12 @@ Rapid cost reductions in renewable energy and storage technologies reshaped the 
 
 Recent Posts
 
+![](./files/images/aaea-2026-summit-embrace-change.svg)
+
+##### AAEA Keynote: Powering the AI Revolution–Energy Infrastructure, Supply Constraints, and Economic Implications
+
+Oct 23, 2026
+
 ![](./files/images/baruch-college.webp)
 
 ##### Serving as Provost Faculty Fellow for Grant Development
@@ -94,12 +100,6 @@ Oct 5, 2026
 ##### Climate Week NYC 2026: Clean Energy Supply Chains in the Era of Industrial Policy
 
 Sep 23, 2026
-
-![](./posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/featured.png)
-
-##### Receiving the Sandi Cooper Award for Outstanding Research for Associate Professors
-
-May 21, 2026
 
 [More posts](posts.llms.md)
 

@@ -1,4 +1,12 @@
 
+    - path: https://www.aaea.associates/images/AAEA-2026-SUMMIT/conference-invitation.jpg
+      image: /files/images/aaea-2026-summit-embrace-change.svg
+      title: "AAEA Keynote: Powering the AI Revolution--Energy Infrastructure, Supply Constraints, and Economic Implications"
+      author: "AAEA"
+      description: "Gang is invited to give a keynote speech on energy and AI."
+      date: "2026-10-23"
+      categories: [event]
+
     - path: https://deeppolicylab.github.io/events/2026-09-23-nyc-climate-week-clean-energy-supply-chains-in-the-era-of-industrial-policy-panel/index.html
       image: https://deeppolicylab.github.io/events/2026-09-23-nyc-climate-week-clean-energy-supply-chains-in-the-era-of-industrial-policy-panel/featured.jpg
       title: "Climate Week NYC 2026: Clean Energy Supply Chains in the Era of Industrial Policy"

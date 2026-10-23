@@ -2,6 +2,16 @@
 
 Posts on papers, events, news, and more
 
+[![](./files/images/aaea-2026-summit-embrace-change.svg)](https://www.aaea.associates/images/AAEA-2026-SUMMIT/conference-invitation.jpg)
+
+### [AAEA Keynote: Powering the AI Revolution–Energy Infrastructure, Supply Constraints, and Economic Implications](https://www.aaea.associates/images/AAEA-2026-SUMMIT/conference-invitation.jpg)
+
+Gang is invited to give a keynote speech on energy and AI.
+
+Oct 23, 2026
+
+AAEA
+
 [![](./files/awards/Top2Percent.png)](posts/stanford-elsevier-top-2percent-scientists/index.llms.md)
 
 ### [Included in World’s Top 2% Scientists List 2024–2026](posts/stanford-elsevier-top-2percent-scientists/index.llms.md)
