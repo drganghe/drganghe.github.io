@@ -38,3 +38,23 @@
   year: 2020
   url: "/posts/2020-05-ncomms-rapid-re-cost/"
   order: 3
+
+- title: "Coal Power Workers Transition to Green Jobs is Not Easy"
+  category: "Just Energy Transition"
+  number: "194 km"
+  description: >-
+    Fewer than 15% of China’s coal power plant workforce will find it easy to shift into green jobs with matching skills; a coal power worker needs to travel 194 (178–242) km on average to access a green job.
+  journal: "One Earth"
+  year: 2024
+  url: "https://deeppolicylab.github.io/news/2024-11-06-one-earth-coal-jobs-transition.html"
+  order: 5
+
+- title: "Climate Change Reduces Supply-Demand Match"
+  category: "Climate and Energy Systems"
+  number: "32% and 44%"
+  description: >-
+    Up to 32% and 44% of non-Antarctic land areas for wind and solar, respectively, are projected to experience supply–demand match reductions by the end of this century under an intermediate emission scenario.
+  journal: "Nature Energy"
+  year: 2023
+  url: "/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/"
+  order: 4  

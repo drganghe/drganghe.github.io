@@ -51,6 +51,8 @@ IPCC · World Bank · UN · WTO
 
 Featured Research Findings
 
+❮
+
 Energy, Trade, and Health
 
 595 Avoided Deaths
@@ -60,6 +62,26 @@ Energy, Trade, and Health
 Imported solar PVs contributed to 178 million tonnes of avoided CO₂ emissions and 595 avoided premature deaths in the United States, generating an estimated \$28 billion in climate and health benefits.
 
 *One Earth* · 2025
+
+Just Energy Transition
+
+194 km
+
+### Coal Power Workers Transition to Green Jobs is Not Easy
+
+Fewer than 15% of China’s coal power plant workforce will find it easy to shift into green jobs with matching skills; a coal power worker needs to travel 194 (178–242) km on average to access a green job.
+
+*One Earth* · 2024
+
+Climate and Energy Systems
+
+32% and 44%
+
+### Climate Change Reduces Supply-Demand Match
+
+Up to 32% and 44% of non-Antarctic land areas for wind and solar, respectively, are projected to experience supply–demand match reductions by the end of this century under an intermediate emission scenario.
+
+*Nature Energy* · 2023
 
 Clean Energy Supply Chains
 
@@ -80,6 +102,8 @@ Accelerating Energy Transitions
 Rapid cost reductions in renewable energy and storage technologies reshaped the energy transition landscape, showing that a renewable-dominant pathway is both technologically sound and cost-effective.
 
 *Nature Communications* · 2020
+
+❯
 
 Recent Posts
 

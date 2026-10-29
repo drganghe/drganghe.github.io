@@ -132,11 +132,11 @@ UNFCCC CoP 11 Youth Delegation, 著. 何钢, 译. [我们的气候, 我们的挑
 
 ## 所获荣誉奖项 
 
+2026.10, [斯坦福/爱思唯尔全球前2%科学家名单2024~2026](https://topscinet.com/scientist_profile/He,%20Gang/2004/?stype=single_year)
+
 2026.5, [纽约市立大学桑迪·库珀(Sandi Cooper)副教授杰出研究奖](posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/index.llms.md)
 
 2025.10, [美中关系全国委员会公共知识分子项目学者](https://www.ncuscr.org/twenty-leading-china-specialists-selected-for-ninth-round-of-public-intellectuals-program/)
-
-2025.9, [斯坦福/爱思唯尔全球前2%科学家名单2024, 2025](https://topscinet.com/scientist_profile/He,%20Gang/2004/?stype=single_year)
 
 2024.3, 纽约市立大学巴鲁克学院教师研究奖 
 

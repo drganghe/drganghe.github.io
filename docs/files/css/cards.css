@@ -1,0 +1,32 @@
+/* Consistent rounded corners for homepage cards */
+
+:root {
+  --card-radius: 14px;
+}
+
+/* Custom research cards */
+.achievement-card,
+.finding-card {
+  border-radius: var(--card-radius) !important;
+}
+
+/* Quarto grid listing cards */
+.quarto-listing-container-grid .card,
+.quarto-listing-container-grid .quarto-grid-item,
+.quarto-grid-item.card,
+.quarto-grid-item {
+  border-radius: var(--card-radius) !important;
+  overflow: hidden !important;
+}
+
+/* Card images */
+.quarto-listing-container-grid .card-img-top,
+.quarto-listing-container-grid .thumbnail-image {
+  border-top-left-radius: var(--card-radius) !important;
+  border-top-right-radius: var(--card-radius) !important;
+}
+
+/* Bootstrap cards */
+.card {
+  border-radius: var(--card-radius) !important;
+}

@@ -12,7 +12,9 @@ page-navigation: false
 toc: false
 #sidebar: false
 page-layout: custom
-css: index.css
+css: 
+  - /files/css/index-click.css
+  - /files/css/cards.css
 format:
   html:
     link-external-icon: false
@@ -22,6 +24,8 @@ format:
           <style>
           .quarto-title-block { display: none; }
           </style>
+      - text: |
+          <script defer src="/files/scripts/findings-carousel-click.js"></script>    
 
 listing:
 
@@ -43,8 +47,9 @@ listing:
     contents:
       - findings.yml
     type: custom
-    template: /files/ejs/research-finding-cards.ejs
-    sort: "order asc"
+    template: /files/ejs/research-finding-cards-click.ejs
+    sort: "year desc"
+    max-items: 10
     fields:
       - title
       - category
@@ -54,7 +59,6 @@ listing:
       - year
       - url
       - order
-    page-size: 3
 
   - id: recent-posts
     contents: 
