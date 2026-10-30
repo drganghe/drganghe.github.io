@@ -3,7 +3,7 @@ title: "Receiving the Sandi Cooper Award for Outstanding Research for Associate 
 description: "Gang receives the Sandi Cooper Award for Outstanding Research for Associate Professors for 2026--2027."
 author: "CUNY Academy"
 date: "2026-05-21"
-categories: [news, recognition]
+categories: [news, recognition, featured]
 image: "featured.png"
 #css: /custom.css
 listing:  #an example of listing external links

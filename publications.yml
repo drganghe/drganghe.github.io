@@ -1,4 +1,17 @@
 - section: Selected Work
+  authors: "Luo, Kaifang, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang\\*, **Gang He**\\*"
+  year: 2026
+  date: 2026-10-29
+  title: Health and climate benefits of solar photovoltaics in Europe and the role of imports
+  path: "https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/index.html"
+  journal: Nexus
+  pages: 100177
+  doi: 10.1016/j.ynexs.2026.100177
+  pdf: "https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf"
+  code: "https://zenodo.org/records/23480950"
+  categories: [2026, corresponding-author, selected, solar, supply-chain, energy-nesus, health, climate, europe]
+
+- section: Selected Work
   authors: "**He, Gang**\\* and Jiang Lin"
   year: 2026
   date: 2026-08-21

@@ -129,6 +129,14 @@ Sep 23, 2026
 
 Latest Papers
 
+![](./posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/Figure1.png)
+
+##### Health and climate benefits of solar photovoltaics in Europe and the role of imports
+
+*Nexus*
+
+Oct 29, 2026
+
 ![](./posts/2026-08-oneearth-how-hard-are-hard-to-abate-sectors/featured.png)
 
 ##### How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways
@@ -145,23 +153,15 @@ Aug 21, 2026
 
 Apr 21, 2026
 
-![](./posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg)
-
-##### Renewable integration and AI demand reshaped power grids in 2025
-
-*Nature Reviews Clean Technology*
-
-Jan 20, 2026
-
 [More papers](posts.llms.md#category=paper)
 
 Featured Posts
 
-![](./files/awards/Top2Percent.png)
+![](./posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/featured.png)
 
-##### Included in World’s Top 2% Scientists List 2024–2026
+##### Receiving the Sandi Cooper Award for Outstanding Research for Associate Professors
 
-Oct 7, 2026
+May 21, 2026
 
 ![](https://deeppolicylab.github.io/files/images/funders/sloan-logo.png)
 

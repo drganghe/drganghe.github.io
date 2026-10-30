@@ -65,7 +65,7 @@ listing:
       - posts
       - posts/post-links.yml
     exclude:
-      categories: [paper, featured]
+      categories: [paper, featured, multiple]
     type: grid
     grid-columns: 3
     max-items: 3
@@ -76,6 +76,7 @@ listing:
     sort: 
       - "date desc"
       - "title asc"
+
   - id: latest-papers
     contents: 
       - posts

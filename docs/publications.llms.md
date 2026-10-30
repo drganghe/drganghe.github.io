@@ -5,9 +5,17 @@ Total citations as of September 2026:
 - [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 5,000+ (h-index = 33)
 - [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 7,500+ (h-index = 37, i10-index = 70)
 
-[ First Author (11)](#category=first-author) [\* Corresponding Author (27)](#category=corresponding-author) [![ESI Highly Cited Paper](./files/images/highly-cited-paper-badge.png) Highly Cited (6)](#category=highly-cited) [![ESI Hot Paper](./files/images/hot-paper-badge.png) Hot Paper (3)](#category=hot-paper) [![Nature Series](./files/images/journal/nature-favicon.png) Nature Series (10)](#category=nature-series) [ All](publications.llms.md) [Other](other-publications.llms.md)
+[ First Author (11)](#category=first-author) [\* Corresponding Author (28)](#category=corresponding-author) [![ESI Highly Cited Paper](./files/images/highly-cited-paper-badge.png) Highly Cited (6)](#category=highly-cited) [![ESI Hot Paper](./files/images/hot-paper-badge.png) Hot Paper (3)](#category=hot-paper) [![Nature Series](./files/images/journal/nature-favicon.png) Nature Series (10)](#category=nature-series) [ All](publications.llms.md) [Other](other-publications.llms.md)
 
 ## Selected Work
+
+Health and climate benefits of solar photovoltaics in Europe and the role of imports Luo, Kaifang, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang\*, **Gang He**\* Oct 29, 2026
+
+Luo, Kaifang, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang\*, **Gang He**\*. 2026. [Health and climate benefits of solar photovoltaics in Europe and the role of imports](https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/index.html). *Nexus* : 100177. doi: [10.1016/j.ynexs.2026.100177](https://doi.org/10.1016/j.ynexs.2026.100177).
+
+[ PDF](https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf) [ Code](https://zenodo.org/records/23480950)
+
+------------------------------------------------------------------------
 
 How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways **He, Gang**\* and Jiang Lin Aug 21, 2026
 

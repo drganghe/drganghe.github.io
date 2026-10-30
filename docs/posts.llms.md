@@ -2,6 +2,18 @@
 
 Posts on papers, events, news, and more
 
+[![](./posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/Figure1.png)](posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/index.llms.md)
+
+### [Health and climate benefits of solar photovoltaics in Europe and the role of imports](posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/index.llms.md)
+
+[*Nexus*](posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/index.llms.md)
+
+Solar generation avoided 47 million tonnes of carbon dioxide and more than 13,000 premature deaths, yielding \$116.2 billion in monetized benefits (about \$150 per installed kilowatt per year) across eight European countries from 2015 to 2021. An estimated 40% of these benefits is associated with imported solar panels on a benefit-weighted basis.
+
+Oct 29, 2026
+
+Kaifang Luo, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang, Gang He
+
 [![](./files/images/aaea-2026-summit-embrace-change.svg)](https://www.aaea.associates/images/AAEA-2026-SUMMIT/conference-invitation.jpg)
 
 ### [AAEA Keynote: Powering the AI Revolution–Energy Infrastructure, Supply Constraints, and Economic Implications](https://www.aaea.associates/images/AAEA-2026-SUMMIT/conference-invitation.jpg)

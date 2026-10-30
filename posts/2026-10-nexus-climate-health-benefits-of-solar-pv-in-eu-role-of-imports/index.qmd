@@ -1,0 +1,60 @@
+---
+title: "Health and climate benefits of solar photovoltaics in Europe and the role of imports"
+description: "Solar generation avoided 47 million tonnes of carbon dioxide and more than 13,000 premature deaths, yielding $116.2 billion in monetized benefits (about $150 per installed kilowatt per year) across eight European countries from 2015 to 2021. An estimated 40% of these benefits is associated with imported solar panels on a benefit-weighted basis."
+subtitle: "*Nexus*"
+author: 
+  - name: Kaifang Luo
+  - name: Yun Li
+  - name: Guochao Chen
+  - name: Minghao Qiu
+  - name: Froylan E. Sifuentes
+  - name: Hongliang Zhang
+  - name: Gang He
+date: "2026-10-29"
+categories: [paper]
+image: "Figure1.png"
+citation:
+  type: article-journal
+  container-title: "Nexus"
+#  volume: 8
+#  issue: 11
+  page: 100177
+  doi: "10.1016/j.ynexs.2026.100177"
+  url: https://doi.org/10.1016/j.ynexs.2026.100177
+google-scholar: true
+css: /custom.css
+---
+
+::: {.callout-note}
+## Paper
+Health and climate benefits of solar photovoltaics in Europe and the role of imports     
+Kaifang Luo, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang\*, **Gang He**\*  
+*One Earth* (2026)   
+DOI: [10.1016/j.ynexs.2026.100177](https://doi.org/10.1016/j.ynexs.2026.100177)  
+:::
+
+![nalytical framework](Figure1.png)
+
+## Abstract
+
+Solar photovoltaics deployment has grown rapidly in Europe, yet its health and climate benefits remain underreported. We quantify these benefits across eight European countries from 2015 to 2021 by combining statistical modeling of hourly electricity generation, air quality simulation, health impact assessment, and trade data analysis. Solar generation avoided 47 million tonnes of carbon dioxide and more than 13,000 premature deaths, yielding $116.2 billion in monetized benefits (about $150 per installed kilowatt per year), 99% of which came from improved air quality. Cross-border electricity trade extended these benefits to neighboring countries. Applying trade-flow-derived import ratios, which range from 21% to 92% across countries, an estimated 40% of these benefits is associated with imported solar panels on a benefit-weighted basis; this estimate does not trace specific modules. Our findings provide much-needed evidence to inform policy debates on accelerating clean energy deployment and shaping the future of global clean energy supply chains.
+
+
+## Links
+
+Published [paper](https://www.cell.com/nexus/fulltext/S2950-1601(26)00060-4)
+
+Open-access [pdf](https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf)
+
+Zenodo [data and resources](https://zenodo.org/records/23480950)
+
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-hide-no-mentions="true" data-doi="10.1016/j.ynexs.2026.100177"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ynexs.2026.100177" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

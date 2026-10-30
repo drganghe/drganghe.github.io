@@ -4,7 +4,7 @@ news
 
 recognition
 
-featured
+multiple
 
 Thank you for supporting our work!
 

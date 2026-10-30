@@ -15,7 +15,95 @@
 <link>https://drganghe.github.io/posts.html</link>
 </image>
 <generator>quarto-1.10.11</generator>
-<lastBuildDate>Fri, 23 Oct 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Health and climate benefits of solar photovoltaics in Europe and the role of imports</title>
+  <dc:creator>Kaifang Luo</dc:creator>
+  <dc:creator>Yun Li</dc:creator>
+  <dc:creator>Guochao Chen</dc:creator>
+  <dc:creator>Minghao Qiu</dc:creator>
+  <dc:creator>Froylan E. Sifuentes</dc:creator>
+  <dc:creator>Hongliang Zhang</dc:creator>
+  <dc:creator>Gang He</dc:creator>
+  <link>https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Health and climate benefits of solar photovoltaics in Europe and the role of imports<br>
+Kaifang Luo, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang*, <strong>Gang He</strong>*<br>
+<em>One Earth</em> (2026)<br>
+DOI: <a href="https://doi.org/10.1016/j.ynexs.2026.100177">10.1016/j.ynexs.2026.100177</a></p>
+</div>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/Figure1.png" class="img-fluid figure-img"></p>
+<figcaption>nalytical framework</figcaption>
+</figure>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Solar photovoltaics deployment has grown rapidly in Europe, yet its health and climate benefits remain underreported. We quantify these benefits across eight European countries from 2015 to 2021 by combining statistical modeling of hourly electricity generation, air quality simulation, health impact assessment, and trade data analysis. Solar generation avoided 47 million tonnes of carbon dioxide and more than 13,000 premature deaths, yielding $116.2 billion in monetized benefits (about $150 per installed kilowatt per year), 99% of which came from improved air quality. Cross-border electricity trade extended these benefits to neighboring countries. Applying trade-flow-derived import ratios, which range from 21% to 92% across countries, an estimated 40% of these benefits is associated with imported solar panels on a benefit-weighted basis; this estimate does not trace specific modules. Our findings provide much-needed evidence to inform policy debates on accelerating clean energy deployment and shaping the future of global clean energy supply chains.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.cell.com/nexus/fulltext/S2950-1601(26)00060-4">paper</a></p>
+<p>Open-access <a href="https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf">pdf</a></p>
+<p>Zenodo <a href="https://zenodo.org/records/23480950">data and resources</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-hide-no-mentions="true" data-doi="10.1016/j.ynexs.2026.100177">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ynexs.2026.100177" data-hide-zero-citations="true" data-style="small_circle"></span>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{luo2026,
+  author = {Luo, Kaifang and Li, Yun and Chen, Guochao and Qiu, Minghao
+    and E. Sifuentes, Froylan and Zhang, Hongliang and He, Gang},
+  title = {Health and Climate Benefits of Solar Photovoltaics in
+    {Europe} and the Role of Imports},
+  journal = {Nexus},
+  pages = {100177},
+  date = {2026-10-29},
+  url = {https://doi.org/10.1016/j.ynexs.2026.100177},
+  doi = {10.1016/j.ynexs.2026.100177},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-luo2026" class="csl-entry quarto-appendix-citeas">
+Luo, Kaifang, Yun Li, Guochao Chen, et al. 2026. <span>“Health and
+Climate Benefits of Solar Photovoltaics in Europe and the Role of
+Imports.”</span> <em>Nexus</em>, October 29, 100177. <a href="https://doi.org/10.1016/j.ynexs.2026.100177">https://doi.org/10.1016/j.ynexs.2026.100177</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/</guid>
+  <pubDate>Thu, 29 Oct 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/Figure1.png" medium="image" type="image/png" height="83" width="144"/>
+</item>
 <item>
   <title>AAEA Keynote: Powering the AI Revolution--Energy Infrastructure, Supply Constraints, and Economic Implications</title>
   <link>https://drganghe.github.io/</link>
@@ -101,7 +189,7 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>news</category>
   <category>recognition</category>
-  <category>featured</category>
+  <category>multiple</category>
   <guid>https://drganghe.github.io/posts/stanford-elsevier-top-2percent-scientists/</guid>
   <pubDate>Wed, 07 Oct 2026 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/files/awards/Top2Percent.png" medium="image" type="image/png" height="81" width="144"/>
@@ -411,6 +499,7 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>news</category>
   <category>recognition</category>
+  <category>featured</category>
   <guid>https://drganghe.github.io/posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/</guid>
   <pubDate>Thu, 21 May 2026 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/posts/2026-cuny-academy-sandi-cooper-award-for-outstanding-research-for-associate-professors/featured.png" medium="image" type="image/png" height="81" width="144"/>
@@ -1523,125 +1612,6 @@ Power?”</span> <em>Nature</em> 643 (July): 1186–88. <a href="https://doi.org
   <guid>https://drganghe.github.io/</guid>
   <pubDate>Tue, 01 Jul 2025 04:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/files/flyers/20250701mes-supply-chains-flyer-small.png" medium="image" type="image/png" height="106" width="144"/>
-</item>
-<item>
-  <title>Third Annual Conference on Climate Research, Teaching, and Collaboration</title>
-  <dc:creator>Baruch Climate Conference</dc:creator>
-  <link>https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://www.baruch.cuny.edu/climateconference/"><img src="https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/featured.webp" class="img-fluid"></a></p>
-<section id="third-annual-conference-on-climate-research-teaching-and-collaboration" class="level2">
-<h2 class="anchored" data-anchor-id="third-annual-conference-on-climate-research-teaching-and-collaboration">Third Annual Conference on Climate Research, Teaching, and Collaboration</h2>
-<p>Thursday, Mar.&nbsp;6 10 am–4:30 pm Information and Technology Building Rackow Conference Center, Room 750</p>
-<p><strong>Multidisciplinary Climate Research and Teaching</strong></p>
-<blockquote class="blockquote">
-<p>We will highlight the innovative climate research of our Baruch and CUNY faculty from the Austin W. Marxe School of Public and International Affairs, Weissman School of Arts and Sciences, and Zicklin School of Business. Presenters will share their research about the many ways in which climate change is impacting our lives. A Dean’s Panel will highlight interdisciplinary coordination. Hear from Jessica Lang, Dean, Weissman School of Arts and Sciences; Sherry Ryan, Dean, Marxe School of Public and International Affairs; and Bruce Weber, Dean, Zicklin School of Business.</p>
-</blockquote>
-</section>
-<section id="registration" class="level2">
-<h2 class="anchored" data-anchor-id="registration">Registration</h2>
-<p>9:45–10:10 am</p>
-</section>
-<section id="welcome" class="level2">
-<h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
-<p>10:10–10:15 am</p>
-<p>Linda Essig, Provost, Baruch College, CUNY</p>
-<p>Chester Zarnoch, Weissman School of Arts and Sciences, Baruch College, CUNY</p>
-</section>
-<section id="group-1-research-presentations" class="level2">
-<h2 class="anchored" data-anchor-id="group-1-research-presentations">Group 1: Research Presentations</h2>
-<p>10:15–11:15 am</p>
-<ul>
-<li>Refining Carbon Isotope Proxies for Paleo pCO₂: Advances and Challenges in Climate Reconstruction, Ana Gonzalez-Nayeck, Assistant Professor, Natural Sciences</li>
-<li>The Role of Disturbance in Ant Behavioral Biodiversity and Invasive Potential, Sarah Bengston, Assistant Professor, Natural Sciences</li>
-<li>From the Classroom to Alice’s Rabbit Hole in Wonderland: Curious Nature Exhibit, Sochuiwon Priscilla, PhD Candidate, CUNY Graduate Center</li>
-<li>Celebrating Five Years of the Susan Locke Seminar, Chester Zarnoch, Professor, Natural Sciences</li>
-</ul>
-</section>
-<section id="break" class="level2">
-<h2 class="anchored" data-anchor-id="break">Break</h2>
-<p>11:15–11:30 am</p>
-</section>
-<section id="group-2-research-presentations" class="level2">
-<h2 class="anchored" data-anchor-id="group-2-research-presentations">Group 2: Research Presentations</h2>
-<p>11:25 am–12:10 pm</p>
-<ul>
-<li>Permaculture, Potatoes, and Peas: Climate and Culture Considerations in Writing 2150, Evelyn Adler, Adjunct Professor, English</li>
-<li>Toward a Political Ecology of Insect Conservation in Agricultural Landscapes, Ben Iuliano, Doctoral Lecturer, Natural Sciences</li>
-<li>The Power of Framing: How Labeling Influences Plant-Based Food Choices in the U.S., Patrycja Sleboda, Assistant Professor, Psychology</li>
-</ul>
-</section>
-<section id="deans-panel-interdisciplinary-collaboration" class="level2">
-<h2 class="anchored" data-anchor-id="deans-panel-interdisciplinary-collaboration">Deans’ Panel: Interdisciplinary Collaboration</h2>
-<p>12:10–1:15 pm</p>
-<p>Moderator: Samantha McBride, Adjunct Assistant Professor, Public Affairs</p>
-<ul>
-<li>Jessica Lang, Dean of the Weissman School of Arts and Sciences</li>
-<li>Sherry Ryan, Marxe Dean</li>
-<li>Bruce Weber, Dean, Zicklin School of Business</li>
-</ul>
-</section>
-<section id="lunch" class="level2">
-<h2 class="anchored" data-anchor-id="lunch">Lunch</h2>
-<p>1:15 –2:10 pm</p>
-</section>
-<section id="group-3-research-presentations" class="level2">
-<h2 class="anchored" data-anchor-id="group-3-research-presentations">Group 3: Research Presentations</h2>
-<p>2:10–2:55 pm</p>
-<ul>
-<li>Extreme Weather and Mortality of Vulnerable Urban Populations: An Examination of Temperature and Unclaimed Deaths in New York City, Frank Heiland, Professor, Public Affairs and Selen Özdoğan, PhD Student, Economics, CUNY Graduate Center</li>
-<li>Disaster Displacement in the U.S., Deborah Balk, Professor, Public Affairs and Jenna Tipaldo, PhD Student, Environmental and Planetary Health Sciences, CUNY School of Public Health</li>
-<li>Establishing a Weather Station Network in India Covering Eight States – Public Diplomacy in Action, Neal Phillip, Professor &amp; Chairperson and Paramita Sen, Lecturer, Chemistry, Earth Sciences, and Environmental Sciences, Bronx Community College</li>
-</ul>
-</section>
-<section id="break-1" class="level2">
-<h2 class="anchored" data-anchor-id="break-1">Break</h2>
-<p>2:55–3:05 pm</p>
-</section>
-<section id="group-4-research-presentations" class="level2">
-<h2 class="anchored" data-anchor-id="group-4-research-presentations">Group 4: Research Presentations</h2>
-<p>3:05–4:05 pm</p>
-<ul>
-<li><p><strong>Health and Climate Benefits of Solar Photovoltaic in European Countries and the Role of Imports</strong>, <strong>Gang He</strong>, Assistant Professor, Public Affairs</p></li>
-<li><p>Understanding The World Bank’s Role in Climate Finance, Asli Leblebicioglu, Associate Professor, Public Affairs</p></li>
-<li><p>Saving the Environment Through Corporate Governance: “Real ESG” as a Cure for Democracy’s Failings, David Rosenberg, Associate Professor, Law</p></li>
-<li><p>Climate and the Food-Energy-Water-Waste Nexus: From the Viewpoint of Waste, Samantha McBride, Adjunct Assistant Professor, Public Affairs</p></li>
-</ul>
-</section>
-<section id="closing-remarks" class="level2">
-<h2 class="anchored" data-anchor-id="closing-remarks">Closing Remarks</h2>
-<p>4:05–4:15 pm</p>
-<p>Chester Zarnoch, Weissman School of Arts and Sciences</p>
-<p>Welcome to join us to learn more about climate-related activities at CUNY.</p>
-</section>
-<section id="conference-website" class="level2">
-<h2 class="anchored" data-anchor-id="conference-website">Conference Website</h2>
-<p><a href="https://www.baruch.cuny.edu/climateconference/" class="uri">https://www.baruch.cuny.edu/climateconference/</a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_whatsapp"></a> <a class="a2a_button_wechat"></a> <a class="a2a_button_sina_weibo"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/</guid>
-  <pubDate>Thu, 06 Mar 2025 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/featured.webp" medium="image" type="image/webp"/>
 </item>
 </channel>
 </rss>
