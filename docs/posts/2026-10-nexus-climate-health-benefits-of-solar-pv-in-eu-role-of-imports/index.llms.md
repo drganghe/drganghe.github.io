@@ -39,7 +39,7 @@ nalytical framework
 
 ## Abstract
 
-Solar photovoltaics deployment has grown rapidly in Europe, yet its health and climate benefits remain underreported. We quantify these benefits across eight European countries from 2015 to 2021 by combining statistical modeling of hourly electricity generation, air quality simulation, health impact assessment, and trade data analysis. Solar generation avoided 47 million tonnes of carbon dioxide and more than 13,000 premature deaths, yielding \$116.2 billion in monetized benefits (about \$150 per installed kilowatt per year), 99% of which came from improved air quality. Cross-border electricity trade extended these benefits to neighboring countries. Applying trade-flow-derived import ratios, which range from 21% to 92% across countries, an estimated 40% of these benefits is associated with imported solar panels on a benefit-weighted basis; this estimate does not trace specific modules. Our findings provide much-needed evidence to inform policy debates on accelerating clean energy deployment and shaping the future of global clean energy supply chains.
+Solar photovoltaic deployment has grown rapidly in Europe, yet its health and climate benefits remain underreported. We quantify these benefits across eight European countries from 2015 to 2021 by combining statistical modeling of hourly electricity generation, air quality simulation, health impact assessment, and trade data analysis. Solar generation avoided 47 million tonnes of carbon dioxide and more than 13,000 premature deaths, yielding \$116.2 billion in monetized benefits (about \$150 per installed kilowatt per year), 99% of which came from improved air quality. Cross-border electricity trade extended these benefits to neighboring countries. Applying trade-flow-derived import ratios, which range from 21% to 92% across countries, an estimated 40% of these benefits is associated with imported solar panels on a benefit-weighted basis; this estimate does not trace specific modules. Our findings provide much-needed evidence to inform policy debates on accelerating clean energy deployment and shaping the future of global clean energy supply chains.
 
 ## Links
 
@@ -48,6 +48,8 @@ Published [paper](https://www.cell.com/nexus/fulltext/S2950-1601(26)00060-4)
 Open-access [pdf](https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf)
 
 Zenodo [data and resources](https://zenodo.org/records/23480950)
+
+Press [Release](https://deeppolicylab.github.io/news/2026-10-29-nexus-health-and-climate-benefits-of-solar-pv-in-the-eu.html)
 
 ## Citation
 
