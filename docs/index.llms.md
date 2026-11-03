@@ -59,7 +59,7 @@ Energy, Trade, and Health
 
 ### Imported Solar Panels Deliver Major Benefits
 
-Imported solar PVs contributed to 178 million tonnes of avoided CO₂ emissions and 595 avoided premature deaths in the United States, generating an estimated \$28 billion in climate and health benefits.
+Imported solar PVs contributed to 178 million tonnes of avoided CO₂ emissions and 595 avoided premature deaths in the United States, generating an estimated \$28 billion in climate and health benefits 2014–2022.
 
 *One Earth* · 2025
 
