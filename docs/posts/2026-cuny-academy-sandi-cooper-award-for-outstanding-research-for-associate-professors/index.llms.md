@@ -16,7 +16,7 @@ Published
 
 May 21, 2026
 
-[![](cuny-academy-logo.png)](https://www.gc.cuny.edu/cuny-academy-humanities-and-sciences)
+[![](cuny-academy-logo.png)](https://www.gc.cuny.edu/cuny-academy-humanities-and-sciences/awards/sandi-cooper-and-jerome-krase-awards)
 
 Sandi Cooper Award for Outstanding Research for Associate Professors
 
@@ -28,7 +28,7 @@ I greatly appreciate my nominator and referees for their nomination and referenc
 
 ## About the Award
 
-> The [Jerome Krase & Sandi Cooper Awards](https://www.gc.cuny.edu/cuny-academy-humanities-and-sciences/awards/jerome-krase-sandi-cooper-awards) are new awards from CUNY Academy, to be presented each year to associate professors at CUNY in recognition of outstanding research in the humanities or sciences, including social and life sciences. The awardees are selected among a large group of nominees of associate professors from all CUNY campuses and receive university-wide recognition of their work.
+> The [Jerome Krase & Sandi Cooper Awards](https://www.gc.cuny.edu/cuny-academy-humanities-and-sciences/awards/sandi-cooper-and-jerome-krase-awards) are new awards from CUNY Academy, to be presented each year to associate professors at CUNY in recognition of outstanding research in the humanities or sciences, including social and life sciences. The awardees are selected among a large group of nominees of associate professors from all CUNY campuses and receive university-wide recognition of their work.
 
 ## CUNY Academy
 
