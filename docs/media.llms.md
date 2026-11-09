@@ -126,7 +126,7 @@ Lili Pike
 
 ### [How Biden’s made-in-America solar strategy may backfire](https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/)
 
-[A new](https://www.eenews.net/articles/how-bidens-made-in-america-solar-strategy-may-backfire/) [study](posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.llms.md) in *Nature* concludes that policies similar to ones the administration is considering could make solar panels 30 percent more expensive by the end of the decade.
+A new study in *Nature* concludes that policies similar to ones the administration is considering could make solar panels 30 percent more expensive by the end of the decade.
 
 Oct 27, 2022
 
@@ -216,7 +216,7 @@ Benjamin Storrow
 
 ### [China’s Path to Clean Energy May Be Smoother than We Previously Thought](https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/)
 
-[A new](https://insideclimatenews.org/news/04062020/inside-clean-energy-arkansas-rooftop-solar/) [paper](posts/2020-05-ncomms-rapid-re-cost/index.llms.md) in the journal *Nature Communications* says the probable reality is much better than we previously thought, largely because of falling costs of wind, solar and battery storage.
+A new paper in the journal *Nature Communications* says the probable reality is much better than we previously thought, largely because of falling costs of wind, solar and battery storage.
 
 Jun 4, 2020
 
@@ -236,7 +236,7 @@ Jay Shah
 
 ### [Where is the world’s greenest city?](https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly)
 
-[In a 2015](https://www.theguardian.com/cities/2015/apr/02/where-is-the-worlds-greenest-city-ecofriendly) [study](posts/2015-ei-elite-cities-low-carbon-eco-city-evaluation-tool/index.llms.md) published in the journal Ecological Indicators, scientists based at the Lawrence Berkeley National Laboratory in California have fine-tuned a potential method for assessing Chinese “eco-cities” using 33 key indicators.
+In a 2015 study published in the journal Ecological Indicators, scientists based at the Lawrence Berkeley National Laboratory in California have fine-tuned a potential method for assessing Chinese “eco-cities” using 33 key indicators.
 
 Apr 2, 2015
 
@@ -246,7 +246,7 @@ Hayley Birch
 
 ### [Western companies gave China power projects a boost](https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/)
 
-[The rejections exposed cracks at the core of how carbon credits are verified in developing economies, according to a](https://www.seattletimes.com/nation-world/western-companies-gave-china-power-projects-a-boost/) [study](posts/2013-ep-carbon-offsetters-paradox/index.llms.md) of the Chinese wind-power industry by Gang He and Richard Morse of Stanford University.
+The rejections exposed cracks at the core of how carbon credits are verified in developing economies, according to a study of the Chinese wind-power industry by Gang He and Richard Morse of Stanford University.
 
 May 5, 2014
 
