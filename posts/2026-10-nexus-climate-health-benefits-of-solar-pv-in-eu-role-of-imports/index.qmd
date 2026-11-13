@@ -50,6 +50,8 @@ Zenodo [data and resources](https://zenodo.org/records/23480950)
 
 Press [Release](https://deeppolicylab.github.io/news/2026-10-29-nexus-health-and-climate-benefits-of-solar-pv-in-the-eu.html)
 
+Nexus公众号[推送](https://mp.weixin.qq.com/s/q-7SmC6PV2A60ahP6sG1Rw)
+
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-hide-no-mentions="true" data-doi="10.1016/j.ynexs.2026.100177"></div>
 

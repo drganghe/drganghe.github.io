@@ -15,6 +15,8 @@ Luo, Kaifang, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang
 
 [ PDF](https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf) [ Code](https://zenodo.org/records/23480950)
 
+Coverage: Nexus [WeChat](https://mp.weixin.qq.com/s/q-7SmC6PV2A60ahP6sG1Rw)
+
 ------------------------------------------------------------------------
 
 How Hard Are Hard-to-Abate Sectors? Rethinking Industrial Decarbonization Pathways **He, Gang**\* and Jiang Lin Aug 21, 2026
@@ -190,6 +192,14 @@ Unlocking the potential of green development: Can intelligent manufacturing impr
 Li, Jinkai, Jiexiao Ge\*, Peilin Tian, **Gang He**, Tao Mao, Zhanfeng Dong\*. 2027. [Unlocking the potential of green development: Can intelligent manufacturing improve corporate environmental performance?](https://www.sciencedirect.com/science/article/pii/S0195925526003562). *Environmental Impact Assessment Review* 122: 108682. doi: [10.1016/j.eiar.2026.108682](https://doi.org/10.1016/j.eiar.2026.108682).
 
 [ SharedIt](https://authors.elsevier.com/c/1nhF~iZ5tOJzg) [ Supplemental](https://ars.els-cdn.com/content/image/1-s2.0-S0195925526003562-mmc1.docx)
+
+------------------------------------------------------------------------
+
+Load-aligned renewable siting reduces net-load stress and downstream flexibility needs Zhou, Zhou, Guotian Cai\*, Yushu Chen, Shuai Nie, Wenjie Du, **Gang He**\* Nov 9, 2026
+
+Zhou, Zhou, Guotian Cai\*, Yushu Chen, Shuai Nie, Wenjie Du, **Gang He**\*. 2026. [Load-aligned renewable siting reduces net-load stress and downstream flexibility needs](https://www.sciencedirect.com/science/article/abs/pii/S0360544226032160). *Energy* : 143108. doi: [10.1016/j.energy.2026.143108](https://doi.org/10.1016/j.energy.2026.143108).
+
+[ Code](https://github.com/zhouzhou112/REX-Grid)
 
 ------------------------------------------------------------------------
 
@@ -617,6 +627,14 @@ Li, Jinkai, Jiexiao Ge\*, Peilin Tian, **Gang He**, Tao Mao, Zhanfeng Dong\*. 20
 
 ------------------------------------------------------------------------
 
+Load-aligned renewable siting reduces net-load stress and downstream flexibility needs Zhou, Zhou, Guotian Cai\*, Yushu Chen, Shuai Nie, Wenjie Du, **Gang He**\* Nov 9, 2026
+
+Zhou, Zhou, Guotian Cai\*, Yushu Chen, Shuai Nie, Wenjie Du, **Gang He**\*. 2026. [Load-aligned renewable siting reduces net-load stress and downstream flexibility needs](https://www.sciencedirect.com/science/article/abs/pii/S0360544226032160). *Energy* : 143108. doi: [10.1016/j.energy.2026.143108](https://doi.org/10.1016/j.energy.2026.143108).
+
+[ Code](https://github.com/zhouzhou112/REX-Grid)
+
+------------------------------------------------------------------------
+
 Resilience planning for power systems under deep climate uncertainty Wang, Jiarui, Junqi Liu, Lei Zhu\*, **Gang He**\* Sep 1, 2026
 
 Wang, Jiarui, Junqi Liu, Lei Zhu\*, **Gang He**\*. 2026. [Resilience planning for power systems under deep climate uncertainty](https://www.sciencedirect.com/science/article/pii/S0140988326004068). *Energy Economics* 161: 109527. doi: [10.1016/j.eneco.2026.109527](https://doi.org/10.1016/j.eneco.2026.109527).
@@ -1031,4 +1049,18 @@ Yang, Pingjian, **Gang He**, Guozhu Mao, Yong Liu, Mingzhu Xu, Huaicheng Guo\*, 
 
 ------------------------------------------------------------------------
 
-Publications – Dr. Gang He Publications – Dr. Gang He Publications – Dr. Gang He Dr. Gang He Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition.
+Publications – Dr. Gang He
+
+Publications – Dr. Gang He
+
+Publications – Dr. Gang He
+
+Dr. Gang He
+
+Dr. Gang He
+
+Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition.
+
+Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition.
+
+Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition.

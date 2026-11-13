@@ -14,7 +14,7 @@
 <title>Dr. Gang He</title>
 <link>https://drganghe.github.io/posts.html</link>
 </image>
-<generator>quarto-1.10.11</generator>
+<generator>quarto-1.11.9</generator>
 <lastBuildDate>Thu, 29 Oct 2026 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Health and climate benefits of solar photovoltaics in Europe and the role of imports</title>
@@ -63,6 +63,7 @@ DOI: <a href="https://doi.org/10.1016/j.ynexs.2026.100177">10.1016/j.ynexs.2026.
 <p>Open-access <a href="https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf">pdf</a></p>
 <p>Zenodo <a href="https://zenodo.org/records/23480950">data and resources</a></p>
 <p>Press <a href="https://deeppolicylab.github.io/news/2026-10-29-nexus-health-and-climate-benefits-of-solar-pv-in-the-eu.html">Release</a></p>
+<p>Nexus公众号<a href="https://mp.weixin.qq.com/s/q-7SmC6PV2A60ahP6sG1Rw">推送</a></p>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-hide-no-mentions="true" data-doi="10.1016/j.ynexs.2026.100177">
 
@@ -83,7 +84,7 @@ https://quarto.org/docs/authoring/includes.html
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{luo2026,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><div class="code-copy-outer-scaffold"><pre class="sourceCode quarto-appendix-bibtex code-with-copy"><code class="sourceCode bibtex">@article{luo2026,
   author = {Luo, Kaifang and Li, Yun and Chen, Guochao and Qiu, Minghao
     and E. Sifuentes, Froylan and Zhang, Hongliang and He, Gang},
   title = {Health and Climate Benefits of Solar Photovoltaics in
@@ -95,7 +96,7 @@ https://quarto.org/docs/authoring/includes.html
   doi = {10.1016/j.ynexs.2026.100177},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-luo2026" class="csl-entry quarto-appendix-citeas">
+</code></pre></div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-luo2026" class="csl-entry quarto-appendix-citeas">
 Luo, Kaifang, Yun Li, Guochao Chen, et al. 2026. <span>“Health and
 Climate Benefits of Solar Photovoltaics in Europe and the Role of
 Imports.”</span> <em>Nexus</em>, October 29, 100177. <a href="https://doi.org/10.1016/j.ynexs.2026.100177">https://doi.org/10.1016/j.ynexs.2026.100177</a>.
@@ -898,7 +899,7 @@ Power Grids in 2025.”</span> <em>Nature Reviews Clean Technology</em> 2
   <category>paper</category>
   <guid>https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/</guid>
   <pubDate>Tue, 20 Jan 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg" medium="image" type="image/jpeg" height="89" width="144"/>
 </item>
 <item>
   <title>New Grant to Study the Drivers and Impacts of Domestic Clean Energy Manufacturing</title>
@@ -1296,7 +1297,7 @@ United States.”</span> <em>One Earth</em> 8 (11): 101467. <a href="https://doi
   <category>event</category>
   <guid>https://drganghe.github.io/</guid>
   <pubDate>Tue, 23 Sep 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/files/images/Climate-Week-Webinare-2025.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://drganghe.github.io/files/images/Climate-Week-Webinare-2025.jpg" medium="image" type="image/jpeg" height="67" width="144"/>
 </item>
 <item>
   <title>Production Gap Report 2025</title>

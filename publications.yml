@@ -9,6 +9,7 @@
   doi: 10.1016/j.ynexs.2026.100177
   pdf: "https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf"
   code: "https://zenodo.org/records/23480950"
+  mediacoverage: "Nexus [WeChat](https://mp.weixin.qq.com/s/q-7SmC6PV2A60ahP6sG1Rw)"
   categories: [2026, corresponding-author, selected, solar, supply-chain, energy-nesus, health, climate, europe]
 
 - section: Selected Work
@@ -297,6 +298,18 @@
   shareit: "https://authors.elsevier.com/c/1nhF~iZ5tOJzg"
   supplemental: "https://ars.els-cdn.com/content/image/1-s2.0-S0195925526003562-mmc1.docx"
   categories: [2027, peer-reviewed, environment]
+
+- section: Peer-reviewed Journal Paper
+  authors: "Zhou, Zhou, Guotian Cai\\*, Yushu Chen, Shuai Nie, Wenjie Du, **Gang He**\\*"
+  year: 2026
+  date: 2026-11-09
+  title: Load-aligned renewable siting reduces net-load stress and downstream flexibility needs
+  path: "https://www.sciencedirect.com/science/article/abs/pii/S0360544226032160"
+  journal: Energy
+  pages: 143108
+  doi: 10.1016/j.energy.2026.143108
+  code: "https://github.com/zhouzhou112/REX-Grid"
+  categories: [2026, peer-reviewed, power-system, corresponding-author, AI, storage]
 
 - section: Peer-reviewed Journal Paper
   authors: "Wang, Jiarui, Junqi Liu, Lei Zhu\\*, **Gang He**\\*"

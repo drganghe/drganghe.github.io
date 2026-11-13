@@ -28,9 +28,9 @@ October 29, 2026
 
 > **NOTE:**
 >
-> Health and climate benefits of solar photovoltaics in Europe and the role of imports  
-> Kaifang Luo, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang\*, **Gang He**\*  
-> *One Earth* (2026)  
+> Health and climate benefits of solar photovoltaics in Europe and the role of imports\
+> Kaifang Luo, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang\*, **Gang He**\*\
+> *One Earth* (2026)\
 > DOI: [10.1016/j.ynexs.2026.100177](https://doi.org/10.1016/j.ynexs.2026.100177)
 
 ![](Figure1.png)
@@ -50,6 +50,8 @@ Open-access [pdf](https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf)
 Zenodo [data and resources](https://zenodo.org/records/23480950)
 
 Press [Release](https://deeppolicylab.github.io/news/2026-10-29-nexus-health-and-climate-benefits-of-solar-pv-in-the-eu.html)
+
+Nexus公众号[推送](https://mp.weixin.qq.com/s/q-7SmC6PV2A60ahP6sG1Rw)
 
 ## Citation
 
