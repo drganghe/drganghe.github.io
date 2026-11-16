@@ -58,3 +58,13 @@
   year: 2023
   url: "/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/"
   order: 4  
+
+- title: "Solar's Health and Climate Benefits in EU"
+  category: "Climate and Energy Systems"
+  number: "$150/kW per year"
+  description: >-
+    Solar generation avoided 47 million tonnes of CO₂ and more than 13,000 premature deaths, yielding $116.2 billion in monetized benefits (~ $150/kW per year) across eight European countries from 2015 to 2021.
+  journal: "Nexus"
+  year: 2026
+  url: "/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/"
+  order: 6   

@@ -9,7 +9,7 @@
   doi: 10.1016/j.ynexs.2026.100177
   pdf: "https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf"
   code: "https://zenodo.org/records/23480950"
-  mediacoverage: "Nexus [WeChat](https://mp.weixin.qq.com/s/q-7SmC6PV2A60ahP6sG1Rw)"
+  mediacoverage: "Nexus [Summary](https://mp.weixin.qq.com/s/q-7SmC6PV2A60ahP6sG1Rw) | CUNY GC [News](https://www.gc.cuny.edu/news/solar-power-prevented-13000-premature-deaths-europe-study-finds)"
   categories: [2026, corresponding-author, selected, solar, supply-chain, energy-nesus, health, climate, europe]
 
 - section: Selected Work
@@ -308,7 +308,7 @@
   journal: Energy
   pages: 143108
   doi: 10.1016/j.energy.2026.143108
-  code: "https://github.com/zhouzhou112/REX-Grid"
+  github: "https://github.com/zhouzhou112/REX-Grid"
   categories: [2026, peer-reviewed, power-system, corresponding-author, AI, storage]
 
 - section: Peer-reviewed Journal Paper

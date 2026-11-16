@@ -27,11 +27,11 @@ Email: gang.he@baruch.cuny.edu
 
 Impactful Research on Clean Energy Transitions, Climate Policy, and Sustainable Development
 
-7,500+
+8,000+
 
 Google Scholar Citations
 
-h-index: 37 · September 2026
+h-index: 37 · November 2026
 
 DEEP
 
@@ -54,6 +54,16 @@ IPCC · World Bank · UN · WTO
 Featured Research Findings
 
 ❮
+
+Climate and Energy Systems
+
+\$150/kW per year
+
+### Solar’s Health and Climate Benefits in EU
+
+Solar generation avoided 47 million tonnes of CO₂ and more than 13,000 premature deaths, yielding \$116.2 billion in monetized benefits (~ \$150/kW per year) across eight European countries from 2015 to 2021.
+
+*Nexus* · 2026
 
 Energy, Trade, and Health
 

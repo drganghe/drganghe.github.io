@@ -49,9 +49,13 @@ Open-access [pdf](https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf)
 
 Zenodo [data and resources](https://zenodo.org/records/23480950)
 
-Press [Release](https://deeppolicylab.github.io/news/2026-10-29-nexus-health-and-climate-benefits-of-solar-pv-in-the-eu.html)
+Press [Release](https://deeppolicylab.github.io/news/2026-10-29-nexus-health-and-climate-benefits-of-solar-pv-in-the-eu.html); CUNY GC [News](https://www.gc.cuny.edu/news/solar-power-prevented-13000-premature-deaths-europe-study-finds)
 
 Nexus公众号[推送](https://mp.weixin.qq.com/s/q-7SmC6PV2A60ahP6sG1Rw)
+
+## One Page
+
+[![](one-page.webp)](https://www.cell.com/nexus/fulltext/S2950-1601(26)00060-4)
 
 ## Citation
 
