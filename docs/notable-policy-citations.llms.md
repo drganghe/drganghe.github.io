@@ -12,11 +12,25 @@ Selected policy reports and documents that cite our work
 
 Data and map from [Sage Policy Profiles](https://policyprofiles.sagepub.com/profile/35156/gang-he), check more details at [Policy Citations Dashboard](https://deeppolicylab.github.io/policy-citations/).
 
+## *Nature* 2025
+
+Liu, Shangwei\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen. 2025. [Can China break the ‘cost curse’ of nuclear power?](posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/index.llms.md). *Nature* 643: 1186-88. doi: [10.1038/d41586-025-02341-z](https://doi.org/10.1038/d41586-025-02341-z). Cited by:
+
+- Employ America. 2026. [After the Aging Coal Fleet: Ramping Advanced Firm Power](https://www.employamerica.org/expanding-energy-production/after-the-aging-coal-fleet-ramping-advanced-firm-power/).
+
+- American Enterprise Institute. 2026. [Can America Build Nuclear Again?](https://www.aei.org/commentary/can-america-build-nuclear-again-part-1/).
+
+- KUDOS. 2026. [NOU 2026: 4 - Nuclear power in Norway?](https://kudos.dfo.no/dokument/a17e745c-852f-4674-8944-df3064aea425).
+
+Source: [Altmetric](https://nature.altmetric.com/details/179712521/policy-documents) and [PlumX](https://plu.mx/plum/a/policy_citation?doi=10.1038/d41586-025-02341-z)
+
 ## *Nature* 2022
 
 Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains](posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.llms.md). *Nature* 612: 83–87. doi: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6). Cited by:
 
-- World Trade Organization. 2026. [World Trade Report 2026: A critical juncture for the world trading system](https://www.wto.org/english/res_e/publications_e/world-trade-report-2026_e.htm)
+- World Trade Organization. 2026. [World Trade Report 2026: A critical juncture for the world trading system](https://www.wto.org/english/res_e/publications_e/world-trade-report-2026_e.htm). p.98.
+
+- Bruegel. 2026. [Competitiveness and opportunities for European clean tech](https://www.bruegel.org/working-paper/competitiveness-and-opportunities-european-clean-tech). p.16.
 
 - DIW Berlin. 2025. [Non-Price Criteria in Renewable Energy Auctions and Consequences for the European Solar PV Industry](https://www.diw.de/de/diw_01.c.997094.de/publikationen/diskussionspapiere/2026_2153/non-price_criteria_in_renewable_energy_auctions_and_consequences_for_the_european_solar_pv_industry.html).
 
@@ -112,4 +126,4 @@ Source: [PlumX](https://plu.mx/plum/a/policy_citation?doi=10.1021/acs.est.6b0134
 
 Source: [PlumX](https://plu.mx/plum/a/policy_citation?doi=10.1016/j.enpol.2013.09.021)
 
-Note: Data as of December 2025
+Note: Data as of 2026

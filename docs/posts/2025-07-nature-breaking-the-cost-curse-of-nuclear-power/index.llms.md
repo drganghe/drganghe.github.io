@@ -34,9 +34,9 @@ Cover page of the paper
 
 > **NOTE:**
 >
-> Can China break the ‘cost curse’ of nuclear power?  
-> Shangwei Liu\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen  
-> *Nature* (2025)  
+> Can China break the ‘cost curse’ of nuclear power?\
+> Shangwei Liu\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen\
+> *Nature* (2025)\
 > DOI: [10.1038/d41586-025-02341-z](https://doi.org/10.1038/d41586-025-02341-z)
 
 ## Summary
@@ -70,6 +70,16 @@ Source [data](https://www.nature.com/magazine-assets/d41586-025-02341-z/51274734
 - Harmonized nuclear power plant costs across countries (U.S., France, China)
 
 Nature Portfolio [summary](https://mp.weixin.qq.com/s/NZ6mnx_a46Fj0xepdMsluA) in Chinese
+
+Noteable policy citations:
+
+- Employ America. 2026. [After the Aging Coal Fleet: Ramping Advanced Firm Power](https://www.employamerica.org/expanding-energy-production/after-the-aging-coal-fleet-ramping-advanced-firm-power/).
+
+- American Enterprise Institute. 2026. [Can America Build Nuclear Again?](https://www.aei.org/commentary/can-america-build-nuclear-again-part-1/).
+
+- KUDOS. 2026. [NOU 2026: 4 - Nuclear power in Norway?](https://kudos.dfo.no/dokument/a17e745c-852f-4674-8944-df3064aea425).
+
+Source: [Altmetric](https://nature.altmetric.com/details/179712521/policy-documents) and [PlumX](https://plu.mx/plum/a/policy_citation?doi=10.1038/d41586-025-02341-z)
 
 ## *Nature* press release
 

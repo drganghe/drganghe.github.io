@@ -79,6 +79,10 @@ Source [data](https://www.nature.com/magazine-assets/d41586-025-02341-z/51274734
 
 Nature Portfolio [summary](https://mp.weixin.qq.com/s/NZ6mnx_a46Fj0xepdMsluA) in Chinese 
 
+Noteable policy citations:
+
+{{< include /files/includes/policycitations/_nature2025.qmd >}}
+
 
 ```{=html}
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-025-02341-z" data-hide-zero-citations="true" data-style="small_circle"></span> 

@@ -1511,6 +1511,13 @@ DOI: <a href="https://doi.org/10.1038/d41586-025-02341-z">10.1038/d41586-025-023
 <li>Harmonized nuclear power plant costs across countries (U.S., France, China)</li>
 </ul>
 <p>Nature Portfolio <a href="https://mp.weixin.qq.com/s/NZ6mnx_a46Fj0xepdMsluA">summary</a> in Chinese</p>
+<p>Noteable policy citations:</p>
+<ul>
+<li><p>Employ America. 2026. <a href="https://www.employamerica.org/expanding-energy-production/after-the-aging-coal-fleet-ramping-advanced-firm-power/">After the Aging Coal Fleet: Ramping Advanced Firm Power</a>.</p></li>
+<li><p>American Enterprise Institute. 2026. <a href="https://www.aei.org/commentary/can-america-build-nuclear-again-part-1/">Can America Build Nuclear Again?</a>.</p></li>
+<li><p>KUDOS. 2026. <a href="https://kudos.dfo.no/dokument/a17e745c-852f-4674-8944-df3064aea425">NOU 2026: 4 - Nuclear power in Norway?</a>.</p></li>
+</ul>
+<p>Source: <a href="https://nature.altmetric.com/details/179712521/policy-documents">Altmetric</a> and <a href="https://plu.mx/plum/a/policy_citation?doi=10.1038/d41586-025-02341-z">PlumX</a></p>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><span class="__dimensions_badge_embed__" data-doi="10.1038/d41586-025-02341-z" data-hide-zero-citations="true" data-style="small_circle"></span> 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/d41586-025-02341-z"></div>
 </section>
@@ -1587,7 +1594,7 @@ Rothwell, Geoffrey. 2022. <span>“Projected Electricity Costs in International 
 <ol>
 <li id="fn1"><p><strong>Clarification regarding Flamanville 3 cost estimates</strong>: At the time of our data collection, Flamanville 3 was still under construction, with published overnight cost estimates ranging from $4.013/W to $8.62/W <span class="citation" data-cites="rothwellProjectedElectricityCosts2022">(see Rothwell 2022, Table 2)</span>. In our original figure (now included as <a href="https://media.nature.com/original/magazine-assets/d41586-025-02341-z/51274736">Supplementary Figure S1</a>), we used the lower bound estimate of $4/W and denoted it as “&gt; $4/W” to reflect the uncertainty and acknowledge that this conservative value already illustrates the magnitude of cost escalation in France’s recent nuclear construction. Subsequently, the <a href="https://www.ccomptes.fr/fr/publications/la-filiere-epr-une-dynamique-nouvelle-des-risques-persistants">2025 French Court of Auditors’ review</a> placed the overnight construction cost at over $10/W. We note that the “&gt;” symbol was inadvertently omitted from the final published figure, and we apologize for this oversight.↩︎</p></li>
 </ol>
-</section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{liu2025,
+</section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><div class="code-copy-outer-scaffold"><pre class="sourceCode quarto-appendix-bibtex code-with-copy"><code class="sourceCode bibtex">@article{liu2025,
   author = {Liu, Shangwei and He, Gang and Qiu, Minghao and M. Kammen,
     Daniel},
   title = {Can {China} Break the “Cost Curse” of Nuclear Power?},
@@ -1599,7 +1606,7 @@ Rothwell, Geoffrey. 2022. <span>“Projected Electricity Costs in International 
   doi = {10.1038/d41586-025-02341-z},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-liu2025" class="csl-entry quarto-appendix-citeas">
+</code></pre></div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-liu2025" class="csl-entry quarto-appendix-citeas">
 Liu, Shangwei, Gang He, Minghao Qiu, and Daniel M. Kammen. 2025.
 <span>“Can China Break the <span>‘Cost Curse’</span> of Nuclear
 Power?”</span> <em>Nature</em> 643 (July): 1186–88. <a href="https://doi.org/10.1038/d41586-025-02341-z">https://doi.org/10.1038/d41586-025-02341-z</a>.

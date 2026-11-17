@@ -1,6 +1,6 @@
 # Publications
 
-Total citations as of September 2026:
+Total citations as of November 2026:
 
 - [Web of Science](https://www.webofscience.com/wos/author/record/N-4549-2013): 5,000+ (h-index = 33)
 - [Google Scholar](https://scholar.google.com/citations?user=vf90AuEAAAAJ): 8,000+ (h-index = 37, i10-index = 70)

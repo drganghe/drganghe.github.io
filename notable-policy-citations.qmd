@@ -31,6 +31,13 @@ title-block-banner: false
 Data and map from [Sage Policy Profiles](https://policyprofiles.sagepub.com/profile/35156/gang-he), check more details at [Policy Citations Dashboard](https://deeppolicylab.github.io/policy-citations/).
 :::
 
+## *Nature* 2025
+
+Liu, Shangwei\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen. 2025. [Can China break the 'cost curse' of nuclear power?](/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/index.qmd). *Nature* 643: 1186-88. doi: [10.1038/d41586-025-02341-z](https://doi.org/10.1038/d41586-025-02341-z). Cited by:
+
+{{< include /files/includes/policycitations/_nature2025.qmd >}}
+
+
 ## *Nature* 2022
 
 Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd). *Nature* 612: 83–87. doi: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6). Cited by:
@@ -77,7 +84,7 @@ Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jias
 
 {{< include /files/includes/policycitations/_energypolicy2013.qmd >}}
 
-Note: Data as of December 2025
+Note: Data as of 2026
 
 <!--Include social share buttons-->
 
