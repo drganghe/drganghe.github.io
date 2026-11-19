@@ -16,8 +16,8 @@ image: "Figure1.png"
 citation:
   type: article-journal
   container-title: "Nexus"
-#  volume: 8
-#  issue: 11
+  volume: 3
+  issue: 4
   page: 100177
   doi: "10.1016/j.ynexs.2026.100177"
   url: https://doi.org/10.1016/j.ynexs.2026.100177
@@ -33,7 +33,7 @@ Kaifang Luo, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang 
 DOI: [10.1016/j.ynexs.2026.100177](https://doi.org/10.1016/j.ynexs.2026.100177)  
 :::
 
-![nalytical framework](Figure1.png)
+![Analytical framework](Figure1.png)
 
 ## Abstract
 

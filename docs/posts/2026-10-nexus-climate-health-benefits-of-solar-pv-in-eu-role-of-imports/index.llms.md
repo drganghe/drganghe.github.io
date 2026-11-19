@@ -35,7 +35,7 @@ October 29, 2026
 
 ![](Figure1.png)
 
-nalytical framework
+Analytical framework
 
 ## Abstract
 
@@ -68,6 +68,8 @@ BibTeX citation:
   title = {Health and Climate Benefits of Solar Photovoltaics in
     {Europe} and the Role of Imports},
   journal = {Nexus},
+  volume = {3},
+  number = {4},
   pages = {100177},
   date = {2026-10-29},
   url = {https://doi.org/10.1016/j.ynexs.2026.100177},
@@ -78,4 +80,4 @@ BibTeX citation:
 
 For attribution, please cite this work as:
 
-Luo, Kaifang, Yun Li, Guochao Chen, et al. 2026. “Health and Climate Benefits of Solar Photovoltaics in Europe and the Role of Imports.” *Nexus*, October 29, 100177. <https://doi.org/10.1016/j.ynexs.2026.100177>.
+Luo, Kaifang, Yun Li, Guochao Chen, et al. 2026. “Health and Climate Benefits of Solar Photovoltaics in Europe and the Role of Imports.” *Nexus* 3 (4): 100177. <https://doi.org/10.1016/j.ynexs.2026.100177>.

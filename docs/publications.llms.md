@@ -11,7 +11,7 @@ Total citations as of November 2026:
 
 Health and climate benefits of solar photovoltaics in Europe and the role of imports Luo, Kaifang, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang\*, **Gang He**\* Oct 29, 2026
 
-Luo, Kaifang, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang\*, **Gang He**\*. 2026. [Health and climate benefits of solar photovoltaics in Europe and the role of imports](https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/index.html). *Nexus* : 100177. doi: [10.1016/j.ynexs.2026.100177](https://doi.org/10.1016/j.ynexs.2026.100177).
+Luo, Kaifang, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang\*, **Gang He**\*. 2026. [Health and climate benefits of solar photovoltaics in Europe and the role of imports](https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/index.html). *Nexus* 3(4): 100177. doi: [10.1016/j.ynexs.2026.100177](https://doi.org/10.1016/j.ynexs.2026.100177).
 
 [ PDF](https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf) [ Code](https://zenodo.org/records/23480950)
 

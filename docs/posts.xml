@@ -50,7 +50,7 @@ DOI: <a href="https://doi.org/10.1016/j.ynexs.2026.100177">10.1016/j.ynexs.2026.
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/Figure1.png" class="img-fluid figure-img"></p>
-<figcaption>nalytical framework</figcaption>
+<figcaption>Analytical framework</figcaption>
 </figure>
 </div>
 <section id="abstract" class="level2">
@@ -94,6 +94,8 @@ https://quarto.org/docs/authoring/includes.html
   title = {Health and Climate Benefits of Solar Photovoltaics in
     {Europe} and the Role of Imports},
   journal = {Nexus},
+  volume = {3},
+  number = {4},
   pages = {100177},
   date = {2026-10-29},
   url = {https://doi.org/10.1016/j.ynexs.2026.100177},
@@ -103,7 +105,7 @@ https://quarto.org/docs/authoring/includes.html
 </code></pre></div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-luo2026" class="csl-entry quarto-appendix-citeas">
 Luo, Kaifang, Yun Li, Guochao Chen, et al. 2026. <span>“Health and
 Climate Benefits of Solar Photovoltaics in Europe and the Role of
-Imports.”</span> <em>Nexus</em>, October 29, 100177. <a href="https://doi.org/10.1016/j.ynexs.2026.100177">https://doi.org/10.1016/j.ynexs.2026.100177</a>.
+Imports.”</span> <em>Nexus</em> 3 (4): 100177. <a href="https://doi.org/10.1016/j.ynexs.2026.100177">https://doi.org/10.1016/j.ynexs.2026.100177</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
   <guid>https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/</guid>
