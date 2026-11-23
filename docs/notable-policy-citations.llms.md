@@ -24,6 +24,14 @@ Liu, Shangwei\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen. 2025. [Can Ch
 
 Source: [Altmetric](https://nature.altmetric.com/details/179712521/policy-documents) and [PlumX](https://plu.mx/plum/a/policy_citation?doi=10.1038/d41586-025-02341-z)
 
+## *Nature Energy* 2023
+
+Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.llms.md). *Nature Energy* 8(8): 870–880. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). Cited by:
+
+- UNEP. 2024. [Emissions gap report 2024: no more hot air please: with a massive gap between rhetoric and reality, countries draft new climate commitments](https://wedocs.unep.org/handle/20.500.11822/46404).
+
+Source: [PlumX](https://plu.mx/plum/a/policy_citation?doi=10.1038/s41560-023-01304-w)
+
 ## *Nature* 2022
 
 Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains](posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.llms.md). *Nature* 612: 83–87. doi: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6). Cited by:
@@ -55,14 +63,6 @@ Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cos
 - World Trade Organization. 2023. [Global Value Chain Development Report 2023](https://www.wto.org/english/res_e/publications_e/gvc_dev_rep23_e.htm).
 
 Source: [Altmetric](https://nature.altmetric.com/details/137703061/policy-documents) and [PlumX](https://plu.mx/plum/a/policy_citation?doi=10.1038/s41586-022-05316-6)
-
-## *Nature Energy* 2023
-
-Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.llms.md). *Nature Energy* 8(8): 870–880. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). Cited by:
-
-- UNEP. 2024. [Emissions gap report 2024: no more hot air please: with a massive gap between rhetoric and reality, countries draft new climate commitments](https://wedocs.unep.org/handle/20.500.11822/46404).
-
-Source: [PlumX](https://plu.mx/plum/a/policy_citation?doi=10.1038/s41560-023-01304-w)
 
 ## *One Earth* 2020
 

@@ -38,17 +38,20 @@ Liu, Shangwei\*, **Gang He**\*, Minghao Qiu, and Daniel M. Kammen. 2025. [Can Ch
 {{< include /files/includes/policycitations/_nature2025.qmd >}}
 
 
-## *Nature* 2022
-
-Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd). *Nature* 612: 83–87. doi: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6). Cited by:
-
-{{< include /files/includes/policycitations/_nature2022.qmd >}}
 
 ## *Nature Energy* 2023
 
 Liu, Laibao\*, **Gang He**, Mengxi Wu\*, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. [Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems](/posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.qmd). *Nature Energy* 8(8): 870–880. doi: [10.1038/s41560-023-01304-w](https://doi.org/10.1038/s41560-023-01304-w). Cited by:
 
 {{< include /files/includes/policycitations/_natureenergy2023.qmd >}}
+
+
+## *Nature* 2022
+
+Helveston, John, **Gang He**\*, and Michael Davidson. 2022. [Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd). *Nature* 612: 83–87. doi: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6). Cited by:
+
+{{< include /files/includes/policycitations/_nature2022.qmd >}}
+
 
 ## *One Earth* 2020
 
