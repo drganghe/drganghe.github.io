@@ -148,13 +148,17 @@ Email: gang.he@baruch.cuny.edu
 
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-3}
 ::: {.button}
 [Bio](bio.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
 :::
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-2}
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
 ::: {.button}
 [CV](cv.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" style="margin-top: 0em;"}
 :::

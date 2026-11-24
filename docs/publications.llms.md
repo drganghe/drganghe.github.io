@@ -13,7 +13,7 @@ Health and climate benefits of solar photovoltaics in Europe and the role of imp
 
 Luo, Kaifang, Yun Li, Guochao Chen, Minghao Qiu, Froylan E. Sifuentes, Hongliang Zhang\*, **Gang He**\*. 2026. [Health and climate benefits of solar photovoltaics in Europe and the role of imports](https://drganghe.github.io/posts/2026-10-nexus-climate-health-benefits-of-solar-pv-in-eu-role-of-imports/index.html). *Nexus* 3(4): 100177. doi: [10.1016/j.ynexs.2026.100177](https://doi.org/10.1016/j.ynexs.2026.100177).
 
-[ PDF](https://www.cell.com/nexus/pdf/S2950-1601(26)00060-4.pdf) [ Code](https://zenodo.org/records/23480950)
+[ PDF](https://www.cell.com/action/showPdf?pii=S2950-1601%2826%2900060-4) [ Code](https://zenodo.org/records/23480950)
 
 Coverage: Nexus [Summary](https://mp.weixin.qq.com/s/q-7SmC6PV2A60ahP6sG1Rw) \| CUNY GC [News](https://www.gc.cuny.edu/news/solar-power-prevented-13000-premature-deaths-europe-study-finds)
 

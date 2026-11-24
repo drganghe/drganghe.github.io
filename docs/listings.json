@@ -106,6 +106,7 @@
   {
     "listing": "/notes.html",
     "items": [
+      "/notes/baruch-grant-navigator.html",
       "/notes/create-policy-citations-dashboard.html",
       "/notes/generate-publications-listing.html",
       "/notes/cuny-baruch-visiting-scholar-paperwork-guide.html",
@@ -479,5 +480,9 @@
       "/posts/2023-08-joining-marxe-school-baruch-college-cuny/index.html",
       "/posts/2019-nyclcpa-testimony/index.html"
     ]
+  },
+  {
+    "listing": "/notes/baruch-grant-navigator.html",
+    "items": []
   }
 ]
