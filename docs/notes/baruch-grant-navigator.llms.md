@@ -45,10 +45,10 @@ Confirm sponsor fit and feasibility before developing the application.
 
 ### Build a shortlist
 
-1.  Write a short project abstract that names the problem, audience, approach, expected outcomes, and team. Bring it to a kickoff meeting with the Office of Sponsored Programs and Research (SPAR).
-2.  Search [Pivot](https://pivot.proquest.com/session/login) or [GrantForward](https://www.grantforward.com/index) for funding across sponsors, and [Grants.gov](https://www.grants.gov/home.html) for U.S. federal opportunities. Check Baruch and CUNY internal competitions for seed funding and pilot projects.
-3.  Save the official funding announcement and amendments. Record the deadline with time zone, eligibility, award size and period, and the sponsor contact.
-4.  Compare your project with the sponsor’s scope, review criteria, expected outputs, and available funding. Confirm your eligibility to serve as principal investigator (PI) and whether the institution faces a submission limit.
+1.  Search [Pivot](https://pivot.proquest.com/session/login) or [GrantForward](https://www.grantforward.com/index) for funding across sponsors, and [Grants.gov](https://www.grants.gov/home.html) for U.S. federal opportunities. Check Baruch and CUNY internal competitions for seed funding and pilot projects.
+2.  Identify the funding opportunity and save the official funding announcement and amendments. Record the deadline with time zone, eligibility, award size and period, and the sponsor contact.
+3.  Compare your project with the sponsor’s scope, review criteria, expected outputs, and available funding. Confirm your eligibility to serve as principal investigator (PI) and whether the institution faces a submission limit.
+4.  Write a short project abstract that names the problem, audience, approach, expected outcomes, and team. Inform the Office of Sponsored Programs and Research (SPAR) your intent to apply.
 
 [SPAR Getting Started](https://spar.baruch.cuny.edu/gettingstarted/) · [External Funding](https://spar.baruch.cuny.edu/external-funding/) · [Internal Funding](https://spar.baruch.cuny.edu/specialgrantprograms/)
 
@@ -85,7 +85,7 @@ Send SPAR the sponsor announcement and submission details early. Confirm who wil
 
 ### Route and confirm
 
-Send the signed Internal Approval Cover Sheet, required compliance materials, announcement link, final technical components, and final budget plus justification to SPAR. Arrange chair and dean signatures through the campus process. Address any review questions with SPAR and save the final submitted package, receipt, and any sponsor tracking identifier.
+Fill out the project information on [Cayuse](https://cuny.app.cayuse.com/), including required compliance materials, announcement link, final technical components, and final budget plus justification, routing chair and dean signatures through [Cayuse](https://cuny.app.cayuse.com/). Address any review questions with SPAR and save the final submitted package, receipt, and any sponsor tracking identifier.
 
 [Proposal Preparation and Submission](https://spar.baruch.cuny.edu/propprep/) · [SPAR Forms](https://spar.baruch.cuny.edu/frequently-used-docus-and-forms/) · [Set up & manage](#set-up-manage)
 
