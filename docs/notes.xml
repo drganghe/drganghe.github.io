@@ -135,8 +135,8 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </ol>
 <p><a href="https://spar.baruch.cuny.edu/postaward/" target="_blank" rel="noopener">SPAR Post-award Administration</a> · <a href="https://spar.baruch.cuny.edu/forwardfunding/" target="_blank" rel="noopener">SPAR Forward Funding</a> · <a href="https://www.rfcuny.org/RFWebsite/principal-investigators/manage-an-award/" target="_blank" rel="noopener">RFCUNY Manage an Award</a></p>
 </section>
-<section id="run-a-monthly-review" class="level3">
-<h3 class="anchored" data-anchor-id="run-a-monthly-review">Run a monthly review</h3>
+<section id="run-a-periodic-review" class="level3">
+<h3 class="anchored" data-anchor-id="run-a-periodic-review">Run a periodic review</h3>
 <ul>
 <li>Run the OneRF grant budget report and compare posted charges, obligations, and available balances with project records and planned costs.</li>
 <li>Review labor allocations, hiring and payroll activity, outstanding receipts, expense reports, subaward invoices, and cost-sharing commitments where applicable.</li>
@@ -176,7 +176,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </section>
 <section id="onerf-workflows" class="level2 preview-section">
 <h2 class="anchored" data-anchor-id="onerf-workflows">OneRF workflows</h2>
-<p>Task sequences for principal investigators and authorized grant staff using RFCUNY’s Workday and Jaggaer platform.</p>
+<p>Task sequences for principal investigators and authorized grant staff using RFCUNY’s Workday platform.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -229,7 +229,30 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 <li>For a P-Card purchase, use the P-Card reconciliation expense report workflow. Select the card transactions, code and document each charge, and submit the report. Review whether each expense was charged to the card or paid personally so it is accounted for once.</li>
 <li>Follow progress in <strong>My Expense Reports</strong> and <strong>My Spend Authorizations</strong>. Respond to returned items and track the report until it is processed.</li>
 </ol>
-<p><a href="https://www.rfcuny.org/rfwebsite/principal-investigators/coordinating-post-award-travel/submitting-reimbursement-for-post-award-travel/" target="_blank" rel="noopener">Travel Reimbursement</a> · <a href="https://www.rfcuny.org/RfWebsite/resources/one-rf-information-hub/onerf-frequently-asked-questions/p-card-questions/" target="_blank" rel="noopener">P-Cards and Expenses FAQ</a></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Commonly missed items to include in your Expense Report:</p>
+<ul>
+<li>You need submit both the <a href="https://www.rfcuny.org/RfWebsite/media/1861/rf-041-e-payment-travel-expense-voucher.pdf">travel voucher</a> and the itemized expense report on OneRf for reimbursement.<br>
+</li>
+<li>Conference badge (Take a photo of the badge to show proof of attendance).<br>
+</li>
+<li>Hotel folio (Hotel bookings are not sufficient; the folio shows the actual charges and payments).<br>
+</li>
+<li>Credit card statement.<br>
+</li>
+</ul>
+</div>
+</div>
+<p><a href="https://www.rfcuny.org/rfwebsite/principal-investigators/coordinating-post-award-travel/submitting-reimbursement-for-post-award-travel/" target="_blank" rel="noopener">Travel Reimbursement</a> · <a href="https://www.rfcuny.org/RfWebsite/resources/one-rf-information-hub/onerf-frequently-asked-questions/p-card-questions/" target="_blank" rel="noopener">P-Cards and Expenses FAQ</a> · <a href="https://www.gsa.gov/travel/per-diem-rates" target="_blank" rel="noopener">Per Dime Rates</a></p>
 </section>
 <section id="hiring" class="level3">
 <h3 class="anchored" data-anchor-id="hiring">Hiring and appointment changes</h3>

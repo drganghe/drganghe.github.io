@@ -102,7 +102,7 @@ Move from award notice to active project operations.
 
 [SPAR Post-award Administration](https://spar.baruch.cuny.edu/postaward/) · [SPAR Forward Funding](https://spar.baruch.cuny.edu/forwardfunding/) · [RFCUNY Manage an Award](https://www.rfcuny.org/RFWebsite/principal-investigators/manage-an-award/)
 
-### Run a monthly review
+### Run a periodic review
 
 - Run the OneRF grant budget report and compare posted charges, obligations, and available balances with project records and planned costs.
 - Review labor allocations, hiring and payroll activity, outstanding receipts, expense reports, subaward invoices, and cost-sharing commitments where applicable.
@@ -139,7 +139,7 @@ Finish the work, reconcile the award, and preserve the submission record.
 
 ## OneRF workflows
 
-Task sequences for principal investigators and authorized grant staff using RFCUNY’s Workday and Jaggaer platform.
+Task sequences for principal investigators and authorized grant staff using RFCUNY’s Workday platform.
 
 > **NOTE:**
 >
@@ -180,7 +180,16 @@ Task sequences for principal investigators and authorized grant staff using RFCU
 3.  For a P-Card purchase, use the P-Card reconciliation expense report workflow. Select the card transactions, code and document each charge, and submit the report. Review whether each expense was charged to the card or paid personally so it is accounted for once.
 4.  Follow progress in **My Expense Reports** and **My Spend Authorizations**. Respond to returned items and track the report until it is processed.
 
-[Travel Reimbursement](https://www.rfcuny.org/rfwebsite/principal-investigators/coordinating-post-award-travel/submitting-reimbursement-for-post-award-travel/) · [P-Cards and Expenses FAQ](https://www.rfcuny.org/RfWebsite/resources/one-rf-information-hub/onerf-frequently-asked-questions/p-card-questions/)
+> **TIP:**
+>
+> Commonly missed items to include in your Expense Report:
+>
+> - You need submit both the [travel voucher](https://www.rfcuny.org/RfWebsite/media/1861/rf-041-e-payment-travel-expense-voucher.pdf) and the itemized expense report on OneRf for reimbursement.\
+> - Conference badge (Take a photo of the badge to show proof of attendance).\
+> - Hotel folio (Hotel bookings are not sufficient; the folio shows the actual charges and payments).\
+> - Credit card statement.\
+
+[Travel Reimbursement](https://www.rfcuny.org/rfwebsite/principal-investigators/coordinating-post-award-travel/submitting-reimbursement-for-post-award-travel/) · [P-Cards and Expenses FAQ](https://www.rfcuny.org/RfWebsite/resources/one-rf-information-hub/onerf-frequently-asked-questions/p-card-questions/) · [Per Dime Rates](https://www.gsa.gov/travel/per-diem-rates)
 
 ### Hiring and appointment changes
 
