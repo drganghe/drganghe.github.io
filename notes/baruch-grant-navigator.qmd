@@ -30,41 +30,7 @@ listing:
   filter-ui: true
   sort-ui: true
   page-size: 40
-  contents:
-    - {"title": "SPAR office and staff", "path": "https://spar.baruch.cuny.edu/", "publisher": "SPAR", "phase": "All phases", "description": "Campus contacts and sponsored programs services"}
-    - {"title": "Getting Started", "path": "https://spar.baruch.cuny.edu/gettingstarted/", "publisher": "SPAR", "phase": "Find funding", "description": "Project abstract and initial consultation"}
-    - {"title": "External Funding", "path": "https://spar.baruch.cuny.edu/external-funding/", "publisher": "SPAR", "phase": "Find funding", "description": "Pivot, GrantForward and Grants.gov"}
-    - {"title": "Pivot", "path": "https://pivot.proquest.com/session/login", "publisher": "ProQuest", "phase": "Find funding", "description": "Search funding opportunities and find research collaborators (sign-in)"}
-    - {"title": "GrantForward", "path": "https://www.grantforward.com/index", "publisher": "GrantForward", "phase": "Find funding", "description": "Search grants from government agencies, foundations and other sponsors"}
-    - {"title": "Grants.gov", "path": "https://www.grants.gov/home.html", "publisher": "Grants.gov", "phase": "Find funding", "description": "Find and apply for U.S. federal grants"}
-    - {"title": "Internal Funding Sources", "path": "https://spar.baruch.cuny.edu/specialgrantprograms/", "publisher": "SPAR", "phase": "Find funding", "description": "Baruch and CUNY funding opportunities"}
-    - {"title": "Research Development and Support", "path": "https://provost.baruch.cuny.edu/research-development-and-support/", "publisher": "Baruch", "phase": "Find funding; Develop & submit; Set up & manage", "description": "Compliance, research integrity and human-subjects support"}
-    - {"title": "Proposal Preparation and Submission", "path": "https://spar.baruch.cuny.edu/propprep/", "publisher": "SPAR", "phase": "Develop & submit", "description": "Internal Approval Cover Sheet and proposal support"}
-    - {"title": "Grant Proposal Submission Policy (PDF)", "path": "https://spar.baruch.cuny.edu/wp-content/uploads/sites/37/2021/02/Grant-Submission-Deadline-Policy-Final.pdf", "publisher": "SPAR", "phase": "Develop & submit", "description": "Five full business day internal deadline"}
-    - {"title": "Budget Guidance", "path": "https://spar.baruch.cuny.edu/budget/", "publisher": "SPAR", "phase": "Develop & submit", "description": "Budget templates, direct and indirect costs"}
-    - {"title": "RFCUNY Institutional Information via SPAR", "path": "https://spar.baruch.cuny.edu/rf-institutional/", "publisher": "SPAR", "phase": "Develop & submit", "description": "Applicant information and fiscal agent"}
-    - {"title": "Frequently Used Documents and Forms", "path": "https://spar.baruch.cuny.edu/frequently-used-docus-and-forms/", "publisher": "SPAR", "phase": "Develop & submit; Set up & manage", "description": "Campus forms, summer salary and reassigned time"}
-    - {"title": "Post-award Administration", "path": "https://spar.baruch.cuny.edu/postaward/", "publisher": "SPAR", "phase": "Set up & manage; Close out", "description": "Campus award support and RFCUNY coordination"}
-    - {"title": "Forward Funding", "path": "https://spar.baruch.cuny.edu/forwardfunding/", "publisher": "SPAR", "phase": "Set up & manage", "description": "Request process for early access to funds"}
-    - {"title": "Manage an Award", "path": "https://www.rfcuny.org/RFWebsite/principal-investigators/manage-an-award/", "publisher": "RFCUNY", "phase": "Set up & manage; Close out", "description": "Post-award procedures and investigator guidance"}
-    - {"title": "OneRF sign-in", "path": "https://wd108.myworkday.com/rfcuny/d/home.htmld", "publisher": "RFCUNY", "phase": "Set up & manage; Close out", "description": "Workday grant transactions and reports (sign-in)"}
-    - {"title": "OneRF Information Hub", "path": "https://www.rfcuny.org/RfWebsite/resources/one-rf-information-hub/", "publisher": "RFCUNY", "phase": "Set up & manage; Close out", "description": "System reference, updates and help"}
-    - {"title": "OneRF Training Resources", "path": "https://www.rfcuny.org/RfWebsite/training/training-resources/", "publisher": "RFCUNY", "phase": "Set up & manage; Close out", "description": "Step-by-step job aids (sign-in)"}
-    - {"title": "OneRF training recordings", "path": "https://www.rfcuny.org/RfWebsite/about/announcements/view-onerf-training/", "publisher": "RFCUNY", "phase": "Set up & manage; Close out", "description": "Recorded demonstrations for reports, expenses, hiring and more"}
-    - {"title": "System Access and Grant Role Assignments", "path": "https://www.rfcuny.org/rfwebsite/principal-investigators/system-access-and-grant-role-assignments/", "publisher": "RFCUNY", "phase": "Set up & manage", "description": "New users, PI, authorized signatory, timekeeper, preparer and report viewer"}
-    - {"title": "OneRF Role Access Matrix (PDF)", "path": "https://www.rfcuny.org/rfwebsite/media/xtulmh4a/ops_onerf_roles_access_matrix.pdf", "publisher": "RFCUNY", "phase": "Set up & manage", "description": "Business process initiation, routing and approvals"}
-    - {"title": "OneRF Report Dashboard", "path": "https://www.rfcuny.org/rfwebsite/resources/one-rf-information-hub/onerf-report-dashboard/", "publisher": "RFCUNY", "phase": "Set up & manage; Close out", "description": "Budget, actuals, obligations and project reports"}
-    - {"title": "Grants, Contracts and Reporting FAQ", "path": "https://www.rfcuny.org/rfwebsite/resources/one-rf-information-hub/onerf-frequently-asked-questions/grants-contracts-and-reporting-questions/", "publisher": "RFCUNY", "phase": "Set up & manage; Close out", "description": "Expenditure drilldowns and encumbrance tracking"}
-    - {"title": "Procurement FAQ", "path": "https://www.rfcuny.org/rfwebsite/resources/one-rf-information-hub/onerf-frequently-asked-questions/procurement-questions/", "publisher": "RFCUNY", "phase": "Set up & manage", "description": "Jaggaer, non-catalog requisitions, receipts and invoices"}
-    - {"title": "P-Cards and Expenses FAQ", "path": "https://www.rfcuny.org/RfWebsite/resources/one-rf-information-hub/onerf-frequently-asked-questions/p-card-questions/", "publisher": "RFCUNY", "phase": "Set up & manage; Close out", "description": "Purchasing card reconciliation and expense reports"}
-    - {"title": "Post-award Travel Reimbursement", "path": "https://www.rfcuny.org/rfwebsite/principal-investigators/coordinating-post-award-travel/submitting-reimbursement-for-post-award-travel/", "publisher": "RFCUNY", "phase": "Set up & manage", "description": "Travel receipts, documentation and reimbursement"}
-    - {"title": "Hiring and Human Capital Management FAQ", "path": "https://www.rfcuny.org/rfwebsite/resources/one-rf-information-hub/onerf-frequently-asked-questions/hiring-and-human-capital-management-questions/", "publisher": "RFCUNY", "phase": "Set up & manage", "description": "Job requisitions, onboarding and extensions"}
-    - {"title": "Payroll, Timesheets and Leave FAQ", "path": "https://www.rfcuny.org/rfwebsite/resources/one-rf-information-hub/onerf-frequently-asked-questions/human-resources-payroll-time-and-leave-questions/", "publisher": "RFCUNY", "phase": "Set up & manage", "description": "Employee time entry, schedules, leave and approval"}
-    - {"title": "Effort Certification Policy", "path": "https://www.rfcuny.org/rfwebsite/resources/review-policies/policy-no-549-effort-certification/", "publisher": "RFCUNY", "phase": "Set up & manage; Close out", "description": "Faculty effort and certification responsibilities"}
-    - {"title": "Processing Staff Effort", "path": "https://www.rfcuny.org/rfwebsite/principal-investigators/manage-an-award/processing-staff-effort/", "publisher": "RFCUNY", "phase": "Set up & manage; Close out", "description": "Staff Effort Notices and semester certification"}
-    - {"title": "Subaward guidance", "path": "https://www.rfcuny.org/RfWebsite/principal-investigators/manage-an-award/understanding-amending-a-subaward/", "publisher": "RFCUNY", "phase": "Develop & submit; Set up & manage; Close out", "description": "Subaward documentation and amendments"}
-    - {"title": "Closing Out an Award", "path": "https://www.rfcuny.org/rfwebsite/principal-investigators/manage-an-award/closing-out-an-award/", "publisher": "RFCUNY", "phase": "Close out", "description": "Final technical and financial reporting responsibilities"}
-    - {"title": "Closeout FAQs", "path": "https://www.rfcuny.org/rfwebsite/principal-investigators/manage-an-award/closing-out-an-award/closing-out-an-award-faqs/", "publisher": "RFCUNY", "phase": "Close out", "description": "Final expenses, discrepancies and extensions"}
+  contents: ../files/data/grant-resources.yml
 ---
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
@@ -280,7 +246,7 @@ Have the correct grant ID, award dates, assigned role, and source documents on h
 ::: {.callout-tip}
 Commonly missed items to include in your Expense Report:   
 
-- You need submit both the [travel voucher](https://www.rfcuny.org/RfWebsite/media/1861/rf-041-e-payment-travel-expense-voucher.pdf) and the itemized expense report on OneRf for reimbursement.   
+- You need submit both the [travel voucher](https://www.rfcuny.org/RfWebsite/media/1861/rf-041-e-payment-travel-expense-voucher.pdf) and the itemized expense report on OneRF for reimbursement.   
 - Conference badge (Take a photo of the badge to show proof of attendance).   
 - Hotel folio (Hotel bookings are not sufficient; the folio shows the actual charges and payments).   
 - Credit card statement.  

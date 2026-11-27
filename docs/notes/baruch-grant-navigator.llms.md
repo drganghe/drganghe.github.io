@@ -184,7 +184,7 @@ Task sequences for principal investigators and authorized grant staff using RFCU
 >
 > Commonly missed items to include in your Expense Report:
 >
-> - You need submit both the [travel voucher](https://www.rfcuny.org/RfWebsite/media/1861/rf-041-e-payment-travel-expense-voucher.pdf) and the itemized expense report on OneRf for reimbursement.\
+> - You need submit both the [travel voucher](https://www.rfcuny.org/RfWebsite/media/1861/rf-041-e-payment-travel-expense-voucher.pdf) and the itemized expense report on OneRF for reimbursement.\
 > - Conference badge (Take a photo of the badge to show proof of attendance).\
 > - Hotel folio (Hotel bookings are not sufficient; the folio shows the actual charges and payments).\
 > - Credit card statement.\
